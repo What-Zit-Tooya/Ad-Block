@@ -44,3 +44,7 @@
 ||onesignal.com^
 ||www.facebook.com^$app=com.stream.drakorindoawet
 ||graph.facebook.com^$app=com.stream.drakorindoawet
+
+[WhatsApp Messenger: com.whatsapp]
+[WhatsApp Business: com.whatsapp.w4b]
+||privatestats.whatsapp.net^
