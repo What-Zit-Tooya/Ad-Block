@@ -1,0 +1,34 @@
+! Title: Fuck Ads
+! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android
+! Author: exodius48
+! Updated: March 31, 2021
+! Homepage: https://github.com/exodius48/fuck-ads
+! Licence: https://github.com/exodius48/fuck-ads/raw/main/LICENSE
+
+[ShareIt: com.lenovo.anyshare.gps]
+||pullcm.com^
+||beyla.site^
+||infeng.site^
+||launches.appsflyer.com^$app=com.lenovo.anyshare.gps
+||wshareit.com^
+||web.facebook.com^$app=com.lenovo.anyshare.gps
+||hellay.net^
+||usicdn.com^
+||cloudfront.net^$app=com.lenovo.anyshare.gps
+||ushareit.com^
+||reporttk.com^
+||shareitgames.com^
+||pullcf.com^
+||rqmob.com^
+||loopmygame.com^
+||googlesyndication.com^
+||graph.facebook.com^$app=com.lenovo.anyshare.gps
+||mopub.com^
+||doubleclick.net^
+||app-measurement.com^
+||www.facebook.com^$app=com.lenovo.anyshare.gps
+||slivee.com^
+||shareitgames.run^
+||gamecenter.run^
+||watch-it.video^
+||google-analytics.com^
