@@ -32,3 +32,8 @@
 ||gamecenter.run^
 ||watch-it.video^
 ||google-analytics.com^
+
+[Detik: org.detikcom.rss]
+||push.detik.com^
+||mobile-analytic.detik.com^
+||firebaseremoteconfig.googleapis.com^
