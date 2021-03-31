@@ -1,9 +1,11 @@
 ! Title: Fuck Ads
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android
 ! Author: exodius48
-! Updated: March 31, 2021
+! Last modified: March 31, 2021 09:19 PM (UTC+7)
+! Version: ALPHA-TESTING
 ! Homepage: https://github.com/exodius48/fuck-ads
 ! Licence: https://github.com/exodius48/fuck-ads/raw/main/LICENSE
+! Feel free to improve this filter. :)
 
 [ShareIt: com.lenovo.anyshare.gps]
 ||pullcm.com^
@@ -37,6 +39,7 @@
 ||push.detik.com^
 ||mobile-analytic.detik.com^
 ||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss
+||firebaseinstallation.googleapis.com^$app=org.detikcom.rss
 
 [Drakor.ID: com.stream.drakorindoawet]
 ||applovin.com^
@@ -48,3 +51,37 @@
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
 ||privatestats.whatsapp.net^
+
+[ShareMe: com.xiaomi.midrop]
+||firebaseinstallation.googleapis.com^$app=com.xiaomi.midrop
+||firebase-settings.crashlytics.com^
+
+[PeduliLindungi: com.telkom.tracencare]
+||firebaseremoteconfig.googleapis.com^$app=com.telkom.tracencare
+||api.pedulilindungi.id^
+||clients4.google.com^$app=com.telkom.tracencare
+
+[HAGO: com.yy.hiyo]
+||global-yypushsdk.yy.com^
+||firebaseinstallation.googleapis.com^$app=com.yy.hiyo
+||push-link.yy.com^
+||push-api.yy.com^
+||kaixindou.kaixindou.net
+
+[AOL - News, Mail & Video: com.aol.mobile.aolapp]
+||exeptions.mobile.yahoo.com^
+||guce.oath.com^
+||by.uservoice.com^
+
+[HUAWEI PHONE: Block analytic, ads, and more]
+||ccpce-sg.consumer.huawei.com^
+||metrics-dra.dt.hicloud.com^
+||poster-dra.dbankcdn.com^
+||store2.hispace.hicloud.com^
+||grs.dbankcloud.com^
+||static1.dmcdn.net^
+||hwid-dra.platform.hicloud.com^
+||api.cloud.huawei.com^
+||service-sg.hwccpc.com^
+||vod-vrz-dra.dbankcdn.com^
+||campaign-dra.jos.hicloud.com^
