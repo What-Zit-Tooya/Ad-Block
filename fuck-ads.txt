@@ -42,5 +42,4 @@
 ||applovin.com^
 ||web.facebook.com^$app=com.stream.drakorindoawet
 ||onesignal.com^
-||blogspot.com^$app=com.stream.drakorindoawet
 ||www.facebook.com^$app=com.stream.drakorindoawet
