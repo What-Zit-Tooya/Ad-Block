@@ -36,4 +36,7 @@
 [Detik: org.detikcom.rss]
 ||push.detik.com^
 ||mobile-analytic.detik.com^
-||firebaseremoteconfig.googleapis.com^
+||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss
+
+[Drakor.ID: com.stream.drakorindoawet]
+||
