@@ -34,6 +34,13 @@
 ||gamecenter.run^
 ||watch-it.video^
 ||google-analytics.com^
+||api.facebook.com^$app=com.lenovo.anyshare.gps
+||star.c10r.facebook.com^$app=com.lenovo.anyshare.gps
+||static.rqmob.com.w.kunlunsl.com^
+||cdn.ushareit.com.w.kunlunsl.com^
+||shareit-push-cdn.wshareit.com.w.kunlunsl.com^
+||push-video.wshareit.com^
+||fgeh.overseavideo.sched.apdcdn.com^
 
 [Detik: org.detikcom.rss]
 ||push.detik.com^
@@ -62,6 +69,11 @@
 ||push-link.yy.com^
 ||push-api.yy.com^
 ||kaixindou.kaixindou.net
+||httpdns.gslb.yy.com^
+||crash-reporting.yy.com^
+||iab.yy.com^
+||o-gl-id.ihago.net^
+||o-gl-static.ihago.net^
 
 [AOL - News, Mail & Video: com.aol.mobile.aolapp]
 ||exeptions.mobile.yahoo.com^
@@ -80,3 +92,4 @@
 ||service-sg.hwccpc.com^
 ||vod-vrz-dra.dbankcdn.com^
 ||campaign-dra.jos.hicloud.com^
+||sdkserver-dra.op.hicloud.com^
