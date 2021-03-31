@@ -39,4 +39,8 @@
 ||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss
 
 [Drakor.ID: com.stream.drakorindoawet]
-||
+||applovin.com^
+||web.facebook.com^$com.stream.drakorindoawet
+||onesignal.com^
+||wincamp.web.id^
+||blogspot.com^$com.stream.drakorindoawet
