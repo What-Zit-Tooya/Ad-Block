@@ -9,7 +9,7 @@
 ||pullcm.com^
 ||beyla.site^
 ||infeng.site^
-||launches.appsflyer.com^$app=com.lenovo.anyshare.gps
+||launches.appsflyer.com^$app=com.lenovo.anyshare.gps,important
 ||wshareit.com^
 ||web.facebook.com^$app=com.lenovo.anyshare.gps
 ||hellay.net^
