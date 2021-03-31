@@ -43,5 +43,4 @@
 ||web.facebook.com^$app=com.stream.drakorindoawet
 ||onesignal.com^
 ||wincamp.web.id^
-||blogspot.com^$app=com.stream.drakorindoawet
 ||www.facebook.com^$app=com.stream.drakorindoawet
