@@ -43,3 +43,4 @@
 ||web.facebook.com^$app=com.stream.drakorindoawet
 ||onesignal.com^
 ||www.facebook.com^$app=com.stream.drakorindoawet
+||graph.facebook.com^$app=com.stream.drakorindoawet
