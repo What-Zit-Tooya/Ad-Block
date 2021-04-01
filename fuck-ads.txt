@@ -87,6 +87,10 @@
 ||iab.yy.com^
 ||o-gl-id.ihago.net^
 ||o-gl-static.ihago.net^
+||kaixindou.net^
+||i-863.ihago.net^
+||o-id.ihago.net^
+||i.ihago.net^
 
 [AOL - News, Mail & Video: com.aol.mobile.aolapp]
 ||exeptions.mobile.yahoo.com^
