@@ -95,9 +95,12 @@
 ||i.ihago.net^
 
 [AOL - News, Mail & Video: com.aol.mobile.aolapp]
-||exeptions.mobile.yahoo.com^
+[Yahoo Mail: com.yahoo.mobile.client.android.mail]
+||exceptions.mobile.yahoo.com^
 ||guce.oath.com^
 ||by.uservoice.com^
+||scorecardresearch.com^
+||smarttv-smartinfo.manhattan.yahoo.com^
 
 [HUAWEI PHONE: Block analytic, ads, and more]
 ||ccpce-sg.consumer.huawei.com^
