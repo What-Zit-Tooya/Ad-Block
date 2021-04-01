@@ -100,6 +100,7 @@
 [HAGO: com.yy.hiyo]
 ||global-yypushsdk.yy.com^
 ||firebaseinstallation.googleapis.com^$app=com.yy.hiyo
+||firebaseremoteconfig.googleapis.com^$app=com.yy.hiyo
 ||push-link.yy.com^
 ||reinforce.security.yy.com^
 ||push-api.yy.com^
