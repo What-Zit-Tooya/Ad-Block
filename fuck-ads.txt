@@ -103,6 +103,5 @@
 ||api.cloud.huawei.com^
 ||service-sg.hwccpc.com^
 ||vod-vrz-dra.dbankcdn.com^
-||campaign-dra.jos.hicloud.com^
 ||sdkserver-dra.op.hicloud.com^
 ||logbak.hicloud.com^
