@@ -7,6 +7,13 @@
 ! Licence: https://github.com/exodius48/fuck-ads/raw/main/LICENSE
 ! Feel free to improve this filter. :)
 
+[UNIVERSAL]
+||doubleclick.net^
+||googlesyndication.com^
+||app-measurement.com^
+||scorecardresearch.com^
+||googletmanager.com^
+
 [ShareIt: com.lenovo.anyshare.gps]
 ||pullcm.com^
 ||beyla.site^
@@ -23,11 +30,8 @@
 ||pullcf.com^
 ||rqmob.com^
 ||loopmygame.com^
-||googlesyndication.com^
 ||graph.facebook.com^$app=com.lenovo.anyshare.gps
 ||mopub.com^
-||doubleclick.net^
-||app-measurement.com^
 ||www.facebook.com^$app=com.lenovo.anyshare.gps
 ||slivee.com^
 ||shareitgames.run^
@@ -56,7 +60,13 @@
 ||kunlunsl.com^
 
 [Detik: org.detikcom.rss]
+# BEGIN Detik Video 
+||vod.detik.com^
+# END Detik Video
 ||push.detik.com^
+||android.detik.com^
+||kayumanis.detik.com^
+||newrevive.detik.com^
 ||mobile-analytic.detik.com^
 ||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss
 ||firebaseinstallation.googleapis.com^$app=org.detikcom.rss
@@ -103,17 +113,13 @@
 ||exceptions.mobile.yahoo.com^
 ||guce.oath.com^
 ||by.uservoice.com^
-||scorecardresearch.com^
 ||smarttv-smartinfo.manhattan.yahoo.com^
 
 [HUAWEI PHONE: Block analytic, ads, and more]
 ||ccpce-sg.consumer.huawei.com^
-||metrics-dra.dt.hicloud.com^
 ||poster-dra.dbankcdn.com^
 ||grs.dbankcloud.com^
 ||static1.dmcdn.net^
-||hwid-dra.platform.hicloud.com^
-||api.cloud.huawei.com^
 ||service-sg.hwccpc.com^
 ||vod-vrz-dra.dbankcdn.com^
 ||sdkserver-dra.op.hicloud.com^
