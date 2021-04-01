@@ -41,6 +41,17 @@
 ||shareit-push-cdn.wshareit.com.w.kunlunsl.com^
 ||push-video.wshareit.com^
 ||fgeh.overseavideo.sched.apdcdn.com^
+||vs.wshareit.com.asia-abroad.com^
+||v262.dl.abroad.asia-abroad.com^
+||vs.wshareit.com.b.galileo.jcloud-cdn.com^
+||vs.wshareit.com.cdn.jcloudcdn.com^
+||jcloudcdn.com^
+||jcloud-cdn.com^
+||asia-abroad.com^
+||cdn.chinatelecom.net.c.footprint.net^
+||footprint.net^
+||chinatelecom.net^
+||kunlunsl.com^
 
 [Detik: org.detikcom.rss]
 ||push.detik.com^
@@ -93,3 +104,4 @@
 ||vod-vrz-dra.dbankcdn.com^
 ||campaign-dra.jos.hicloud.com^
 ||sdkserver-dra.op.hicloud.com^
+||logbak.hicloud.com^
