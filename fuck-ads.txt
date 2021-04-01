@@ -80,6 +80,7 @@
 ||global-yypushsdk.yy.com^
 ||firebaseinstallation.googleapis.com^$app=com.yy.hiyo
 ||push-link.yy.com^
+||reinforce.security.yy.com^
 ||push-api.yy.com^
 ||kaixindou.kaixindou.net
 ||httpdns.gslb.yy.com^
@@ -89,6 +90,7 @@
 ||o-gl-static.ihago.net^
 ||kaixindou.net^
 ||i-863.ihago.net^
+||i-proxy-863.ihago.net^
 ||o-id.ihago.net^
 ||i.ihago.net^
 
