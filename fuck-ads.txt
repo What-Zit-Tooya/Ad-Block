@@ -60,7 +60,7 @@
 ||kunlunsl.com^
 
 [Detik: org.detikcom.rss]
-# BEGIN Detik Video 
+# BEGIN Detik Video. Unblock this if you want to see Video on Detik!
 ||vod.detik.com^
 # END Detik Video
 ||push.detik.com^
