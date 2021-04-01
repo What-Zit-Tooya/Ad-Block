@@ -98,9 +98,8 @@
 ||firebaseinstallation.googleapis.com^$app=com.xiaomi.midrop
 
 [PeduliLindungi: com.telkom.tracencare]
-||firebaseremoteconfig.googleapis.com^$app=com.telkom.tracencare
 # Begin Tracking: Block this if you don't want to be tracked
-@@||csi.gstatic.com^$app=com.telkom.tracencare,important
+@@||csi.gstatic.com^$third-party,app=com.telkom.tracencare,important
 # End Tracking
 
 [HAGO: com.yy.hiyo]
