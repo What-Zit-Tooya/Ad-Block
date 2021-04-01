@@ -45,6 +45,8 @@
 ||v262.dl.abroad.asia-abroad.com^
 ||vs.wshareit.com.b.galileo.jcloud-cdn.com^
 ||vs.wshareit.com.cdn.jcloudcdn.com^
+||cdn2.gamecenter.run.cdn.dnsv1.com^
+||gjqvujjc.tweb.sched.ovscdns.com^
 ||jcloudcdn.com^
 ||jcloud-cdn.com^
 ||asia-abroad.com^
