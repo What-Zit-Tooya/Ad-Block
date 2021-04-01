@@ -83,8 +83,10 @@
 
 [Drakor.ID: com.stream.drakorindoawet]
 ||applovin.com^
+||cdn-2.tstatic.net^
 ||web.facebook.com^$app=com.stream.drakorindoawet
 ||onesignal.com^
+||api.onesignal.com^
 ||www.facebook.com^$app=com.stream.drakorindoawet
 ||graph.facebook.com^$app=com.stream.drakorindoawet
 
