@@ -69,6 +69,7 @@
 ||mobile-analytic.detik.com^
 ||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss
 ||firebaseinstallation.googleapis.com^$app=org.detikcom.rss
+||2mdn.net^
 
 [Drakor.ID: com.stream.drakorindoawet]
 ||applovin.com^
