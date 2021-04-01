@@ -94,6 +94,9 @@
 ||o-id.ihago.net^
 ||i.ihago.net^
 ||hiido.com^
+||ylog.hiido.com^
+||hlog.hiido.com^
+||mlog.hiido.com^
 
 [AOL - News, Mail & Video: com.aol.mobile.aolapp]
 [Yahoo Mail: com.yahoo.mobile.client.android.mail]
