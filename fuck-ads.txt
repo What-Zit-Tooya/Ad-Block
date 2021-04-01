@@ -1,7 +1,7 @@
 ! Title: Fuck Ads
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android.
 ! Author: exodius48
-! Last modified: April 1, 2021 10:20 AM (UTC+7)
+! Last modified: April 1, 2021 11:10 AM (UTC+7)
 ! Version: ALPHA-TESTING
 ! Homepage: https://github.com/exodius48/fuck-ads
 ! Licence: https://github.com/exodius48/fuck-ads/raw/main/LICENSE
@@ -96,6 +96,12 @@
 
 [ShareMe: com.xiaomi.midrop]
 ||firebaseinstallation.googleapis.com^$app=com.xiaomi.midrop
+
+[PeduliLindungi: com.telkom.tracencare]
+||firebaseremoteconfig.googleapis.com^$app=com.telkom.tracencare
+# Begin Tracking: Block this if you don't want to be tracked
+@@||csi.gstatic.com^$app=com.telkom.tracencare
+# End Tracking
 
 [HAGO: com.yy.hiyo]
 ||global-yypushsdk.yy.com^
