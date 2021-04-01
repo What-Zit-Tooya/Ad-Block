@@ -97,7 +97,6 @@
 ||ccpce-sg.consumer.huawei.com^
 ||metrics-dra.dt.hicloud.com^
 ||poster-dra.dbankcdn.com^
-||store2.hispace.hicloud.com^
 ||grs.dbankcloud.com^
 ||static1.dmcdn.net^
 ||hwid-dra.platform.hicloud.com^
