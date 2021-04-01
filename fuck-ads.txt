@@ -116,7 +116,6 @@
 ||smarttv-smartinfo.manhattan.yahoo.com^
 
 [HUAWEI PHONE: Block analytic, ads, and more]
-||ccpce-sg.consumer.huawei.com^
 ||poster-dra.dbankcdn.com^
 ||grs.dbankcloud.com^
 ||static1.dmcdn.net^
@@ -124,3 +123,4 @@
 ||vod-vrz-dra.dbankcdn.com^
 ||sdkserver-dra.op.hicloud.com^
 ||logbak.hicloud.com^
+||browserr-dra.dbankcdn.com^
