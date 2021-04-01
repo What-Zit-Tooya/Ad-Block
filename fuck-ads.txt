@@ -16,7 +16,8 @@
 ||firebase-settings.crashlytics.com^
 ||googletagmanager.com^
 
-[ShareIt: com.lenovo.anyshare.gps]
+[SHAREit: com.lenovo.anyshare.gps]
+### Block NSFW and Fuc*king video ads. Blame ShareIt devs ###
 ||pullcm.com^
 ||beyla.site^
 ||infeng.site^
@@ -62,9 +63,9 @@
 ||kunlunsl.com^
 
 [Detik: org.detikcom.rss]
-# BEGIN Detik Video. Unblock this if you want to see Video on Detik!
+### BEGIN Detik Video. Unblock this if you want to see Video on Detik! ###
 ||vod.detik.com^
-# END Detik Video
+### END Detik Video ###
 ||push.detik.com^
 ||kayumanis.detik.com^
 ||newrevive.detik.com^
@@ -97,11 +98,6 @@
 [ShareMe: com.xiaomi.midrop]
 ||firebaseinstallation.googleapis.com^$app=com.xiaomi.midrop
 
-[PeduliLindungi: com.telkom.tracencare]
-# Begin Tracking: Block this if you don't want to be tracked
-@@||csi.gstatic.com^$third-party,app=com.telkom.tracencare,important
-# End Tracking
-
 [HAGO: com.yy.hiyo]
 ||global-yypushsdk.yy.com^
 ||firebaseinstallation.googleapis.com^$app=com.yy.hiyo
@@ -131,7 +127,7 @@
 ||by.uservoice.com^
 ||smarttv-smartinfo.manhattan.yahoo.com^
 
-[HUAWEI PHONE: Block analytic, ads, and more]
+[HUAWEI PHONE]
 ||poster-dra.dbankcdn.com^
 ||grs.dbankcloud.com^
 ||static1.dmcdn.net^
@@ -140,3 +136,18 @@
 ||sdkserver-dra.op.hicloud.com^
 ||logbak.hicloud.com^
 ||browserr-dra.dbankcdn.com^
+
+[XIAOMI PHONE]
+### I don't have (yet) Xiaomi device, please test throughly ###
+||resolver.msg.global.xiaomi.net^
+||resolver.msg.xiaomi.net^
+||web-analytics-sg.huami.com^
+||app-analytics-sg.huami.com^
+||api.ad.intl.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||tracking.intl.miui.com^
+||msg.global.xiaomi.net^
+||ad.xiaomi.com^
+||api.admob.xiaomi.com^
