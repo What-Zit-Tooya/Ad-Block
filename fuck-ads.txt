@@ -92,12 +92,15 @@
 ||location.services.mozilla.com^
 
 [Opera Mini:com.opera.mini.native]
+[Opera Browser: com.opera.browser]
+[Opera Touch: com.opera.touch]
 ||operamini-sub.osp.opera.software^
 ||api-a.op-mobile.opera.com^
 ||t-odx.op-mobile.opera.com^
 ### BEGIN Block News ###
 ||cdn-af.op-mobile.opera.com^
 ||news-id.feednews.com^
+||discover.operacdn.com^
 ### END Block News ###
 ||launches.appsflyer.com^$app=com.opera.mini.native,important
 ||launches.appsflyer.com^$app=com.opera.touch,important
@@ -105,6 +108,9 @@
 ||web.facebook.com^$app=com.opera.mini.native
 ||www.facebook.com^$app=com.opera.mini.native
 ||pns-sdk.opera-api.com^
+||api.recsys.opera.com^
+||api.sec-tunnel.com^
+||ofa-sub.osp.opera.software^
 ||clients1.google.com$app=com.opera.mini.native
 
 [Drakor.ID: com.stream.drakorindoawet]
