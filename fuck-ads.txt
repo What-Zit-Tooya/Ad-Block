@@ -1,7 +1,7 @@
 ! Title: Fuck Ads
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android.
 ! Author: exodius48
-! Last modified: April 1, 2021 12:00 PM (UTC+7)
+! Last modified: April 2, 2021 12:00 PM (UTC+7)
 ! Version: ALPHA-TESTING
 ! Homepage: https://github.com/exodius48/fuck-ads
 ! License: https://github.com/exodius48/fuck-ads/raw/main/LICENSE
