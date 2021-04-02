@@ -160,7 +160,6 @@
 ||event.dbankcdn.com^
 ||alicdn.com^
 ||syncdrive-dra.cloud.dbankcloud.com^
-||pimenc-dra.cloud.hicloud.com^
 ||quota-dra.platform.hicloud.com^
 ||configdownload-dra.dbankcdn.com^
 ||conf-dra.cloud.hicloud.com^
