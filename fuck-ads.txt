@@ -1,14 +1,16 @@
 ! Title: Fuck Ads
-! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android.
+! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. Feel free to improve this filter. :)
 ! Author: exodius48
 ! Last modified: April 2, 2021 12:00 PM (UTC+7)
 ! Version: ALPHA-TESTING
 ! Homepage: https://github.com/exodius48/fuck-ads
+! Issues: https://github.com/exodius48/fuck-ads/issues
 ! License: https://github.com/exodius48/fuck-ads/raw/main/LICENSE
-! Feel free to improve this filter. :)
 
 [UNIVERSAL]
+||appsflyer.com^
 ||doubleclick.net^
+||flurry.com^
 ||googlesyndication.com^
 ||google-analytics.com^
 ||app-measurement.com^
@@ -17,6 +19,7 @@
 ||firebase-settings.crashlytics.com^
 ||googletagmanager.com^
 ||b-graph.facebook.com^
+||b-graph.instagram.com^
 
 [SHAREit: com.lenovo.anyshare.gps]
 ### Block NSFW and Fuc*king video ads. Blame ShareIt devs ###
@@ -89,9 +92,17 @@
 
 [Opera Mini:com.opera.mini.native]
 ||operamini-sub.osp.opera.software^
-||news-id.feednews.com^
 ||api-a.op-mobile.opera.com^
 ||t-odx.op-mobile.opera.com^
+### BEGIN Block News ###
+||cdn-af.op-mobile.opera.com^
+||news-id.feednews.com^
+### END Block News ###
+||launches.appsflyer.com^$app=com.opera.mini.native,important
+||web.facebook.com^$app=com.opera.mini.native
+||www.facebook.com^$app=com.opera.mini.native
+||pns-sdk.opera-api.com^
+||clients1.google.com$app=com.opera.mini.native
 
 [Drakor.ID: com.stream.drakorindoawet]
 ||applovin.com^
