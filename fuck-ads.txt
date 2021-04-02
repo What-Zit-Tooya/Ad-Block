@@ -158,6 +158,16 @@
 ||grs.dbankcloud.cn^
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.eu^
+||event.dbankcdn.com^
+||alicdn.com^
+||syncdrive-dra.cloud.dbankcloud.com^
+||pimenc-dra.cloud.hicloud.com^
+||quota-dra.platform.hicloud.com^
+||configdownload-dra.dbankcdn.com^
+||conf-dra.cloud.hicloud.com^
+||configserver-dra.platform.hicloud.com^
+||business-dra.cloud.hicloud.com^
+||hwid-dra.platform.hicloud.com^
 
 [XIAOMI PHONE]
 ### I don't have (yet) Xiaomi device, please test throughly ###
