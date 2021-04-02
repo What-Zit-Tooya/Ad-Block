@@ -152,7 +152,6 @@
 ||browserr-dra.dbankcdn.com^
 ||appdl2.dbankcdn.com^
 ||metrics-dra.dt.hicloud.com^
-||cbsenc-dra.cloud.hicloud.com^
 ||dnkeeper.hicloud.com^
 ||grs.dbankcloud.cn^
 ||grs.dbankcloud.asia^
@@ -160,7 +159,6 @@
 ||event.dbankcdn.com^
 ||alicdn.com^
 ||syncdrive-dra.cloud.dbankcloud.com^
-||quota-dra.platform.hicloud.com^
 ||configdownload-dra.dbankcdn.com^
 ||conf-dra.cloud.hicloud.com^
 ||configserver-dra.platform.hicloud.com^
