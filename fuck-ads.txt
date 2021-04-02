@@ -87,6 +87,12 @@
 ||incoming.telemetry.mozilla.org^
 ||location.services.mozilla.com^
 
+[Opera Mini:com.opera.mini.native]
+||operamini-sub.osp.opera.software^
+||news-id.feednews.com^
+||api-a.op-mobile.opera.com^
+||t-odx.op-mobile.opera.com^
+
 [Drakor.ID: com.stream.drakorindoawet]
 ||applovin.com^
 ||cdn-2.tstatic.net^
