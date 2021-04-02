@@ -1,7 +1,7 @@
 ! Title: Fuck Ads
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: exodius48
-! Last modified: April 2, 2021 05:51 PM (UTC+7)
+! Last modified: April 2, 2021 06:00 PM (UTC+7)
 ! Version: ALPHA-TESTING
 ! Homepage: https://github.com/exodius48/fuck-ads
 ! Issues: https://github.com/exodius48/fuck-ads/issues
@@ -106,7 +106,11 @@
 ||launches.appsflyer.com^$app=com.opera.touch,important
 ||launches.appsflyer.com^$app=com.opera.browser,important
 ||web.facebook.com^$app=com.opera.mini.native
+||web.facebook.com^$app=com.opera.touch
+||web.facebook.com^$app=com.opera.browser
 ||www.facebook.com^$app=com.opera.mini.native
+||www.facebook.com^$app=com.opera.touch
+||www.facebook.com^$app=com.opera.browser
 ||pns-sdk.opera-api.com^
 ||api.recsys.opera.com^
 ||api.sec-tunnel.com^
