@@ -1,7 +1,7 @@
 ! Title: Fuck Ads
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android.
 ! Author: exodius48
-! Last modified: April 1, 2021 09:30 AM (UTC+7)
+! Last modified: April 1, 2021 10:15 AM (UTC+7)
 ! Version: ALPHA-TESTING
 ! Homepage: https://github.com/exodius48/fuck-ads
 ! Licence: https://github.com/exodius48/fuck-ads/raw/main/LICENSE
@@ -154,8 +154,10 @@
 ||metrics-dra.dt.hicloud.com^
 ||cbsenc-dra.cloud.hicloud.com^
 ||userk-dra.cloud.hicloud.com^
-||grs.dbankcloud.cn^
 ||dnkeeper.hicloud.com^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.eu^
 
 [XIAOMI PHONE]
 ### I don't have (yet) Xiaomi device, please test throughly ###
