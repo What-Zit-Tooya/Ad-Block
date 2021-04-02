@@ -10,11 +10,13 @@
 [UNIVERSAL]
 ||doubleclick.net^
 ||googlesyndication.com^
+||google-analytics.com^
 ||app-measurement.com^
 ||scorecardresearch.com^
 ||googletmanager.com^
 ||firebase-settings.crashlytics.com^
 ||googletagmanager.com^
+||b-graph.facebook.com^
 
 [SHAREit: com.lenovo.anyshare.gps]
 ### Block NSFW and Fuc*king video ads. Blame ShareIt devs ###
@@ -40,7 +42,6 @@
 ||shareitgames.run^
 ||gamecenter.run^
 ||watch-it.video^
-||google-analytics.com^
 ||api.facebook.com^$app=com.lenovo.anyshare.gps
 ||star.c10r.facebook.com^$app=com.lenovo.anyshare.gps
 ||static.rqmob.com.w.kunlunsl.com^
@@ -81,6 +82,10 @@
 [jatimnow.com: app.jatimnow.com]
 ||firebaseremoteconfig.googleapis.com^$app=app.jatimnow.com
 ||firebaseinstallation.googleapis.com^$app=app.jatimnow.com
+
+[Mozilla's Apps]
+||incoming.telemetry.mozilla.org^
+||location.services.mozilla.com^
 
 [Drakor.ID: com.stream.drakorindoawet]
 ||applovin.com^
@@ -145,6 +150,10 @@
 ||sdkserver-dra.op.hicloud.com^
 ||logbak.hicloud.com^
 ||browserr-dra.dbankcdn.com^
+||appdl2.dbankcdn.com^
+||metrics-dra.dt.hicloud.com^
+||cbsenc-dra.cloud.hicloud.com^
+||userk-dra.cloud.hicloud.com^
 
 [XIAOMI PHONE]
 ### I don't have (yet) Xiaomi device, please test throughly ###
