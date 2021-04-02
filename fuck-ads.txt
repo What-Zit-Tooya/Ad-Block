@@ -153,7 +153,6 @@
 ||appdl2.dbankcdn.com^
 ||metrics-dra.dt.hicloud.com^
 ||cbsenc-dra.cloud.hicloud.com^
-||userk-dra.cloud.hicloud.com^
 ||dnkeeper.hicloud.com^
 ||grs.dbankcloud.cn^
 ||grs.dbankcloud.asia^
