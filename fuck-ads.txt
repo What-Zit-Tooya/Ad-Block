@@ -147,11 +147,9 @@
 ||static1.dmcdn.net^
 ||service-sg.hwccpc.com^
 ||vod-vrz-dra.dbankcdn.com^
-||sdkserver-dra.op.hicloud.com^
 ||logbak.hicloud.com^
 ||browserr-dra.dbankcdn.com^
 ||appdl2.dbankcdn.com^
-||dnkeeper.hicloud.com^
 ||grs.dbankcloud.cn^
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.eu^
@@ -159,9 +157,6 @@
 ||alicdn.com^
 ||syncdrive-dra.cloud.dbankcloud.com^
 ||configdownload-dra.dbankcdn.com^
-||conf-dra.cloud.hicloud.com^
-||configserver-dra.platform.hicloud.com^
-||business-dra.cloud.hicloud.com^
 
 [XIAOMI PHONE]
 ### I don't have (yet) Xiaomi device, please test throughly ###
@@ -170,10 +165,24 @@
 ||web-analytics-sg.huami.com^
 ||app-analytics-sg.huami.com^
 ||api.ad.intl.xiaomi.com^
+||api.ad.xiaomi.com^
+||api.admob.xiaomi.com^
+||cdn.ad.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.us.xiaomi.com^
+||data.sec.miui.com^
+||e.ad.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||tracking.intl.miui.com^
 ||msg.global.xiaomi.net^
 ||ad.xiaomi.com^
-||api.admob.xiaomi.com^
+||a.stat.xiaomi.com^
+||abtest.mistat.intl.xiaomi.com^
+||abtest.mistat.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||log.ad.xiaomi.com^
+||test.ad.xiaomi.com^
+||test.e.ad.xiaomi.com^
