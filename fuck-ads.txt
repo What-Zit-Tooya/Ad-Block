@@ -1,7 +1,7 @@
 ! Title: Fuck Ads
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: exodius48
-! Last modified: April 2, 2021 06:10 PM (UTC+7)
+! Last modified: April 3, 2021 10:10 AM (UTC+7)
 ! Version: ALPHA-TESTING
 ! Homepage: https://github.com/exodius48/fuck-ads
 ! Issues: https://github.com/exodius48/fuck-ads/issues
@@ -12,6 +12,7 @@
 ||doubleclick.net^
 ||flurry.com^
 ||googlesyndication.com^
+||pagead2.googlesyndication.com^
 ||google-analytics.com^
 ||app-measurement.com^
 ||scorecardresearch.com^
@@ -19,7 +20,11 @@
 ||firebase-settings.crashlytics.com^
 ||googletagmanager.com^
 ||b-graph.facebook.com^
+@@||b-graph.facebook.com^$app=com.facebook.katana
+@@||b-graph.facebook.com^$app=com.facebook.orca
+@@||b-graph.facebook.com^$app=com.instagram.android
 ||b-graph.instagram.com^
+@@||b-graph.instagram.com^$app=com.instagram.android
 ||firebaselogging-pa.googleapis.com^
 
 [SHAREit: com.lenovo.anyshare.gps]
@@ -68,15 +73,20 @@
 ||kunlunsl.com^
 
 [Detik: org.detikcom.rss]
-### BEGIN Detik Video. Unblock this if you want to see Video on Detik! ###
+[CNN Indonesia: com.cnn.indonesia]
+### BEGIN Detik & CNN Video. Unblock this if you want to see Video on Detik! ###
 ||vod.detik.com^
-### END Detik Video ###
+||vod.cnnindonesia.com^
+### END Detik & CNN Video ###
 ||push.detik.com^
 ||kayumanis.detik.com^
 ||newrevive.detik.com^
 ||mobile-analytic.detik.com^
+||cdnstatic.detik.com^
 ||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss
 ||firebaseinstallation.googleapis.com^$app=org.detikcom.rss
+||firebaseremoteconfig.googleapis.com^$app=com.cnn.indonesia
+||firebaseinstallation.googleapis.com^$app=com.cnn.indonesia
 ||2mdn.net^
 
 [KOMPAS.com: com.ertanto.kompas.official]
