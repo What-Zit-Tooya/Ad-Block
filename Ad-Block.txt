@@ -1,7 +1,7 @@
 ! Title: Exodius's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: exodius48
-! Last modified: April 4, 2021 05:52 PM (UTC+7)
+! Last modified: April 4, 2021 05:56 PM (UTC+7)
 ! Version: 1.0.B-04/04/2021
 ! Homepage: https://github.com/exodius48/Ad-Block
 ! Issues: https://github.com/exodius48/Ad-Block/issues
@@ -148,8 +148,10 @@
 ||launches.appsflyer.com^$app=com.opera.touch,important
 ||launches.appsflyer.com^$app=com.opera.browser,important
 ||edge-star-shv-03-sin6.facebook.com^$app=com.opera.mini.native|~com.opera.touch|~com.opera.browser
-||157.240.15:443^
-||157.240.15^
+||157.240.15.1:443^
+||157.240.15.1^
+||157.240.13.14:443^
+||157.240.13.14^
 ||web.facebook.com^$app=com.opera.mini.native
 ||web.facebook.com^$app=com.opera.touch
 ||web.facebook.com^$app=com.opera.browser
