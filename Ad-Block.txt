@@ -83,6 +83,8 @@
 ||srtg.mobi^
 ||cocosjoy.com^
 ||gshareit.com^
+||pmp-cdn.modengs.net^
+||modengs.net^$important
 
 [Detik: org.detikcom.rss]
 [CNN Indonesia: com.cnn.indonesia]
