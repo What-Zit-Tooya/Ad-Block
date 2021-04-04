@@ -1,7 +1,7 @@
 ! Title: Exodius's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: exodius48
-! Last modified: April 4, 2021 04:50 PM (UTC+7)
+! Last modified: April 4, 2021 05:20 PM (UTC+7)
 ! Version: 1.0.B-04/04/2021
 ! Homepage: https://github.com/exodius48/Ad-Block
 ! Issues: https://github.com/exodius48/Ad-Block/issues
@@ -141,6 +141,7 @@
 ### BEGIN Block News ###
 ||cdn-af.op-mobile.opera.com^
 ||news-id.feednews.com^
+||feednews.com^
 ||discover.operacdn.com^
 ### END Block News ###
 ||launches.appsflyer.com^$app=com.opera.mini.native,important
@@ -161,13 +162,13 @@
 
 [Drakor.ID: com.stream.drakorindoawet]
 ||applovin.com^
+||tstatic.net^
 ||cdn-2.tstatic.net^
 ||onesignal.com^
 ||cdn.onesignal.com^
 ||api.onesignal.com^
 ||www.facebook.com^$app=com.stream.drakorindoawet
 ||web.facebook.com^$app=com.stream.drakorindoawet
-||graph.facebook.com^$app=com.stream.drakorindoawet
 
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
