@@ -12,6 +12,7 @@
 ||doubleclick.net^
 ||flurry.com^
 ||googlesyndication.com^
+||adservice.google.com^
 ||pagead2.googlesyndication.com^
 ||google-analytics.com^
 ||app-measurement.com^
@@ -30,18 +31,24 @@
 [SHAREit: com.lenovo.anyshare.gps]
 ### Block NSFW and Fuc*king video ads. Blame ShareIt devs ###
 ||pullcm.com^
+||www.pullcm.com^
+||dt.beyla.site^
 ||beyla.site^
+||receiver-metis.infeng.site^
 ||infeng.site^
 ||launches.appsflyer.com^$app=com.lenovo.anyshare.gps,important
 ||wshareit.com^
 ||web.facebook.com^$app=com.lenovo.anyshare.gps
+||tracker.hellay.net^
 ||hellay.net^
 ||usicdn.com^
 ||cloudfront.net^$app=com.lenovo.anyshare.gps
 ||ushareit.com^
+||cdn.ushareit.com^
 ||reporttk.com^
 ||shareitgames.com^
 ||pullcf.com^
+||www.pullcf.com^
 ||rqmob.com^
 ||loopmygame.com^
 ||graph.facebook.com^$app=com.lenovo.anyshare.gps
@@ -71,6 +78,11 @@
 ||footprint.net^
 ||chinatelecom.net^
 ||kunlunsl.com^
+||buruwan.com^
+||titgames.com^
+||srtg.mobi^
+||cocosjoy.com^
+||gshareit.com^
 
 [Detik: org.detikcom.rss]
 [CNN Indonesia: com.cnn.indonesia]
