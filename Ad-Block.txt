@@ -1,7 +1,7 @@
 ! Title: Exodius's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: exodius48
-! Last modified: April 4, 2021 12:17 PM (UTC+7)
+! Last modified: April 4, 2021 04:47 PM (UTC+7)
 ! Version: 1.0.B-04/04/2021
 ! Homepage: https://github.com/exodius48/Ad-Block
 ! Issues: https://github.com/exodius48/Ad-Block/issues
@@ -27,7 +27,7 @@
 ||firebaselogging-pa.googleapis.com^
 
 [WHITE LIST]
-@@||graph.facebook.com^$app=com.riotgames.league.wildrift|~com.garena.game.kgid|~com.garena.game.ftmid|~com.miHoYo.bh3oversea|~com.miHoYo.GenshinImpact|~com.supercell.clashofclans|~com.supercell.clashroyale|~com.supercell.brawlstars|~com.supercell.hayday|~com.supercell.boombeach
+@@||graph.facebook.com^$app=com.riotgames.league.wildrift|~com.facebook.katana|~com.facebook.orca|~com.instagram.android|~com.garena.game.kgid|~com.garena.game.ftmid|~com.miHoYo.bh3oversea|~com.miHoYo.GenshinImpact|~com.supercell.clashofclans|~com.supercell.clashroyale|~com.supercell.brawlstars|~com.supercell.hayday|~com.supercell.boombeach
 @@||b-graph.facebook.com^$app=com.facebook.katana|~com.riotgames.league.wildrift|~com.facebook.orca|~com.instagram.android|~com.garena.game.ftmid|~com.garena.game.kgid|~com.miHoYo.bh3oversea|~com.miHoYo.GenshinImpact|~com.supercell.clashofclans|~com.supercell.clashroyale|~com.supercell.brawlstars|~com.supercell.hayday|~com.supercell.boombeach
 @@||b-graph.instagram.com^$app=com.instagram.android
 
@@ -216,7 +216,11 @@
 ||analytics.query.yahoo.com^
 
 [NekoPoi: com.usamin.nekopoi]
-
+||api.usamin.cc^
+||goofypismica.com^
+||gstatic.com^$app=com.usamin.nekopoi
+||p.3z094n2681i06q8k14w31cu4q80d5p.com^
+||ads.tapdaq.com^
 
 [HUAWEI PHONE]
 ||poster-dra.dbankcdn.com^
