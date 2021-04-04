@@ -1,8 +1,8 @@
 ! Title: Exodius's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: exodius48
-! Last modified: April 4, 2021 11:05 PM (UTC+7)
-! Version: 1.0.B-04/04/2021
+! Last modified: April 5, 2021 06:40 AM (UTC+7)
+! Version: 1.0.B-05/04/2021
 ! Homepage: https://github.com/exodius48/Ad-Block
 ! Issues: https://github.com/exodius48/Ad-Block/issues
 ! License: https://github.com/exodius48/Ad-Block/blob/main/LICENSE
@@ -31,9 +31,9 @@
 ||tsg.tdatamaster.com^
 
 [WHITE LIST]
-@@||graph.facebook.com^$app=com.riotgames.league.wildrift|~com.facebook.katana|~com.facebook.orca|~com.instagram.android|~com.garena.game.kgid|~com.garena.game.ftmid|~com.miHoYo.bh3oversea|~com.miHoYo.GenshinImpact|~com.supercell.clashofclans|~com.supercell.clashroyale|~com.supercell.brawlstars|~com.supercell.hayday|~com.supercell.boombeach
-@@||b-graph.facebook.com^$app=com.facebook.katana|~com.riotgames.league.wildrift|~com.facebook.orca|~com.instagram.android|~com.garena.game.ftmid|~com.garena.game.kgid|~com.miHoYo.bh3oversea|~com.miHoYo.GenshinImpact|~com.supercell.clashofclans|~com.supercell.clashroyale|~com.supercell.brawlstars|~com.supercell.hayday|~com.supercell.boombeach
-@@||b-graph.instagram.com^$app=com.instagram.android
+@@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
+@@||b-graph.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
+@@||b-graph.instagram.com^$app=com.instagram.android|com.facebook.katana|com.facebook.orca|com.garena.game.kgid|com.riotgames.league.wildrift
 
 [SHAREit: com.lenovo.anyshare.gps]
 ### Block NSFW and Fuc*king video ads. Blame ShareIt devs ###
@@ -58,7 +58,6 @@
 ||www.pullcf.com^
 ||rqmob.com^
 ||loopmygame.com^
-||graph.facebook.com^$app=com.lenovo.anyshare.gps
 ||mopub.com^
 ||www.facebook.com^$app=com.lenovo.anyshare.gps
 ||slivee.com^
@@ -93,8 +92,7 @@
 ||gihappy.com^
 ||cyyjit.com^
 ||pmp-cdn.modengs.net^
-||modengs.net^*/*.sapk
-||modengs.net^*/*.apk
+||modengs.net/*
 ||modengs.net^$important
 ||13.35.13.120:80^
 ||13.35.13.120^
@@ -237,7 +235,6 @@
 
 [SnackVideo: com.kwai.bulldog]
 ||aws-api.kibads.com^
-||tx-api.uvfuns.com^
 ||g-logsdk.uvfuns.com^
 ||g-api.uvfuns.com^
 ||static.yximgs.com^
