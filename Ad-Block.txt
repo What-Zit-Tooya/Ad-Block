@@ -25,6 +25,10 @@
 ||firebase-settings.crashlytics.com^
 ||googletagmanager.com^
 ||firebaselogging-pa.googleapis.com^
+||down.anticheatexpert.com^
+||cdp.cloud.unity3d.com^
+||oth.eve.mdt.qq.com^
+||tsg.tdatamaster.com^
 
 [WHITE LIST]
 @@||graph.facebook.com^$app=com.riotgames.league.wildrift|~com.facebook.katana|~com.facebook.orca|~com.instagram.android|~com.garena.game.kgid|~com.garena.game.ftmid|~com.miHoYo.bh3oversea|~com.miHoYo.GenshinImpact|~com.supercell.clashofclans|~com.supercell.clashroyale|~com.supercell.brawlstars|~com.supercell.hayday|~com.supercell.boombeach
