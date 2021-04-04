@@ -87,6 +87,8 @@
 ||cyyjit.com^
 ||pmp-cdn.modengs.net^
 ||modengs.net^$important
+||13.35.13.120:80^
+||13.35.13.120^
 
 [Detik: org.detikcom.rss]
 [CNN Indonesia: com.cnn.indonesia]
