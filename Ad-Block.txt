@@ -91,6 +91,7 @@
 ||gshareit.com^
 ||gihappy.com^
 ||cyyjit.com^
+||p0.ipstatp.com^
 ||pmp-cdn.modengs.net^
 ||modengs.net/*
 ||modengs.net^$important
