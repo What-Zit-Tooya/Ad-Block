@@ -11,7 +11,7 @@ I only add filter in the app that i have used. If you want to add your filter to
 4. AdGuard Tracking Protection filter;
 5. EasyPrivacy;
 6. AdGuard Annoyances filter;
-7. Languange-specicific (Up-to-you, based on your location);
+7. Languange-specific (Up-to-you, based on your location);
 8. Custom filters:
     1. [CombinedPrivacyBlockLists](https://github.com/bongochong/CombinedPrivacyBlockLists)
     2. [StevenBlack hosts](https://github.com/StevenBlack/hosts)
