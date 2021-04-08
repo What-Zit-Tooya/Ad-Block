@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Exodius's Ad-Block
 
-You can use the [editor on GitHub](https://github.com/exodius48/Ad-Block/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Additional ad-block for enhance your filter. Using Adblock Syntax and recommended to use it with [AdGuard for Android](https://adguard.com/en/adguard-android/overview.html). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+**Recommended Filters:**
+1. AdGuard Base;
+2. AdGuard DNS filter;
+3. AdGuard Mobile ads filter;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**Subscribe to my Ad-Block:**
+(https://raw.githubusercontent.com/exodius48/Ad-Block/main/Ad-Block.txt)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/exodius48/Ad-Block/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Feel free to report any issue here:**
+(https://github.com/exodius48/Ad-Block/issues)
