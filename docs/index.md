@@ -19,6 +19,6 @@ I only add filter in the app that i have used. If you want to add your filter to
     4. [uAssets by uBlockOrigin](https://github.com/uBlockOrigin/uAssets)
     5. Of course, My Filter list. :)
 
-**Subscribe to my Ad-Block: [Here](https://raw.githubusercontent.com/exodius48/Ad-Block/main/Ad-Block.txt)**
+**Subscribe to my Ad-Block: [Here](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt)**
 
-**Feel free to report any issue: [Here](https://github.com/exodius48/Ad-Block/issues)**
+**Feel free to report any issue: [Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
