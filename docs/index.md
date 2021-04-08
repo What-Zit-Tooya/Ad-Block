@@ -1,4 +1,4 @@
-# Exodius's Ad-Block
+# What-Zit-Tooya Ad-Block
 
 Additional ad-block for enhance your filter. Using Adblock Syntax and recommended to use it with **[AdGuard for Android](https://adguard.com/en/adguard-android/overview.html).**
 
