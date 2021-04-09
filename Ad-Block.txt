@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 9, 2021 09:35 AM (UTC+7)
+! Last modified: April 9, 2021 11:45 AM (UTC+7)
 ! Version: 1.0.B-09/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -49,6 +49,9 @@
 ||launches.appsflyer.com^$app=com.lenovo.anyshare.gps,important
 ||wshareit.com^
 ||web.facebook.com^$app=com.lenovo.anyshare.gps
+||www.facebook.com^$app=com.lenovo.anyshare.gps
+||api.facebook.com^$app=com.lenovo.anyshare.gps
+||star.c10r.facebook.com^$app=com.lenovo.anyshare.gps
 ||tracker.hellay.net^
 ||hellay.net^
 ||usicdn.com^
@@ -62,13 +65,10 @@
 ||rqmob.com^
 ||loopmygame.com^
 ||mopub.com^
-||www.facebook.com^$app=com.lenovo.anyshare.gps
 ||slivee.com^
 ||shareitgames.run^
 ||gamecenter.run^
 ||watch-it.video^
-||api.facebook.com^$app=com.lenovo.anyshare.gps
-||star.c10r.facebook.com^$app=com.lenovo.anyshare.gps
 ||static.rqmob.com.w.kunlunsl.com^
 ||cdn.ushareit.com.w.kunlunsl.com^
 ||shareit-push-cdn.wshareit.com.w.kunlunsl.com^
@@ -114,12 +114,8 @@
 ||newrevive.detik.com^
 ||mobile-analytic.detik.com^
 ||cdnstatic.detik.com^
-||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss
-||firebaseinstallation.googleapis.com^$app=org.detikcom.rss
-||firebaseremoteconfig.googleapis.com^$app=com.cnn.indonesia
-||firebaseinstallation.googleapis.com^$app=com.cnn.indonesia
-||firebaseremoteconfig.googleapis.com^$app=com.cnbc.indonesia
-||firebaseinstallation.googleapis.com^$app=com.cnbc.indonesia
+||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss|com.cnn.indonesia|com.cnbc.indonesia
+||firebaseinstallation.googleapis.com^$app=org.detikcom.rss|com.cnn.indonesia|com.cnbc.indonesia
 ||2mdn.net^
 
 [KOMPAS.com: com.ertanto.kompas.official]
@@ -144,6 +140,7 @@
 
 [Opera Mini:com.opera.mini.native]
 [Opera Browser: com.opera.browser]
+[Opera Browser beta: com.opera.browser.beta]
 [Opera Touch: com.opera.touch]
 ||operamini-sub.osp.opera.software^
 ||api-a.op-mobile.opera.com^
@@ -154,27 +151,21 @@
 ||feednews.com^
 ||discover.operacdn.com^
 ### END Block News ###
-||launches.appsflyer.com^$app=com.opera.mini.native,important
-||launches.appsflyer.com^$app=com.opera.touch,important
-||launches.appsflyer.com^$app=com.opera.browser,important
-||edge-star-shv-03-sin6.facebook.com^$app=com.opera.mini.native|~com.opera.touch|~com.opera.browser
+||launches.appsflyer.com^$app=com.opera.mini.native,important|com.opera.touch,important|com.opera.browser,important|com.opera.browser.beta,important
+||edge-star-shv-03-sin6.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
 ||157.240.15.1:443^
 ||157.240.15.1^
 ||157.240.13.14:443^
 ||157.240.13.14^
-||web.facebook.com^$app=com.opera.mini.native
-||web.facebook.com^$app=com.opera.touch
-||web.facebook.com^$app=com.opera.browser
-||www.facebook.com^$app=com.opera.mini.native
-||www.facebook.com^$app=com.opera.touch
-||www.facebook.com^$app=com.opera.browser
+||web.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
+||www.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
 ||pns-sdk.opera-api.com^
 ||api.recsys.opera.com^
 ||api.sec-tunnel.com^
 ||presence.api.drift.com^
 ||ofa-sub.osp.opera.software^
 ||ofa-b-sub.osp.opera.software^
-||clients1.google.com$app=com.opera.mini.native
+||clients1.google.com$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
 
 [Drakor.ID: com.stream.drakorindoawet]
 ||applovin.com^
@@ -235,6 +226,8 @@
 ||by.uservoice.com^
 ||smarttv-smartinfo.manhattan.yahoo.com^
 ||analytics.query.yahoo.com^
+||firebaseinstallation.googleapis.com^$app=com.aol.mobile.aolapp|com.yahoo.mobile.client.android.mail
+||firebaseremoteconfig.googleapis.com^$app=com.aol.mobile.aolapp|com.yahoo.mobile.client.android.mail
 
 [NekoPoi: com.usamin.nekopoi]
 ||goofypismica.com^
