@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 9, 2021 10:20 PM (UTC+7)
-! Version: 1.0.B-09/04/2021
+! Last modified: April 10, 2021 03:45 AM (UTC+7)
+! Version: 1.0.B-10/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -14,6 +14,7 @@
 ||b-www.facebook.com^
 ||z-m-graph.facebook.com^
 ||edge-mqtt.facebook.com^
+||mqtt-mini.facebook.com^
 ||graph.fbpigeon.com^
 ||b-graph.instagram.com^
 ||appsflyer.com^
@@ -256,6 +257,12 @@
 
 [HUAWEI PHONE]
 ||metrics-dra.dt.hicloud.com^
+||metrics1.dt.hicloud.com^
+||metrics2.dt.hicloud.com^
+||metrics3.dt.hicloud.com^
+||metrics4.dt.hicloud.com^
+||metrics5.dt.hicloud.com^
+||metrics6.dt.hicloud.com^
 ||poster-dra.dbankcdn.com^
 ||grs.dbankcloud.com^
 ||static1.dmcdn.net^
