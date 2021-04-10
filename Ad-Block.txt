@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 10, 2021 05:48 PM (UTC+7)
+! Last modified: April 10, 2021 07:45 PM (UTC+7)
 ! Version: 1.0.B-10/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -33,6 +33,7 @@
 ||cdp.cloud.unity3d.com^
 ||oth.eve.mdt.qq.com^
 ||tsg.tdatamaster.com^
+||api.adaether.com^
 
 [WHITE LIST]
 @@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
@@ -198,6 +199,7 @@
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
 ||privatestats.whatsapp.net^
+||static.whatsapp.net^
 
 [ShareMe: com.xiaomi.midrop]
 ||firebaseinstallation.googleapis.com^$app=com.xiaomi.midrop
@@ -206,10 +208,8 @@
 [HAGO: com.yy.hiyo]
 [Noizz - formerly Biugo: com.yy.biu]
 ||global-yypushsdk.yy.com^
-||firebaseinstallation.googleapis.com^$app=com.yy.hiyo
-||firebaseremoteconfig.googleapis.com^$app=com.yy.hiyo
-||firebaseinstallation.googleapis.com^$app=com.yy.biu
-||firebaseremoteconfig.googleapis.com^$app=com.yy.biu
+||firebaseinstallation.googleapis.com^$app=com.yy.hiyo|com.yy.biu
+||firebaseremoteconfig.googleapis.com^$app=com.yy.hiyo|com.yy.biu
 ||push-link.yy.com^
 ||push-api.yy.com^
 ||reinforce.security.yy.com^
@@ -241,10 +241,16 @@
 ||mlog.hiido.com^
 ||ylog.hiido.com^
 ||jpush.cn^
+||jpush.io^
 ||global-pushsdk.olaparty.com^
 ||push-api.olaparty.com^
 ||launches.appsflyer.com^$app=com.yy.biu,important
 ||log.sysop.duowan.com^
+||h-adashx4sg.ut.taobao.com^
+||adashx4sg.ut.taobao.com^
+||xjp-jmacs.m.taobao.com^
+||audid-api-sg.taobao.com^
+||likelbs.dinoyy.xyz^
 
 [AOL - News, Mail & Video: com.aol.mobile.aolapp]
 [Yahoo Mail: com.yahoo.mobile.client.android.mail]
@@ -274,10 +280,13 @@
 ||api.imotech.tech^
 ||gdl.liketech-cdn.site^
 ||static-web.likeevideo.com^
+||videosnap.like.video^
 
 [SnackVideo: com.kwai.bulldog]
 ||aws-api.kibads.com^
 ||g-logsdk.uvfuns.com^
+||g-logsdk.snackvideo.com^
+||aws-logsdk.snackvideo.com^
 ||g-api.uvfuns.com^
 ||static.yximgs.com^
 ||ak-static.snackvideo.in^
@@ -333,7 +342,12 @@
 ||privacy.api.miui.com^
 ||privacy.api.india.miui.com^
 ||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.india.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sg.stat.appmifile.com^
 ||tracking.intl.miui.com^
+||tracking.india.miui.com^
+||tracking.miui.com^
 ||msg.global.xiaomi.net^
 ||ad.xiaomi.com^
 ||a.stat.xiaomi.com^
@@ -363,3 +377,11 @@
 ||dm16-alisg.byteoversea.com^
 ||i1.wp.com^
 ||movie-indo-5b984.firebaseapp.com^
+
+[Snaptube: com.snaptube.premium]
+||config.ad.snaptube.app^
+||apps.ad.snaptube.app^
+||www.facebook.com^$app=com.snaptube.premium
+||web.facebook.com^$app=com.snaptube.premium
+||yt3.ggpht.com^
+||android.bugly.qq.com^
