@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 10, 2021 11:10 AM (UTC+7)
+! Last modified: April 10, 2021 05:48 PM (UTC+7)
 ! Version: 1.0.B-10/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -142,7 +142,7 @@
 ||slatic.net^
 
 [Bardi Smart Home: com.bardi.smart.home] 
-||tuyaus.com^
+||a1.tuyaus.com^
 ||tuyacn.com^
 ||h1.iot-dns.com^
 
@@ -267,6 +267,13 @@
 [TikTok ID: com.ss.android.ugc.trill]
 ||analytics.tiktok.com^
 ||ads.tiktok.com^
+
+[Likee - Let You Shine: video.like]
+||v16-ad.byteoversea.com^
+||gdl.news-cdn.site^
+||api.imotech.tech^
+||gdl.liketech-cdn.site^
+||static-web.likeevideo.com^
 
 [SnackVideo: com.kwai.bulldog]
 ||aws-api.kibads.com^
