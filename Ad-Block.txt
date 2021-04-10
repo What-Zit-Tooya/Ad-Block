@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 10, 2021 07:45 PM (UTC+7)
+! Last modified: April 10, 2021 09:00 PM (UTC+7)
 ! Version: 1.0.B-10/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -108,6 +108,7 @@
 [Detik: org.detikcom.rss]
 [CNN Indonesia: com.cnn.indonesia]
 [CNBC Indonesia: com.cnbc.indonesia]
+[Liputan6.com: com.woi.liputan6.android]
 ### BEGIN Video Block. Unblock this if you want to see Video! ###
 ||vod.detik.com^
 ||vod.cnnindonesia.com^
@@ -121,13 +122,16 @@
 ||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss|com.cnn.indonesia|com.cnbc.indonesia
 ||firebaseinstallation.googleapis.com^$app=org.detikcom.rss|com.cnn.indonesia|com.cnbc.indonesia
 ||2mdn.net^
+||sessions.bugsnag.com^
 
 [KOMPAS.com: com.ertanto.kompas.official]
-||firebaseremoteconfig.googleapis.com^$app=com.ertanto.kompas.official
-||firebaseinstallation.googleapis.com^$app=com.ertanto.kompas.official
+[Tribunnews.com: mobile.android.tribun]
+||firebaseremoteconfig.googleapis.com^$app=com.ertanto.kompas.official|mobile.android.tribun
+||firebaseinstallation.googleapis.com^$app=com.ertanto.kompas.official|mobile.android.tribun
 ||kompasads.com^
 ||adsimg.kompas.com^
 ||teads.tv^
+||mcf-push.kompas.com^
 
 [jatimnow.com: app.jatimnow.com]
 ||firebaseremoteconfig.googleapis.com^$app=app.jatimnow.com
@@ -244,6 +248,7 @@
 ||jpush.io^
 ||global-pushsdk.olaparty.com^
 ||push-api.olaparty.com^
+||push-link.olaparty.com^
 ||launches.appsflyer.com^$app=com.yy.biu,important
 ||log.sysop.duowan.com^
 ||h-adashx4sg.ut.taobao.com^
@@ -287,13 +292,15 @@
 ||g-logsdk.uvfuns.com^
 ||g-logsdk.snackvideo.com^
 ||aws-logsdk.snackvideo.com^
+||aws-logsdk.uvfuns.com^
 ||g-api.uvfuns.com^
 ||static.yximgs.com^
 ||ak-static.snackvideo.in^
 ||aws-static.snackvideo.in^
-||d3qrssutfqv0j9.clounfront.net^
+||clounfront.net^$app=com.kwai.bulldog
 ||wlog.kuaishou.com^
 ||kuaishou.com^
+||uvfuns.com^
 
 [HUAWEI PHONES]
 ||metrics-dra.dt.hicloud.com^
@@ -305,16 +312,16 @@
 ||metrics6.dt.hicloud.com^
 ||poster-dra.dbankcdn.com^
 ||grs.dbankcloud.com^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.eu^
+||event.dbankcdn.com^
 ||static1.dmcdn.net^
 ||service-sg.hwccpc.com^
 ||vod-vrz-dra.dbankcdn.com^
 ||logbak.hicloud.com^
 ||browserr-dra.dbankcdn.com^
 ||appdl2.dbankcdn.com^
-||grs.dbankcloud.cn^
-||grs.dbankcloud.asia^
-||grs.dbankcloud.eu^
-||event.dbankcdn.com^
 ||alicdn.com^
 ||syncdrive-dra.cloud.dbankcloud.com^
 ||configdownload-dra.dbankcdn.com^
@@ -360,6 +367,7 @@
 
 [Shopee Indonesia: com.shopee.id] 
 ||log-collector.shopee.co.id^
+||sg2.sgw.shopeemobile.com^
 ||idfp.tongdun.net^
 ||firebaseinstallation.googleapis.com^$app=com.shopee.id
 ||firebaseremoteconfig.googleapis.com^$app=com.shopee.id
@@ -381,7 +389,12 @@
 [Snaptube: com.snaptube.premium]
 ||config.ad.snaptube.app^
 ||apps.ad.snaptube.app^
+||push.snaptube.app^
 ||www.facebook.com^$app=com.snaptube.premium
 ||web.facebook.com^$app=com.snaptube.premium
 ||yt3.ggpht.com^
 ||android.bugly.qq.com^
+||analytics.snaptube.app^
+||dns.google.com^$app=com.snaptube.premium
+||firebaseremoteconfig.googleapis.com^$app=com.snaptube.premium
+||i9.ytimg.com^$app=com.snaptube.premium
