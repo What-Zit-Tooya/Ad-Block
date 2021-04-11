@@ -22,8 +22,8 @@ I only add filter in the app that i have used. If you want to add your filter to
     1. [CombinedPrivacyBlockLists](https://anonym.to/?https://github.com/bongochong/CombinedPrivacyBlockLists)
     2. [StevenBlack hosts](https://anonym.to/?https://github.com/StevenBlack/hosts)
     3. [OISD](https://anonym.to/?https://oisd.nl/?p=dl)
-    4. [uAssets by uBlockOrigin](https://anonym.to/?https://github.com/uBlockOrigin/uAssets)
-    5. Of course, My Filter list. :)
+    4. [uAssets filters by uBlockOrigin](https://anonym.to/?https://github.com/uBlockOrigin/uAssets)
+    5. Of course, My Ad-Block filter. :)
 
 **Subscribe to my Ad-Block: [Here](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt)**
 
