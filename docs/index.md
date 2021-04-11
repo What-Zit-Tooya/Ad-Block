@@ -27,4 +27,4 @@ Download AdGuard for Android here:
 
 **Feel free to report any issue: [Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
 
-I only add filter in the app that i have used. If you want to add your filter to my ad-block, feel free to pull request. :thumbsup:
+I only add filter in the app that i have used. If you want to add your filter to my ad-block, feel free to pull request.
