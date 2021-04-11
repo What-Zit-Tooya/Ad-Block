@@ -7,8 +7,6 @@ Download AdGuard for Android here:
 - [Beta](https://anonym.to/?https://agrd.io/apkb)
 - [Nightly](https://anonym.to/?https://agrd.io/android_nightly)
 
-I only add filter in the app that i have used. If you want to add your filter to my ad-block, feel free to pull request. :)
-
 **Recommended Filters:**
 1. AdGuard Base filter;
 2. AdGuard Mobile ads filter;
@@ -28,3 +26,5 @@ I only add filter in the app that i have used. If you want to add your filter to
 **Subscribe to my Ad-Block: [Here](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt)**
 
 **Feel free to report any issue: [Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
+
+I only add filter in the app that i have used. If you want to add your filter to my ad-block, feel free to pull request. :thumbsup:
