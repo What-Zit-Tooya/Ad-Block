@@ -77,6 +77,7 @@
 ||loopmygame.com^
 ||modengs.net^$important
 ||mopub.com^
+||ns-715.awsdns-25.net^
 ||p0.ipstatp.com^
 ||pmp-cdn.modengs.net^
 ||push-video.wshareit.com^
@@ -204,6 +205,7 @@
 [WhatsApp Business: com.whatsapp.w4b]
 ||privatestats.whatsapp.net^
 ||static.whatsapp.net^
+||mmx-ds.cdn.whatsapp.net^
 
 [ShareMe: com.xiaomi.midrop]
 ||firebaseinstallation.googleapis.com^$app=com.xiaomi.midrop
@@ -231,10 +233,9 @@
 ||huanjuyun.com^
 ||i.ihago.net^
 ||iab.yy.com^
-||iab.yy.com^
 ||jpush.cn^
 ||jpush.io^
-||kaixindou.kaixindou.net
+||kaixindou.kaixindou.net^
 ||kaixindou.net^
 ||klog.hiido.com^
 ||launches.appsflyer.com^$app=com.yy.biu,important
@@ -388,7 +389,6 @@
 ||play-tx.vod.shopee.com^
 ||play-ws.vod.shopee.com^
 ||sg2.sgw.shopeemobile.com^
-||sg2.sgw.shopeemobile.com^
 ||userstats.shopee.co.id^
 ||userstats.shopee.co.th^
 ||userstats.shopee.com.br^
@@ -444,3 +444,4 @@
 ||rstatic.akamaized.net^$app=com.fta.rctitv
 ||web.facebook.com^$app=com.fta.rctitv
 ||www.facebook.com^$app=com.fta.rctitv
+||www.gstatic.com^$app=com.fta.rctitv
