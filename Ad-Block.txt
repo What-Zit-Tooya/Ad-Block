@@ -1,200 +1,206 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 14, 2021 10:30 PM (UTC+7)
-! Version: 14/04/2021
+! Last modified: April 15, 2021 12:00 PM (UTC+7)
+! Version: 15/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 
 [UNIVERSAL]
-||graph.facebook.com^
-||graph.instagram.com^
-||b-graph.facebook.com^
-||b-www.facebook.com^
-||z-m-graph.facebook.com^
-||edge-mqtt.facebook.com^
-||mqtt-mini.facebook.com^
-||graph.fbpigeon.com^
-||b-graph.instagram.com^
-||appsflyer.com^
-||doubleclick.net^
-||flurry.com^
-||googlesyndication.com^
 ||adservice.google.com^
-||pagead2.googlesyndication.com^
-||google-analytics.com^
-||app-measurement.com^
-||scorecardresearch.com^
-||googletmanager.com^
-||firebase-settings.crashlytics.com^
-||googletagmanager.com^
-||firebaselogging-pa.googleapis.com^
-||cdp.cloud.unity3d.com^
-||oth.eve.mdt.qq.com^
-||tsg.tdatamaster.com^
 ||api.adaether.com^
+||app-measurement.com^
+||appsflyer.com^
+||cdp.cloud.unity3d.com^
+||doubleclick.net^
+||firebaselogging-pa.googleapis.com^
+||firebase-settings.crashlytics.com^
+||flurry.com^
+||google-analytics.com^
+||googlesyndication.com^
+||googletagmanager.com^
+||googletmanager.com^
 ||kvinit-prod.api.kochava.com^
+||oth.eve.mdt.qq.com^
+||pagead2.googlesyndication.com^
+||scorecardresearch.com^
+||tsg.tdatamaster.com^
+
+[Facebook Related Server]
+||api.facebook.com^
+||b-graph.facebook.com^
+||b-graph.instagram.com^
+||b-www.facebook.com^
+||edge-mqtt.facebook.com^
+||graph.facebook.com^
+||graph.fbpigeon.com^
+||graph.instagram.com^
+||mqtt-mini.facebook.com^
+||star.c10r.facebook.com^
+||star.facebook.com^
+||z-m-graph.facebook.com^
 
 [WHITE LIST]
-@@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
+@@||api.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
 @@||b-graph.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
 @@||b-graph.instagram.com^$app=com.instagram.android|com.facebook.katana|com.facebook.orca|com.garena.game.kgid|com.riotgames.league.wildrift
 @@||content.garena.com/gas/game_info/*
+@@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
 
 [SHAREit: com.lenovo.anyshare.gps]
 ### Block NSFW and Fuc*king video ads. Blame ShareIt devs ###
-||pullcm.com^
-||beyla.site^
-||infeng.site^
-||launches.appsflyer.com^$app=com.lenovo.anyshare.gps,important
-||wshareit.com^
-||web.facebook.com^$app=com.lenovo.anyshare.gps
-||www.facebook.com^$app=com.lenovo.anyshare.gps
+||13.35.13.120^
 ||api.facebook.com^$app=com.lenovo.anyshare.gps
-||star.c10r.facebook.com^$app=com.lenovo.anyshare.gps
-||tracker.hellay.net^
-||hellay.net^
-||usicdn.com^
-||cloudfront.net^$app=com.lenovo.anyshare.gps
-||ushareit.com^
-||cdn.ushareit.com^
-||reporttk.com^
-||shareitgames.com^
-||pullcf.com^
-||rqmob.com^
-||loopmygame.com^
-||mopub.com^
-||slivee.com^
-||shareitgames.run^
-||gamecenter.run^
-||watch-it.video^
-||static.rqmob.com.w.kunlunsl.com^
+||asia-abroad.com^
+||buruwan.com^
+||cdn.chinatelecom.net.c.footprint.net^
 ||cdn.ushareit.com.w.kunlunsl.com^
-||shareit-push-cdn.wshareit.com.w.kunlunsl.com^
-||push-video.wshareit.com^
-||fgeh.overseavideo.sched.apdcdn.com^
-||vs.wshareit.com.asia-abroad.com^
-||v262.dl.abroad.asia-abroad.com^
-||vs.wshareit.com.b.galileo.jcloud-cdn.com^
-||vs.wshareit.com.cdn.jcloudcdn.com^
+||cdn.ushareit.com^
 ||cdn2.gamecenter.run.cdn.dnsv1.com^
+||chinatelecom.net^
+||cloudfront.net^$app=com.lenovo.anyshare.gps
+||cocosjoy.com^
+||cyyjit.com^
+||dt.beyla.site^
+||fgeh.overseavideo.sched.apdcdn.com^
+||footprint.net^
+||gamecenter.run^
+||gihappy.com^
 ||gjqvujjc.tweb.sched.ovscdns.com^
+||graph.facebook.com^$app=com.lenovo.anyshare.gps
+||gshareit.com^
 ||jcloudcdn.com^
 ||jcloud-cdn.com^
-||asia-abroad.com^
-||cdn.chinatelecom.net.c.footprint.net^
-||footprint.net^
-||chinatelecom.net^
 ||kunlunsl.com^
-||buruwan.com^
-||titgames.com^
-||srtg.mobi^
-||cocosjoy.com^
-||gshareit.com^
-||gihappy.com^
-||cyyjit.com^
+||launches.appsflyer.com^$app=com.lenovo.anyshare.gps,important
+||loopmygame.com^
+||modengs.net^$important
+||mopub.com^
 ||p0.ipstatp.com^
+||pmp-cdn.modengs.net^
+||push-video.wshareit.com^
+||receiver.metis.infeng.site^
+||reporttk.com^
+||rqmob.com^
 ||rtservice.cocos.net^
 ||rtservice.cocosjoy.com^
-||pmp-cdn.modengs.net^
-||modengs.net^$important
-||13.35.13.120^
+||shareitgames.com^
+||shareitgames.run^
+||shareit-push-cdn.wshareit.com.w.kunlunsl.com^
+||slivee.com^
+||srtg.mobi^
+||star.c10r.facebook.com^$app=com.lenovo.anyshare.gps
+||static.rqmob.com.w.kunlunsl.com^
+||titgames.com^
+||tracker.hellay.net^
+||usicdn.com^
+||v262.dl.abroad.asia-abroad.com^
+||vs.wshareit.com.asia-abroad.com^
+||vs.wshareit.com.b.galileo.jcloud-cdn.com^
+||vs.wshareit.com.cdn.jcloudcdn.com^
+||vs.wshareit.com^
+||watch-it.video^
+||web.facebook.com^$app=com.lenovo.anyshare.gps
+||wshareit.com^
+||www.facebook.com^$app=com.lenovo.anyshare.gps
+||www.pullcf.com^
+||www.pullcm.com^
 
 [Detik: org.detikcom.rss]
 [CNN Indonesia: com.cnn.indonesia]
 [CNBC Indonesia: com.cnbc.indonesia]
 [Liputan6.com: com.woi.liputan6.android]
 ### BEGIN Video Block. Unblock this if you want to see Video! ###
-||vod.detik.com^
-||vod.cnnindonesia.com^
 ||vod.cnbcindonesia.com^
+||vod.cnnindonesia.com^
+||vod.detik.com^
 ### END Video Block ###
-||push.detik.com^
-||kayumanis.detik.com^
-||newrevive.detik.com^
-||mobile-analytic.detik.com^
-||cdnstatic.detik.com^
-||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss|com.cnn.indonesia|com.cnbc.indonesia
-||firebaseinstallation.googleapis.com^$app=org.detikcom.rss|com.cnn.indonesia|com.cnbc.indonesia
 ||2mdn.net^
+||cdnstatic.detik.com^
+||firebaseinstallation.googleapis.com^$app=org.detikcom.rss|com.cnn.indonesia|com.cnbc.indonesia
+||firebaseremoteconfig.googleapis.com^$app=org.detikcom.rss|com.cnn.indonesia|com.cnbc.indonesia
+||kayumanis.detik.com^
+||mobile-analytic.detik.com^
+||newrevive.detik.com^
+||push.detik.com^
 ||sessions.bugsnag.com^
 
 [KOMPAS.com: com.ertanto.kompas.official]
 [Tribunnews.com: mobile.android.tribun]
-||firebaseremoteconfig.googleapis.com^$app=com.ertanto.kompas.official|mobile.android.tribun
-||firebaseinstallation.googleapis.com^$app=com.ertanto.kompas.official|mobile.android.tribun
-||kompasads.com^
-||apis.kompas.com^
 ||adsimg.kompas.com^
-||teads.tv^
+||apis.kompas.com^
+||firebaseinstallation.googleapis.com^$app=com.ertanto.kompas.official|mobile.android.tribun
+||firebaseremoteconfig.googleapis.com^$app=com.ertanto.kompas.official|mobile.android.tribun
+||kompasads.com^
 ||mcf-push.kompas.com^
+||teads.tv^
 
 [jatimnow.com: app.jatimnow.com]
-||firebaseremoteconfig.googleapis.com^$app=app.jatimnow.com
 ||firebaseinstallation.googleapis.com^$app=app.jatimnow.com
+||firebaseremoteconfig.googleapis.com^$app=app.jatimnow.com
 
 [Mozilla's Apps]
 ||incoming.telemetry.mozilla.org^
 ||location.services.mozilla.com^
 
 [Lazada Indonesia: com.lazada.android]
-||static-file.lazada.co.id^
 ||id-live.slatic.net^
 ||slatic.net^
+||static-file.lazada.co.id^
 
 [Bardi Smart Home: com.bardi.smart.home] 
-||tuyacn.com^
 ||h1.iot-dns.com^
+||tuyacn.com^
 
 [by.U - The All-Digital Provider: com.byu.id]
+||cepushupdates.azureedge.net^
 ||codepush.appcenter.ms^
 ||in.appcenter.ms^
-||cepushupdates.azureedge.net^
 ||static.zdassets.com^
 
 [Opera Mini:com.opera.mini.native]
 [Opera Browser: com.opera.browser]
 [Opera Browser beta: com.opera.browser.beta]
 [Opera Touch: com.opera.touch]
-||operamini-sub.osp.opera.software^
-||api-a.op-mobile.opera.com^
-||t-odx.op-mobile.opera.com^
 ### BEGIN Block News ###
 ||cdn-af.op-mobile.opera.com^
-||news-id.feednews.com^
-||feednews.com^
 ||discover.operacdn.com^
+||feednews.com^
 ||news.opera-api.com^
+||news-id.feednews.com^
 ### END Block News ###
-||launches.appsflyer.com^$app=com.opera.mini.native,important|com.opera.touch,important|com.opera.browser,important|com.opera.browser.beta,important
-||edge-star-shv-03-sin6.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
-||157.240.15.1:443^
-||157.240.15.1^
 ||157.240.13.14:443^
 ||157.240.13.14^
-||web.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
-||www.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
-||pns-sdk.opera-api.com^
+||157.240.15.1:443^
+||157.240.15.1^
 ||api.recsys.opera.com^
 ||api.sec-tunnel.com^
-||presence.api.drift.com^
+||api-a.op-mobile.opera.com^
+||clients1.google.com$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
+||edge-star-shv-03-sin6.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
+||launches.appsflyer.com^$app=com.opera.mini.native,important|com.opera.touch,important|com.opera.browser,important|com.opera.browser.beta,important
+||ofa-b-sub.osp.opera.software^
 ||ofa-sub.osp.opera.software^
-||submit-target.osp.opera.software^
+||operamini-sub.osp.opera.software^
+||pns-sdk.opera-api.com^
+||presence.api.drift.com^
 ||submit.geo.opera.com^
 ||submit-ash.osp.opera.software^
-||ofa-b-sub.osp.opera.software^
-||clients1.google.com$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
+||submit-target.osp.opera.software^
 ||thumbnails.opera.com^
 ||thumbnails2.opera.com^
+||t-odx.op-mobile.opera.com^
+||web.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
+||www.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
 
 [Drakor.ID: com.stream.drakorindoawet]
-||applovin.com^
-||onesignal.com^
-||cdn.onesignal.com^
 ||api.onesignal.com^
-||www.facebook.com^$app=com.stream.drakorindoawet
+||applovin.com^
+||cdn.onesignal.com^
+||onesignal.com^
 ||web.facebook.com^$app=com.stream.drakorindoawet
+||www.facebook.com^$app=com.stream.drakorindoawet
 
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
@@ -207,227 +213,231 @@
 
 [HAGO: com.yy.hiyo]
 [Noizz - formerly Biugo: com.yy.biu]
-||global-yypushsdk.yy.com^
-||firebaseinstallation.googleapis.com^$app=com.yy.hiyo|com.yy.biu
-||firebaseremoteconfig.googleapis.com^$app=com.yy.hiyo|com.yy.biu
-||push-link.yy.com^
-||push-api.yy.com^
-||reinforce.security.yy.com^
-||lgglobalb.yy.com^
-||kaixindou.kaixindou.net
-||httpdns.gslb.yy.com^
-||crash-reporting.yy.com^
-||iab.yy.com^
-||o-gl-id.ihago.net^
-||o-gl-static.ihago.net^
-||o-ws-bts-ali-id.ihago.net^
+||adashx4sg.ut.taobao.com^
+||android.rqd.qq.com^
+||ap.livemediav.com^
 ||apblbs-sgp.service.huanjuyun.com^
 ||aplbs-sgp.service.huanju.cn^
-||ap.livemediav.com^
-||livemediav.com^
-||iab.yy.com^
+||audid-api-sg.taobao.com^
 ||btrace.qq.com^
-||oth.str.mdt.qq.com^
-||android.rqd.qq.com^
-||huanju.cn^
-||huanjuyun.com^
-||kaixindou.net^
-||o-id.ihago.net^
-||o-static.ihago.net^
-||i.ihago.net^
+||crash-reporting.yy.com^
+||firebaseinstallation.googleapis.com^$app=com.yy.hiyo|com.yy.biu
+||firebaseremoteconfig.googleapis.com^$app=com.yy.hiyo|com.yy.biu
+||global-pushsdk.olaparty.com^
+||global-yypushsdk.yy.com^
+||h-adashx4sg.ut.taobao.com^
 ||hiido.com^
 ||hlog.hiido.com^
-||klog.hiido.com^
-||mlog.hiido.com^
-||ylog.hiido.com^
+||httpdns.gslb.yy.com^
+||huanju.cn^
+||huanjuyun.com^
+||i.ihago.net^
+||iab.yy.com^
+||iab.yy.com^
 ||jpush.cn^
 ||jpush.io^
-||global-pushsdk.olaparty.com^
-||push-api.olaparty.com^
-||push-link.olaparty.com^
+||kaixindou.kaixindou.net
+||kaixindou.net^
+||klog.hiido.com^
 ||launches.appsflyer.com^$app=com.yy.biu,important
-||log.sysop.duowan.com^
-||h-adashx4sg.ut.taobao.com^
-||adashx4sg.ut.taobao.com^
-||xjp-jmacs.m.taobao.com^
-||audid-api-sg.taobao.com^
+||lgglobalb.yy.com^
 ||likelbs.dinoyy.xyz^
+||livemediav.com^
+||log.sysop.duowan.com^
+||mlog.hiido.com^
+||o-gl-id.ihago.net^
+||o-gl-static.ihago.net^
+||o-id.ihago.net^
+||o-static.ihago.net^
+||oth.str.mdt.qq.com^
+||o-ws-bts-ali-id.ihago.net^
+||push-api.olaparty.com^
+||push-api.yy.com^
+||push-link.olaparty.com^
+||push-link.yy.com^
+||reinforce.security.yy.com^
+||xjp-jmacs.m.taobao.com^
+||ylog.hiido.com^
 
 [AOL - News, Mail & Video: com.aol.mobile.aolapp]
 [Yahoo Mail: com.yahoo.mobile.client.android.mail]
-||exceptions.mobile.yahoo.com^
-||guce.oath.com^
-||service.cmp.oath.com^
-||by.uservoice.com^
-||smarttv-smartinfo.manhattan.yahoo.com^
 ||analytics.query.yahoo.com^
+||by.uservoice.com^
+||exceptions.mobile.yahoo.com^
 ||firebaseinstallation.googleapis.com^$app=com.aol.mobile.aolapp|com.yahoo.mobile.client.android.mail
 ||firebaseremoteconfig.googleapis.com^$app=com.aol.mobile.aolapp|com.yahoo.mobile.client.android.mail
+||guce.oath.com^
+||service.cmp.oath.com^
+||smarttv-smartinfo.manhattan.yahoo.com^
 
 [NekoPoi: com.usamin.nekopoi]
+||ads.tapdaq.com^
 ||goofypismica.com^
 ||gstatic.com^$app=com.usamin.nekopoi
 ||p.3z094n2681i06q8k14w31cu4q80d5p.com^
-||ads.tapdaq.com^
 
 [TikTok: com.zhiliaoapp.musically]
 [TikTok ID: com.ss.android.ugc.trill]
-||analytics.tiktok.com^
 ||ads.tiktok.com^
+||analytics.tiktok.com^
 
 [Likee - Let You Shine: video.like]
-||web.facebook.com^$app=video.like
-||www.facebook.com^$app=video.like
-||v16-ad.byteoversea.com^
-||static-act.like-video.com^
-||gdl.news-cdn.site^
 ||api.imotech.tech^
 ||gdl.liketech-cdn.site^
+||gdl.news-cdn.site^
+||static-act.like-video.com^
 ||static-web.likeevideo.com^
+||v16-ad.byteoversea.com^
 ||videosnap.like.video^
+||web.facebook.com^$app=video.like
+||www.facebook.com^$app=video.like
 
 [SnackVideo: com.kwai.bulldog]
+||ak-static.snackvideo.in^
 ||aws-api.kibads.com^
-||g-logsdk.uvfuns.com^
-||g-logsdk.snackvideo.com^
 ||aws-logsdk.snackvideo.com^
 ||aws-logsdk.uvfuns.com^
-||g-api.uvfuns.com^
-||static.yximgs.com^
-||ak-static.snackvideo.in^
 ||aws-static.snackvideo.in^
 ||clounfront.net^$app=com.kwai.bulldog
-||wlog.kuaishou.com^
+||g-api.uvfuns.com^
+||g-logsdk.snackvideo.com^
+||g-logsdk.uvfuns.com^
 ||kuaishou.com^
+||static.yximgs.com^
 ||uvfuns.com^
+||wlog.kuaishou.com^
 
 [HUAWEI PHONES]
-||metrics-dra.dt.hicloud.com^
+||alicdn.com^
+||appdl2.dbankcdn.com^
+||browserr-dra.dbankcdn.com^
+||configdownload-dra.dbankcdn.com^
+||event.dbankcdn.com^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
+||logbak.hicloud.com^
 ||metrics1.dt.hicloud.com^
 ||metrics2.dt.hicloud.com^
 ||metrics3.dt.hicloud.com^
 ||metrics4.dt.hicloud.com^
 ||metrics5.dt.hicloud.com^
 ||metrics6.dt.hicloud.com^
+||metrics-dra.dt.hicloud.com^
 ||poster-dra.dbankcdn.com^
-||grs.dbankcloud.com^
-||grs.dbankcloud.cn^
-||grs.dbankcloud.asia^
-||grs.dbankcloud.eu^
-||event.dbankcdn.com^
-||static1.dmcdn.net^
 ||service-sg.hwccpc.com^
-||vod-vrz-dra.dbankcdn.com^
-||logbak.hicloud.com^
-||browserr-dra.dbankcdn.com^
-||appdl2.dbankcdn.com^
-||alicdn.com^
+||static1.dmcdn.net^
 ||syncdrive-dra.cloud.dbankcloud.com^
-||configdownload-dra.dbankcdn.com^
+||vod-vrz-dra.dbankcdn.com^
 
 [XIAOMI PHONES]
 ### I don't have (yet) Xiaomi device, please test throughly ###
-||resolver.msg.global.xiaomi.net^
-||resolver.msg.xiaomi.net^
-||web-analytics-sg.huami.com^
-||web-analytics.ap-southeast-1. elasticbeanstalk.com^
-||upload-cdn.huami.com^
-||d14bb1f98q04f8.cloudfront.net^
-||app-analytics-sg.huami.com^
-||app.chat.global.xiaomi.net^
-||app.chat.xiaomi.net^
-||api.ad.intl.xiaomi.com^
-||api.ad.xiaomi.com^
-||api.admob.xiaomi.com^
-||cdn.ad.xiaomi.com^
-||data.mistat.intl.xiaomi.com^
-||data.mistat.xiaomi.com^
-||data.mistat.india.xiaomi.com^
-||data.mistat.intl.xiaomi.com^
-||data.mistat.us.xiaomi.com^
-||data.sec.miui.com^
-||e.ad.xiaomi.com^
-||privacy.api.intl.miui.com^
-||privacy.api.miui.com^
-||privacy.api.india.miui.com^
-||sdkconfig.ad.intl.xiaomi.com^
-||sdkconfig.ad.india.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
-||sg.stat.appmifile.com^
-||tracking.intl.miui.com^
-||tracking.india.miui.com^
-||tracking.miui.com^
-||msg.global.xiaomi.net^
-||ad.xiaomi.com^
 ||a.stat.xiaomi.com^
 ||abtest.mistat.intl.xiaomi.com^
 ||abtest.mistat.xiaomi.com^
+||ad.xiaomi.com^
+||api.ad.intl.xiaomi.com^
+||api.ad.xiaomi.com^
+||api.admob.xiaomi.com^
+||app.chat.global.xiaomi.net^
+||app.chat.xiaomi.net^
+||app-analytics-sg.huami.com^
+||cdn.ad.xiaomi.com^
+||d14bb1f98q04f8.cloudfront.net^
+||data.mistat.india.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.us.xiaomi.com^
+||data.mistat.xiaomi.com^
+||data.sec.miui.com^
+||e.ad.xiaomi.com^
 ||globalapi.ad.xiaomi.com^
 ||log.ad.xiaomi.com^
+||msg.global.xiaomi.net^
+||privacy.api.india.miui.com^
+||privacy.api.intl.miui.com^
+||privacy.api.miui.com^
+||resolver.msg.global.xiaomi.net^
+||resolver.msg.xiaomi.net^
+||sdkconfig.ad.india.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sg.stat.appmifile.com^
 ||test.ad.xiaomi.com^
 ||test.e.ad.xiaomi.com^
+||tracking.india.miui.com^
+||tracking.intl.miui.com^
+||tracking.miui.com^
+||upload-cdn.huami.com^
+||web-analytics.ap-southeast-1. elasticbeanstalk.com^
+||web-analytics-sg.huami.com^
 
 [Shopee Indonesia: com.shopee.id]
-||log-collector.shopee.sg^
-||log-collector.shopee.com.my^
-||log-collector.shopee.ph^
-||log-collector.shopee.co.id^
-||log-collector.shopee.tw^
-||log-collector.shopee.co.th^
-||log-collector.shopee.vn^
-||log-collector.shopee.com.br^
-||log-collector.shopee.com.mx^
-||userstats.shopee.sg^
-||userstats.shopee.com.my^
-||userstats.shopee.ph^
-||userstats.shopee.co.id^
-||userstats.shopee.tw^
-||userstats.shopee.co.th^
-||userstats.shopee.vn^
-||userstats.shopee.com.br^
-||userstats.shopee.com.mx^
-||sg2.sgw.shopeemobile.com^
-||idfp.tongdun.net^
-||firebaseinstallation.googleapis.com^$app=com.shopee.id
-||firebaseremoteconfig.googleapis.com^$app=com.shopee.id
-||play-ws.vod.shopee.com^
+||103.115.77.222^
+||1500000774.vod2.myqcloud.com^
 ||cdngarenanow-a.akamaihd.net^$app=com.shopee.id
 ||content.garena.com^$app=com.shopee.id
+||firebaseinstallation.googleapis.com^$app=com.shopee.id
+||firebaseremoteconfig.googleapis.com^$app=com.shopee.id
+||idfp.tongdun.net^
 ||license.vod2.myqcloud.com^
-||1500000774.vod2.myqcloud.com^
+||log-collector.shopee.co.id^
+||log-collector.shopee.co.th^
+||log-collector.shopee.com.br^
+||log-collector.shopee.com.mx^
+||log-collector.shopee.com.my^
+||log-collector.shopee.ph^
+||log-collector.shopee.sg^
+||log-collector.shopee.tw^
+||log-collector.shopee.vn^
 ||play-tx.vod.shopee.com^
+||play-ws.vod.shopee.com^
 ||sg2.sgw.shopeemobile.com^
-||103.115.77.222^
+||sg2.sgw.shopeemobile.com^
+||userstats.shopee.co.id^
+||userstats.shopee.co.th^
+||userstats.shopee.com.br^
+||userstats.shopee.com.mx^
+||userstats.shopee.com.my^
+||userstats.shopee.ph^
+||userstats.shopee.sg^
+||userstats.shopee.tw^
+||userstats.shopee.vn^
 
 [F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein]
-||web.facebook.com^$app=xyz.gl.moviein
-||www.facebook.com^$app=xyz.gl.moviein
-||sf-tb-sg.ibytedtos.com^
 ||dm16-alisg.byteoversea.com^
 ||i1.wp.com^
 ||movie-indo-5b984.firebaseapp.com^
+||sf-tb-sg.ibytedtos.com^
+||web.facebook.com^$app=xyz.gl.moviein
+||www.facebook.com^$app=xyz.gl.moviein
 
 [Snaptube: com.snaptube.premium]
-||config.ad.snaptube.app^
-||apps.ad.snaptube.app^
-||push.snaptube.app^
-||www.facebook.com^$app=com.snaptube.premium
-||web.facebook.com^$app=com.snaptube.premium
-||yt3.ggpht.com^
-||android.bugly.qq.com^
 ||analytics.snaptube.app^
+||android.bugly.qq.com^
+||apps.ad.snaptube.app^
+||config.ad.snaptube.app^
 ||dns.google.com^$app=com.snaptube.premium
 ||firebaseremoteconfig.googleapis.com^$app=com.snaptube.premium
 ||i9.ytimg.com^$app=com.snaptube.premium
+||push.snaptube.app^
+||web.facebook.com^$app=com.snaptube.premium
+||www.facebook.com^$app=com.snaptube.premium
+||yt3.ggpht.com^
 
 [Garena: com.garena.gaslite]
 ||content.garena.com/gas/ad_banner/*
 
 [CamScanner: com.intsig.camscanner]
-||static.intsig.net^
-||ss-static.intsig.net^
-||ss-static.intsig.net.mcchcdn.com^
-||b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn
-||ss-static.intsig.net.whecloud.com^
 ||157.185.169.206^
-||logio.intsig.net^
+||api.facebook.com^$app=com.intsig.camscanner
+||b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn^
+||graph.facebook.com^$app=com.intsig.camscanner
+||launches.appsflyer.com^$app=com.intsig.camscanner,important
+||ss-static.intsig.net.mcchcdn.com^
+||ss-static.intsig.net.whecloud.com^
+||ss-static.intsig.net^
+||star.facebook.com^$app=com.intsig.camscanner
+||static.intsig.net^
+||web.facebook.com^$app=com.intsig.camscanner
