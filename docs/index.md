@@ -1,6 +1,6 @@
 # What-Zit-Tooya Ad-Block
 
-Additional ad-block to enhance your ads-filter. Using Adblock Syntax and recommended to use it with **[AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).**
+Additional ad-block to enhance your ads-filter. Using AdBlock Syntax and recommended to use it with **[AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).**
 
 Download AdGuard for Android here:
 - [Stable](https://anonym.to/?https://agrd.io/apk)
@@ -23,8 +23,16 @@ Download AdGuard for Android here:
     4. [uAssets filters by uBlockOrigin](https://anonym.to/?https://github.com/uBlockOrigin/uAssets)
     5. Of course, My Ad-Block filter. :)
 
-**Subscribe to my Ad-Block: [Here](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt)**
+**Subscribe to my Ad-Block:**
 
-**Feel free to report any issue: [Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
+RAW Link: [https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt)
+
+For more strong protection, I recommend to use **BlahDNS**.
+Its fast, no logs, block ads server, mobile friendly, tracking protection, and much more.
+Go here to add it into AdGuard: [BlahDNS](https://anonym.to/?https://blahdns.com/)
+
+Select one server that nearest to your location.
 
 I only add filter in the app that i have used. If you want to add your filter to my ad-block, feel free to pull request.
+
+**Report any issue: [Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
