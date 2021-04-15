@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 15, 2021 12:00 PM (UTC+7)
+! Last modified: April 15, 2021 12:30 PM (UTC+7)
 ! Version: 15/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -80,7 +80,7 @@
 ||p0.ipstatp.com^
 ||pmp-cdn.modengs.net^
 ||push-video.wshareit.com^
-||receiver.metis.infeng.site^
+||receiver-metis.infeng.site^
 ||reporttk.com^
 ||rqmob.com^
 ||rtservice.cocos.net^
@@ -145,8 +145,6 @@
 ||location.services.mozilla.com^
 
 [Lazada Indonesia: com.lazada.android]
-||id-live.slatic.net^
-||slatic.net^
 ||static-file.lazada.co.id^
 
 [Bardi Smart Home: com.bardi.smart.home] 
@@ -308,7 +306,6 @@
 ||wlog.kuaishou.com^
 
 [HUAWEI PHONES]
-||alicdn.com^
 ||appdl2.dbankcdn.com^
 ||browserr-dra.dbankcdn.com^
 ||configdownload-dra.dbankcdn.com^
