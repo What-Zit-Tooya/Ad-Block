@@ -1,0 +1,411 @@
+! Title: WhatZitTooya's Ad-Block (Simplified)
+! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
+! Author: WhatZitTooya
+! Last modified: April 17, 2021 10:15 AM (UTC+7)
+! Version: 17/04/2021
+! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+
+! UNIVERSAL
+||adservice.google.com^
+||api.adaether.com^
+||app-measurement.com^
+||appsflyer.com^
+||cdp.cloud.unity3d.com^
+||doubleclick.net^
+||firebaselogging-pa.googleapis.com^
+||firebase-settings.crashlytics.com^
+||flurry.com^
+||google-analytics.com^
+||googlesyndication.com^
+||googletagmanager.com^
+||googletmanager.com^
+||kvinit-prod.api.kochava.com^
+||oth.eve.mdt.qq.com^
+||pagead2.googlesyndication.com^
+||scorecardresearch.com^
+||tsg.tdatamaster.com^
+
+! Facebook Related Server
+||api.facebook.com^
+||b-graph.facebook.com^
+||b-graph.instagram.com^
+||b-www.facebook.com^
+||edge-mqtt.facebook.com^
+||graph.facebook.com^
+||graph.fbpigeon.com^
+||graph.instagram.com^
+||mqtt-mini.facebook.com^
+||star.c10r.facebook.com^
+||star.facebook.com^
+||z-m-graph.facebook.com^
+
+! SHAREit: com.lenovo.anyshare.gps
+! Block NSFW and Fuc*king video ads. Blame ShareIt devs
+13.224.250.223
+159.138.101.104
+159.138.102.255
+||active.wshareit.com^
+||adconf.rqmob.com^
+||ads.mopub.com^
+||api.rqmob.com^
+||api.shareitgames.com^
+||api.wshareit.com^
+||ascribe.rqmob.com^
+||asia-abroad.com^
+||buruwan.com^
+||cdn.chinatelecom.net.c.footprint.net^
+||cdn.ushareit.com.w.kunlunsl.com^
+||cdn.ushareit.com^
+||cdn2.gamecenter.run.cdn.dnsv1.com^
+||chinatelecom.net^
+||cocosjoy.com^
+||cyyjit.com^
+||d54bwtqv0a3zd.cloudfront.net^
+||dt.beyla.site^
+||fgeh.overseavideo.sched.apdcdn.com^
+||footprint.net^
+||gamecenter.run^
+||gihappy.com^
+||gjqvujjc.tweb.sched.ovscdns.com^
+||gshareit.com^
+||h5.wshareit.com^
+||jcloudcdn.com^
+||jcloud-cdn.com^
+||kunlunsl.com^
+||ladon.wshareit.com^
+||loopmygame.com^
+||modengs.net^
+||mopub.com^
+||ns-715.awsdns-25.net^
+||p0.ipstatp.com^
+||pmp-cdn.modengs.net^
+||profiler-collector.wshareit.com^
+||push-video.wshareit.com^
+||receiver-metis.infeng.site^
+||reporttk.com^
+||rqmob.com^
+||rtservice.cocos.net^
+||rtservice.cocosjoy.com^
+||shareitgames.com^
+||shareitgames.run^
+||shareit-push-cdn.wshareit.com.w.kunlunsl.com^
+||slivee.com^
+||srtg.mobi^
+||st.wshareit.com^
+||static.rqmob.com.w.kunlunsl.com^
+||sz-loc.wshareit.com^
+||titgames.com^
+||tracker.hellay.net^
+||usicdn.com^
+||v262.dl.abroad.asia-abroad.com^
+||v353.dl.abroad.asia-abroad.com^
+||vs.wshareit.com.asia-abroad.com^
+||vs.wshareit.com.b.galileo.jcloud-cdn.com^
+||vs.wshareit.com.cdn.jcloudcdn.com^
+||vs.wshareit.com^
+||watch-it.video^
+||wshareit.com^
+||www.pullcf.com^
+||www.pullcm.com^
+104.19.128.78
+104.19.129.78
+104.19.130.78
+104.19.131.78
+104.19.143.77
+107.23.178.199
+13.227.228.19
+13.248.218.66
+13.35.13.120
+13.35.13.45
+159.138.103.42
+159.138.106.8
+159.138.84.44
+34.199.12.244
+75.2.70.67
+76.223.65.142
+
+! Detik: org.detikcom.rss
+! CNN Indonesia: com.cnn.indonesia
+! CNBC Indonesia: com.cnbc.indonesia
+! Liputan6.com: com.woi.liputan6.android
+! BEGIN Video Block. Unblock this if you want to see Video
+||vod.cnbcindonesia.com^
+||vod.cnnindonesia.com^
+||vod.detik.com^
+! END Video Block
+||2mdn.net^
+||cdnstatic.detik.com^
+||kayumanis.detik.com^
+||mobile-analytic.detik.com^
+||newrevive.detik.com^
+||push.detik.com^
+||sessions.bugsnag.com^
+
+! KOMPAS.com: com.ertanto.kompas.official
+! Tribunnews.com: mobile.android.tribun
+||adsimg.kompas.com^
+||apis.kompas.com^
+||kompasads.com^
+||mcf-push.kompas.com^
+||teads.tv^
+
+! Mozilla's Apps
+||incoming.telemetry.mozilla.org^
+||location.services.mozilla.com^
+
+! Lazada Indonesia: com.lazada.android
+||static-file.lazada.co.id^
+
+! Bardi Smart Home: com.bardi.smart.home
+||h1.iot-dns.com^
+||tuyacn.com^
+
+! by.U - The All-Digital Provider: com.byu.id
+||cepushupdates.azureedge.net^
+||codepush.appcenter.ms^
+||in.appcenter.ms^
+||static.zdassets.com^
+
+! Opera Mini:com.opera.mini.native
+! Opera Browser: com.opera.browser
+! Opera Browser beta: com.opera.browser.beta
+! Opera Touch: com.opera.touch
+! BEGIN Block News
+||cdn-af.op-mobile.opera.com^
+||discover.operacdn.com^
+||feednews.com^
+||news.opera-api.com^
+||news-id.feednews.com^
+! END Block News
+157.240.13.14
+157.240.13.14
+157.240.15.1
+157.240.15.1
+||api.recsys.opera.com^
+||api.sec-tunnel.com^
+||api-a.op-mobile.opera.com^
+||ofa-b-sub.osp.opera.software^
+||ofa-sub.osp.opera.software^
+||operamini-sub.osp.opera.software^
+||pns-sdk.opera-api.com^
+||presence.api.drift.com^
+||submit.geo.opera.com^
+||submit-ash.osp.opera.software^
+||submit-target.osp.opera.software^
+||thumbnails.opera.com^
+||thumbnails2.opera.com^
+||t-odx.op-mobile.opera.com^
+
+! Drakor.ID: com.stream.drakorindoawet
+104.18.226.52
+||api.onesignal.com^
+||applovin.com^
+||cdn.onesignal.com^
+||onesignal.com^
+
+[WhatsApp Messenger: com.whatsapp]
+[WhatsApp Business: com.whatsapp.w4b]
+||privatestats.whatsapp.net^
+||static.whatsapp.net^
+||mmx-ds.cdn.whatsapp.net^
+
+! HAGO: com.yy.hiyo
+! Noizz - formerly Biugo: com.yy.biu
+||adashx4sg.ut.taobao.com^
+||android.rqd.qq.com^
+||ap.livemediav.com^
+||apblbs-sgp.service.huanjuyun.com^
+||aplbs-sgp.service.huanju.cn^
+||audid-api-sg.taobao.com^
+||btrace.qq.com^
+||crash-reporting.yy.com^
+||global-pushsdk.olaparty.com^
+||global-yypushsdk.yy.com^
+||h-adashx4sg.ut.taobao.com^
+||hiido.com^
+||hlog.hiido.com^
+||httpdns.gslb.yy.com^
+||huanju.cn^
+||huanjuyun.com^
+||i.ihago.net^
+||iab.yy.com^
+||jpush.cn^
+||jpush.io^
+||kaixindou.kaixindou.net^
+||kaixindou.net^
+||klog.hiido.com^
+||lgglobalb.yy.com^
+||likelbs.dinoyy.xyz^
+||livemediav.com^
+||log.sysop.duowan.com^
+||mlog.hiido.com^
+||o-gl-id.ihago.net^
+||o-gl-static.ihago.net^
+||o-id.ihago.net^
+||o-static.ihago.net^
+||oth.str.mdt.qq.com^
+||o-ws-bts-ali-id.ihago.net^
+||push-api.olaparty.com^
+||push-api.yy.com^
+||push-link.olaparty.com^
+||push-link.yy.com^
+||reinforce.security.yy.com^
+||xjp-jmacs.m.taobao.com^
+||ylog.hiido.com^
+
+! AOL - News, Mail & Video: com.aol.mobile.aolapp
+! Yahoo Mail: com.yahoo.mobile.client.android.mail
+||analytics.query.yahoo.com^
+||by.uservoice.com^
+||exceptions.mobile.yahoo.com^
+||guce.oath.com^
+||service.cmp.oath.com^
+||smarttv-smartinfo.manhattan.yahoo.com^
+
+! NekoPoi: com.usamin.nekopoi
+||ads.tapdaq.com^
+||goofypismica.com^
+||gstatic.com^$app=com.usamin.nekopoi
+||p.3z094n2681i06q8k14w31cu4q80d5p.com^
+
+! TikTok: com.zhiliaoapp.musically
+! TikTok ID: com.ss.android.ugc.trill
+||ads.tiktok.com^
+||analytics.tiktok.com^
+
+! Likee - Let You Shine: video.like
+||api.imotech.tech^
+||gdl.liketech-cdn.site^
+||gdl.news-cdn.site^
+||static-act.like-video.com^
+||static-web.likeevideo.com^
+||v16-ad.byteoversea.com^
+||videosnap.like.video^
+
+! SnackVideo: com.kwai.bulldog
+||ak-static.snackvideo.in^
+||aws-api.kibads.com^
+||aws-logsdk.snackvideo.com^
+||aws-logsdk.uvfuns.com^
+||aws-static.snackvideo.in^
+||clounfront.net^$app=com.kwai.bulldog
+||g-api.uvfuns.com^
+||g-logsdk.snackvideo.com^
+||g-logsdk.uvfuns.com^
+||kuaishou.com^
+||static.yximgs.com^
+||uvfuns.com^
+||wlog.kuaishou.com^
+
+[HUAWEI PHONES]
+||adx-dra.op.hicloud.com^
+||adx-dra-op-hicloud-com-dra.appacc.dbankedge.net^
+||cs02-pps-dra.dbankcdn.com^
+||dxzc1o98vrjl6.cloudfront.net^
+||grs.dbankcloud.asia^
+||grs.dbankcloud.cn^
+||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
+||logbak.hicloud.com^
+||metrics1.dt.hicloud.com^
+||metrics2.dt.hicloud.com^
+||metrics3.dt.hicloud.com^
+||metrics4.dt.hicloud.com^
+||metrics5.dt.hicloud.com^
+||metrics6.dt.hicloud.com^
+||metrics-dra.dt.hicloud.com^
+||static1.dmcdn.net^
+||vod-vrz-dra.dbankcdn.com^
+
+! XIAOMI PHONES
+! I don't have (yet) Xiaomi device, please test throughly
+||a.stat.xiaomi.com^
+||abtest.mistat.intl.xiaomi.com^
+||abtest.mistat.xiaomi.com^
+||ad.xiaomi.com^
+||api.ad.intl.xiaomi.com^
+||api.ad.xiaomi.com^
+||api.admob.xiaomi.com^
+||app.chat.global.xiaomi.net^
+||app.chat.xiaomi.net^
+||app-analytics-sg.huami.com^
+||cdn.ad.xiaomi.com^
+||d14bb1f98q04f8.cloudfront.net^
+||data.mistat.india.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.us.xiaomi.com^
+||data.mistat.xiaomi.com^
+||data.sec.miui.com^
+||e.ad.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||log.ad.xiaomi.com^
+||msg.global.xiaomi.net^
+||privacy.api.india.miui.com^
+||privacy.api.intl.miui.com^
+||privacy.api.miui.com^
+||resolver.msg.global.xiaomi.net^
+||resolver.msg.xiaomi.net^
+||sdkconfig.ad.india.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sg.stat.appmifile.com^
+||test.ad.xiaomi.com^
+||test.e.ad.xiaomi.com^
+||tracking.india.miui.com^
+||tracking.intl.miui.com^
+||tracking.miui.com^
+||upload-cdn.huami.com^
+||web-analytics.ap-southeast-1.elasticbeanstalk.com^
+||web-analytics-sg.huami.com^
+
+! Shopee Indonesia: com.shopee.id
+103.115.77.222
+||1500000774.vod2.myqcloud.com^
+||content.garena.com^$app=com.shopee.id
+||idfp.tongdun.net^
+||license.vod2.myqcloud.com^
+||log-collector.shopee.co.id^
+||log-collector.shopee.co.th^
+||log-collector.shopee.com.br^
+||log-collector.shopee.com.mx^
+||log-collector.shopee.com.my^
+||log-collector.shopee.ph^
+||log-collector.shopee.sg^
+||log-collector.shopee.tw^
+||log-collector.shopee.vn^
+||play-tx.vod.shopee.com^
+||play-ws.vod.shopee.com^
+||sg2.sgw.shopeemobile.com^
+||userstats.shopee.co.id^
+||userstats.shopee.co.th^
+||userstats.shopee.com.br^
+||userstats.shopee.com.mx^
+||userstats.shopee.com.my^
+||userstats.shopee.ph^
+||userstats.shopee.sg^
+||userstats.shopee.tw^
+||userstats.shopee.vn^
+
+! F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
+||dm16-alisg.byteoversea.com^
+||i1.wp.com^
+||movie-indo-5b984.firebaseapp.com^
+||sf-tb-sg.ibytedtos.com^
+
+! Snaptube: com.snaptube.premium
+||analytics.snaptube.app^
+||android.bugly.qq.com^
+||apps.ad.snaptube.app^
+||config.ad.snaptube.app^
+||push.snaptube.app^
+
+! CamScanner: com.intsig.camscanner
+157.185.169.206
+||b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn^
+||ss-static.intsig.net.mcchcdn.com^
+||ss-static.intsig.net.whecloud.com^
+||ss-static.intsig.net^
+||static.intsig.net^
