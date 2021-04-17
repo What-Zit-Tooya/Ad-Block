@@ -23,9 +23,14 @@ Download AdGuard for Android here:
     4. [uAssets filters by uBlockOrigin](https://anonym.to/?https://github.com/uBlockOrigin/uAssets)
     5. Of course, My Ad-Block filter. :)
 
-**Subscribe to my Ad-Block:**
+# **Subscribe to my Ad-Block**
 
-RAW Link: [https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt)
+Subscribe | Purpose
+------------ | -------------
+[Ad-Block](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt) | My main ad block. Use it to block mobile ads
+[Ad-Block (Simplified)](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-Simplified.txt) | Simplified version of my Ad-Block. Suitable for ad-blocking at DNS-level
+
+Recommended to use both to improve your ad blocking experience.
 
 For more strong protection, I recommend to use **BlahDNS**.
 Its fast, no logs, block ads server, mobile friendly, tracking protection, and much more.
