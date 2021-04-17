@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 15, 2021 08:25 PM (UTC+7)
-! Version: 15/04/2021
+! Last modified: April 17, 2021 06:15 PM (UTC+7)
+! Version: 17/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -49,7 +49,7 @@
 @@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
 
 [SHAREit: com.lenovo.anyshare.gps]
-### Block NSFW and Fuc*king video ads. Blame ShareIt devs ###
+### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
 ||13.35.13.120^
 ||api.facebook.com^$app=com.lenovo.anyshare.gps
 ||asia-abroad.com^
@@ -146,7 +146,10 @@
 ||location.services.mozilla.com^
 
 [Lazada Indonesia: com.lazada.android]
-||static-file.lazada.co.id^
+||h-adashx4sg.ut.taobao.com^
+||lzd.highway.alibaba-inc.com^
+||xjp-msgacs.m.taobao.com^
+||xjp-jmacs.m.taobao.com^
 
 [Bardi Smart Home: com.bardi.smart.home] 
 ||h1.iot-dns.com^
@@ -203,9 +206,10 @@
 
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
+||mmx-ds.cdn.whatsapp.net^
 ||privatestats.whatsapp.net^
 ||static.whatsapp.net^
-||mmx-ds.cdn.whatsapp.net^
+||scontent.whatsapp.net^
 
 [ShareMe: com.xiaomi.midrop]
 ||firebaseinstallation.googleapis.com^$app=com.xiaomi.midrop
@@ -225,7 +229,6 @@
 ||firebaseremoteconfig.googleapis.com^$app=com.yy.hiyo|com.yy.biu
 ||global-pushsdk.olaparty.com^
 ||global-yypushsdk.yy.com^
-||h-adashx4sg.ut.taobao.com^
 ||hiido.com^
 ||hlog.hiido.com^
 ||httpdns.gslb.yy.com^
@@ -255,7 +258,6 @@
 ||push-link.olaparty.com^
 ||push-link.yy.com^
 ||reinforce.security.yy.com^
-||xjp-jmacs.m.taobao.com^
 ||ylog.hiido.com^
 
 [AOL - News, Mail & Video: com.aol.mobile.aolapp]
