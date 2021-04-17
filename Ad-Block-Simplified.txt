@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 17, 2021 10:15 AM (UTC+7)
+! Last modified: April 17, 2021 06:15 AM (UTC+7)
 ! Version: 17/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -42,7 +42,7 @@
 ||z-m-graph.facebook.com^
 
 ! SHAREit: com.lenovo.anyshare.gps
-! Block NSFW and Fuc*king video ads. Blame ShareIt devs
+! Block NSFW and Fuc*king video ads. Blame SHAREit devs
 13.224.250.223
 159.138.101.104
 159.138.102.255
@@ -156,7 +156,14 @@
 ||location.services.mozilla.com^
 
 ! Lazada Indonesia: com.lazada.android
-||static-file.lazada.co.id^
+47.246.32.33
+47.8.94.32
+47.89.74.76
+47.89.74.75
+||h-adashx4sg.ut.taobao.com^
+||lzd.highway.alibaba-inc.com^
+||xjp-msgacs.m.taobao.com^
+||xjp-jmacs.m.taobao.com^
 
 ! Bardi Smart Home: com.bardi.smart.home
 ||h1.iot-dns.com^
@@ -207,9 +214,10 @@
 
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
+||mmx-ds.cdn.whatsapp.net^
 ||privatestats.whatsapp.net^
 ||static.whatsapp.net^
-||mmx-ds.cdn.whatsapp.net^
+||scontent.whatsapp.net^
 
 ! HAGO: com.yy.hiyo
 ! Noizz - formerly Biugo: com.yy.biu
@@ -223,7 +231,6 @@
 ||crash-reporting.yy.com^
 ||global-pushsdk.olaparty.com^
 ||global-yypushsdk.yy.com^
-||h-adashx4sg.ut.taobao.com^
 ||hiido.com^
 ||hlog.hiido.com^
 ||httpdns.gslb.yy.com^
@@ -252,7 +259,6 @@
 ||push-link.olaparty.com^
 ||push-link.yy.com^
 ||reinforce.security.yy.com^
-||xjp-jmacs.m.taobao.com^
 ||ylog.hiido.com^
 
 ! AOL - News, Mail & Video: com.aol.mobile.aolapp
@@ -300,6 +306,7 @@
 ||wlog.kuaishou.com^
 
 [HUAWEI PHONES]
+159.138.99.194
 ||adx-dra.op.hicloud.com^
 ||adx-dra-op-hicloud-com-dra.appacc.dbankedge.net^
 ||cs02-pps-dra.dbankcdn.com^
