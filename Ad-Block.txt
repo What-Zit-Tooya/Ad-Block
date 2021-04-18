@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 18, 2021 04:50 PM (UTC+7)
+! Last modified: April 18, 2021 08:20 PM (UTC+7)
 ! Version: 18/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -21,6 +21,7 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletmanager.com^
+||gstaticadssl.l.google.com^
 ||kvinit-prod.api.kochava.com^
 ||oth.eve.mdt.qq.com^
 ||pagead2.googlesyndication.com^
@@ -209,6 +210,7 @@
 
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
+||dit.whatsapp.net^
 ||mmx-ds.cdn.whatsapp.net^
 ||privatestats.whatsapp.net^
 ||static.whatsapp.net^
