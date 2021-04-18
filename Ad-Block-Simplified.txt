@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 18, 2021 11:45 AM (UTC+7)
+! Last modified: April 18, 2021 12:35 AM (UTC+7)
 ! Version: 18/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -44,9 +44,11 @@
 
 ! SHAREit: com.lenovo.anyshare.gps
 ! Block NSFW and Fuc*king video ads. Blame SHAREit devs
+13.107.21.200
 13.224.250.223
 159.138.101.104
 159.138.102.255
+||a-0001.a-afdentry.net.trafficmanager.net^
 ||active.wshareit.com^
 ||adconf.rqmob.com^
 ||ads.mopub.com^
@@ -65,6 +67,7 @@
 ||cyyjit.com^
 ||d54bwtqv0a3zd.cloudfront.net^
 ||dt.beyla.site^
+||dual-a-0001.a-msedge.net^
 ||fgeh.overseavideo.sched.apdcdn.com^
 ||footprint.net^
 ||gamecenter.run^
@@ -107,6 +110,7 @@
 ||vs.wshareit.com^
 ||watch-it.video^
 ||wshareit.com^
+||www-bing-com.dual-a-0001.a-msedge.net^
 ||www.pullcf.com^
 ||www.pullcm.com^
 104.19.128.78
@@ -115,6 +119,7 @@
 104.19.131.78
 104.19.143.77
 107.23.178.199
+204.79.197.200
 13.227.228.19
 13.248.218.66
 13.35.13.120
