@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 18, 2021 08:00 PM (UTC+7)
+! Last modified: April 18, 2021 09:05 PM (UTC+7)
 ! Version: 18/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -232,6 +232,8 @@
 0.0.0.0 ap.livemediav.com
 0.0.0.0 apblbs-sgp.service.huanjuyun.com
 0.0.0.0 aplbs-sgp.service.huanju.cn
+0.0.0.0 argoapi.jocloud.com
+0.0.0.0 argoapi.yy.com
 0.0.0.0 audid-api-sg.taobao.com
 0.0.0.0 btrace.qq.com
 0.0.0.0 crash-reporting.yy.com
@@ -239,6 +241,7 @@
 0.0.0.0 global-yypushsdk.yy.com
 0.0.0.0 hiido.com
 0.0.0.0 hlog.hiido.com
+0.0.0.0 httpdns-intl.gslb.yy.com
 0.0.0.0 httpdns.gslb.yy.com
 0.0.0.0 huanju.cn
 0.0.0.0 huanjuyun.com
@@ -432,6 +435,7 @@
 0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 appconf-ocs-sgp.heytapdl.com
 0.0.0.0 appconf-sgp.heytapdl.com
+0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.webengage.com
 0.0.0.0 cdn.qgraph.io
@@ -440,8 +444,9 @@
 0.0.0.0 cloudi-sg.browser.heytapmobile.com
 0.0.0.0 config.quantumgraph.com
 0.0.0.0 conf-sg-dc.heytapdl.com
-0.0.0.0 conn1.oppomobile.com
+0.0.0.0 conf-sg.dc.heytapmobi.com
 0.0.0.0 dcintl1.push.heytapmobile.com
+0.0.0.0 dcintl.push.heytapmobile.com
 0.0.0.0 dhfs-id.heytapimage.com
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
@@ -452,16 +457,30 @@
 0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 mobile.useinsider.com
+0.0.0.0 mqtt.qiscus.com
 0.0.0.0 oppo.qdownload2.sched.ovscdns.com
 0.0.0.0 realtime-jawa.qiscus.com
 0.0.0.0 rstatic.akamaized.net
+0.0.0.0 sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com
 0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com
 0.0.0.0 u888.v.bsclink.cn
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 upload.cc
+0.0.0.0 ups-west.ksmobile.net
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 v1.cnzz.com
 0.0.0.0 videoclipf.apps.coloros.com
 0.0.0.0 www.heytap.com
+
+! AVAST 
+! From built-in Anti-Virus Chinese phones
+0.0.0.0 36d629c3.tweb.sched.ovscdns.com
+0.0.0.0 a191.d.akamai.net
+0.0.0.0 analytics.ff.avast.com
+0.0.0.0 e7126.dscd.akamaiedge.net
+0.0.0.0 mobilepartner.avcdn.net.edgekey.net
+0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 shepherd.ns1.ff.avast.com
+0.0.0.0 sp-497f6f2f.honzik.avcdn.net
