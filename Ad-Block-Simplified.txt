@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 18, 2021 05:30 PM (UTC+7)
+! Last modified: April 18, 2021 08:20 PM (UTC+7)
 ! Version: 18/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -21,6 +21,7 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletmanager.com^
+||gstaticadssl.l.google.com^
 ||kvinit-prod.api.kochava.com^
 ||oth.eve.mdt.qq.com^
 ||pagead2.googlesyndication.com^
@@ -221,6 +222,7 @@
 
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
+||dit.whatsapp.net^
 ||mmx-ds.cdn.whatsapp.net^
 ||privatestats.whatsapp.net^
 ||static.whatsapp.net^
