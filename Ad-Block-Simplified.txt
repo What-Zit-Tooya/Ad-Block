@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 18, 2021 08:20 PM (UTC+7)
+! Last modified: April 18, 2021 09:25 PM (UTC+7)
 ! Version: 18/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -235,6 +235,8 @@
 ||ap.livemediav.com^
 ||apblbs-sgp.service.huanjuyun.com^
 ||aplbs-sgp.service.huanju.cn^
+||argoapi.jocloud.com^
+||argoapi.yy.com^
 ||audid-api-sg.taobao.com^
 ||btrace.qq.com^
 ||crash-reporting.yy.com^
@@ -242,6 +244,7 @@
 ||global-yypushsdk.yy.com^
 ||hiido.com^
 ||hlog.hiido.com^
+||httpdns-intl.gslb.yy.com^
 ||httpdns.gslb.yy.com^
 ||huanju.cn^
 ||huanjuyun.com^
@@ -423,3 +426,64 @@
 ||ss-static.intsig.net.whecloud.com^
 ||ss-static.intsig.net^
 ||static.intsig.net^
+
+! OPPO PHONES
+! Maybe REALME too, need test throughly
+||adx-id.ads.heytapmobile.com^
+||album-sg01a.ocloud.heytapmobi.com^
+||api.qiscus.com^
+||api.quantumgraph.com^
+||api-gl.cdo.heytapmobi.com^
+||api-id.store.heytapmobi.com^
+||appconf.heytapdownload.com^
+||appconf-ocs-sgp.heytapdl.com^
+||appconf-sgp.heytapdl.com^
+||behacdn.ksmobile.net^
+||c.amazon-adsystem.com^
+||c.webengage.com^
+||cdn.qgraph.io^
+||cl-data-id.ads.heytapmobi.com^
+||client-uc.heytapmobi.com^
+||cloudi-sg.browser.heytapmobile.com^
+||config.quantumgraph.com^
+||conf-sg-dc.heytapdl.com^
+||conf-sg.dc.heytapmobi.com^
+||dcintl1.push.heytapmobile.com^
+||dcintl.push.heytapmobile.com^
+||dhfs-id.heytapimage.com^
+||dragate-sg.dc.heytapmobi.com^
+||dragate-sg.dc.oppomobile.com^
+||epoch-id.cdo.heytapmobi.com^
+||iflow-sg.browser.heytapmobile.com^
+||i-sg.magazine.heytapmobile.com^
+||i-sg01a.ocloud.heytapmobi.com^
+||log-eap-sg.coloros.com^
+||mdp-appconf-sg.heytapdl.com^
+||mobile.useinsider.com^
+||mqtt.qiscus.com^
+||oppo.qdownload2.sched.ovscdns.com^
+||realtime-jawa.qiscus.com^
+||rstatic.akamaized.net^
+||sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com^
+||smartcardf.apps.coloros.com^
+||stg-data-id.ads.heytapmobile.com^
+||u888.v.bsclink.cn^
+||u-id.cpc.heytapmobile.com^
+||upload.cc^
+||ups-west.ksmobile.net^
+||ups.ksmobile.net^
+||users.quantumgraph.com^
+||v1.cnzz.com^
+||videoclipf.apps.coloros.com^
+||www.heytap.com^
+
+! AVAST 
+! From built-in Anti-Virus Chinese phones
+||36d629c3.tweb.sched.ovscdns.com^
+||a191.d.akamai.net^
+||analytics.ff.avast.com^
+||e7126.dscd.akamaiedge.net^
+||mobilepartner.avcdn.net.edgekey.net^
+||shepherd.ff.avast.com^
+||shepherd.ns1.ff.avast.com^
+||sp-497f6f2f.honzik.avcdn.net^
