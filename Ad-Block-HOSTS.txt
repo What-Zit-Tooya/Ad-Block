@@ -1,0 +1,420 @@
+! Title: WhatZitTooya's Ad-Block (HOSTS)
+! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
+! Author: WhatZitTooya
+! Last modified: April 18, 2021 05:30 PM (UTC+7)
+! Version: 18/04/2021
+! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+
+! UNIVERSAL
+0.0.0.0 adservice.google.com
+0.0.0.0 api.adaether.com
+0.0.0.0 app-measurement.com
+0.0.0.0 appsflyer.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 doubleclick.net
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 flurry.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 googletmanager.com
+0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 tsg.tdatamaster.com
+
+! Facebook Related Server
+0.0.0.0 api.facebook.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 b-graph.instagram.com
+0.0.0.0 b-www.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.fbpigeon.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graphql.instagram.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 star.facebook.com
+0.0.0.0 z-m-graph.facebook.com
+
+! SHAREit: com.lenovo.anyshare.gps
+0.0.0.0 13.224.250.223
+0.0.0.0 159.138.101.104
+0.0.0.0 159.138.102.255
+! BLOCK BING
+0.0.0.0 13.107.21.200
+0.0.0.0 a-0001.a-afdentry.net.trafficmanager.net
+0.0.0.0 dual-a-0001.a-msedge.net
+0.0.0.0 www-bing-com.dual-a-0001.a-msedge.net
+0.0.0.0 204.79.197.200
+! END BLOCK BING
+0.0.0.0 active.wshareit.com
+0.0.0.0 adconf.rqmob.com
+0.0.0.0 ads.mopub.com
+0.0.0.0 api.rqmob.com
+0.0.0.0 api.shareitgames.com
+0.0.0.0 api.wshareit.com
+0.0.0.0 ascribe.rqmob.com
+0.0.0.0 asia-abroad.com
+0.0.0.0 buruwan.com
+0.0.0.0 cdn.chinatelecom.net.c.footprint.net
+0.0.0.0 cdn.ushareit.com.w.kunlunsl.com
+0.0.0.0 cdn.ushareit.com
+0.0.0.0 cdn2.gamecenter.run.cdn.dnsv1.com
+0.0.0.0 chinatelecom.net
+0.0.0.0 cocosjoy.com
+0.0.0.0 cyyjit.com
+0.0.0.0 d54bwtqv0a3zd.cloudfront.net
+0.0.0.0 dt.beyla.site
+0.0.0.0 fgeh.overseavideo.sched.apdcdn.com
+0.0.0.0 footprint.net
+0.0.0.0 gamecenter.run
+0.0.0.0 gihappy.com
+0.0.0.0 gjqvujjc.tweb.sched.ovscdns.com
+0.0.0.0 gshareit.com
+0.0.0.0 h5.wshareit.com
+0.0.0.0 jcloudcdn.com
+0.0.0.0 jcloud-cdn.com
+0.0.0.0 ladon.wshareit.com
+0.0.0.0 loopmygame.com
+0.0.0.0 modengs.net
+0.0.0.0 mopub.com
+0.0.0.0 ns-715.awsdns-25.net
+0.0.0.0 p0.ipstatp.com
+0.0.0.0 pmp-cdn.modengs.net
+0.0.0.0 profiler-collector.wshareit.com
+0.0.0.0 push-video.wshareit.com
+0.0.0.0 receiver-metis.infeng.site
+0.0.0.0 reporttk.com
+0.0.0.0 rqmob.com
+0.0.0.0 rtservice.cocos.net
+0.0.0.0 rtservice.cocosjoy.com
+0.0.0.0 shareitgames.com
+0.0.0.0 shareitgames.run
+0.0.0.0 shareit-push-cdn.wshareit.com.w.kunlunsl.com
+0.0.0.0 slivee.com
+0.0.0.0 srtg.mobi
+0.0.0.0 st.wshareit.com
+0.0.0.0 static.rqmob.com.w.kunlunsl.com
+0.0.0.0 sz-loc.wshareit.com
+0.0.0.0 titgames.com
+0.0.0.0 tracker.hellay.net
+0.0.0.0 usicdn.com
+0.0.0.0 v262.dl.abroad.asia-abroad.com
+0.0.0.0 v353.dl.abroad.asia-abroad.com
+0.0.0.0 vs.wshareit.com.asia-abroad.com
+0.0.0.0 vs.wshareit.com.b.galileo.jcloud-cdn.com
+0.0.0.0 vs.wshareit.com.cdn.jcloudcdn.com
+0.0.0.0 vs.wshareit.com
+0.0.0.0 watch-it.video
+0.0.0.0 wshareit.com
+0.0.0.0 www.pullcf.com
+0.0.0.0 www.pullcm.com
+0.0.0.0 104.19.128.78
+0.0.0.0 104.19.129.78
+0.0.0.0 104.19.130.78
+0.0.0.0 104.19.131.78
+0.0.0.0 104.19.143.77
+0.0.0.0 107.23.178.199
+0.0.0.0 13.227.228.19
+0.0.0.0 13.248.218.66
+0.0.0.0 13.35.13.120
+0.0.0.0 13.35.13.45
+0.0.0.0 159.138.103.42
+0.0.0.0 159.138.106.8
+0.0.0.0 159.138.84.44
+0.0.0.0 34.199.12.244
+0.0.0.0 75.2.70.67
+0.0.0.0 76.223.65.142
+
+! Detik: org.detikcom.rss
+! CNN Indonesia: com.cnn.indonesia
+! CNBC Indonesia: com.cnbc.indonesia
+! Liputan6.com: com.woi.liputan6.android
+! BEGIN Video Block. Unblock this if you want to see Video
+0.0.0.0 vod.cnbcindonesia.com
+0.0.0.0 vod.cnnindonesia.com
+0.0.0.0 vod.detik.com
+! END Video Block
+0.0.0.0 2mdn.net
+0.0.0.0 cdnstatic.detik.com
+0.0.0.0 kayumanis.detik.com
+0.0.0.0 mobile-analytic.detik.com
+0.0.0.0 newrevive.detik.com
+0.0.0.0 push.detik.com
+0.0.0.0 sessions.bugsnag.com
+
+! KOMPAS.com: com.ertanto.kompas.official
+! Tribunnews.com: mobile.android.tribun
+0.0.0.0 adsimg.kompas.com
+0.0.0.0 apis.kompas.com
+0.0.0.0 kompasads.com
+0.0.0.0 mcf-push.kompas.com
+0.0.0.0 teads.tv
+
+! Mozilla's Apps
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 location.services.mozilla.com
+
+! Lazada Indonesia: com.lazada.android
+0.0.0.0 47.246.32.33
+0.0.0.0 47.8.94.32
+0.0.0.0 47.89.74.76
+0.0.0.0 47.89.74.75
+0.0.0.0 h-adashx4sg.ut.taobao.com
+0.0.0.0 lzd.highway.alibaba-inc.com
+0.0.0.0 xjp-msgacs.m.taobao.com
+0.0.0.0 xjp-jmacs.m.taobao.com
+
+! Bardi Smart Home: com.bardi.smart.home
+0.0.0.0 h1.iot-dns.com
+0.0.0.0 tuyacn.com
+
+! by.U - The All-Digital Provider: com.byu.id
+0.0.0.0 cepushupdates.azureedge.net
+0.0.0.0 codepush.appcenter.ms
+0.0.0.0 in.appcenter.ms
+0.0.0.0 static.zdassets.com
+
+! Opera Mini:com.opera.mini.native
+! Opera Browser: com.opera.browser
+! Opera Browser beta: com.opera.browser.beta
+! Opera Touch: com.opera.touch
+! BEGIN Block News
+0.0.0.0 cdn-af.op-mobile.opera.com
+0.0.0.0 discover.operacdn.com
+0.0.0.0 feednews.com
+0.0.0.0 news.opera-api.com
+0.0.0.0 news-id.feednews.com
+! END Block News
+0.0.0.0 157.240.13.14
+0.0.0.0 157.240.15.1
+0.0.0.0 api.recsys.opera.com
+0.0.0.0 api.sec-tunnel.com
+0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 ofa-b-sub.osp.opera.software
+0.0.0.0 ofa-sub.osp.opera.software
+0.0.0.0 operamini-sub.osp.opera.software
+0.0.0.0 pns-sdk.opera-api.com
+0.0.0.0 presence.api.drift.com
+0.0.0.0 submit.geo.opera.com
+0.0.0.0 submit-ash.osp.opera.software
+0.0.0.0 submit-target.osp.opera.software
+0.0.0.0 thumbnails.opera.com
+0.0.0.0 thumbnails2.opera.com
+0.0.0.0 t-odx.op-mobile.opera.com
+
+! Drakor.ID: com.stream.drakorindoawet
+0.0.0.0 104.18.226.52
+0.0.0.0 api.onesignal.com
+0.0.0.0 applovin.com
+0.0.0.0 cdn.onesignal.com
+0.0.0.0 onesignal.com
+
+[WhatsApp Messenger: com.whatsapp]
+[WhatsApp Business: com.whatsapp.w4b]
+0.0.0.0 mmx-ds.cdn.whatsapp.net
+0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 static.whatsapp.net
+0.0.0.0 scontent.whatsapp.net
+
+! HAGO: com.yy.hiyo
+! Noizz - formerly Biugo: com.yy.biu
+0.0.0.0 adashx4sg.ut.taobao.com
+0.0.0.0 android.rqd.qq.com
+0.0.0.0 ap.livemediav.com
+0.0.0.0 apblbs-sgp.service.huanjuyun.com
+0.0.0.0 aplbs-sgp.service.huanju.cn
+0.0.0.0 audid-api-sg.taobao.com
+0.0.0.0 btrace.qq.com
+0.0.0.0 crash-reporting.yy.com
+0.0.0.0 global-pushsdk.olaparty.com
+0.0.0.0 global-yypushsdk.yy.com
+0.0.0.0 hiido.com
+0.0.0.0 hlog.hiido.com
+0.0.0.0 httpdns.gslb.yy.com
+0.0.0.0 huanju.cn
+0.0.0.0 huanjuyun.com
+0.0.0.0 i.ihago.net
+0.0.0.0 iab.yy.com
+0.0.0.0 jpush.cn
+0.0.0.0 jpush.io
+0.0.0.0 kaixindou.kaixindou.net
+0.0.0.0 kaixindou.net
+0.0.0.0 klog.hiido.com
+0.0.0.0 lgglobalb.yy.com
+0.0.0.0 likelbs.dinoyy.xyz
+0.0.0.0 livemediav.com
+0.0.0.0 log.sysop.duowan.com
+0.0.0.0 mlog.hiido.com
+0.0.0.0 o-gl-id.ihago.net
+0.0.0.0 o-gl-static.ihago.net
+0.0.0.0 o-id.ihago.net
+0.0.0.0 o-static.ihago.net
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 o-ws-bts-ali-id.ihago.net
+0.0.0.0 push-api.olaparty.com
+0.0.0.0 push-api.yy.com
+0.0.0.0 push-link.olaparty.com
+0.0.0.0 push-link.yy.com
+0.0.0.0 reinforce.security.yy.com
+0.0.0.0 ylog.hiido.com
+
+! AOL - News, Mail & Video: com.aol.mobile.aolapp
+! Yahoo Mail: com.yahoo.mobile.client.android.mail
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 by.uservoice.com
+0.0.0.0 exceptions.mobile.yahoo.com
+0.0.0.0 guce.oath.com
+0.0.0.0 service.cmp.oath.com
+0.0.0.0 smarttv-smartinfo.manhattan.yahoo.com
+
+! NekoPoi: com.usamin.nekopoi
+0.0.0.0 ads.tapdaq.com
+0.0.0.0 goofypismica.com
+0.0.0.0 gstatic.com$app=com.usamin.nekopoi
+0.0.0.0 p.3z094n2681i06q8k14w31cu4q80d5p.com
+
+! TikTok: com.zhiliaoapp.musically
+! TikTok ID: com.ss.android.ugc.trill
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics.tiktok.com
+
+! Likee - Let You Shine: video.like
+0.0.0.0 api.imotech.tech
+0.0.0.0 gdl.liketech-cdn.site
+0.0.0.0 gdl.news-cdn.site
+0.0.0.0 static-act.like-video.com
+0.0.0.0 static-web.likeevideo.com
+0.0.0.0 v16-ad.byteoversea.com
+0.0.0.0 videosnap.like.video
+
+! SnackVideo: com.kwai.bulldog
+0.0.0.0 75.2.122.31
+0.0.0.0 ak-static.snackvideo.in
+0.0.0.0 aws-logsdk.snackvideo.com
+0.0.0.0 aws-logsdk.uvfuns.com
+0.0.0.0 aws-static.snackvideo.in
+0.0.0.0 aws-ulog.kibads.com
+0.0.0.0 clounfront.net$app=com.kwai.bulldog
+0.0.0.0 g-logsdk.snackvideo.com
+0.0.0.0 g-logsdk.uvfuns.com
+0.0.0.0 static.yximgs.com
+0.0.0.0 wlog.kuaishou.com
+
+[HUAWEI PHONES]
+0.0.0.0 159.138.99.194
+0.0.0.0 adx-dra.op.hicloud.com
+0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
+0.0.0.0 cs02-pps-dra.dbankcdn.com
+0.0.0.0 dxzc1o98vrjl6.cloudfront.net
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 metrics1.dt.hicloud.com
+0.0.0.0 metrics2.dt.hicloud.com
+0.0.0.0 metrics3.dt.hicloud.com
+0.0.0.0 metrics4.dt.hicloud.com
+0.0.0.0 metrics5.dt.hicloud.com
+0.0.0.0 metrics6.dt.hicloud.com
+0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 static1.dmcdn.net
+0.0.0.0 vod-vrz-dra.dbankcdn.com
+
+! XIAOMI PHONES
+! I don't have (yet) Xiaomi device, please test throughly
+0.0.0.0 a.stat.xiaomi.com
+0.0.0.0 abtest.mistat.intl.xiaomi.com
+0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.admob.xiaomi.com
+0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 app.chat.xiaomi.net
+0.0.0.0 app-analytics-sg.huami.com
+0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 d14bb1f98q04f8.cloudfront.net
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.us.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.sec.miui.com
+0.0.0.0 e.ad.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 log.ad.xiaomi.com
+0.0.0.0 msg.global.xiaomi.net
+0.0.0.0 privacy.api.india.miui.com
+0.0.0.0 privacy.api.intl.miui.com
+0.0.0.0 privacy.api.miui.com
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 sdkconfig.ad.india.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sg.stat.appmifile.com
+0.0.0.0 test.ad.xiaomi.com
+0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 upload-cdn.huami.com
+0.0.0.0 web-analytics.ap-southeast-1.elasticbeanstalk.com
+0.0.0.0 web-analytics-sg.huami.com
+
+! Shopee Indonesia: com.shopee.id
+0.0.0.0 103.115.77.222
+0.0.0.0 1500000774.vod2.myqcloud.com
+0.0.0.0 content.garena.com$app=com.shopee.id
+0.0.0.0 idfp.tongdun.net
+0.0.0.0 license.vod2.myqcloud.com
+0.0.0.0 log-collector.shopee.co.id
+0.0.0.0 log-collector.shopee.co.th
+0.0.0.0 log-collector.shopee.com.br
+0.0.0.0 log-collector.shopee.com.mx
+0.0.0.0 log-collector.shopee.com.my
+0.0.0.0 log-collector.shopee.ph
+0.0.0.0 log-collector.shopee.sg
+0.0.0.0 log-collector.shopee.tw
+0.0.0.0 log-collector.shopee.vn
+0.0.0.0 play-tx.vod.shopee.com
+0.0.0.0 play-ws.vod.shopee.com
+0.0.0.0 sg2.sgw.shopeemobile.com
+0.0.0.0 userstats.shopee.co.id
+0.0.0.0 userstats.shopee.co.th
+0.0.0.0 userstats.shopee.com.br
+0.0.0.0 userstats.shopee.com.mx
+0.0.0.0 userstats.shopee.com.my
+0.0.0.0 userstats.shopee.ph
+0.0.0.0 userstats.shopee.sg
+0.0.0.0 userstats.shopee.tw
+0.0.0.0 userstats.shopee.vn
+
+! F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
+0.0.0.0 dm16-alisg.byteoversea.com
+0.0.0.0 i1.wp.com
+0.0.0.0 movie-indo-5b984.firebaseapp.com
+0.0.0.0 sf-tb-sg.ibytedtos.com
+
+! Snaptube: com.snaptube.premium
+0.0.0.0 analytics.snaptube.app
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 apps.ad.snaptube.app
+0.0.0.0 config.ad.snaptube.app
+0.0.0.0 push.snaptube.app
+
+! CamScanner: com.intsig.camscanner
+0.0.0.0 157.185.169.206
+0.0.0.0 b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn
+0.0.0.0 ss-static.intsig.net.mcchcdn.com
+0.0.0.0 ss-static.intsig.net.whecloud.com
+0.0.0.0 ss-static.intsig.net
+0.0.0.0 static.intsig.net
