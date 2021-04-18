@@ -29,6 +29,7 @@ Subscribe | Purpose
 ------------ | -------------
 [Ad-Block](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt) | My main ad block. Use it to block mobile ads
 [Ad-Block (Simplified)](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-Simplified.txt) | Simplified version of my Ad-Block. Suitable for ad-blocking at DNS-level
+[Ad-Block (HOSTS)](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-HOSTS.txt) | HOSTS `0.0.0.0` based of my Ad-Block.
 
 Recommended to use both to improve your ad blocking experience.
 
