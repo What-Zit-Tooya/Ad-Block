@@ -31,8 +31,6 @@ Subscribe | Purpose
 [Ad-Block (Simplified)](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-Simplified.txt) | Simplified version of my Ad-Block. Suitable for ad-blocking at DNS-level
 [Ad-Block (HOSTS)](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-HOSTS.txt) | HOSTS `0.0.0.0` based of my Ad-Block.
 
-Recommended to use both to improve your ad blocking experience.
-
 For more strong protection, I recommend to use **BlahDNS**.
 Its fast, no logs, block ads server, mobile friendly, tracking protection, and much more.
 Go here to add it into AdGuard: [BlahDNS](https://anonym.to/?https://blahdns.com/)
