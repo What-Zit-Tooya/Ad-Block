@@ -418,3 +418,39 @@
 0.0.0.0 ss-static.intsig.net.whecloud.com
 0.0.0.0 ss-static.intsig.net
 0.0.0.0 static.intsig.net
+
+! OPPO PHONES
+! Maybe REALME too, need test throughly
+0.0.0.0 album-sg01a.ocloud.heytapmobi.com
+0.0.0.0 api.qiscus.com
+0.0.0.0 api.quantumgraph.com
+0.0.0.0 api-gl.cdo.heytapmobi.com
+0.0.0.0 api-id.store.heytapmobi.com
+0.0.0.0 appconf.heytapdownload.com
+0.0.0.0 appconf-sgp.heytapdl.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.webengage.com
+0.0.0.0 cdn.qgraph.io
+0.0.0.0 cl-data-id.ads.heytapmobi.com
+0.0.0.0 client-uc.heytapmobi.com
+0.0.0.0 config.quantumgraph.com
+0.0.0.0 conf-sg-dc.heytapdl.com
+0.0.0.0 conn1.oppomobile.com
+0.0.0.0 dcintl1.push.heytapmobile.com
+0.0.0.0 dragate-sg.dc.heytapmobi.com
+0.0.0.0 dragate-sg.dc.oppomobile.com
+0.0.0.0 epoch-id.cdo.heytapmobi.com
+0.0.0.0 i-sg.magazine.heytapmobile.com
+0.0.0.0 i-sg01a.ocloud.heytapmobi.com
+0.0.0.0 log-eap-sg.coloros.com
+0.0.0.0 mdp-appconf-sg.heytapdl.com
+0.0.0.0 realtime-jawa.qiscus.com
+0.0.0.0 rstatic.akamaized.net
+0.0.0.0 smartcardf.apps.coloros.com
+0.0.0.0 stg-data-id.ads.heytapmobile.com
+0.0.0.0 upload.cc
+0.0.0.0 ups.ksmobile.net
+0.0.0.0 users.quantumgraph.com
+0.0.0.0 v1.cnzz.com
+0.0.0.0 videoclipf.apps.coloros.com
+0.0.0.0 www.heytap.com
