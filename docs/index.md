@@ -31,6 +31,12 @@ Subscribe | Purpose
 [Ad-Block (Simplified)](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-Simplified.txt) | Simplified version of my Ad-Block. Suitable for ad-blocking at DNS-level
 [Ad-Block (HOSTS)](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-HOSTS.txt) | HOSTS `0.0.0.0` based of my Ad-Block.
 
+# Usage
+My main Ad-Block & Simplified version is suitable for [AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).
+
+Ad-Block HOSTS `0.0.0.0` version is suitable for [Blokada](https://anonym.to/?https://blokada.org/) and [perfonalDNSfilter](https://anonym.to/?https://www.zenz-solutions.de/personaldnsfilter-wp/).
+
+# Recommended
 For more strong protection, I recommend to use **BlahDNS**.
 Its fast, no logs, block ads server, mobile friendly, tracking protection, and much more.
 Go here to add it into AdGuard: [BlahDNS](https://anonym.to/?https://blahdns.com/)
