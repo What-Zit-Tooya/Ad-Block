@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 18, 2021 07:35 PM (UTC+7)
+! Last modified: April 18, 2021 08:00 PM (UTC+7)
 ! Version: 18/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -21,6 +21,7 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletmanager.com
+0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -218,6 +219,7 @@
 
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
+0.0.0.0 dit.whatsapp.net
 0.0.0.0 mmx-ds.cdn.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 static.whatsapp.net
@@ -421,33 +423,42 @@
 
 ! OPPO PHONES
 ! Maybe REALME too, need test throughly
+0.0.0.0 adx-id.ads.heytapmobile.com
 0.0.0.0 album-sg01a.ocloud.heytapmobi.com
 0.0.0.0 api.qiscus.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api-gl.cdo.heytapmobi.com
 0.0.0.0 api-id.store.heytapmobi.com
 0.0.0.0 appconf.heytapdownload.com
+0.0.0.0 appconf-ocs-sgp.heytapdl.com
 0.0.0.0 appconf-sgp.heytapdl.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.webengage.com
 0.0.0.0 cdn.qgraph.io
 0.0.0.0 cl-data-id.ads.heytapmobi.com
 0.0.0.0 client-uc.heytapmobi.com
+0.0.0.0 cloudi-sg.browser.heytapmobile.com
 0.0.0.0 config.quantumgraph.com
 0.0.0.0 conf-sg-dc.heytapdl.com
 0.0.0.0 conn1.oppomobile.com
 0.0.0.0 dcintl1.push.heytapmobile.com
+0.0.0.0 dhfs-id.heytapimage.com
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
+0.0.0.0 iflow-sg.browser.heytapmobile.com
 0.0.0.0 i-sg.magazine.heytapmobile.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 mdp-appconf-sg.heytapdl.com
+0.0.0.0 mobile.useinsider.com
+0.0.0.0 oppo.qdownload2.sched.ovscdns.com
 0.0.0.0 realtime-jawa.qiscus.com
 0.0.0.0 rstatic.akamaized.net
 0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com
+0.0.0.0 u888.v.bsclink.cn
+0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 upload.cc
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 users.quantumgraph.com
