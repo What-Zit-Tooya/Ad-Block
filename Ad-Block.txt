@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 18, 2021 09:25 PM (UTC+7)
-! Version: 18/04/2021
+! Last modified: April 19, 2021 10:00 AM (UTC+7)
+! Version: 19/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -21,7 +21,6 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletmanager.com^
-||gstaticadssl.l.google.com^
 ||kvinit-prod.api.kochava.com^
 ||oth.eve.mdt.qq.com^
 ||pagead2.googlesyndication.com^
@@ -514,3 +513,13 @@
 ||shepherd.ff.avast.com^
 ||shepherd.ns1.ff.avast.com^
 ||sp-497f6f2f.honzik.avcdn.net^
+
+[WPS Office: cn.wps.moffice_eng]
+||abroad-ad.kingsoft-office-service.com^
+||api.facebook.com^$app=cn.wps.moffice_eng
+||cloudservice14.kingsoft-office-service.com^
+||graph.facebook.com^$app=cn.wps.moffice_eng
+||movip.wps.com^
+||service-api.kingsoft-office-service.com^
+||star.facebook.com^$app=cn.wps.moffice_eng
+||web.facebook.com^$app=cn.wps.moffice_eng
