@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 19, 2021 12:10 PM (UTC+7)
+! Last modified: April 19, 2021 12:38 PM (UTC+7)
 ! Version: 19/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -459,6 +459,7 @@
 ||dragate-sg.dc.heytapmobi.com^
 ||dragate-sg.dc.oppomobile.com^
 ||epoch-id.cdo.heytapmobi.com^
+||httpdns-push.heytapmobile.com^
 ||iflow-sg.browser.heytapmobile.com^
 ||i-sg.magazine.heytapmobile.com^
 ||i-sg01a.ocloud.heytapmobi.com^
