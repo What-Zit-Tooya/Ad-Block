@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 18, 2021 09:25 PM (UTC+7)
-! Version: 18/04/2021
+! Last modified: April 19, 2021 10:35 AM (UTC+7)
+! Version: 19/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -21,7 +21,6 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletmanager.com^
-||gstaticadssl.l.google.com^
 ||kvinit-prod.api.kochava.com^
 ||oth.eve.mdt.qq.com^
 ||pagead2.googlesyndication.com^
@@ -126,7 +125,6 @@
 13.227.228.19
 13.248.218.66
 13.35.13.120
-13.35.13.45
 159.138.103.42
 159.138.106.8
 159.138.84.44
@@ -315,26 +313,33 @@
 ||static.yximgs.com^
 ||wlog.kuaishou.com^
 
-[HUAWEI PHONES]
-159.138.99.194
-||adx-dra.op.hicloud.com^
-||adx-dra-op-hicloud-com-dra.appacc.dbankedge.net^
-||cs02-pps-dra.dbankcdn.com^
-||dxzc1o98vrjl6.cloudfront.net^
-||grs.dbankcloud.asia^
-||grs.dbankcloud.cn^
-||grs.dbankcloud.com^
-||grs.dbankcloud.eu^
-||logbak.hicloud.com^
-||metrics1.dt.hicloud.com^
-||metrics2.dt.hicloud.com^
-||metrics3.dt.hicloud.com^
-||metrics4.dt.hicloud.com^
-||metrics5.dt.hicloud.com^
-||metrics6.dt.hicloud.com^
-||metrics-dra.dt.hicloud.com^
-||static1.dmcdn.net^
-||vod-vrz-dra.dbankcdn.com^
+! HUAWEI PHONES
+0.0.0.0 adx-dra.op.hicloud.com
+0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
+0.0.0.0 cs02-pps-dra.dbankcdn.com
+0.0.0.0 dxzc1o98vrjl6.cloudfront.net
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 logservice-dra.platform.hicloud.com
+0.0.0.0 metrics1.dt.hicloud.com
+0.0.0.0 metrics2.dt.hicloud.com
+0.0.0.0 metrics3.dt.hicloud.com
+0.0.0.0 metrics4.dt.hicloud.com
+0.0.0.0 metrics5.dt.hicloud.com
+0.0.0.0 metrics6.dt.hicloud.com
+0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com
+0.0.0.0 obs.lz01.ap-southeast-3.myhuaweicloud.com
+0.0.0.0 openlocation-dra.platform.dbankcloud.com
+0.0.0.0 static1.dmcdn.net
+0.0.0.0 vod-vrz-dra.dbankcdn.com
+0.0.0.0 159.138.109.22
+0.0.0.0 159.138.80.62
+0.0.0.0 159.138.90.32
+0.0.0.0 159.138.99.194
 
 ! XIAOMI PHONES
 ! I don't have (yet) Xiaomi device, please test throughly
@@ -461,7 +466,6 @@
 ||mdp-appconf-sg.heytapdl.com^
 ||mobile.useinsider.com^
 ||mqtt.qiscus.com^
-||oppo.qdownload2.sched.ovscdns.com^
 ||realtime-jawa.qiscus.com^
 ||rstatic.akamaized.net^
 ||sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com^
@@ -487,3 +491,9 @@
 ||shepherd.ff.avast.com^
 ||shepherd.ns1.ff.avast.com^
 ||sp-497f6f2f.honzik.avcdn.net^
+
+! WPS Office: cn.wps.moffice_eng
+||abroad-ad.kingsoft-office-service.com^
+||cloudservice14.kingsoft-office-service.com^
+||movip.wps.com^
+||service-api.kingsoft-office-service.com^
