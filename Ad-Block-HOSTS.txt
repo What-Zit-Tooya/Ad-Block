@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 19, 2021 12:37 PM (UTC+7)
+! Last modified: April 19, 2021 05:10 PM (UTC+7)
 ! Version: 19/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -426,41 +426,62 @@
 ! Maybe REALME too, need test throughly
 0.0.0.0 adx-id.ads.heytapmobile.com
 0.0.0.0 album-sg01a.ocloud.heytapmobi.com
+0.0.0.0 api.ads.oppomobile.com
 0.0.0.0 api.qiscus.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api-gl.cdo.heytapmobi.com
+0.0.0.0 api-id.play.heytapmobile.com
 0.0.0.0 api-id.store.heytapmobi.com
+0.0.0.0 api-id.theme.heytapmobile.com
 0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 appconf-ocs-sgp.heytapdl.com
 0.0.0.0 appconf-sgp.heytapdl.com
+0.0.0.0 bdapi-id.ads.heytapmobile.com
 0.0.0.0 behacdn.ksmobile.net
+0.0.0.0 bsf.sc.heytapmobile.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.webengage.com
 0.0.0.0 cdn.qgraph.io
+0.0.0.0 classify-f.apps.coloros.com
 0.0.0.0 cl-data-id.ads.heytapmobi.com
 0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 cloudi-sg.browser.heytapmobile.com
+0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 config.quantumgraph.com
 0.0.0.0 conf-sg-dc.heytapdl.com
 0.0.0.0 conf-sg.dc.heytapmobi.com
+0.0.0.0 conn1.oppomobile.com
 0.0.0.0 dcintl1.push.heytapmobile.com
 0.0.0.0 dcintl.push.heytapmobile.com
 0.0.0.0 dhfs-id.heytapimage.com
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
+0.0.0.0 helpgrid1.ksmobile.com
 0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 icosa-sg.coloros.com
 0.0.0.0 iflow-sg.browser.heytapmobile.com
+0.0.0.0 ifsau.coloros.com
+0.0.0.0 i-sg.browser.heytapmobile.com
 0.0.0.0 i-sg.magazine.heytapmobile.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
+0.0.0.0 jscatch-sg-frontend.heytapmobile.com
 0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 mobile.useinsider.com
 0.0.0.0 mqtt.qiscus.com
+0.0.0.0 msdk-files.webengage.com
+0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 realtime-jawa.qiscus.com
 0.0.0.0 rstatic.akamaized.net
+0.0.0.0 shortintl.push.heytapmobile.com
+0.0.0.0 sgp-allawn-gauss-coloros-com-pub-78940157.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 sgp-mobile-sec-heytapmobi-pubgw-1205822126.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com
+0.0.0.0 sgp-opush-heytapmobile-pubgw-2070388785.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 smartcardf.apps.coloros.com
+0.0.0.0 static-common.heytapdownload.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com
 0.0.0.0 u888.v.bsclink.cn
 0.0.0.0 u-id.cpc.heytapmobile.com
@@ -483,7 +504,14 @@
 0.0.0.0 sp-497f6f2f.honzik.avcdn.net
 
 ! WPS Office: cn.wps.moffice_eng
+0.0.0.0 114.119.186.87
+0.0.0.0 44.242.92.133
+0.0.0.0 50.112.59.136
+0.0.0.0 52.88.152.228
 0.0.0.0 abroad-ad.kingsoft-office-service.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 api-ad-adapter-us.4wps.net
 0.0.0.0 cloudservice14.kingsoft-office-service.com
+0.0.0.0 huawei.sg.default.4wps.net
 0.0.0.0 movip.wps.com
 0.0.0.0 service-api.kingsoft-office-service.com
