@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 18, 2021 09:05 PM (UTC+7)
-! Version: 18/04/2021
+! Last modified: April 19, 2021 10:35 AM (UTC+7)
+! Version: 19/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -21,7 +21,6 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletmanager.com
-0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -125,7 +124,6 @@
 0.0.0.0 13.227.228.19
 0.0.0.0 13.248.218.66
 0.0.0.0 13.35.13.120
-0.0.0.0 13.35.13.45
 0.0.0.0 159.138.103.42
 0.0.0.0 159.138.106.8
 0.0.0.0 159.138.84.44
@@ -458,7 +456,6 @@
 0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 mobile.useinsider.com
 0.0.0.0 mqtt.qiscus.com
-0.0.0.0 oppo.qdownload2.sched.ovscdns.com
 0.0.0.0 realtime-jawa.qiscus.com
 0.0.0.0 rstatic.akamaized.net
 0.0.0.0 sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com
@@ -484,3 +481,9 @@
 0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 shepherd.ns1.ff.avast.com
 0.0.0.0 sp-497f6f2f.honzik.avcdn.net
+
+! WPS Office: cn.wps.moffice_eng
+0.0.0.0 abroad-ad.kingsoft-office-service.com
+0.0.0.0 cloudservice14.kingsoft-office-service.com
+0.0.0.0 movip.wps.com
+0.0.0.0 service-api.kingsoft-office-service.com
