@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 19, 2021 07:50 PM (UTC+7)
+! Last modified: April 19, 2021 09:10 PM (UTC+7)
 ! Version: 19/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -441,6 +441,7 @@
 ||api.qiscus.com^
 ||api.quantumgraph.com^
 ||api-gl.cdo.heytapmobi.com^
+||api-gl.cdo.heytapmobile.com^
 ||api-id.play.heytapmobile.com^
 ||api-id.store.heytapmobi.com^
 ||api-id.theme.heytapmobile.com^
@@ -461,6 +462,8 @@
 ||config.quantumgraph.com^
 ||conf-sg-dc.heytapdl.com^
 ||conf-sg.dc.heytapmobi.com^
+||conn1.coloros.com^
+||conn2.coloros.com^
 ||conn1.oppomobile.com^
 ||dcintl1.push.heytapmobile.com^
 ||dcintl.push.heytapmobile.com^
@@ -484,10 +487,10 @@
 ||mqtt.qiscus.com^
 ||msdk-files.webengage.com^
 ||omes-sec.heytapmobile.com^
+||proxyf.apps.oppomobile.com
 ||realtime-jawa.qiscus.com^
 ||rstatic.akamaized.net^
 ||shortintl.push.heytapmobile.com^
-||sgp-allawn-gauss-coloros-com-pub-78940157.ap-southeast-1.elb.amazonaws.com^
 ||sgp-mobile-sec-heytapmobi-pubgw-1205822126.ap-southeast-1.elb.amazonaws.com^
 ||sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com^
 ||sgp-opush-heytapmobile-pubgw-2070388785.ap-southeast-1.elb.amazonaws.com^
@@ -526,4 +529,5 @@
 ||firstpage.kingsoft-office-service.com^
 ||huawei.sg.default.4wps.net^
 ||movip.wps.com^
+||persona-etl.wps.com^
 ||service-api.kingsoft-office-service.com^
