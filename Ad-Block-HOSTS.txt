@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 19, 2021 05:10 PM (UTC+7)
+! Last modified: April 19, 2021 07:50 PM (UTC+7)
 ! Version: 19/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -82,6 +82,7 @@
 0.0.0.0 jcloud-cdn.com
 0.0.0.0 ladon.wshareit.com
 0.0.0.0 loopmygame.com
+0.0.0.0 minisite-dev.ushareit.org
 0.0.0.0 modengs.net
 0.0.0.0 mopub.com
 0.0.0.0 ns-715.awsdns-25.net
@@ -512,6 +513,7 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 api-ad-adapter-us.4wps.net
 0.0.0.0 cloudservice14.kingsoft-office-service.com
+0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 huawei.sg.default.4wps.net
 0.0.0.0 movip.wps.com
 0.0.0.0 service-api.kingsoft-office-service.com
