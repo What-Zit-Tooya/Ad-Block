@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 19, 2021 10:00 AM (UTC+7)
+! Last modified: April 19, 2021 10:30 AM (UTC+7)
 ! Version: 19/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -323,6 +323,7 @@
 ||grs.dbankcloud.com^
 ||grs.dbankcloud.eu^
 ||logbak.hicloud.com^
+||logservice-dra.platform.hicloud.com^
 ||metrics1.dt.hicloud.com^
 ||metrics2.dt.hicloud.com^
 ||metrics3.dt.hicloud.com^
@@ -330,6 +331,9 @@
 ||metrics5.dt.hicloud.com^
 ||metrics6.dt.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
+||nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com^
+||obs.lz01.ap-southeast-3.myhuaweicloud.com^
+||openlocation-dra.platform.dbankcloud.com^
 ||static1.dmcdn.net^
 ||vod-vrz-dra.dbankcdn.com^
 
@@ -487,7 +491,6 @@
 ||mdp-appconf-sg.heytapdl.com^
 ||mobile.useinsider.com^
 ||mqtt.qiscus.com^
-||oppo.qdownload2.sched.ovscdns.com^
 ||realtime-jawa.qiscus.com^
 ||rstatic.akamaized.net^
 ||sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com^
