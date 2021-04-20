@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 10:48 AM (UTC+7)
+! Last modified: April 20, 2021 04:45 AM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -29,6 +29,7 @@
 
 ! Facebook Related Server
 0.0.0.0 api.facebook.com
+0.0.0.0 b-api.facebook.com
 0.0.0.0 b-graph.facebook.com
 0.0.0.0 b-graph.instagram.com
 0.0.0.0 b-www.facebook.com
@@ -164,12 +165,17 @@
 ! Lazada Indonesia: com.lazada.android
 0.0.0.0 47.246.32.33
 0.0.0.0 47.8.94.32
-0.0.0.0 47.89.74.76
 0.0.0.0 47.89.74.75
+0.0.0.0 47.89.74.76
+0.0.0.0 acs-m.lazada.sg
+0.0.0.0 audid-api-sg.taobao.com
 0.0.0.0 h-adashx4sg.ut.taobao.com
+0.0.0.0 lazada-sg.alibaba.com
 0.0.0.0 lzd.highway.alibaba-inc.com
-0.0.0.0 xjp-msgacs.m.taobao.com
+0.0.0.0 xjp.wagbridge-lazada.alibaba-inc.com
+0.0.0.0 xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com
 0.0.0.0 xjp-jmacs.m.taobao.com
+0.0.0.0 xjp-msgacs.m.taobao.com
 
 ! Bardi Smart Home: com.bardi.smart.home
 0.0.0.0 h1.iot-dns.com
@@ -226,6 +232,7 @@
 ! HAGO: com.yy.hiyo
 ! Noizz - formerly Biugo: com.yy.biu
 0.0.0.0 adashx4sg.ut.taobao.com
+0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 android.rqd.qq.com
 0.0.0.0 ap.livemediav.com
 0.0.0.0 apblbs-sgp.service.huanjuyun.com
@@ -233,14 +240,20 @@
 0.0.0.0 argoapi.jocloud.com
 0.0.0.0 argoapi.yy.com
 0.0.0.0 audid-api-sg.taobao.com
+0.0.0.0 bjim64.jpush.cn
+0.0.0.0 bstream.hzmklvdieo.com
 0.0.0.0 btrace.qq.com
 0.0.0.0 crash-reporting.yy.com
+0.0.0.0 easytomessage.com
+0.0.0.0 gd-stats.jpush.cn
+0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 global-pushsdk.olaparty.com
 0.0.0.0 global-yypushsdk.yy.com
 0.0.0.0 hiido.com
 0.0.0.0 hlog.hiido.com
-0.0.0.0 httpdns-intl.gslb.yy.com
+0.0.0.0 https-api.bigolive.tv
 0.0.0.0 httpdns.gslb.yy.com
+0.0.0.0 httpdns-intl.gslb.yy.com
 0.0.0.0 huanju.cn
 0.0.0.0 huanjuyun.com
 0.0.0.0 i.ihago.net
@@ -266,6 +279,9 @@
 0.0.0.0 push-link.olaparty.com
 0.0.0.0 push-link.yy.com
 0.0.0.0 reinforce.security.yy.com
+0.0.0.0 s.jpush.cn
+0.0.0.0 sis.jpush.io
+0.0.0.0 stats.jpush.cn
 0.0.0.0 ylog.hiido.com
 
 ! AOL - News, Mail & Video: com.aol.mobile.aolapp
@@ -303,7 +319,6 @@
 0.0.0.0 aws-logsdk.uvfuns.com
 0.0.0.0 aws-static.snackvideo.in
 0.0.0.0 aws-ulog.kibads.com
-0.0.0.0 clounfront.net$app=com.kwai.bulldog
 0.0.0.0 g-logsdk.snackvideo.com
 0.0.0.0 g-logsdk.uvfuns.com
 0.0.0.0 static.yximgs.com
@@ -469,7 +484,7 @@
 0.0.0.0 iflow-sg.browser.heytapmobile.com
 0.0.0.0 ifsau.coloros.com
 0.0.0.0 i-sg.browser.heytapmobile.com
-##0.0.0.0 i-sg.magazine.heytapmobile.com
+#0.0.0.0 i-sg.magazine.heytapmobile.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 jscatch-sg-frontend.heytapmobile.com
 0.0.0.0 log-eap-sg.coloros.com
