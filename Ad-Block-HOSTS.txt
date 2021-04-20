@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 06:50 PM (UTC+7)
+! Last modified: April 20, 2021 08:05 PM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -255,6 +255,7 @@
 0.0.0.0 hiido.com
 0.0.0.0 hlog.hiido.com
 0.0.0.0 https-api.bigolive.tv
+0.0.0.0 https-api-hk.bigolive.tv
 0.0.0.0 httpdns.gslb.yy.com
 0.0.0.0 httpdns-intl.gslb.yy.com
 0.0.0.0 huanju.cn
@@ -482,6 +483,7 @@
 0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
 0.0.0.0 helpgrid1.ksmobile.com
+0.0.0.0 helpcmqp0.ksmobile.com
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 icosa-sg.coloros.com
@@ -538,8 +540,11 @@
 0.0.0.0 api-ad-adapter-us.4wps.net
 0.0.0.0 cloudservice14.kingsoft-office-service.com
 0.0.0.0 data.flurry.com
+0.0.0.0 dj1d6o6ftflzi.cloudfront.net
 0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 huawei.sg.default.4wps.net
 0.0.0.0 movip.wps.com
 0.0.0.0 persona-etl.wps.com
+0.0.0.0 plugin-server.wps.com
+0.0.0.0 plugin-server.4wps.net
 0.0.0.0 service-api.kingsoft-office-service.com
