@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 04:45 AM (UTC+7)
+! Last modified: April 20, 2021 06:50 PM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -172,10 +172,13 @@
 0.0.0.0 h-adashx4sg.ut.taobao.com
 0.0.0.0 lazada-sg.alibaba.com
 0.0.0.0 lzd.highway.alibaba-inc.com
+0.0.0.0 taobao-tw.alibaba.com
+0.0.0.0 xjp.wagbridge.taobao.com
 0.0.0.0 xjp.wagbridge-lazada.alibaba-inc.com
 0.0.0.0 xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com
 0.0.0.0 xjp-jmacs.m.taobao.com
 0.0.0.0 xjp-msgacs.m.taobao.com
+0.0.0.0 xjp.wagbridge.taobao.com
 
 ! Bardi Smart Home: com.bardi.smart.home
 0.0.0.0 h1.iot-dns.com
@@ -441,6 +444,7 @@
 
 ! OPPO PHONES
 ! Maybe REALME too, need test throughly
+0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 adx-id.ads.heytapmobile.com
 0.0.0.0 album-sg01a.ocloud.heytapmobi.com
 0.0.0.0 api.ads.oppomobile.com
@@ -488,6 +492,7 @@
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 jscatch-sg-frontend.heytapmobile.com
 0.0.0.0 log-eap-sg.coloros.com
+0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 mobile.useinsider.com
 0.0.0.0 mqtt.qiscus.com
