@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 19, 2021 09:35 PM (UTC+7)
-! Version: 19/04/2021
+! Last modified: April 20, 2021 10:00 AM (UTC+7)
+! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -219,7 +219,6 @@
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
 0.0.0.0 dit.whatsapp.net
-0.0.0.0 mmx-ds.cdn.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 static.whatsapp.net
 0.0.0.0 scontent.whatsapp.net
@@ -281,7 +280,6 @@
 ! NekoPoi: com.usamin.nekopoi
 0.0.0.0 ads.tapdaq.com
 0.0.0.0 goofypismica.com
-0.0.0.0 gstatic.com$app=com.usamin.nekopoi
 0.0.0.0 p.3z094n2681i06q8k14w31cu4q80d5p.com
 
 ! TikTok: com.zhiliaoapp.musically
@@ -311,7 +309,7 @@
 0.0.0.0 static.yximgs.com
 0.0.0.0 wlog.kuaishou.com
 
-[HUAWEI PHONES]
+! HUAWEI PHONES
 0.0.0.0 159.138.99.194
 0.0.0.0 adx-dra.op.hicloud.com
 0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
