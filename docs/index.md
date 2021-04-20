@@ -34,7 +34,7 @@ Subscribe | Purpose
 # Usage
 My main Ad-Block & Simplified version is suitable for [AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).
 
-Ad-Block HOSTS `0.0.0.0` version is suitable for [Blokada](https://anonym.to/?https://blokada.org/) and [perfonalDNSfilter](https://anonym.to/?https://www.zenz-solutions.de/personaldnsfilter-wp/).
+Ad-Block HOSTS `0.0.0.0` version is suitable for [Blokada](https://anonym.to/?https://blokada.org/) and [personalDNSfilter](https://anonym.to/?https://www.zenz-solutions.de/personaldnsfilter-wp/).
 
 # Recommended
 For more strong protection, I recommend to use **BlahDNS**.
