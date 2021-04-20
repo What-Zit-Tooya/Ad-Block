@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 10:15 AM (UTC+7)
+! Last modified: April 20, 2021 10:18 AM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -517,7 +517,9 @@
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 api-ad-adapter-us.4wps.net
 0.0.0.0 cloudservice14.kingsoft-office-service.com
+0.0.0.0 data.flurry.com
 0.0.0.0 firstpage.kingsoft-office-service.com
+0.0.0.0 flurry.com
 0.0.0.0 huawei.sg.default.4wps.net
 0.0.0.0 movip.wps.com
 0.0.0.0 persona-etl.wps.com
