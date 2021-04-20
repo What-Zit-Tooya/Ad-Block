@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 10:48 AM (UTC+7)
+! Last modified: April 20, 2021 04:45 AM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -29,6 +29,7 @@
 
 ! Facebook Related Server
 ||api.facebook.com^
+||b-api.facebook.com^
 ||b-graph.facebook.com^
 ||b-graph.instagram.com^
 ||b-www.facebook.com^
@@ -167,10 +168,15 @@
 47.8.94.32
 47.89.74.76
 47.89.74.75
+||acs-m.lazada.sg^
+||audid-api-sg.taobao.com^
 ||h-adashx4sg.ut.taobao.com^
+||lazada-sg.alibaba.com^
 ||lzd.highway.alibaba-inc.com^
-||xjp-msgacs.m.taobao.com^
+||xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com^
+||xjp.wagbridge-lazada.alibaba-inc.com^
 ||xjp-jmacs.m.taobao.com^
+||xjp-msgacs.m.taobao.com^
 
 ! Bardi Smart Home: com.bardi.smart.home
 ||h1.iot-dns.com^
@@ -236,12 +242,14 @@
 ||argoapi.jocloud.com^
 ||argoapi.yy.com^
 ||audid-api-sg.taobao.com^
+||bstream.hzmklvdieo.com^
 ||btrace.qq.com^
 ||crash-reporting.yy.com^
 ||global-pushsdk.olaparty.com^
 ||global-yypushsdk.yy.com^
 ||hiido.com^
 ||hlog.hiido.com^
+||https-api.bigolive.tv^
 ||httpdns-intl.gslb.yy.com^
 ||httpdns.gslb.yy.com^
 ||huanju.cn^
