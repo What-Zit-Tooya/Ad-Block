@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 04:45 AM (UTC+7)
+! Last modified: April 20, 2021 06:50 PM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -173,10 +173,12 @@
 ||h-adashx4sg.ut.taobao.com^
 ||lazada-sg.alibaba.com^
 ||lzd.highway.alibaba-inc.com^
+||taobao-tw.alibaba.com^
 ||xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com^
 ||xjp.wagbridge-lazada.alibaba-inc.com^
 ||xjp-jmacs.m.taobao.com^
 ||xjp-msgacs.m.taobao.com^
+||xjp.wagbridge.taobao.com^
 
 ! Bardi Smart Home: com.bardi.smart.home
 ||h1.iot-dns.com^
@@ -291,7 +293,6 @@
 ! NekoPoi: com.usamin.nekopoi
 ||ads.tapdaq.com^
 ||goofypismica.com^
-||gstatic.com^$app=com.usamin.nekopoi
 ||p.3z094n2681i06q8k14w31cu4q80d5p.com^
 
 ! TikTok: com.zhiliaoapp.musically
@@ -315,7 +316,6 @@
 ||aws-logsdk.uvfuns.com^
 ||aws-static.snackvideo.in^
 ||aws-ulog.kibads.com^
-||clounfront.net^$app=com.kwai.bulldog
 ||g-logsdk.snackvideo.com^
 ||g-logsdk.uvfuns.com^
 ||static.yximgs.com^
@@ -393,7 +393,6 @@
 ! Shopee Indonesia: com.shopee.id
 103.115.77.222
 ||1500000774.vod2.myqcloud.com^
-||content.garena.com^$app=com.shopee.id
 ||idfp.tongdun.net^
 ||license.vod2.myqcloud.com^
 ||log-collector.shopee.co.id^
@@ -441,6 +440,7 @@
 
 ! OPPO PHONES
 ! Maybe REALME too, need test throughly
+||aax-fe.amazon-adsystem.com^
 ||adx-id.ads.heytapmobile.com^
 ||album-sg01a.ocloud.heytapmobi.com^
 ||api.ads.oppomobile.com^
@@ -488,6 +488,7 @@
 ||i-sg01a.ocloud.heytapmobi.com^
 ||jscatch-sg-frontend.heytapmobile.com^
 ||log-eap-sg.coloros.com^
+||mads.amazon-adsystem.com^
 ||mdp-appconf-sg.heytapdl.com^
 ||mobile.useinsider.com^
 ||mqtt.qiscus.com^
