@@ -11,6 +11,6 @@ Filter to Block Mobile Ads. You still need 3rd party AdBlock filter list like Ad
 # Usage
 My main Ad-Block & Simplified version is suitable for [AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).
 
-Ad-Block HOSTS `0.0.0.0` version is suitable for [Blokada](https://anonym.to/?https://blokada.org/) and [perfonalDNSfilter](https://anonym.to/?https://www.zenz-solutions.de/personaldnsfilter-wp/).
+Ad-Block HOSTS `0.0.0.0` version is suitable for [Blokada](https://anonym.to/?https://blokada.org/) and [personalDNSfilter](https://anonym.to/?https://www.zenz-solutions.de/personaldnsfilter-wp/).
 
 Feel free to improve this filter. I'm new in filterlist of AdBlock. :)
