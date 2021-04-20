@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 10:00 AM (UTC+7)
+! Last modified: April 20, 2021 10:15 AM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -311,6 +311,9 @@
 
 ! HUAWEI PHONES
 0.0.0.0 159.138.99.194
+0.0.0.0 159.138.109.22
+0.0.0.0 159.138.80.62
+0.0.0.0 159.138.90.32
 0.0.0.0 adx-dra.op.hicloud.com
 0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
 0.0.0.0 cs02-pps-dra.dbankcdn.com
