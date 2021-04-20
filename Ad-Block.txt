@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 04:45 AM (UTC+7)
+! Last modified: April 20, 2021 06:50 PM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -156,10 +156,12 @@
 ||h-adashx4sg.ut.taobao.com^
 ||lazada-sg.alibaba.com^
 ||lzd.highway.alibaba-inc.com^
+||taobao-tw.alibaba.com^
 ||xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com^
 ||xjp.wagbridge-lazada.alibaba-inc.com^
 ||xjp-jmacs.m.taobao.com^
 ||xjp-msgacs.m.taobao.com^
+||xjp.wagbridge.taobao.com^
 
 [Bardi Smart Home: com.bardi.smart.home] 
 ||h1.iot-dns.com^
@@ -468,6 +470,7 @@
 
 [OPPO PHONES]
 ### Maybe REALME too, need test throughly ###
+||aax-fe.amazon-adsystem.com^
 ||adx-id.ads.heytapmobile.com^
 ||album-sg01a.ocloud.heytapmobi.com^
 ||api.ads.oppomobile.com^
@@ -515,6 +518,7 @@
 ||i-sg01a.ocloud.heytapmobi.com^
 ||jscatch-sg-frontend.heytapmobile.com^
 ||log-eap-sg.coloros.com^
+||mads.amazon-adsystem.com^
 ||mdp-appconf-sg.heytapdl.com^
 ||mobile.useinsider.com^
 ||mqtt.qiscus.com^
