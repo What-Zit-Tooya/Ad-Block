@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 10:00 AM (UTC+7)
+! Last modified: April 20, 2021 10:15 AM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -332,7 +332,6 @@
 ||metrics6.dt.hicloud.com^
 ||metrics-dra.dt.hicloud.com^
 ||nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com^
-||obs.lz01.ap-southeast-3.myhuaweicloud.com^
 ||openlocation-dra.platform.dbankcloud.com^
 ||static1.dmcdn.net^
 ||vod-vrz-dra.dbankcdn.com^
