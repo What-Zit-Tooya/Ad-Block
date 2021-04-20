@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 06:50 PM (UTC+7)
+! Last modified: April 20, 2021 08:10 PM (UTC+7)
 ! Version: 20/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -252,6 +252,7 @@
 ||hiido.com^
 ||hlog.hiido.com^
 ||https-api.bigolive.tv^
+||https-api-hk.bigolive.tv^
 ||httpdns-intl.gslb.yy.com^
 ||httpdns.gslb.yy.com^
 ||huanju.cn^
@@ -478,6 +479,7 @@
 ||dragate-sg.dc.oppomobile.com^
 ||epoch-id.cdo.heytapmobi.com^
 ||helpgrid1.ksmobile.com^
+||helpcmqp0.ksmobile.com^
 ||httpdns-push.heytapmobile.com^
 ||httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com^
 ||icosa-sg.coloros.com^
@@ -535,7 +537,10 @@
 ||cloudservice14.kingsoft-office-service.com^
 ||firstpage.kingsoft-office-service.com^
 ||data.flurry.com^
+||dj1d6o6ftflzi.cloudfront.net^
 ||huawei.sg.default.4wps.net^
 ||movip.wps.com^
 ||persona-etl.wps.com^
+||plugin-server.wps.com^
+||plugin-server.4wps.net^
 ||service-api.kingsoft-office-service.com^
