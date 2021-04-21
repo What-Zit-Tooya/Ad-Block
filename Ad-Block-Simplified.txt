@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 21, 2021 12:30 PM (UTC+7)
+! Last modified: April 21, 2021 08:00 PM (UTC+7)
 ! Version: 21/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -172,14 +172,21 @@
 ||acs-m.lazada.sg^
 ||audid-api-sg.taobao.com^
 ||h-adashx4sg.ut.taobao.com^
+||irisk-id-l.alipay.com^
 ||lazada-sg.alibaba.com^
+||laz-dorangesource.alicdn.com^
 ||lzd.highway.alibaba-inc.com^
 ||taobao-tw.alibaba.com^
+||umlazada.alibaba.com^
 ||xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com^
 ||xjp.wagbridge-lazada.alibaba-inc.com^
 ||xjp-jmacs.m.taobao.com^
 ||xjp-msgacs.m.taobao.com^
 ||xjp.wagbridge.taobao.com^
+||yixiu-abtest.alicdn.com^
+||yixiu-abtest.alicdn.com.w.cdngslb.com^
+||zconfig.alibabausercontent.com^
+||zconfig.alibabausercontent.com.w.cdngslb.com^
 
 ! Bardi Smart Home: com.bardi.smart.home
 ||h1.iot-dns.com^
@@ -552,3 +559,7 @@
 ||plugin-server.4wps.net^
 ||service-api.kingsoft-office-service.com^
 ||wh-nginx-gateway-service.default.us.entry.4wps.net^
+
+! UC Browser: com.UCMobile.intl
+||gjapplog.ucweb.com^
+||px-intl.ucweb.com^
