@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 08:15 PM (UTC+7)
-! Version: 20/04/2021
+! Last modified: April 21, 2021 12:30 PM (UTC+7)
+! Version: 21/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -396,6 +396,7 @@
 ||1500000774.vod2.myqcloud.com^
 ||cdngarenanow-a.akamaihd.net^$app=com.shopee.id
 ||content.garena.com^$app=com.shopee.id
+||dcwest.intl.api.shopee.sg^
 ||firebaseinstallation.googleapis.com^$app=com.shopee.id
 ||firebaseremoteconfig.googleapis.com^$app=com.shopee.id
 ||idfp.tongdun.net^
@@ -423,9 +424,12 @@
 ||userstats.shopee.vn^
 
 [F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein]
+||alisg-normal-lb.byteoversea.net^
+||bds-sg.byteoversea.com^
 ||dm16-alisg.byteoversea.com^
 ||i1.wp.com^
 ||movie-indo-5b984.firebaseapp.com^
+||sdfp-sg.byteoversea.com^
 ||sf-tb-sg.ibytedtos.com^
 ||web.facebook.com^$app=xyz.gl.moviein
 ||www.facebook.com^$app=xyz.gl.moviein
@@ -566,6 +570,8 @@
 ||cloudservice14.kingsoft-office-service.com^
 ||data.flurry.com^
 ||dj1d6o6ftflzi.cloudfront.net^
+||d147klt5ohmayp.cloudfront.net^
+||d4z1onkegyrs5.cloudfront.net^
 ||graph.facebook.com^$app=cn.wps.moffice_eng
 ||graph.instagram.com^$app=cn.wps.moffice_eng
 ||firstpage.kingsoft-office-service.com^
@@ -577,4 +583,5 @@
 ||service-api.kingsoft-office-service.com^
 ||star.facebook.com^$app=cn.wps.moffice_eng
 ||web.facebook.com^$app=cn.wps.moffice_eng
+||wh-nginx-gateway-service.default.us.entry.4wps.net^
 ||www.facebook.com^$app=cn.wps.moffice_eng
