@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 08:10 PM (UTC+7)
-! Version: 20/04/2021
+! Last modified: April 21, 2021 12:30 PM (UTC+7)
+! Version: 21/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -71,6 +71,7 @@
 ||cocosjoy.com^
 ||cyyjit.com^
 ||d54bwtqv0a3zd.cloudfront.net^
+||dwza2b3cs63ny.cloudfront.net^
 ||dt.beyla.site^
 ||fgeh.overseavideo.sched.apdcdn.com^
 ||footprint.net^
@@ -394,6 +395,7 @@
 ! Shopee Indonesia: com.shopee.id
 103.115.77.222
 ||1500000774.vod2.myqcloud.com^
+||dcwest.intl.api.shopee.sg^
 ||idfp.tongdun.net^
 ||license.vod2.myqcloud.com^
 ||log-collector.shopee.co.id^
@@ -419,9 +421,12 @@
 ||userstats.shopee.vn^
 
 ! F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
+||alisg-normal-lb.byteoversea.net^
+||bds-sg.byteoversea.com^
 ||dm16-alisg.byteoversea.com^
 ||i1.wp.com^
 ||movie-indo-5b984.firebaseapp.com^
+||sdfp-sg.byteoversea.com^
 ||sf-tb-sg.ibytedtos.com^
 
 ! Snaptube: com.snaptube.premium
@@ -538,9 +543,12 @@
 ||firstpage.kingsoft-office-service.com^
 ||data.flurry.com^
 ||dj1d6o6ftflzi.cloudfront.net^
+||d147klt5ohmayp.cloudfront.net^
+||d4z1onkegyrs5.cloudfront.net^
 ||huawei.sg.default.4wps.net^
 ||movip.wps.com^
 ||persona-etl.wps.com^
 ||plugin-server.wps.com^
 ||plugin-server.4wps.net^
 ||service-api.kingsoft-office-service.com^
+||wh-nginx-gateway-service.default.us.entry.4wps.net^
