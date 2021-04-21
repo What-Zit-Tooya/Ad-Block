@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 20, 2021 08:05 PM (UTC+7)
-! Version: 20/04/2021
+! Last modified: April 21, 2021 12:30 PM (UTC+7)
+! Version: 21/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -71,6 +71,7 @@
 0.0.0.0 cocosjoy.com
 0.0.0.0 cyyjit.com
 0.0.0.0 d54bwtqv0a3zd.cloudfront.net
+0.0.0.0 dwza2b3cs63ny.cloudfront.net
 0.0.0.0 dt.beyla.site
 0.0.0.0 fgeh.overseavideo.sched.apdcdn.com
 0.0.0.0 footprint.net
@@ -398,6 +399,7 @@
 0.0.0.0 103.115.77.222
 0.0.0.0 1500000774.vod2.myqcloud.com
 0.0.0.0 content.garena.com$app=com.shopee.id
+0.0.0.0 dcwest.intl.api.shopee.sg
 0.0.0.0 idfp.tongdun.net
 0.0.0.0 license.vod2.myqcloud.com
 0.0.0.0 log-collector.shopee.co.id
@@ -423,9 +425,12 @@
 0.0.0.0 userstats.shopee.vn
 
 ! F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
+0.0.0.0 alisg-normal-lb.byteoversea.net
+0.0.0.0 bds-sg.byteoversea.com
 0.0.0.0 dm16-alisg.byteoversea.com
 0.0.0.0 i1.wp.com
 0.0.0.0 movie-indo-5b984.firebaseapp.com
+0.0.0.0 sdfp-sg.byteoversea.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 
 ! Snaptube: com.snaptube.premium
@@ -541,6 +546,8 @@
 0.0.0.0 cloudservice14.kingsoft-office-service.com
 0.0.0.0 data.flurry.com
 0.0.0.0 dj1d6o6ftflzi.cloudfront.net
+0.0.0.0 d147klt5ohmayp.cloudfront.net
+0.0.0.0 d4z1onkegyrs5.cloudfront.net
 0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 huawei.sg.default.4wps.net
 0.0.0.0 movip.wps.com
@@ -548,3 +555,4 @@
 0.0.0.0 plugin-server.wps.com
 0.0.0.0 plugin-server.4wps.net
 0.0.0.0 service-api.kingsoft-office-service.com
+0.0.0.0 wh-nginx-gateway-service.default.us.entry.4wps.net
