@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 22, 2021 10:12 AM (UTC+7)
+! Last modified: April 22, 2021 11:50 AM (UTC+7)
 ! Version: 22/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -318,6 +318,7 @@
 
 ! Likee - Let You Shine: video.like
 0.0.0.0 api.imotech.tech
+0.0.0.0 api.liketech.tech
 0.0.0.0 gdl.liketech-cdn.site
 0.0.0.0 gdl.news-cdn.site
 0.0.0.0 static-act.like-video.com
