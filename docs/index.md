@@ -47,6 +47,6 @@ Go here to add it into AdGuard: [BlahDNS](https://anonym.to/?https://blahdns.com
 Select one server that nearest to your location.
 
 # Report issue:
-**[Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
+You can report any issue **[Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
 
 I only add filter in the app that i have used. If you want to add your filter to my Ad-Block, feel free to pull request.
