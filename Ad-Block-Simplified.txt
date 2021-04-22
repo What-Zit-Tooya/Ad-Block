@@ -21,27 +21,12 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletmanager.com^
+||ipstatp.com^
 ||kvinit-prod.api.kochava.com^
 ||oth.eve.mdt.qq.com^
 ||pagead2.googlesyndication.com^
 ||scorecardresearch.com^
 ||tsg.tdatamaster.com^
-
-! Facebook Related Server
-||api.facebook.com^
-||b-api.facebook.com^
-||b-graph.facebook.com^
-||b-graph.instagram.com^
-||b-www.facebook.com^
-||edge-mqtt.facebook.com^
-||graph.facebook.com^
-||graph.fbpigeon.com^
-||graph.instagram.com^
-||graphql.instagram.com^
-||mqtt-mini.facebook.com^
-||star.c10r.facebook.com^
-||star.facebook.com^
-||z-m-graph.facebook.com^
 
 ! SHAREit: com.lenovo.anyshare.gps
 13.224.250.223
