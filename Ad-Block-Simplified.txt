@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 22, 2021 12:00 PM (UTC+7)
+! Last modified: April 22, 2021 03:00 PM (UTC+7)
 ! Version: 22/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -517,7 +517,6 @@
 
 ! AVAST 
 ! From built-in Anti-Virus Chinese phones
-||36d629c3.tweb.sched.ovscdns.com^
 ||analytics.ff.avast.com^
 ||e7126.dscd.akamaiedge.net^
 ||mobilepartner.avcdn.net.edgekey.net^
