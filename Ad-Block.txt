@@ -50,6 +50,7 @@
 @@||content.garena.com/gas/game_info/*
 @@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
 @@||graph.instagram.com^$app=com.instagram.android,important
+@@||mqtt-mini.facebook.com^$app=com.instagram.android,important
 
 [SHAREit: com.lenovo.anyshare.gps]
 ### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
