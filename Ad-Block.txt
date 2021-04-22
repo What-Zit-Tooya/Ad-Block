@@ -222,9 +222,9 @@
 ||cdn.onesignal.com^
 ||cdn.trakteer.id^$app=com.stream.drakorindoawet
 ||onesignal.com^
+||trakteer.id^$app=com.stream.drakorindoawet
 ||web.facebook.com^$app=com.stream.drakorindoawet
 ||www.facebook.com^$app=com.stream.drakorindoawet
-||trakteer.id^$app=com.stream. drakorindoawet
 
 [WhatsApp Messenger: com.whatsapp]
 [WhatsApp Business: com.whatsapp.w4b]
