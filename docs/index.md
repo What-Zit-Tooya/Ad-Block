@@ -23,7 +23,7 @@ Download AdGuard for Android here:
     4. [uAssets filters by uBlockOrigin](https://anonym.to/?https://github.com/uBlockOrigin/uAssets)
     5. Of course, My Ad-Block filter. :)
 
-# **Subscribe to my Ad-Block**
+# Subscribe to my Ad-Block
 
 Subscribe | Purpose
 ------------ | -------------
@@ -36,6 +36,9 @@ My main Ad-Block & Simplified version is suitable for [AdGuard for Android](http
 
 Ad-Block HOSTS `0.0.0.0` version is suitable for [Blokada](https://anonym.to/?https://blokada.org/) and [personalDNSfilter](https://anonym.to/?https://www.zenz-solutions.de/personaldnsfilter-wp/).
 
+# Attention
+My main Ad-Block block `graph.facebook.com` , `graph.instagram.com` and another `Facebook` related ads server. Make sure you whitelist `Facebook` apps if you encounter any issue.
+
 # Recommended
 For more strong protection, I recommend to use **BlahDNS**.
 Its fast, no logs, block ads server, mobile friendly, tracking protection, and much more.
@@ -43,6 +46,7 @@ Go here to add it into AdGuard: [BlahDNS](https://anonym.to/?https://blahdns.com
 
 Select one server that nearest to your location.
 
-I only add filter in the app that i have used. If you want to add your filter to my ad-block, feel free to pull request.
+# Report issue:
+**[Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
 
-**Report any issue: [Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
+I only add filter in the app that i have used. If you want to add your filter to my Ad-Block, feel free to pull request.
