@@ -1,5 +1,7 @@
 # WhatZitTooya's Ad-Block
-Filter to Block Mobile Ads. You still need 3rd party AdBlock filter list like AdGuard Base, AdGuard DNS filter, or others to make your AdBlocker stronger. 
+Additional filter to block Mobile Ads, Logs & Tracking. You still need 3rd party Ad-Block filter list like AdGuard Base, AdGuard DNS filter, and others to make your Ad-Blocker stronger.
+
+Also there is additional blocklist for Xiaomi, Huawei and Oppo mobile phones (maybe Realme) too. My main Ad-Block block `graph.facebook.com` , `graph.instagram.com` and another `Facebook` related ads server. Make sure you whitelist `Facebook` app if you encounter any issue.
 
 # Subscribe
 **Subscribe** | **Purpose**
