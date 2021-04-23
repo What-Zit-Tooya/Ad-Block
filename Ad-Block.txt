@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 22, 2021 03:00 PM (UTC+7)
-! Version: 22/04/2021
+! Last modified: April 23, 2021 08:10 AM (UTC+7)
+! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -406,13 +406,9 @@
 ||web-analytics-sg.huami.com^
 
 [Shopee Indonesia: com.shopee.id]
-||103.115.77.222^
+||1255300759.vod2.myqcloud.com^
 ||1500000774.vod2.myqcloud.com^
-||cdngarenanow-a.akamaihd.net^$app=com.shopee.id
-||content.garena.com^$app=com.shopee.id
-||dcwest.intl.api.shopee.sg^
-||firebaseinstallation.googleapis.com^$app=com.shopee.id
-||firebaseremoteconfig.googleapis.com^$app=com.shopee.id
+||c-api-bit.shopeemobile.com^
 ||idfp.tongdun.net^
 ||license.vod2.myqcloud.com^
 ||log-collector.shopee.co.id^
