@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 04:00 PM (UTC+7)
+! Last modified: April 23, 2021 04:35 PM (UTC+7)
 ! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -572,6 +572,7 @@
 0.0.0.0 168.235.206.10
 0.0.0.0 168.235.206.11
 0.0.0.0 180.179.9.133
+0.0.0.0 198.11.146.6
 0.0.0.0 198.11.190.12
 0.0.0.0 205.204.101.55
 0.0.0.0 23.195.153.4
@@ -617,9 +618,12 @@
 0.0.0.0 plugin.ucads.ucweb.com
 0.0.0.0 push.maribacaberita.com
 0.0.0.0 px-intl.ucweb.com
+0.0.0.0 report.newsgenious.com
 0.0.0.0 report.yukbacaberita.com
 0.0.0.0 sg.napi.ucweb.com
 0.0.0.0 shark.uoocool.com
+0.0.0.0 uc123.com
+0.0.0.0 ucfly.com
 0.0.0.0 uc1.ucweb.com
 0.0.0.0 uc2.ucweb.com
 0.0.0.0 uc3.ucweb.com
@@ -629,10 +633,17 @@
 0.0.0.0 uc7.ucweb.com
 0.0.0.0 uc8.ucweb.com
 0.0.0.0 uc9.ucweb.com
+0.0.0.0 uc.ucweb.com
+0.0.0.0 ucads.ucweb.com
 0.0.0.0 ucnews.ucweb.com
 0.0.0.0 udp-dispatch.ucweb.com
 0.0.0.0 uodoo.com
 0.0.0.0 uoocool.com
+0.0.0.0 u.uc123.com
+0.0.0.0 u.ucfly.com
+0.0.0.0 uc.ucweb.com
+0.0.0.0 us.ynuf.aliapp.org
+0.0.0.0 us-aebridge.alibabacorp.com
 0.0.0.0 us-ucdc-upaas.ucweb.com
 0.0.0.0 video.ucnews.ucweb.com
 0.0.0.0 www.maribacaberita.com
