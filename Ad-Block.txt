@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 10:30 AM (UTC+7)
+! Last modified: April 23, 2021 04:00 PM (UTC+7)
 ! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -595,19 +595,25 @@
 ||www.facebook.com^$app=cn.wps.moffice_eng
 
 [UC Browser: com.UCMobile.intl]
-||adn.insight.ucweb.com^
-||attr.union.ucweb.com^
+||apissug-sf.ucweb.com^
+||apiuccenter.ucweb.com^
+||cuttlela.ucweb.com^
 ||feedback.uc.cn^
+||gcsu.ucweb.com^
 ||gjapplog.ucweb.com^
+||gjtrack.ucweb.com^
+||hostmaster.hichina.com^
+||iactla.ucweb.com^
+||insight.ucweb.com^
 ||intlsucus.ucweb.com^
 ||la4lbg.uae2grp.ucweb.com^
 ||la4-userver-upaas.ucweb.com^
 ||la-ucc-upaas.ucweb.com^
+||logssug-sf.ucweb.com^
 ||maribacaberita.com^
-||ucnews.ucweb.com^
-||uodoo.com^
-||px-intl.ucweb.com^
 ||napi.ucweb.com^
+||plugin.ucads.ucweb.com^
+||px-intl.ucweb.com^
 ||uc1.ucweb.com^
 ||uc2.ucweb.com^
 ||uc3.ucweb.com^
@@ -617,6 +623,13 @@
 ||uc7.ucweb.com^
 ||uc8.ucweb.com^
 ||uc9.ucweb.com^
+||ucnews.ucweb.com^
+||udp-dispatch.ucweb.com^
+||union.ucweb.com^
+||uodoo.com^
+||uoocool.com^
+||us-ucdc-upaas.ucweb.com^
+||yukbacaberita.com^
 
 [Vidio: com.vidio.android]
 ||analisis.io^

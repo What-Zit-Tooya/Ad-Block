@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 10:30 AM (UTC+7)
+! Last modified: April 23, 2021 04:00 PM (UTC+7)
 ! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -566,29 +566,60 @@
 
 ! UC Browser: com.UCMobile.intl
 0.0.0.0 157.185.188.1
+0.0.0.0 157.185.189.159
 0.0.0.0 168.235.199.34
 0.0.0.0 168.235.199.81
 0.0.0.0 168.235.206.10
 0.0.0.0 168.235.206.11
+0.0.0.0 180.179.9.133
+0.0.0.0 198.11.190.12
+0.0.0.0 205.204.101.55
 0.0.0.0 23.195.153.4
 0.0.0.0 acs.maribacaberita.com
 0.0.0.0 adn.insight.ucweb.com
+0.0.0.0 airflow.maribacaberita.com
+0.0.0.0 allnews.uodoo.com
+0.0.0.0 apissug-sf.ucweb.com
+0.0.0.0 apiuccenter.ucweb.com
+0.0.0.0 appflow.maribacaberita.com
 0.0.0.0 attr.union.ucweb.com
+0.0.0.0 c.maribacaberita.com
+0.0.0.0 c.yukbacaberita.com
+0.0.0.0 cuttlela.ucweb.com
+0.0.0.0 dict.maribacaberita.com
 0.0.0.0 event.allnews.uodoo.com
+0.0.0.0 event.maribacaberita.com
+0.0.0.0 event.yukbacaberita.com
+0.0.0.0 feed0.yukbacaberita.com
+0.0.0.0 feed1.yukbacaberita.com
 0.0.0.0 feedback.uc.cn
 0.0.0.0 flow.maribacaberita.com
+0.0.0.0 flow.yukbacaberita.com
+0.0.0.0 follow.maribacaberita.com
+0.0.0.0 gcsu.ucweb.com
 0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 global-tokenserver-la.headline.uodoo.com
 0.0.0.0 hl-img.peco.uodoo.com
+0.0.0.0 hostmaster.hichina.com
+0.0.0.0 iactla.ucweb.com
 0.0.0.0 id.ucnews.ucweb.com
+0.0.0.0 idsearch.ucnews.ucweb.com
+0.0.0.0 idstory-log.maribacaberita.com
 0.0.0.0 img.uodoo.com
+0.0.0.0 intl.yukbacaberita.com
 0.0.0.0 intlsucus.ucweb.com
 0.0.0.0 jmacs.maribacaberita.com
 0.0.0.0 la4lbg.uae2grp.ucweb.com
 0.0.0.0 la4-userver-upaas.ucweb.com
 0.0.0.0 la-ucc-upaas.ucweb.com
+0.0.0.0 logssug-sf.ucweb.com
+0.0.0.0 plugin.ucads.ucweb.com
+0.0.0.0 push.maribacaberita.com
 0.0.0.0 px-intl.ucweb.com
+0.0.0.0 report.yukbacaberita.com
 0.0.0.0 sg.napi.ucweb.com
+0.0.0.0 shark.uoocool.com
 0.0.0.0 uc1.ucweb.com
 0.0.0.0 uc2.ucweb.com
 0.0.0.0 uc3.ucweb.com
@@ -599,6 +630,14 @@
 0.0.0.0 uc8.ucweb.com
 0.0.0.0 uc9.ucweb.com
 0.0.0.0 ucnews.ucweb.com
+0.0.0.0 udp-dispatch.ucweb.com
+0.0.0.0 uodoo.com
+0.0.0.0 uoocool.com
+0.0.0.0 us-ucdc-upaas.ucweb.com
+0.0.0.0 video.ucnews.ucweb.com
+0.0.0.0 www.maribacaberita.com
+0.0.0.0 www.yukbacaberita.com
+0.0.0.0 yukbacaberita.com
 
 ! Vidio: com.vidio.android
 0.0.0.0 analisis.io

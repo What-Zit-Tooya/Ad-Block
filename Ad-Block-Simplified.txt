@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 10:30 AM (UTC+7)
+! Last modified: April 23, 2021 04:00 PM (UTC+7)
 ! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -547,20 +547,33 @@
 
 ! UC Browser: com.UCMobile.intl
 157.185.188.1
+157.185.189.159
 168.235.199.34
 168.235.199.81
 168.235.206.10
 168.235.206.11
+180.179.9.133
+198.11.190.12
+205.204.101.55
 23.195.153.4
+||apissug-sf.ucweb.com^
+||apiuccenter.ucweb.com^
+||cuttlela.ucweb.com^
 ||feedback.uc.cn^
+||gcsu.ucweb.com^
 ||gjapplog.ucweb.com^
+||gjtrack.ucweb.com^
+||hostmaster.hichina.com^
+||iactla.ucweb.com^
 ||insight.ucweb.com^
 ||intlsucus.ucweb.com^
 ||la4lbg.uae2grp.ucweb.com^
 ||la4-userver-upaas.ucweb.com^
 ||la-ucc-upaas.ucweb.com^
+||logssug-sf.ucweb.com^
 ||maribacaberita.com^
 ||napi.ucweb.com^
+||plugin.ucads.ucweb.com^
 ||px-intl.ucweb.com^
 ||uc1.ucweb.com^
 ||uc2.ucweb.com^
@@ -572,8 +585,12 @@
 ||uc8.ucweb.com^
 ||uc9.ucweb.com^
 ||ucnews.ucweb.com^
+||udp-dispatch.ucweb.com^
 ||union.ucweb.com^
 ||uodoo.com^
+||uoocool.com^
+||us-ucdc-upaas.ucweb.com^
+||yukbacaberita.com^
 
 [Vidio: com.vidio.android]
 ||analisis.io^
