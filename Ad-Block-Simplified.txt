@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 08:10 AM (UTC+7)
+! Last modified: April 23, 2021 08:55 AM (UTC+7)
 ! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -403,7 +403,6 @@
 ||log-collector.shopee.vn^
 ||play-tx.vod.shopee.com^
 ||play-ws.vod.shopee.com^
-||sg2.sgw.shopeemobile.com^
 ||userstats.shopee.co.id^
 ||userstats.shopee.co.th^
 ||userstats.shopee.com.br^

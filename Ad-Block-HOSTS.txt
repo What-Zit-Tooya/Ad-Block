@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 08:10 AM (UTC+7)
+! Last modified: April 23, 2021 08:55 AM (UTC+7)
 ! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -422,7 +422,6 @@
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 play-tx.vod.shopee.com
 0.0.0.0 play-ws.vod.shopee.com
-0.0.0.0 sg2.sgw.shopeemobile.com
 0.0.0.0 userstats.shopee.co.id
 0.0.0.0 userstats.shopee.co.th
 0.0.0.0 userstats.shopee.com.br
