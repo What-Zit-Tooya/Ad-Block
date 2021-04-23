@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 04:35 PM (UTC+7)
+! Last modified: April 23, 2021 04:37 PM (UTC+7)
 ! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -615,6 +615,7 @@
 0.0.0.0 la4-userver-upaas.ucweb.com
 0.0.0.0 la-ucc-upaas.ucweb.com
 0.0.0.0 logssug-sf.ucweb.com
+0.0.0.0 newsgenious.com
 0.0.0.0 plugin.ucads.ucweb.com
 0.0.0.0 push.maribacaberita.com
 0.0.0.0 px-intl.ucweb.com
