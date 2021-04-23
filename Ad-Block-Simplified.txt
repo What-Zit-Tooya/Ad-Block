@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 09:20 AM (UTC+7)
+! Last modified: April 23, 2021 10:30 AM (UTC+7)
 ! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -546,8 +546,34 @@
 ||wh-nginx-gateway-service.default.us.entry.4wps.net^
 
 ! UC Browser: com.UCMobile.intl
+157.185.188.1
+168.235.199.34
+168.235.199.81
+168.235.206.10
+168.235.206.11
+23.195.153.4
+||feedback.uc.cn^
 ||gjapplog.ucweb.com^
+||insight.ucweb.com^
+||intlsucus.ucweb.com^
+||la4lbg.uae2grp.ucweb.com^
+||la4-userver-upaas.ucweb.com^
+||la-ucc-upaas.ucweb.com^
+||maribacaberita.com^
+||napi.ucweb.com^
 ||px-intl.ucweb.com^
+||uc1.ucweb.com^
+||uc2.ucweb.com^
+||uc3.ucweb.com^
+||uc4.ucweb.com^
+||uc5.ucweb.com^
+||uc6.ucweb.com^
+||uc7.ucweb.com^
+||uc8.ucweb.com^
+||uc9.ucweb.com^
+||ucnews.ucweb.com^
+||union.ucweb.com^
+||uodoo.com^
 
 [Vidio: com.vidio.android]
 ||analisis.io^

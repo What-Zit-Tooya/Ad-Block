@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 09:20 AM (UTC+7)
+! Last modified: April 23, 2021 10:30 AM (UTC+7)
 ! Version: 23/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -565,8 +565,40 @@
 0.0.0.0 wh-nginx-gateway-service.default.us.entry.4wps.net
 
 ! UC Browser: com.UCMobile.intl
+0.0.0.0 157.185.188.1
+0.0.0.0 168.235.199.34
+0.0.0.0 168.235.199.81
+0.0.0.0 168.235.206.10
+0.0.0.0 168.235.206.11
+0.0.0.0 23.195.153.4
+0.0.0.0 acs.maribacaberita.com
+0.0.0.0 adn.insight.ucweb.com
+0.0.0.0 attr.union.ucweb.com
+0.0.0.0 event.allnews.uodoo.com
+0.0.0.0 feedback.uc.cn
+0.0.0.0 flow.maribacaberita.com
 0.0.0.0 gjapplog.ucweb.com
+0.0.0.0 global-tokenserver-la.headline.uodoo.com
+0.0.0.0 hl-img.peco.uodoo.com
+0.0.0.0 id.ucnews.ucweb.com
+0.0.0.0 img.uodoo.com
+0.0.0.0 intlsucus.ucweb.com
+0.0.0.0 jmacs.maribacaberita.com
+0.0.0.0 la4lbg.uae2grp.ucweb.com
+0.0.0.0 la4-userver-upaas.ucweb.com
+0.0.0.0 la-ucc-upaas.ucweb.com
 0.0.0.0 px-intl.ucweb.com
+0.0.0.0 sg.napi.ucweb.com
+0.0.0.0 uc1.ucweb.com
+0.0.0.0 uc2.ucweb.com
+0.0.0.0 uc3.ucweb.com
+0.0.0.0 uc4.ucweb.com
+0.0.0.0 uc5.ucweb.com
+0.0.0.0 uc6.ucweb.com
+0.0.0.0 uc7.ucweb.com
+0.0.0.0 uc8.ucweb.com
+0.0.0.0 uc9.ucweb.com
+0.0.0.0 ucnews.ucweb.com
 
 ! Vidio: com.vidio.android
 0.0.0.0 analisis.io
