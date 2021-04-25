@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 23, 2021 04:37 PM (UTC+7)
-! Version: 23/04/2021
+! Last modified: April 25, 2021 08:00 PM (UTC+7)
+! Version: 25/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -177,6 +177,7 @@
 0.0.0.0 laz-dorangesource.alicdn.com
 0.0.0.0 laz-dorangesource.alicdn.com.w.cdngslb.com
 0.0.0.0 lzd.highway.alibaba-inc.com
+0.0.0.0 retcode-sg-lazada.arms.aliyuncs.com
 0.0.0.0 taobao-tw.alibaba.com
 0.0.0.0 umlazada.alibaba.com
 0.0.0.0 xjp.wagbridge.taobao.com
@@ -654,3 +655,11 @@
 ! Vidio: com.vidio.android
 0.0.0.0 analisis.io
 0.0.0.0 plenty.analisis.io
+
+! ALCATEL (TCL) PHONES
+0.0.0.0 dg.udc.eu.tclclouds.com
+0.0.0.0 g2master-sa-east.tclclouds.com
+0.0.0.0 gwrtdp-eges75nzvx.tclclouds.com
+0.0.0.0 iplan.tclmobile.cn
+0.0.0.0 pushplatform.tclclouds.com
+0.0.0.0 webservice.tclmobile.cn
