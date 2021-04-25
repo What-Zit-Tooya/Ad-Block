@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 25, 2021 08:00 PM (UTC+7)
+! Last modified: April 25, 2021 08:45 PM (UTC+7)
 ! Version: 25/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -662,3 +662,7 @@
 0.0.0.0 iplan.tclmobile.cn
 0.0.0.0 pushplatform.tclclouds.com
 0.0.0.0 webservice.tclmobile.cn
+
+! Kiwi Browser: com.kiwibrowser.browser
+0.0.0.0 kiwisearchservices.com
+0.0.0.0 kiwisearchservices.net
