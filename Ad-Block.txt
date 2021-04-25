@@ -644,7 +644,6 @@
 
 [ALCATEL (TCL) PHONES]
 ||dg.udc.eu.tclclouds.com^
-||g2master-sa-east.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
 ||iplan.tclmobile.cn^
 ||pushplatform.tclclouds.com^

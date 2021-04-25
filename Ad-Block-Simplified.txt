@@ -607,7 +607,6 @@
 [ALCATEL (TCL) PHONES]
 103.220.72.168
 ||dg.udc.eu.tclclouds.com^
-||g2master-sa-east.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
 ||iplan.tclmobile.cn^
 ||pushplatform.tclclouds.com^

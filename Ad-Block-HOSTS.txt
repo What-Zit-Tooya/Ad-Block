@@ -658,7 +658,6 @@
 
 ! ALCATEL (TCL) PHONES
 0.0.0.0 dg.udc.eu.tclclouds.com
-0.0.0.0 g2master-sa-east.tclclouds.com
 0.0.0.0 gwrtdp-eges75nzvx.tclclouds.com
 0.0.0.0 iplan.tclmobile.cn
 0.0.0.0 pushplatform.tclclouds.com
