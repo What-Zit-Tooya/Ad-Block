@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 25, 2021 08:45 PM (UTC+7)
-! Version: 25/04/2021
+! Last modified: April 26, 2021 11:00 AM (UTC+7)
+! Version: 26/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -231,6 +231,28 @@
 
 ! HAGO: com.yy.hiyo
 ! Noizz - formerly Biugo: com.yy.biu
+103.230.236.20
+103.230.236.25
+103.230.236.32
+121.46.20.38
+121.46.30.51
+121.46.30.59
+124.202.138.11
+124.202.138.29
+124.202.138.30
+124.202.138.31
+124.202.138.32
+175.25.50.15
+175.25.50.16
+175.25.50.70
+183.232.58.233
+183.232.58.234
+183.232.58.236
+183.232.58.237
+183.232.58.238
+183.232.58.241
+43.247.88.106
+43.247.88.107
 ||adashx4sg.ut.taobao.com^
 ||android.rqd.qq.com^
 ||ap.livemediav.com^
@@ -242,6 +264,7 @@
 ||bstream.hzmklvdieo.com^
 ||btrace.qq.com^
 ||crash-reporting.yy.com^
+||easytomessage.com^
 ||global-pushsdk.olaparty.com^
 ||global-yypushsdk.yy.com^
 ||hiido.com^
