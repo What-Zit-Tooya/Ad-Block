@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 25, 2021 08:45 PM (UTC+7)
-! Version: 25/04/2021
+! Last modified: April 26, 2021 11.00 AM (UTC+7)
+! Version: 26/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -245,6 +245,28 @@
 
 ! HAGO: com.yy.hiyo
 ! Noizz - formerly Biugo: com.yy.biu
+0.0.0.0 103.230.236.20
+0.0.0.0 103.230.236.25
+0.0.0.0 103.230.236.32
+0.0.0.0 121.46.20.38
+0.0.0.0 121.46.30.51
+0.0.0.0 121.46.30.59
+0.0.0.0 124.202.138.11
+0.0.0.0 124.202.138.29
+0.0.0.0 124.202.138.30
+0.0.0.0 124.202.138.31
+0.0.0.0 124.202.138.32
+0.0.0.0 175.25.50.15
+0.0.0.0 175.25.50.16
+0.0.0.0 175.25.50.70
+0.0.0.0 183.232.58.233
+0.0.0.0 183.232.58.234
+0.0.0.0 183.232.58.236
+0.0.0.0 183.232.58.237
+0.0.0.0 183.232.58.238
+0.0.0.0 183.232.58.241
+0.0.0.0 43.247.88.106
+0.0.0.0 43.247.88.107
 0.0.0.0 adashx4sg.ut.taobao.com
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 android.rqd.qq.com
