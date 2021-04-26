@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 26, 2021 11:00 AM (UTC+7)
+! Last modified: April 26, 2021 12:25 PM (UTC+7)
 ! Version: 26/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -298,6 +298,7 @@
 ||push-link.olaparty.com^
 ||push-link.yy.com^
 ||reinforce.security.yy.com^
+||sec.umeng.com^
 ||ylog.hiido.com^
 
 ! AOL - News, Mail & Video: com.aol.mobile.aolapp
@@ -571,6 +572,7 @@
 
 ! UC Browser: com.UCMobile.intl
 157.185.188.1
+157.185.188.2
 157.185.189.159
 168.235.199.34
 168.235.199.81
@@ -579,6 +581,7 @@
 180.179.9.133
 198.11.146.6
 198.11.190.12
+203.119.169.44
 205.204.101.55
 23.195.153.4
 ||apissug-sf.ucweb.com^
@@ -601,6 +604,7 @@
 ||napi.ucweb.com^
 ||plugin.ucads.ucweb.com^
 ||px-intl.ucweb.com^
+||sf-unpm-upaas.ucweb.com^
 ||uc1.ucweb.com^
 ||uc2.ucweb.com^
 ||uc3.ucweb.com^
@@ -620,8 +624,10 @@
 ||uodoo.com^
 ||uoocool.com^
 ||us-ucdc-upaas.ucweb.com^
+||us-unpm-upaas.ucweb.com^
 ||us-aebridge.alibabacorp.com^
 ||us.ynuf.aliapp.org^
+||ynuf.aliapp.org^
 ||yukbacaberita.com^
 
 [Vidio: com.vidio.android]
@@ -630,10 +636,15 @@
 [ALCATEL (TCL) PHONES]
 103.220.72.168
 ||dg.udc.eu.tclclouds.com^
+||gw.rtdp.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
 ||iplan.tclmobile.cn^
+||madri.tsmdev.id^
 ||pushplatform.tclclouds.com^
+||sec.tclclouds.com^
 ||webservice.tclmobile.cn^
+||ws75.aptoide.com^
+||vueserion.ciayo.com^
 
 [Kiwi Browser: com.kiwibrowser.browser]
 ||kiwisearchservices.com^

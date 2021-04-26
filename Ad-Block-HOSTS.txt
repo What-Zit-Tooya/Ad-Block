@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 26, 2021 11.00 AM (UTC+7)
+! Last modified: April 26, 2021 12:25 AM (UTC+7)
 ! Version: 26/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -315,6 +315,7 @@
 0.0.0.0 push-api.yy.com
 0.0.0.0 push-link.olaparty.com
 0.0.0.0 push-link.yy.com
+0.0.0.0 sec.umeng.com
 0.0.0.0 reinforce.security.yy.com
 0.0.0.0 s.jpush.cn
 0.0.0.0 sis.jpush.io
@@ -589,6 +590,7 @@
 
 ! UC Browser: com.UCMobile.intl
 0.0.0.0 157.185.188.1
+0.0.0.0 157.185.188.2
 0.0.0.0 157.185.189.159
 0.0.0.0 168.235.199.34
 0.0.0.0 168.235.199.81
@@ -597,6 +599,7 @@
 0.0.0.0 180.179.9.133
 0.0.0.0 198.11.146.6
 0.0.0.0 198.11.190.12
+0.0.0.0 203.119.169.44
 0.0.0.0 205.204.101.55
 0.0.0.0 23.195.153.4
 0.0.0.0 acs.maribacaberita.com
@@ -644,6 +647,7 @@
 0.0.0.0 px-intl.ucweb.com
 0.0.0.0 report.newsgenious.com
 0.0.0.0 report.yukbacaberita.com
+0.0.0.0 sf-unpm-upaas.ucweb.com
 0.0.0.0 sg.napi.ucweb.com
 0.0.0.0 shark.uoocool.com
 0.0.0.0 uc123.com
@@ -668,10 +672,12 @@
 0.0.0.0 uc.ucweb.com
 0.0.0.0 us.ynuf.aliapp.org
 0.0.0.0 us-aebridge.alibabacorp.com
+0.0.0.0 us-unpm-upaas.ucweb.com
 0.0.0.0 us-ucdc-upaas.ucweb.com
 0.0.0.0 video.ucnews.ucweb.com
 0.0.0.0 www.maribacaberita.com
 0.0.0.0 www.yukbacaberita.com
+0.0.0.0 ynuf.aliapp.org
 0.0.0.0 yukbacaberita.com
 
 ! Vidio: com.vidio.android
@@ -680,10 +686,15 @@
 
 ! ALCATEL (TCL) PHONES
 0.0.0.0 dg.udc.eu.tclclouds.com
+0.0.0.0 gw.rtdp.tclclouds.com
 0.0.0.0 gwrtdp-eges75nzvx.tclclouds.com
 0.0.0.0 iplan.tclmobile.cn
+0.0.0.0 madri.tsmdev.id
 0.0.0.0 pushplatform.tclclouds.com
+0.0.0.0 sec.tclclouds.com
 0.0.0.0 webservice.tclmobile.cn
+0.0.0.0 ws75.aptoide.com
+0.0.0.0 vueserion.ciayo.com
 
 ! Kiwi Browser: com.kiwibrowser.browser
 0.0.0.0 kiwisearchservices.com
