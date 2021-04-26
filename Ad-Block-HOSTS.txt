@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 26, 2021 12:25 AM (UTC+7)
+! Last modified: April 26, 2021 04:20 PM (UTC+7)
 ! Version: 26/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -170,6 +170,7 @@
 0.0.0.0 47.89.74.75
 0.0.0.0 47.89.74.76
 0.0.0.0 acs-m.lazada.sg
+0.0.0.0 arms-retcode-sg.aliyuncs.com
 0.0.0.0 audid-api-sg.taobao.com
 0.0.0.0 h-adashx4sg.ut.taobao.com
 0.0.0.0 irisk-id-l.alipay.com
