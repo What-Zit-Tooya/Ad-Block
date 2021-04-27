@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 27, 2021 04:05 PM (UTC+7)
+! Last modified: April 27, 2021 08:20 PM (UTC+7)
 ! Version: 27/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -682,3 +682,43 @@
 ! Kiwi Browser: com.kiwibrowser.browser
 0.0.0.0 kiwisearchservices.com
 0.0.0.0 kiwisearchservices.net
+
+! Puffin Web Browser: com.cloudmosa.puffinFree
+0.0.0.0 38.111.215.248
+0.0.0.0 collector.cloudmosa.net
+
+! Brave Browser: com.brave.browser
+! Brave Browser (Beta): com.brave.browser_beta
+! Brave Browser (Nightly): com.brave.browser_nightly
+0.0.0.0 13.224.249.22
+0.0.0.0 13.224.249.43
+0.0.0.0 13.224.249.6
+0.0.0.0 13.224.249.61
+0.0.0.0 13.227.142.9
+0.0.0.0 13.227.252.117
+0.0.0.0 13.227.252.125
+0.0.0.0 13.227.252.83
+0.0.0.0 13.227.252.98
+0.0.0.0 199.232.45.32
+0.0.0.0 199.232.46.137
+0.0.0.0 52.10.120.178
+0.0.0.0 54.182.0.38
+0.0.0.0 54.182.0.75
+0.0.0.0 54.182.0.98
+0.0.0.0 54.182.0.99
+0.0.0.0 ads-serve.brave.com
+0.0.0.0 ads-static.brave.com
+0.0.0.0 api.rewards.brave.com
+0.0.0.0 componentupdater.brave.com
+0.0.0.0 d17ndjuagurpsr.cloudfront.net
+0.0.0.0 d2dieaj0i9bfkz.cloudfront.net
+0.0.0.0 d3owvgesicftp9.cloudfront.net
+0.0.0.0 dualstack.k.sni.global.fastly.net
+0.0.0.0 dualstack.o.sni.global.fastly.net
+0.0.0.0 go-updater.brave.com
+0.0.0.0 grant.rewards.brave.com
+0.0.0.0 laptop-updates.brave.com
+0.0.0.0 p3a.brave.com
+0.0.0.0 rewards.brave.com
+0.0.0.0 variations.brave.com
+

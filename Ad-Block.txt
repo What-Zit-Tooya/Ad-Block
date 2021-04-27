@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: April 26, 2021 04:20 PM (UTC+7)
-! Version: 26/04/2021
+! Last modified: April 27, 2021 08:20 PM (UTC+7)
+! Version: 27/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -662,3 +662,41 @@
 [Kiwi Browser: com.kiwibrowser.browser]
 ||kiwisearchservices.com^
 ||kiwisearchservices.net^
+
+[Puffin Web Browser: com.cloudmosa.puffinFree]
+||collector.cloudmosa.net^
+
+[Brave Browser: com.brave.browser]
+[Brave Browser (Beta): com.brave.browser_beta]
+[Brave Browser (Nightly): com.brave.browser_nightly]
+13.224.249.22
+13.224.249.43
+13.224.249.6
+13.224.249.61
+13.227.142.9
+13.227.252.117
+13.227.252.125
+13.227.252.83
+13.227.252.98
+199.232.45.32
+199.232.46.137
+52.10.120.178
+54.182.0.38
+54.182.0.75
+54.182.0.98
+54.182.0.99
+||ads-serve.brave.com^
+||ads-static.brave.com^
+||api.rewards.brave.com^
+||componentupdater.brave.com^
+||d17ndjuagurpsr.cloudfront.net^
+||d2dieaj0i9bfkz.cloudfront.net^
+||d3owvgesicftp9.cloudfront.net^
+||dualstack.k.sni.global.fastly.net^
+||dualstack.o.sni.global.fastly.net^
+||go-updater.brave.com^
+||grant.rewards.brave.com^
+||laptop-updates.brave.com^
+||p3a.brave.com^
+||rewards.brave.com^
+||variations.brave.com^

@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: April 27, 2021 03:30 PM (UTC+7)
+! Last modified: April 27, 2021 08:20 PM (UTC+7)
 ! Version: 27/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -627,10 +627,10 @@
 ||ynuf.aliapp.org^
 ||yukbacaberita.com^
 
-[Vidio: com.vidio.android]
+! Vidio: com.vidio.android
 ||analisis.io^
 
-[ALCATEL (TCL) PHONES]
+! ALCATEL (TCL) PHONES
 103.220.72.168
 ||dg.udc.eu.tclclouds.com^
 ||gw.rtdp.tclclouds.com^
@@ -643,6 +643,45 @@
 ||ws75.aptoide.com^
 ||vueserion.ciayo.com^
 
-[Kiwi Browser: com.kiwibrowser.browser]
+! Kiwi Browser: com.kiwibrowser.browser
 ||kiwisearchservices.com^
 ||kiwisearchservices.net^
+
+! Puffin Web Browser: com.cloudmosa.puffinFree
+38.111.215.248
+||collector.cloudmosa.net^
+
+! Brave Browser: com.brave.browser
+! Brave Browser (Beta): com.brave.browser_beta
+! Brave Browser (Nightly): com.brave.browser_nightly
+13.224.249.22
+13.224.249.43
+13.224.249.6
+13.224.249.61
+13.227.142.9
+13.227.252.117
+13.227.252.125
+13.227.252.83
+13.227.252.98
+199.232.45.32
+199.232.46.137
+52.10.120.178
+54.182.0.38
+54.182.0.75
+54.182.0.98
+54.182.0.99
+||ads-serve.brave.com^
+||ads-static.brave.com^
+||api.rewards.brave.com^
+||componentupdater.brave.com^
+||d17ndjuagurpsr.cloudfront.net^
+||d2dieaj0i9bfkz.cloudfront.net^
+||d3owvgesicftp9.cloudfront.net^
+||dualstack.k.sni.global.fastly.net^
+||dualstack.o.sni.global.fastly.net^
+||go-updater.brave.com^
+||grant.rewards.brave.com^
+||laptop-updates.brave.com^
+||p3a.brave.com^
+||rewards.brave.com^
+||variations.brave.com^
