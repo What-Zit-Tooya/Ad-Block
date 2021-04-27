@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
-! Description: Mobile Ads Filters. HOSTS version of my Ad-Block.
+! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 26, 2021 04:20 PM (UTC+7)
-! Version: 26/04/2021
+! Last modified: April 27, 2021 04:05 PM (UTC+7)
+! Version: 27/04/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -27,22 +27,6 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 tsg.tdatamaster.com
-
-! Facebook Related Server
-0.0.0.0 api.facebook.com
-0.0.0.0 b-api.facebook.com
-0.0.0.0 b-graph.facebook.com
-0.0.0.0 b-graph.instagram.com
-0.0.0.0 b-www.facebook.com
-0.0.0.0 edge-mqtt.facebook.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 graph.fbpigeon.com
-0.0.0.0 graph.instagram.com
-0.0.0.0 graphql.instagram.com
-0.0.0.0 mqtt-mini.facebook.com
-0.0.0.0 star.c10r.facebook.com
-0.0.0.0 star.facebook.com
-0.0.0.0 z-m-graph.facebook.com
 
 ! SHAREit: com.lenovo.anyshare.gps
 0.0.0.0 13.224.250.223
@@ -213,8 +197,6 @@
 0.0.0.0 news.opera-api.com
 0.0.0.0 news-id.feednews.com
 ! END Block News
-0.0.0.0 157.240.13.14
-0.0.0.0 157.240.15.1
 0.0.0.0 api.recsys.opera.com
 0.0.0.0 api.sec-tunnel.com
 0.0.0.0 api-a.op-mobile.opera.com
