@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 4, 2021 08:00 AM (UTC+7)
+! Last modified: May 4, 2021 04:35 PM (UTC+7)
 ! Version: 04/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -29,6 +29,7 @@
 ||tsg.tdatamaster.com^
 
 ! SHAREit: com.lenovo.anyshare.gps
+13.35.13.120
 13.224.250.223
 159.138.101.104
 159.138.102.255
@@ -55,6 +56,7 @@
 ||chinatelecom.net^
 ||cocosjoy.com^
 ||cyyjit.com^
+||duowan.com^
 ||d54bwtqv0a3zd.cloudfront.net^
 ||dwza2b3cs63ny.cloudfront.net^
 ||dt.beyla.site^
@@ -63,6 +65,7 @@
 ||gamecenter.run^
 ||gihappy.com^
 ||gjqvujjc.tweb.sched.ovscdns.com^
+||global-pushsdk.duowan.com^
 ||gshareit.com^
 ||h5.wshareit.com^
 ||jcloudcdn.com^
@@ -75,6 +78,7 @@
 ||ns-715.awsdns-25.net^
 ||p0.ipstatp.com^
 ||pmp-cdn.modengs.net^
+||push-api.duowan.com^
 ||profiler-collector.wshareit.com^
 ||push-video.wshareit.com^
 ||receiver-metis.infeng.site^
@@ -212,6 +216,7 @@
 ||thumbnails.opera.com^
 ||thumbnails2.opera.com^
 ||t-odx.op-mobile.opera.com^
+||xml.opera.com^
 
 ! Drakor.ID: com.stream.drakorindoawet
 104.18.226.52
@@ -250,6 +255,8 @@
 43.247.88.106
 43.247.88.107
 ||adashx4sg.ut.taobao.com^
+||alogsus.umeng.com^
+||alogus.umeng.com^
 ||android.rqd.qq.com^
 ||ap.livemediav.com^
 ||apblbs-sgp.service.huanjuyun.com^
@@ -261,6 +268,7 @@
 ||btrace.qq.com^
 ||crash-reporting.yy.com^
 ||easytomessage.com^
+||errlogos.umeng.com^
 ||global-pushsdk.olaparty.com^
 ||global-yypushsdk.yy.com^
 ||hiido.com^
@@ -468,6 +476,7 @@
 ||api.quantumgraph.com^
 ||api-gl.cdo.heytapmobi.com^
 ||api-gl.cdo.heytapmobile.com^
+||api-id.game.heytapmobi.com^
 ||api-id.play.heytapmobile.com^
 ||api-id.store.heytapmobi.com^
 ||api-id.theme.heytapmobile.com^
@@ -507,6 +516,8 @@
 ||i-sg.browser.heytapmobile.com^
 @@||i-sg.magazine.heytapmobile.com^
 ||i-sg01a.ocloud.heytapmobi.com^
+||img-intl-push.heytapimg.com^
+||img-intl-push.heytapimg.com.cdn.gl102.com^
 ||jscatch-sg-frontend.heytapmobile.com^
 ||log-eap-sg.coloros.com^
 ||mads.amazon-adsystem.com^
@@ -588,6 +599,7 @@
 ||gjapplog.ucweb.com^
 ||gjtrack.ucweb.com^
 ||hostmaster.hichina.com^
+||https://ynuf.aliapp.org/saveWb.json?^
 ||iactla.ucweb.com^
 ||insight.ucweb.com^
 ||intlsucus.ucweb.com^

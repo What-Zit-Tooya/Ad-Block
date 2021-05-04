@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: May 4, 2021 08:00 AM (UTC+7)
+! Last modified: May 4, 2021 04:35 PM (UTC+7)
 ! Version: 04/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -56,7 +56,6 @@
 
 [SHAREit: com.lenovo.anyshare.gps]
 ### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
-||13.35.13.120^
 ||api.facebook.com^$app=com.lenovo.anyshare.gps
 ||asia-abroad.com^
 ||bing.com^$app=com.lenovo.anyshare.gps,important
@@ -69,12 +68,14 @@
 ||cloudfront.net^$app=com.lenovo.anyshare.gps
 ||cocosjoy.com^
 ||cyyjit.com^
+||duowan.com^
 ||dt.beyla.site^
 ||fgeh.overseavideo.sched.apdcdn.com^
 ||footprint.net^
 ||gamecenter.run^
 ||gihappy.com^
 ||gjqvujjc.tweb.sched.ovscdns.com^
+||global-pushsdk.duowan.com^
 ||graph.facebook.com^$app=com.lenovo.anyshare.gps
 ||gshareit.com^
 ||jcloudcdn.com^
@@ -87,6 +88,7 @@
 ||ns-715.awsdns-25.net^
 ||p0.ipstatp.com^
 ||pmp-cdn.modengs.net^
+||push-api.duowan.com^
 ||push-video.wshareit.com^
 ||receiver-metis.infeng.site^
 ||reporttk.com^
@@ -221,6 +223,7 @@
 ||t-odx.op-mobile.opera.com^
 ||web.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
 ||www.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
+||xml.opera.com^
 
 [Drakor.ID: com.stream.drakorindoawet]
 ||api.onesignal.com^
@@ -244,6 +247,8 @@
 [HAGO: com.yy.hiyo]
 [Noizz - formerly Biugo: com.yy.biu]
 ||adashx4sg.ut.taobao.com^
+||alogsus.umeng.com^
+||alogus.umeng.com^
 ||android.rqd.qq.com^
 ||ap.livemediav.com^
 ||apblbs-sgp.service.huanjuyun.com^
@@ -253,6 +258,8 @@
 ||audid-api-sg.taobao.com^
 ||btrace.qq.com^
 ||crash-reporting.yy.com^
+||easytomessage.com^
+||errlogos.umeng.com^
 ||firebaseinstallation.googleapis.com^$app=com.yy.hiyo|com.yy.biu
 ||firebaseremoteconfig.googleapis.com^$app=com.yy.hiyo|com.yy.biu
 ||global-pushsdk.olaparty.com^
@@ -494,6 +501,7 @@
 ||api.quantumgraph.com^
 ||api-gl.cdo.heytapmobi.com^
 ||api-gl.cdo.heytapmobile.com^
+||api-id.game.heytapmobi.com^
 ||api-id.play.heytapmobile.com^
 ||api-id.store.heytapmobi.com^
 ||api-id.theme.heytapmobile.com^
@@ -533,6 +541,8 @@
 ||i-sg.browser.heytapmobile.com^
 @@||i-sg.magazine.heytapmobile.com^
 ||i-sg01a.ocloud.heytapmobi.com^
+||img-intl-push.heytapimg.com^
+||img-intl-push.heytapimg.com.cdn.gl102.com^
 ||jscatch-sg-frontend.heytapmobile.com^
 ||log-eap-sg.coloros.com^
 ||mads.amazon-adsystem.com^
@@ -605,6 +615,7 @@
 ||gjapplog.ucweb.com^
 ||gjtrack.ucweb.com^
 ||hostmaster.hichina.com^
+||https://ynuf.aliapp.org/saveWb.json?^
 ||iactla.ucweb.com^
 ||insight.ucweb.com^
 ||intlsucus.ucweb.com^

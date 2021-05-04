@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 4, 2021 08:00 AM (UTC+7)
+! Last modified: May 4, 2021 04:35 PM (UTC+7)
 ! Version: 04/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -29,6 +29,7 @@
 0.0.0.0 tsg.tdatamaster.com
 
 ! SHAREit: com.lenovo.anyshare.gps
+0.0.0.0 13.35.13.120
 0.0.0.0 13.224.250.223
 0.0.0.0 159.138.101.104
 0.0.0.0 159.138.102.255
@@ -57,12 +58,14 @@
 0.0.0.0 cyyjit.com
 0.0.0.0 d54bwtqv0a3zd.cloudfront.net
 0.0.0.0 dwza2b3cs63ny.cloudfront.net
+0.0.0.0 duowan.com
 0.0.0.0 dt.beyla.site
 0.0.0.0 fgeh.overseavideo.sched.apdcdn.com
 0.0.0.0 footprint.net
 0.0.0.0 gamecenter.run
 0.0.0.0 gihappy.com
 0.0.0.0 gjqvujjc.tweb.sched.ovscdns.com
+0.0.0.0 global-pushsdk.duowan.com
 0.0.0.0 gshareit.com
 0.0.0.0 h5.wshareit.com
 0.0.0.0 jcloudcdn.com
@@ -77,6 +80,7 @@
 0.0.0.0 pmp-cdn.modengs.net
 0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 push-video.wshareit.com
+0.0.0.0 push-api.duowan.com
 0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 reporttk.com
 0.0.0.0 rqmob.com
@@ -213,6 +217,7 @@
 0.0.0.0 thumbnails.opera.com
 0.0.0.0 thumbnails2.opera.com
 0.0.0.0 t-odx.op-mobile.opera.com
+0.0.0.0 xml.opera.com
 
 ! Drakor.ID: com.stream.drakorindoawet
 0.0.0.0 104.18.226.52
@@ -252,6 +257,8 @@
 0.0.0.0 43.247.88.107
 0.0.0.0 adashx4sg.ut.taobao.com
 0.0.0.0 ali-stats.jpush.cn
+0.0.0.0 alogsus.umeng.com
+0.0.0.0 alogus.umeng.com
 0.0.0.0 android.rqd.qq.com
 0.0.0.0 ap.livemediav.com
 0.0.0.0 apblbs-sgp.service.huanjuyun.com
@@ -264,6 +271,7 @@
 0.0.0.0 btrace.qq.com
 0.0.0.0 crash-reporting.yy.com
 0.0.0.0 easytomessage.com
+0.0.0.0 errlogos.umeng.com
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 global-pushsdk.olaparty.com
@@ -473,6 +481,7 @@
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 api-gl.cdo.heytapmobi.com
 0.0.0.0 api-gl.cdo.heytapmobile.com
+0.0.0.0 api-id.game.heytapmobi.com
 0.0.0.0 api-id.play.heytapmobile.com
 0.0.0.0 api-id.store.heytapmobi.com
 0.0.0.0 api-id.theme.heytapmobile.com
@@ -512,6 +521,8 @@
 0.0.0.0 i-sg.browser.heytapmobile.com
 #0.0.0.0 i-sg.magazine.heytapmobile.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
+0.0.0.0 img-intl-push.heytapimg.com
+0.0.0.0 img-intl-push.heytapimg.com.cdn.gl102.com
 0.0.0.0 jscatch-sg-frontend.heytapmobile.com
 0.0.0.0 log-eap-sg.coloros.com
 0.0.0.0 mads.amazon-adsystem.com
@@ -612,6 +623,7 @@
 0.0.0.0 global-tokenserver-la.headline.uodoo.com
 0.0.0.0 hl-img.peco.uodoo.com
 0.0.0.0 hostmaster.hichina.com
+0.0.0.0 https://ynuf.aliapp.org/saveWb.json?
 0.0.0.0 iactla.ucweb.com
 0.0.0.0 id.ucnews.ucweb.com
 0.0.0.0 idsearch.ucnews.ucweb.com
