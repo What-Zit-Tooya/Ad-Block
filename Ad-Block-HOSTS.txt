@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: April 29, 2021 04:45 PM (UTC+7)
-! Version: 29/04/2021
+! Last modified: May 4, 2021 08:00 AM (UTC+7)
+! Version: 04/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -225,8 +225,6 @@
 [WhatsApp Business: com.whatsapp.w4b]
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
-0.0.0.0 static.whatsapp.net
-0.0.0.0 scontent.whatsapp.net
 
 ! HAGO: com.yy.hiyo
 ! Noizz - formerly Biugo: com.yy.biu
