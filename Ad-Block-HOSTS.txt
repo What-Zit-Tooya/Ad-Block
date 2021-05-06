@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 4, 2021 04:35 PM (UTC+7)
-! Version: 04/05/2021
+! Last modified: May 6, 2021 08:30 PM (UTC+7)
+! Version: 06/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -306,6 +306,8 @@
 0.0.0.0 push-api.yy.com
 0.0.0.0 push-link.olaparty.com
 0.0.0.0 push-link.yy.com
+0.0.0.0 pushmiddle.bs2dl.yy.com
+0.0.0.0 pushmiddle.bs2dl.yy.com.w.cdngslb.com
 0.0.0.0 sec.umeng.com
 0.0.0.0 reinforce.security.yy.com
 0.0.0.0 s.jpush.cn
