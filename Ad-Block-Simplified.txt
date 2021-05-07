@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 7, 2021 07:00 PM (UTC+7)
+! Last modified: May 7, 2021 07:50 PM (UTC+7)
 ! Version: 07/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -343,9 +343,12 @@
 ||aws-logsdk.uvfuns.com^
 ||aws-static.snackvideo.in^
 ||aws-ulog.kibads.com^
+||conf.piojm.tech^
 ||g-logsdk.snackvideo.com^
 ||g-logsdk.uvfuns.com^
+||g-ulog.uvfuns.com^
 ||static.yximgs.com^
+||tx-apiv2.kibads.com^
 ||wlog.kuaishou.com^
 
 ! HUAWEI PHONES
@@ -379,16 +382,20 @@
 ! Tested in Global ROM
 13.107.13.80
 ||afd.e-0001.dc.msedge.net^
+||api-bing-com.e-0001.e-msedge.net^
 ||api.ad.intl.xiaomi.com^
 ||api.bing.com^
-||api-bing-com.e-0001.e-msedge.net^
 ||api.brs.intl.miui.com^
-||app.chat.global.xiaomi.net^
+||api.mintbrs.intl.miui.com^
 ||app-analytics-sg.huami.com^
+||app.chat.global.xiaomi.net^
 ||d14bb1f98q04f8.cloudfront.net^
 ||data.mistat.intl.xiaomi.com^
 ||e-0001.dc-msedge.net^
+||file.market.xiaomi.com.w.cdngslb.com^
+||file.market.xiaomi.com^
 ||globalapi.ad.xiaomi.com^
+||h5.app.intl.miui.com
 ||log.ad.xiaomi.com^
 ||msg.global.xiaomi.net^
 ||privacy.api.intl.miui.com^
@@ -397,10 +404,41 @@
 ||sa.api.intl.miui.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sg.stat.appmifile.com^
+||t1.market.mi-img.com.m.alikunlun.com^
+||t1.market.mi-img.com^
+||t1.market.xiaomi.com.w.cdngslb.com^
+||t1.market.xiaomi.com^
+||t10.market.mi-img.com^
+||t10.market.xiaomi.com^
+||t11.market.mi-img.com^
+||t11.market.xiaomi.com^
+||t12.market.mi-img.com^
+||t12.market.xiaomi.com^
+||t13.market.mi-img.com.w.cdngslb.com^
+||t13.market.mi-img.com^
+||t13.market.xiaomi.com^
+||t14.market.mi-img.com^
+||t14.market.xiaomi.com^
+||t2.market.mi-img.com^
+||t2.market.xiaomi.com^
+||t3.market.mi-img.com^
+||t3.market.xiaomi.com^
+||t4.market.mi-img.com^
+||t4.market.xiaomi.com^
+||t5.market.mi-img.com^
+||t5.market.xiaomi.com^
+||t6.market.mi-img.com^
+||t6.market.xiaomi.com^
+||t7.market.mi-img.com^
+||t7.market.xiaomi.com^
+||t8.market.mi-img.com^
+||t8.market.xiaomi.com^
+||t9.market.mi-img.com^
+||t9.market.xiaomi.com^
 ||tracking.intl.miui.com^
 ||upload-cdn.huami.com^
-||web-analytics.ap-southeast-1.elasticbeanstalk.com^
 ||web-analytics-sg.huami.com^
+||web-analytics.ap-southeast-1.elasticbeanstalk.com^
 
 ! Shopee Indonesia: com.shopee.id
 ||1255300759.vod2.myqcloud.com^

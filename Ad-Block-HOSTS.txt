@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 7, 2021 07:00 PM (UTC+7)
+! Last modified: May 7, 2021 07:50 PM (UTC+7)
 ! Version: 07/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -351,9 +351,12 @@
 0.0.0.0 aws-logsdk.uvfuns.com
 0.0.0.0 aws-static.snackvideo.in
 0.0.0.0 aws-ulog.kibads.com
+0.0.0.0 conf.piojm.tech
 0.0.0.0 g-logsdk.snackvideo.com
 0.0.0.0 g-logsdk.uvfuns.com
+0.0.0.0 g-ulog.uvfuns.com
 0.0.0.0 static.yximgs.com
+0.0.0.0 tx-apiv2.kibads.com
 0.0.0.0 wlog.kuaishou.com
 
 ! HUAWEI PHONES
@@ -384,16 +387,20 @@
 ! Tested in Global ROM
 0.0.0.0 13.107.13.80
 0.0.0.0 afd.e-0001.dc.msedge.net
+0.0.0.0 api-bing-com.e-0001.e-msedge.net
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.bing.com
-0.0.0.0 api-bing-com.e-0001.e-msedge.net
 0.0.0.0 api.brs.intl.miui.com
-0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 api.mintbrs.intl.miui.com
 0.0.0.0 app-analytics-sg.huami.com
+0.0.0.0 app.chat.global.xiaomi.net
 0.0.0.0 d14bb1f98q04f8.cloudfront.net
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 e-0001.dc-msedge.net
+0.0.0.0 file.market.xiaomi.com
+0.0.0.0 file.market.xiaomi.com.w.cdngslb.com
 0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 h5.app.intl.miui.com
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 msg.global.xiaomi.net
 0.0.0.0 privacy.api.intl.miui.com
@@ -402,10 +409,41 @@
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sg.stat.appmifile.com
+0.0.0.0 t1.market.mi-img.com
+0.0.0.0 t1.market.mi-img.com.m.alikunlun.com
+0.0.0.0 t1.market.xiaomi.com
+0.0.0.0 t1.market.xiaomi.com.w.cdngslb.com
+0.0.0.0 t10.market.mi-img.com
+0.0.0.0 t10.market.xiaomi.com
+0.0.0.0 t11.market.mi-img.com
+0.0.0.0 t11.market.xiaomi.com
+0.0.0.0 t12.market.mi-img.com
+0.0.0.0 t12.market.xiaomi.com
+0.0.0.0 t13.market.mi-img.com
+0.0.0.0 t13.market.mi-img.com.w.cdngslb.com
+0.0.0.0 t13.market.xiaomi.com
+0.0.0.0 t14.market.mi-img.com
+0.0.0.0 t14.market.xiaomi.com
+0.0.0.0 t2.market.mi-img.com
+0.0.0.0 t2.market.xiaomi.com
+0.0.0.0 t3.market.mi-img.com
+0.0.0.0 t3.market.xiaomi.com
+0.0.0.0 t4.market.mi-img.com
+0.0.0.0 t4.market.xiaomi.com
+0.0.0.0 t5.market.mi-img.com
+0.0.0.0 t5.market.xiaomi.com
+0.0.0.0 t6.market.mi-img.com
+0.0.0.0 t6.market.xiaomi.com
+0.0.0.0 t7.market.mi-img.com
+0.0.0.0 t7.market.xiaomi.com
+0.0.0.0 t8.market.mi-img.com
+0.0.0.0 t8.market.xiaomi.com
+0.0.0.0 t9.market.mi-img.com
+0.0.0.0 t9.market.xiaomi.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 upload-cdn.huami.com
-0.0.0.0 web-analytics.ap-southeast-1.elasticbeanstalk.com
 0.0.0.0 web-analytics-sg.huami.com
+0.0.0.0 web-analytics.ap-southeast-1.elasticbeanstalk.com
 
 ! Shopee Indonesia: com.shopee.id
 0.0.0.0 1255300759.vod2.myqcloud.com
