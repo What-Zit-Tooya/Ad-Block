@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: May 6, 2021 08:30 PM (UTC+7)
-! Version: 06/05/2021
+! Last modified: May 7, 2021 06:38 PM (UTC+7)
+! Version: 07/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -375,43 +375,22 @@
 ||vod-vrz-dra.dbankcdn.com^
 
 [XIAOMI PHONES]
-### I don't have (yet) Xiaomi device, please test throughly ###
-||a.stat.xiaomi.com^
-||abtest.mistat.intl.xiaomi.com^
-||abtest.mistat.xiaomi.com^
-||ad.xiaomi.com^
+### Tested in Global ROM ###
 ||api.ad.intl.xiaomi.com^
-||api.ad.xiaomi.com^
-||api.admob.xiaomi.com^
+||api.brs.intl.miui.com^
 ||app.chat.global.xiaomi.net^
-||app.chat.xiaomi.net^
 ||app-analytics-sg.huami.com^
-||cdn.ad.xiaomi.com^
 ||d14bb1f98q04f8.cloudfront.net^
-||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
-||data.mistat.intl.xiaomi.com^
-||data.mistat.us.xiaomi.com^
-||data.mistat.xiaomi.com^
-||data.sec.miui.com^
-||e.ad.xiaomi.com^
 ||globalapi.ad.xiaomi.com^
 ||log.ad.xiaomi.com^
 ||msg.global.xiaomi.net^
-||privacy.api.india.miui.com^
 ||privacy.api.intl.miui.com^
-||privacy.api.miui.com^
 ||resolver.msg.global.xiaomi.net^
-||resolver.msg.xiaomi.net^
-||sdkconfig.ad.india.xiaomi.com^
+||sa.api.intl.miui.com^
 ||sdkconfig.ad.intl.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
 ||sg.stat.appmifile.com^
-||test.ad.xiaomi.com^
-||test.e.ad.xiaomi.com^
-||tracking.india.miui.com^
 ||tracking.intl.miui.com^
-||tracking.miui.com^
 ||upload-cdn.huami.com^
 ||web-analytics.ap-southeast-1.elasticbeanstalk.com^
 ||web-analytics-sg.huami.com^
