@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 7, 2021 08:00 PM (UTC+7)
-! Version: 07/05/2021
+! Last modified: May 8, 2021 08:45 AM (UTC+7)
+! Version: 08/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -381,6 +381,14 @@
 ! XIAOMI PHONES
 ! Tested in Global ROM
 13.107.13.80
+8.25.82.230
+8.25.82.231
+8.25.82.232
+8.25.82.225
+8.25.82.226
+8.25.82.227
+8.25.82.228
+8.25.82.229
 ||afd.e-0001.dc.msedge.net^
 ||api-bing-com.e-0001.e-msedge.net^
 ||api.ad.intl.xiaomi.com^
@@ -390,6 +398,9 @@
 ||api.mintbrs.intl.miui.com^
 ||app-analytics-sg.huami.com^
 ||app.chat.global.xiaomi.net^
+||cdn.cnbj1.fds.api.mi-img.com^
+||cdn.cnbj1.fds.api.mi-img.com.mgslb.com^
+||cdn.cnbj1.fds.api.mi-img.com.w.cdngslb.com^
 ||d14bb1f98q04f8.cloudfront.net^
 ||data.mistat.intl.xiaomi.com^
 ||e-0001.dc-msedge.net^

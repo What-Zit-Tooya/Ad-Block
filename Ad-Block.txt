@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: May 7, 2021 08:00 PM (UTC+7)
-! Version: 07/05/2021
+! Last modified: May 8, 2021 08:45 AM (UTC+7)
+! Version: 08/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -388,6 +388,9 @@
 ||api.mintbrs.intl.miui.com^
 ||app-analytics-sg.huami.com^
 ||app.chat.global.xiaomi.net^
+||cdn.cnbj1.fds.api.mi-img.com^
+||cdn.cnbj1.fds.api.mi-img.com.mgslb.com^
+||cdn.cnbj1.fds.api.mi-img.com.w.cdngslb.com^
 ||d14bb1f98q04f8.cloudfront.net^
 ||data.mistat.intl.xiaomi.com^
 ||e-0001.dc-msedge.net^

@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 7, 2021 08:00 PM (UTC+7)
-! Version: 07/05/2021
+! Last modified: May 8, 2021 08:45 AM (UTC+7)
+! Version: 08/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -386,6 +386,14 @@
 ! XIAOMI PHONES
 ! Tested in Global ROM
 0.0.0.0 13.107.13.80
+0.0.0.0 8.25.82.230
+0.0.0.0 8.25.82.231
+0.0.0.0 8.25.82.232
+0.0.0.0 8.25.82.225
+0.0.0.0 8.25.82.226
+0.0.0.0 8.25.82.227
+0.0.0.0 8.25.82.228
+0.0.0.0 8.25.82.229
 0.0.0.0 afd.e-0001.dc.msedge.net
 0.0.0.0 api-bing-com.e-0001.e-msedge.net
 0.0.0.0 api.ad.intl.xiaomi.com
@@ -395,6 +403,9 @@
 0.0.0.0 api.mintbrs.intl.miui.com
 0.0.0.0 app-analytics-sg.huami.com
 0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 cdn.cnbj1.fds.api.mi-img.com
+0.0.0.0 cdn.cnbj1.fds.api.mi-img.com.mgslb.com
+0.0.0.0 cdn.cnbj1.fds.api.mi-img.com.w.cdngslb.com
 0.0.0.0 d14bb1f98q04f8.cloudfront.net
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 e-0001.dc-msedge.net
