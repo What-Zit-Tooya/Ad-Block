@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 8, 2021 12:55 PM (UTC+7)
+! Last modified: May 8, 2021 04:40 PM (UTC+7)
 ! Version: 08/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -345,8 +345,23 @@
 0.0.0.0 videosnap.like.video
 
 ! SnackVideo: com.kwai.bulldog
+0.0.0.0 101.32.133.79
+0.0.0.0 150.109.90.125
+0.0.0.0 150.109.90.126
+0.0.0.0 150.109.90.59
+0.0.0.0 150.109.90.60
+0.0.0.0 150.109.91.120
+0.0.0.0 150.109.91.121
+0.0.0.0 150.109.91.125
+0.0.0.0 150.109.91.61
+0.0.0.0 150.109.91.7
+0.0.0.0 150.109.91.8
+0.0.0.0 150.109.91.9
+0.0.0.0 34.117.196.186
 0.0.0.0 75.2.122.31
+0.0.0.0 acs-m.lazada.sg
 0.0.0.0 ak-static.snackvideo.in
+0.0.0.0 all.huodonghylivecdn.sched.ovscdns.net
 0.0.0.0 aws-logsdk.snackvideo.com
 0.0.0.0 aws-logsdk.uvfuns.com
 0.0.0.0 aws-static.snackvideo.in
@@ -354,9 +369,17 @@
 0.0.0.0 conf.piojm.tech
 0.0.0.0 g-logsdk.snackvideo.com
 0.0.0.0 g-logsdk.uvfuns.com
+0.0.0.0 g-sgp-cdn.snackvideo.in
+0.0.0.0 g-sgp-pic.snackvideo.in
 0.0.0.0 g-ulog.uvfuns.com
+0.0.0.0 hybrid.kwd.inkuai.com
 0.0.0.0 static.yximgs.com
 0.0.0.0 tx-apiv2.kibads.com
+0.0.0.0 tx-sgp-cdn.snackvideo.in
+0.0.0.0 tx-sgp-origin-pull.snackvideo.in
+0.0.0.0 tx-sgp-origin-pull.snackvideo.in.liveplay.myqcloud.com
+0.0.0.0 tx-sgp-pull.snackvideo.in
+0.0.0.0 tx-sgp-pull.snackvideo.in.liveplay.myqcloud.com
 0.0.0.0 wlog.kuaishou.com
 
 ! HUAWEI PHONES
@@ -604,7 +627,6 @@
 0.0.0.0 appconf-ocs-sgp.heytapdl.com
 0.0.0.0 appconf-sgp.heytapdl.com
 0.0.0.0 bdapi-id.ads.heytapmobile.com
-0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 bsf.sc.heytapmobile.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.webengage.com
@@ -626,8 +648,6 @@
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
-0.0.0.0 helpgrid1.ksmobile.com
-0.0.0.0 helpcmqp0.ksmobile.com
 0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 icosa-sg.coloros.com
@@ -659,8 +679,6 @@
 0.0.0.0 u888.v.bsclink.cn
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 upload.cc
-0.0.0.0 ups-west.ksmobile.net
-0.0.0.0 ups.ksmobile.net
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 v1.cnzz.com
 0.0.0.0 videoclipf.apps.coloros.com
@@ -848,3 +866,99 @@
 0.0.0.0 p3a.brave.com
 0.0.0.0 rewards.brave.com
 0.0.0.0 variations.brave.com
+
+! KSMOBILE A.K.A CHEETAH MOBILE (CMCM)
+! Badware, also known as malware apps
+! It's famous application is Clean Master
+! app id: com.cleanmaster.mguard
+! Remove it from your phone, ASAP
+0.0.0.0 alarm.falcon.ksmobile.net
+0.0.0.0 apkdetail.ksmobile.net
+0.0.0.0 apkq-cm.ksmobile.net
+0.0.0.0 apkq-cms.ksmobile.net
+0.0.0.0 apkquery.ksmobile.net
+0.0.0.0 apns.ksmobile.com
+0.0.0.0 apns.ksmobile.net
+0.0.0.0 appinfocdn.ksmobile.net
+0.0.0.0 batsavcdn.ksmobile.net
+0.0.0.0 bdl.cm.ksmobile.com
+0.0.0.0 beha.ksmobile.com
+0.0.0.0 behacdn.ksmobile.net
+0.0.0.0 cb.ksmobile.com
+0.0.0.0 cdn-bdl.cm.ksmobile.com
+0.0.0.0 cfg.cml.ksmobile.com
+0.0.0.0 cheeta-translate-service.ksmobile.com
+0.0.0.0 cm.gcm.ksmobile.com
+0.0.0.0 cm.ksmobile.com
+0.0.0.0 cmdts.ksmobile.com
+0.0.0.0 cml.ksmobile.com
+0.0.0.0 cmtel.ksmobile.com
+0.0.0.0 csf.ksmobile.com
+0.0.0.0 csf.ksmobile.net
+0.0.0.0 dappcdn.ksmobile.com
+0.0.0.0 dashboard.falcon.ksmobile.net
+0.0.0.0 dev.wide.adr.pt.ksmobile.com
+0.0.0.0 dict.ksmobile.net
+0.0.0.0 dl.cm.ksmobile.com
+0.0.0.0 dl.ksmobile.com
+0.0.0.0 dl.ksmobile.net
+0.0.0.0 dl.pg.ksmobile.com
+0.0.0.0 dlpg.ksmobile.com
+0.0.0.0 dump.cb.ksmobile.com
+0.0.0.0 feedback.ksmobile.com
+0.0.0.0 forum.ksmobile.com
+0.0.0.0 gcm.ksmobile.com
+0.0.0.0 gm.ksmobile.com
+0.0.0.0 h5game.ksmobile.com
+0.0.0.0 hackrss.ksmobile.net
+0.0.0.0 helpbattery1.ksmobile.com
+0.0.0.0 helpcmqp0.ksmobile.com
+0.0.0.0 helpgrid1.ksmobile.com
+0.0.0.0 helplauncher1.ksmobile.com
+0.0.0.0 helpliebao1.ksmobile.com
+0.0.0.0 hlslive.oclive.ksmobile.net
+0.0.0.0 hlslive.zglive.ksmobile.net
+0.0.0.0 img.cm.ksmobile.com
+0.0.0.0 img.launcher.ksmobile.com
+0.0.0.0 img1.store.ksmobile.net
+0.0.0.0 img2.launcher.ksmobile.com
+0.0.0.0 imgtokens.ksmobile.com
+0.0.0.0 incalltest.ksmobile.com
+0.0.0.0 iptlogin.ksmobile.com
+0.0.0.0 iptlogin.ksmobile.net
+0.0.0.0 ksmobile.com
+0.0.0.0 ksmobile.net
+0.0.0.0 live.ksmobile.net
+0.0.0.0 liveme.cms.ksmobile.net
+0.0.0.0 mp.cm.ksmobile.com
+0.0.0.0 mpproxy.ksmobile.net
+0.0.0.0 open.ksmobile.com
+0.0.0.0 p-behacdn.ksmobile.net
+0.0.0.0 pc-octopus-edge-ibmwdc04.ksmobile.net
+0.0.0.0 pegasi.ksmobile.net
+0.0.0.0 qa.ter.ocshlive.ksmobile.net
+0.0.0.0 smtp.out01.ksmobile.net
+0.0.0.0 smtp.out02.ksmobile.net
+0.0.0.0 stage.wide.adr.pt.ksmobile.com
+0.0.0.0 store2.live.ksmobile.net
+0.0.0.0 svcn.cm.ksmobile.net
+0.0.0.0 ter.4806live.ksmobile.net
+0.0.0.0 ter.8461live.ksmobile.net
+0.0.0.0 ter.ocshlive.ksmobile.net
+0.0.0.0 ter.zglive.ksmobile.net
+0.0.0.0 test.mp.cm.ksmobile.com
+0.0.0.0 up.cm.ksmobile.com
+0.0.0.0 ups-west.ksmobile.net
+0.0.0.0 ups.ksmobile.net
+0.0.0.0 us.st.dp.ksmobile.com
+0.0.0.0 w.cm.ksmobile.com
+0.0.0.0 www.apns.ksmobile.com
+0.0.0.0 www.apns.ksmobile.net
+0.0.0.0 www.gcm.ksmobile.com
+0.0.0.0 www.ksmobile.com
+0.0.0.0 www.ksmobile.net
+0.0.0.0 xopen.ksmobile.com
+0.0.0.0 xpaydev.ksmobile.com
+0.0.0.0 xptlogin.ksmobile.com
+0.0.0.0 zj.dcys.ksmobile.com
+0.0.0.0 zj.ios.ksmobile.com

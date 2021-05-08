@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: May 8, 2021 12:55 PM (UTC+7)
+! Last modified: May 8, 2021 04:40 PM (UTC+7)
 ! Version: 08/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -48,7 +48,6 @@
 @@||api.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
 @@||b-graph.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
 @@||b-graph.instagram.com^$app=com.instagram.android|com.facebook.katana|com.facebook.orca|com.garena.game.kgid|com.riotgames.league.wildrift
-@@||content.garena.com/gas/game_info/*
 @@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
 @@||graph.instagram.com^$app=com.instagram.android
 @@||mqtt-mini.facebook.com^$app=com.instagram.android|com.facebook.lite|com.facebook.mlite
@@ -336,22 +335,26 @@
 ||www.facebook.com^$app=video.like
 
 [SnackVideo: com.kwai.bulldog]
-||acs-m.lazada.sg^
 ||ak-static.snackvideo.in^
+||all.huodonghylivecdn.sched.ovscdns.net^
 ||aws-logsdk.snackvideo.com^
 ||aws-logsdk.uvfuns.com^
 ||aws-static.snackvideo.in^
 ||aws-ulog.kibads.com^
-||bstream.hzmklvdieo.com^
-||clounfront.net^$app=com.kwai.bulldog
 ||conf.piojm.tech^
-||dns.google^$app=com.kwai.bulldog
 ||g-logsdk.snackvideo.com^
 ||g-logsdk.uvfuns.com^
+||g-sgp-cdn.snackvideo.in^
+||g-sgp-pic.snackvideo.in^
 ||g-ulog.uvfuns.com^
-||lazada-sg.alibaba.com^
+||hybrid.kwd.inkuai.com^
 ||static.yximgs.com^
 ||tx-apiv2.kibads.com^
+||tx-sgp-cdn.snackvideo.in^
+||tx-sgp-origin-pull.snackvideo.in^
+||tx-sgp-origin-pull.snackvideo.in.liveplay.myqcloud.com^
+||tx-sgp-pull.snackvideo.in^
+||tx-sgp-pull.snackvideo.in.liveplay.myqcloud.com^
 ||wlog.kuaishou.com^
 
 [HUAWEI PHONES]
@@ -637,8 +640,6 @@
 ||dragate-sg.dc.heytapmobi.com^
 ||dragate-sg.dc.oppomobile.com^
 ||epoch-id.cdo.heytapmobi.com^
-||helpgrid1.ksmobile.com^
-||helpcmqp0.ksmobile.com^
 ||httpdns-push.heytapmobile.com^
 ||httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com^
 ||icosa-sg.coloros.com^
@@ -670,8 +671,6 @@
 ||u888.v.bsclink.cn^
 ||u-id.cpc.heytapmobile.com^
 ||upload.cc^
-||ups-west.ksmobile.net^
-||ups.ksmobile.net^
 ||users.quantumgraph.com^
 ||v1.cnzz.com^
 ||videoclipf.apps.coloros.com^
@@ -721,7 +720,7 @@
 ||gjapplog.ucweb.com^
 ||gjtrack.ucweb.com^
 ||hostmaster.hichina.com^
-||https://ynuf.aliapp.org/saveWb.json?^
+https://ynuf.aliapp.org/saveWb.json?
 ||iactla.ucweb.com^
 ||insight.ucweb.com^
 ||intlsucus.ucweb.com^
@@ -816,3 +815,99 @@
 ||p3a.brave.com^
 ||rewards.brave.com^
 ||variations.brave.com^
+
+[KSMOBILE A.K.A CHEETAH MOBILE (CMCM)]
+### Badware, also known as malware apps ###
+### It's famous application is Clean Master ### 
+### app id: com.cleanmaster.mguard ### 
+### Remove it from your phone, ASAP ### 
+||alarm.falcon.ksmobile.net^
+||apkdetail.ksmobile.net^
+||apkq-cm.ksmobile.net^
+||apkq-cms.ksmobile.net^
+||apkquery.ksmobile.net^
+||apns.ksmobile.com^
+||apns.ksmobile.net^
+||appinfocdn.ksmobile.net^
+||batsavcdn.ksmobile.net^
+||bdl.cm.ksmobile.com^
+||beha.ksmobile.com^
+||behacdn.ksmobile.net^
+||cb.ksmobile.com^
+||cdn-bdl.cm.ksmobile.com^
+||cfg.cml.ksmobile.com^
+||cheeta-translate-service.ksmobile.com^
+||cm.gcm.ksmobile.com^
+||cm.ksmobile.com^
+||cmdts.ksmobile.com^
+||cml.ksmobile.com^
+||cmtel.ksmobile.com^
+||csf.ksmobile.com^
+||csf.ksmobile.net^
+||dappcdn.ksmobile.com^
+||dashboard.falcon.ksmobile.net^
+||dev.wide.adr.pt.ksmobile.com^
+||dict.ksmobile.net^
+||dl.cm.ksmobile.com^
+||dl.ksmobile.com^
+||dl.ksmobile.net^
+||dl.pg.ksmobile.com^
+||dlpg.ksmobile.com^
+||dump.cb.ksmobile.com^
+||feedback.ksmobile.com^
+||forum.ksmobile.com^
+||gcm.ksmobile.com^
+||gm.ksmobile.com^
+||h5game.ksmobile.com^
+||hackrss.ksmobile.net^
+||helpbattery1.ksmobile.com^
+||helpcmqp0.ksmobile.com^
+||helpgrid1.ksmobile.com^
+||helplauncher1.ksmobile.com^
+||helpliebao1.ksmobile.com^
+||hlslive.oclive.ksmobile.net^
+||hlslive.zglive.ksmobile.net^
+||img.cm.ksmobile.com^
+||img.launcher.ksmobile.com^
+||img1.store.ksmobile.net^
+||img2.launcher.ksmobile.com^
+||imgtokens.ksmobile.com^
+||incalltest.ksmobile.com^
+||iptlogin.ksmobile.com^
+||iptlogin.ksmobile.net^
+||ksmobile.com^
+||ksmobile.net^
+||live.ksmobile.net^
+||liveme.cms.ksmobile.net^
+||mp.cm.ksmobile.com^
+||mpproxy.ksmobile.net^
+||open.ksmobile.com^
+||p-behacdn.ksmobile.net^
+||pc-octopus-edge-ibmwdc04.ksmobile.net^
+||pegasi.ksmobile.net^
+||qa.ter.ocshlive.ksmobile.net^
+||smtp.out01.ksmobile.net^
+||smtp.out02.ksmobile.net^
+||stage.wide.adr.pt.ksmobile.com^
+||store2.live.ksmobile.net^
+||svcn.cm.ksmobile.net^
+||ter.4806live.ksmobile.net^
+||ter.8461live.ksmobile.net^
+||ter.ocshlive.ksmobile.net^
+||ter.zglive.ksmobile.net^
+||test.mp.cm.ksmobile.com^
+||up.cm.ksmobile.com^
+||ups-west.ksmobile.net^
+||ups.ksmobile.net^
+||us.st.dp.ksmobile.com^
+||w.cm.ksmobile.com^
+||www.apns.ksmobile.com^
+||www.apns.ksmobile.net^
+||www.gcm.ksmobile.com^
+||www.ksmobile.com^
+||www.ksmobile.net^
+||xopen.ksmobile.com^
+||xpaydev.ksmobile.com^
+||xptlogin.ksmobile.com^
+||zj.dcys.ksmobile.com^
+||zj.ios.ksmobile.com^

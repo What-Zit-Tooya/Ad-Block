@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 8, 2021 12:55 PM (UTC+7)
+! Last modified: May 8, 2021 04:40 PM (UTC+7)
 ! Version: 08/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -337,8 +337,22 @@
 ||videosnap.like.video^
 
 ! SnackVideo: com.kwai.bulldog
+101.32.133.79
+150.109.90.125
+150.109.90.126
+150.109.90.59
+150.109.90.60
+150.109.91.120
+150.109.91.121
+150.109.91.125
+150.109.91.61
+150.109.91.7
+150.109.91.8
+150.109.91.9
+34.117.196.186
 75.2.122.31
 ||ak-static.snackvideo.in^
+||all.huodonghylivecdn.sched.ovscdns.net^
 ||aws-logsdk.snackvideo.com^
 ||aws-logsdk.uvfuns.com^
 ||aws-static.snackvideo.in^
@@ -346,9 +360,17 @@
 ||conf.piojm.tech^
 ||g-logsdk.snackvideo.com^
 ||g-logsdk.uvfuns.com^
+||g-sgp-cdn.snackvideo.in^
+||g-sgp-pic.snackvideo.in^
 ||g-ulog.uvfuns.com^
+||hybrid.kwd.inkuai.com^
 ||static.yximgs.com^
 ||tx-apiv2.kibads.com^
+||tx-sgp-cdn.snackvideo.in^
+||tx-sgp-origin-pull.snackvideo.in^
+||tx-sgp-origin-pull.snackvideo.in.liveplay.myqcloud.com^
+||tx-sgp-pull.snackvideo.in^
+||tx-sgp-pull.snackvideo.in.liveplay.myqcloud.com^
 ||wlog.kuaishou.com^
 
 ! HUAWEI PHONES
@@ -599,7 +621,6 @@
 ||appconf-ocs-sgp.heytapdl.com^
 ||appconf-sgp.heytapdl.com^
 ||bdapi-id.ads.heytapmobile.com^
-||behacdn.ksmobile.net^
 ||bsf.sc.heytapmobile.com^
 ||c.amazon-adsystem.com^
 ||c.webengage.com^
@@ -621,8 +642,6 @@
 ||dragate-sg.dc.heytapmobi.com^
 ||dragate-sg.dc.oppomobile.com^
 ||epoch-id.cdo.heytapmobi.com^
-||helpgrid1.ksmobile.com^
-||helpcmqp0.ksmobile.com^
 ||httpdns-push.heytapmobile.com^
 ||httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com^
 ||icosa-sg.coloros.com^
@@ -654,13 +673,11 @@
 ||u888.v.bsclink.cn^
 ||u-id.cpc.heytapmobile.com^
 ||upload.cc^
-||ups-west.ksmobile.net^
-||ups.ksmobile.net^
+
 ||users.quantumgraph.com^
 ||v1.cnzz.com^
 ||videoclipf.apps.coloros.com^
 ||www.heytap.com^
-
 ! AVAST 
 ! From built-in Anti-Virus Chinese phones
 ||analytics.ff.avast.com^
@@ -714,7 +731,7 @@
 ||gjapplog.ucweb.com^
 ||gjtrack.ucweb.com^
 ||hostmaster.hichina.com^
-||https://ynuf.aliapp.org/saveWb.json?^
+https://ynuf.aliapp.org/saveWb.json?
 ||iactla.ucweb.com^
 ||insight.ucweb.com^
 ||intlsucus.ucweb.com^
@@ -811,3 +828,99 @@
 ||p3a.brave.com^
 ||rewards.brave.com^
 ||variations.brave.com^
+
+! KSMOBILE A.K.A CHEETAH MOBILE (CMCM)
+! Badware, also known as malware apps
+! It's famous application is Clean Master
+! app id: com.cleanmaster.mguard
+! Remove it from your phone, ASAP
+||alarm.falcon.ksmobile.net^
+||apkdetail.ksmobile.net^
+||apkq-cm.ksmobile.net^
+||apkq-cms.ksmobile.net^
+||apkquery.ksmobile.net^
+||apns.ksmobile.com^
+||apns.ksmobile.net^
+||appinfocdn.ksmobile.net^
+||batsavcdn.ksmobile.net^
+||bdl.cm.ksmobile.com^
+||beha.ksmobile.com^
+||behacdn.ksmobile.net^
+||cb.ksmobile.com^
+||cdn-bdl.cm.ksmobile.com^
+||cfg.cml.ksmobile.com^
+||cheeta-translate-service.ksmobile.com^
+||cm.gcm.ksmobile.com^
+||cm.ksmobile.com^
+||cmdts.ksmobile.com^
+||cml.ksmobile.com^
+||cmtel.ksmobile.com^
+||csf.ksmobile.com^
+||csf.ksmobile.net^
+||dappcdn.ksmobile.com^
+||dashboard.falcon.ksmobile.net^
+||dev.wide.adr.pt.ksmobile.com^
+||dict.ksmobile.net^
+||dl.cm.ksmobile.com^
+||dl.ksmobile.com^
+||dl.ksmobile.net^
+||dl.pg.ksmobile.com^
+||dlpg.ksmobile.com^
+||dump.cb.ksmobile.com^
+||feedback.ksmobile.com^
+||forum.ksmobile.com^
+||gcm.ksmobile.com^
+||gm.ksmobile.com^
+||h5game.ksmobile.com^
+||hackrss.ksmobile.net^
+||helpbattery1.ksmobile.com^
+||helpcmqp0.ksmobile.com^
+||helpgrid1.ksmobile.com^
+||helplauncher1.ksmobile.com^
+||helpliebao1.ksmobile.com^
+||hlslive.oclive.ksmobile.net^
+||hlslive.zglive.ksmobile.net^
+||img.cm.ksmobile.com^
+||img.launcher.ksmobile.com^
+||img1.store.ksmobile.net^
+||img2.launcher.ksmobile.com^
+||imgtokens.ksmobile.com^
+||incalltest.ksmobile.com^
+||iptlogin.ksmobile.com^
+||iptlogin.ksmobile.net^
+||ksmobile.com^
+||ksmobile.net^
+||live.ksmobile.net^
+||liveme.cms.ksmobile.net^
+||mp.cm.ksmobile.com^
+||mpproxy.ksmobile.net^
+||open.ksmobile.com^
+||p-behacdn.ksmobile.net^
+||pc-octopus-edge-ibmwdc04.ksmobile.net^
+||pegasi.ksmobile.net^
+||qa.ter.ocshlive.ksmobile.net^
+||smtp.out01.ksmobile.net^
+||smtp.out02.ksmobile.net^
+||stage.wide.adr.pt.ksmobile.com^
+||store2.live.ksmobile.net^
+||svcn.cm.ksmobile.net^
+||ter.4806live.ksmobile.net^
+||ter.8461live.ksmobile.net^
+||ter.ocshlive.ksmobile.net^
+||ter.zglive.ksmobile.net^
+||test.mp.cm.ksmobile.com^
+||up.cm.ksmobile.com^
+||ups-west.ksmobile.net^
+||ups.ksmobile.net^
+||us.st.dp.ksmobile.com^
+||w.cm.ksmobile.com^
+||www.apns.ksmobile.com^
+||www.apns.ksmobile.net^
+||www.gcm.ksmobile.com^
+||www.ksmobile.com^
+||www.ksmobile.net^
+||xopen.ksmobile.com^
+||xpaydev.ksmobile.com^
+||xptlogin.ksmobile.com^
+||zj.dcys.ksmobile.com^
+||zj.ios.ksmobile.com^
