@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 9, 2021 08:05 PM (UTC+7)
+! Last modified: May 9, 2021 08:45 PM (UTC+7)
 ! Version: 09/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -29,16 +29,16 @@
 ||tsg.tdatamaster.com^
 
 ! SHAREit: com.lenovo.anyshare.gps
-13.35.13.120
-13.224.250.223
-159.138.101.104
-159.138.102.255
+||13.35.13.120^
+||13.224.250.223^
+||159.138.101.104^
+||159.138.102.255^
 ! BLOCK BING
-13.107.21.200
+||13.107.21.200^
 ||a-0001.a-afdentry.net.trafficmanager.net^
 ||dual-a-0001.a-msedge.net^
 ||www-bing-com.dual-a-0001.a-msedge.net^
-204.79.197.200
+||204.79.197.200^
 ! END BLOCK BING
 ||active.wshareit.com^
 ||adconf.rqmob.com^
@@ -107,22 +107,22 @@
 ||wshareit.com^
 ||www.pullcf.com^
 ||www.pullcm.com^
-104.19.128.78
-104.19.129.78
-104.19.130.78
-104.19.131.78
-104.19.143.77
-107.23.178.199
-204.79.197.200
-13.227.228.19
-13.248.218.66
-13.35.13.120
-159.138.103.42
-159.138.106.8
-159.138.84.44
-34.199.12.244
-75.2.70.67
-76.223.65.142
+||104.19.128.78^
+||104.19.129.78^
+||104.19.130.78^
+||104.19.131.78^
+||104.19.143.77^
+||107.23.178.199^
+||204.79.197.200^
+||13.227.228.19^
+||13.248.218.66^
+||13.35.13.120^
+||159.138.103.42^
+||159.138.106.8^
+||159.138.84.44^
+||34.199.12.244^
+||75.2.70.67^
+||76.223.65.142^
 
 ! Detik: org.detikcom.rss
 ! CNN Indonesia: com.cnn.indonesia
@@ -154,10 +154,10 @@
 ||location.services.mozilla.com^
 
 ! Lazada Indonesia: com.lazada.android
-47.246.32.33
-47.8.94.32
-47.89.74.76
-47.89.74.75
+||47.246.32.33^
+||47.8.94.32^
+||47.89.74.76^
+||47.89.74.75^
 ||acs-m.lazada.sg^
 ||arms-retcode-sg.aliyuncs.com^
 ||audid-api-sg.taobao.com^
@@ -219,7 +219,7 @@
 ||xml.opera.com^
 
 ! Drakor.ID: com.stream.drakorindoawet
-104.18.226.52
+||104.18.226.52^
 ||api.onesignal.com^
 ||applovin.com^
 ||cdn.onesignal.com^
@@ -232,28 +232,28 @@
 
 ! HAGO: com.yy.hiyo
 ! Noizz - formerly Biugo: com.yy.biu
-103.230.236.20
-103.230.236.25
-103.230.236.32
-121.46.20.38
-121.46.30.51
-121.46.30.59
-124.202.138.11
-124.202.138.29
-124.202.138.30
-124.202.138.31
-124.202.138.32
-175.25.50.15
-175.25.50.16
-175.25.50.70
-183.232.58.233
-183.232.58.234
-183.232.58.236
-183.232.58.237
-183.232.58.238
-183.232.58.241
-43.247.88.106
-43.247.88.107
+||103.230.236.20^
+||103.230.236.25^
+||103.230.236.32^
+||121.46.20.38^
+||121.46.30.51^
+||121.46.30.59^
+||124.202.138.11^
+||124.202.138.29^
+||124.202.138.30^
+||124.202.138.31^
+||124.202.138.32^
+||175.25.50.15^
+||175.25.50.16^
+||175.25.50.70^
+||183.232.58.233^
+||183.232.58.234^
+||183.232.58.236^
+||183.232.58.237^
+||183.232.58.238^
+||183.232.58.241^
+||43.247.88.106^
+||43.247.88.107^
 ||adashx4sg.ut.taobao.com^
 ||alogsus.umeng.com^
 ||alogus.umeng.com^
@@ -337,20 +337,20 @@
 ||videosnap.like.video^
 
 ! SnackVideo: com.kwai.bulldog
-101.32.133.79
-150.109.90.125
-150.109.90.126
-150.109.90.59
-150.109.90.60
-150.109.91.120
-150.109.91.121
-150.109.91.125
-150.109.91.61
-150.109.91.7
-150.109.91.8
-150.109.91.9
-34.117.196.186
-75.2.122.31
+||101.32.133.79^
+||150.109.90.125^
+||150.109.90.126^
+||150.109.90.59^
+||150.109.90.60^
+||150.109.91.120^
+||150.109.91.121^
+||150.109.91.125^
+||150.109.91.61^
+||150.109.91.7^
+||150.109.91.8^
+||150.109.91.9^
+||34.117.196.186^
+||75.2.122.31^
 ||ak-static.snackvideo.in^
 ||all.huodonghylivecdn.sched.ovscdns.net^
 ||aws-logsdk.snackvideo.com^
@@ -395,22 +395,22 @@
 ||openlocation-dra.platform.dbankcloud.com^
 ||static1.dmcdn.net^
 ||vod-vrz-dra.dbankcdn.com^
-159.138.109.22
-159.138.80.62
-159.138.90.32
-159.138.99.194
+||159.138.109.22^
+||159.138.80.62^
+||159.138.90.32^
+||159.138.99.194^
 
 ! XIAOMI PHONES
 ! Tested in Global ROM
-13.107.13.80
-8.25.82.225
-8.25.82.226
-8.25.82.227
-8.25.82.228
-8.25.82.229
-8.25.82.230
-8.25.82.231
-8.25.82.232
+||13.107.13.80^
+||8.25.82.225^
+||8.25.82.226^
+||8.25.82.227^
+||8.25.82.228^
+||8.25.82.229^
+||8.25.82.230^
+||8.25.82.231^
+||8.25.82.232^
 ||afd.e-0001.dc.msedge.net^
 ||api-bing-com.e-0001.e-msedge.net^
 ||api.ad.intl.xiaomi.com^
@@ -596,7 +596,7 @@
 ||push.snaptube.app^
 
 ! CamScanner: com.intsig.camscanner
-157.185.169.206
+||157.185.169.206^
 ||b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn^
 ||ss-static.intsig.net.mcchcdn.com^
 ||ss-static.intsig.net.whecloud.com^
@@ -680,23 +680,27 @@
 
 ! AVAST 
 ! From built-in Anti-Virus Chinese phones
+||ams.honzik.avcdn.net^
 ||analytics.ff.avast.com^
 ||e7126.dscd.akamaiedge.net^
+||honzik.avcdn.net^
 ||mobilepartner.avcdn.net.edgekey.net^
 ||shepherd.ff.avast.com^
 ||shepherd.ns1.ff.avast.com^
 ||sp-497f6f2f.honzik.avcdn.net^
+||sp-766ec786.honzik.avcdn.net^
 ||sp-8f237ea3.apkrep.avcdn.net^
 ||sp-8f237ea3.honzik.avcdn.net^
+||sp-be376e1.honzik.avcdn.net^
 
 ! WPS Office: cn.wps.moffice_eng
-104.22.6.60
-104.22.7.60
-114.119.186.87
-172.67.20.166
-44.242.92.133
-50.112.59.136
-52.88.152.228
+||104.22.6.60^
+||104.22.7.60^
+||114.119.186.87^
+||172.67.20.166^
+||44.242.92.133^
+||50.112.59.136^
+||52.88.152.228^
 ||abroad-ad.kingsoft-office-service.com^
 ||ads.api.vungle.com^
 ||ap-device-pro.csftr.com^
@@ -716,19 +720,19 @@
 ||wh-nginx-gateway-service.default.us.entry.4wps.net^
 
 ! UC Browser: com.UCMobile.intl
-157.185.188.1
-157.185.188.2
-157.185.189.159
-168.235.199.34
-168.235.199.81
-168.235.206.10
-168.235.206.11
-180.179.9.133
-198.11.146.6
-198.11.190.12
-203.119.169.44
-205.204.101.55
-23.195.153.4
+||157.185.188.1^
+||157.185.188.2^
+||157.185.189.159^
+||168.235.199.34^
+||168.235.199.81^
+||168.235.206.10^
+||168.235.206.11^
+||180.179.9.133^
+||198.11.146.6^
+||198.11.190.12^
+||203.119.169.44^
+||205.204.101.55^
+||23.195.153.4^
 ||apissug-sf.ucweb.com^
 ||apiuccenter.ucweb.com^
 ||cuttlela.ucweb.com^
@@ -780,7 +784,7 @@ https://ynuf.aliapp.org/saveWb.json?
 ||analisis.io^
 
 ! ALCATEL (TCL) PHONES
-103.220.72.168
+||103.220.72.168^
 ||dg.udc.eu.tclclouds.com^
 ||gw.rtdp.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
@@ -797,28 +801,28 @@ https://ynuf.aliapp.org/saveWb.json?
 ||kiwisearchservices.net^
 
 ! Puffin Web Browser: com.cloudmosa.puffinFree
-38.111.215.248
+||38.111.215.248^
 ||collector.cloudmosa.net^
 
 ! Brave Browser: com.brave.browser
 ! Brave Browser (Beta): com.brave.browser_beta
 ! Brave Browser (Nightly): com.brave.browser_nightly
-13.224.249.22
-13.224.249.43
-13.224.249.6
-13.224.249.61
-13.227.142.9
-13.227.252.117
-13.227.252.125
-13.227.252.83
-13.227.252.98
-199.232.45.32
-199.232.46.137
-52.10.120.178
-54.182.0.38
-54.182.0.75
-54.182.0.98
-54.182.0.99
+||13.224.249.22^
+||13.224.249.43^
+||13.224.249.6^
+||13.224.249.61^
+||13.227.142.9^
+||13.227.252.117^
+||13.227.252.125^
+||13.227.252.83^
+||13.227.252.98^
+||199.232.45.32^
+||199.232.46.137^
+||52.10.120.178^
+||54.182.0.38^
+||54.182.0.75^
+||54.182.0.98^
+||54.182.0.99^
 ||ads-serve.brave.com^
 ||ads-static.brave.com^
 ||api.rewards.brave.com^
@@ -840,19 +844,19 @@ https://ynuf.aliapp.org/saveWb.json?
 ! It's famous application is Clean Master
 ! app id: com.cleanmaster.mguard
 ! Remove it from your phone, ASAP
-119.36.62.42
-4.34.42.101
-4.34.42.102
-4.34.42.103
-4.34.42.104
-4.79.219.71
-47.91.4.251
-54.193.110.22
-54.193.2.171
-54.193.42.169
-54.213.47.148
-54.241.0.117
-54.241.15.95
+||119.36.62.42^
+||4.34.42.101^
+||4.34.42.102^
+||4.34.42.103^
+||4.34.42.104^
+||4.79.219.71^
+||47.91.4.251^
+||54.193.110.22^
+||54.193.2.171^
+||54.193.42.169^
+||54.213.47.148^
+||54.241.0.117^
+||54.241.15.95^
 ||3d.cmcm.com^
 ||a.ns.edm.cmcm.com^
 ||ab.cmcm.com^
