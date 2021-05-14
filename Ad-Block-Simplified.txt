@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 12, 2021 06:50 PM (UTC+7)
-! Version: 12/05/2021
+! Last modified: May 14, 2021 12:47 PM (UTC+7)
+! Version: 14/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -662,7 +662,6 @@
 ||omes-sec.heytapmobile.com^
 ||proxyf.apps.oppomobile.com
 ||realtime-jawa.qiscus.com^
-||rstatic.akamaized.net^
 ||shortintl.push.heytapmobile.com^
 ||sgp-mobile-sec-heytapmobi-pubgw-1205822126.ap-southeast-1.elb.amazonaws.com^
 ||sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com^
