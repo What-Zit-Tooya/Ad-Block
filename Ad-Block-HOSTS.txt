@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 14, 2021 12:47 PM (UTC+7)
-! Version: 14/05/2021
+! Last modified: May 17, 2021 08:15 AM (UTC+7)
+! Version: 17/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -255,37 +255,73 @@
 0.0.0.0 183.232.58.241
 0.0.0.0 43.247.88.106
 0.0.0.0 43.247.88.107
+0.0.0.0 act.umeng.com
+0.0.0.0 activity.umeng.com
 0.0.0.0 adashx4sg.ut.taobao.com
+0.0.0.0 admin.jpush.cn
+0.0.0.0 adplus.umeng.com
 0.0.0.0 ali-stats.jpush.cn
+0.0.0.0 alog-default.umeng.com
+0.0.0.0 alog.umeng.com
 0.0.0.0 alogsus.umeng.com
 0.0.0.0 alogus.umeng.com
 0.0.0.0 android.rqd.qq.com
 0.0.0.0 ap.livemediav.com
 0.0.0.0 apblbs-sgp.service.huanjuyun.com
+0.0.0.0 api.analytics.jpush.cn
+0.0.0.0 api.jpush.cn
+0.0.0.0 api.srv.jpush.cn
 0.0.0.0 aplbs-sgp.service.huanju.cn
+0.0.0.0 apm.umeng.com
+0.0.0.0 app.umeng.com
 0.0.0.0 argoapi.jocloud.com
 0.0.0.0 argoapi.yy.com
+0.0.0.0 at.umeng.com
 0.0.0.0 audid-api-sg.taobao.com
+0.0.0.0 bbs.umeng.com
+0.0.0.0 bestingo.wsq.umeng.com
 0.0.0.0 bjim64.jpush.cn
+0.0.0.0 blog.jpush.cn
+0.0.0.0 blog.umeng.com
 0.0.0.0 bstream.hzmklvdieo.com
 0.0.0.0 btrace.qq.com
+0.0.0.0 ce3e75d5.jpush.cn
+0.0.0.0 cic.umeng.com
+0.0.0.0 collect.wsq.umeng.com 	
+0.0.0.0 community.jpush.cn
+0.0.0.0 compass.umeng.com
+0.0.0.0 counsel.umeng.com 	
 0.0.0.0 crash-reporting.yy.com
+0.0.0.0 dev.umeng.com
+0.0.0.0 developer.umeng.com
+0.0.0.0 dfp.umeng.com
+0.0.0.0 dfptest.umeng.com
+0.0.0.0 dip.umeng.com
+0.0.0.0 dmp.umeng.com
+0.0.0.0 docs.jpush.cn
+0.0.0.0 dplus.umeng.com
 0.0.0.0 easytomessage.com
 0.0.0.0 errlogos.umeng.com
-0.0.0.0 gd-stats.jpush.cn
+0.0.0.0 events.umeng.com
+0.0.0.0 finplus-open.umeng.com
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 global-pushsdk.olaparty.com
 0.0.0.0 global-yypushsdk.yy.com
+0.0.0.0 hdx.wsq.umeng.com
 0.0.0.0 hiido.com
 0.0.0.0 hlog.hiido.com
-0.0.0.0 https-api.bigolive.tv
-0.0.0.0 https-api-hk.bigolive.tv
-0.0.0.0 httpdns.gslb.yy.com
 0.0.0.0 httpdns-intl.gslb.yy.com
+0.0.0.0 httpdns.gslb.yy.com
+0.0.0.0 https-api-hk.bigolive.tv
+0.0.0.0 https-api.bigolive.tv
 0.0.0.0 huanju.cn
 0.0.0.0 huanjuyun.com
+0.0.0.0 huodong.umeng.com
 0.0.0.0 i.ihago.net
+0.0.0.0 i.umeng.com
 0.0.0.0 iab.yy.com
+0.0.0.0 im.jpush.cn
+0.0.0.0 info.umeng.com
 0.0.0.0 jpush.cn
 0.0.0.0 jpush.io
 0.0.0.0 kaixindou.kaixindou.net
@@ -295,25 +331,55 @@
 0.0.0.0 likelbs.dinoyy.xyz
 0.0.0.0 livemediav.com
 0.0.0.0 log.sysop.duowan.com
+0.0.0.0 mail.jpush.cn
+0.0.0.0 message.umeng.com
 0.0.0.0 mlog.hiido.com
+0.0.0.0 mob.umeng.com
+0.0.0.0 mobile.umeng.com
+0.0.0.0 mp.umeng.com
 0.0.0.0 o-gl-id.ihago.net
 0.0.0.0 o-gl-static.ihago.net
 0.0.0.0 o-id.ihago.net
 0.0.0.0 o-static.ihago.net
-0.0.0.0 oth.str.mdt.qq.com
 0.0.0.0 o-ws-bts-ali-id.ihago.net
+0.0.0.0 oplus.umeng.com
+0.0.0.0 oth.str.mdt.qq.com
+0.0.0.0 outdip.umeng.com
+0.0.0.0 passport.umeng.com
+0.0.0.0 plbslog.umeng.com
+0.0.0.0 pt.umeng.com
 0.0.0.0 push-api.olaparty.com
 0.0.0.0 push-api.yy.com
 0.0.0.0 push-link.olaparty.com
 0.0.0.0 push-link.yy.com
+0.0.0.0 push.umeng.com
 0.0.0.0 pushmiddle.bs2dl.yy.com
 0.0.0.0 pushmiddle.bs2dl.yy.com.w.cdngslb.com
-0.0.0.0 sec.umeng.com
+0.0.0.0 qiniu.imfile.jpush.cn
 0.0.0.0 reinforce.security.yy.com
+0.0.0.0 report.jpush.cn
 0.0.0.0 s.jpush.cn
+0.0.0.0 sec.umeng.com
 0.0.0.0 sis.jpush.io
+0.0.0.0 solution.umeng.com
 0.0.0.0 stats.jpush.cn
+0.0.0.0 survey.umeng.com
+0.0.0.0 survey1.umeng.com
+0.0.0.0 tip.umeng.com
+0.0.0.0 u-time.umeng.com
+0.0.0.0 ubdc2016.umeng.com
+0.0.0.0 ubdc2017.umeng.com
+0.0.0.0 udplus.umeng.com
+0.0.0.0 uweb.umeng.com
+0.0.0.0 verification.jpush.cn
+0.0.0.0 video.umeng.com
+0.0.0.0 web.umeng.com
+0.0.0.0 wsq.umeng.com
+0.0.0.0 www.jpush.cn
+0.0.0.0 www.qiniu.imfile.jpush.cn
+0.0.0.0 www.umeng.com
 0.0.0.0 ylog.hiido.com
+0.0.0.0 zebra.umeng.com
 
 ! AOL - News, Mail & Video: com.aol.mobile.aolapp
 ! Yahoo Mail: com.yahoo.mobile.client.android.mail
@@ -327,7 +393,7 @@
 ! NekoPoi: com.usamin.nekopoi
 0.0.0.0 ads.tapdaq.com
 0.0.0.0 goofypismica.com
-0.0.0.0 p.3z094n2681i06q8k14w31cu4q80d5p.com
+0.0.0.0 tapdaq.com
 
 ! TikTok: com.zhiliaoapp.musically
 ! TikTok ID: com.ss.android.ugc.trill
@@ -887,7 +953,6 @@
 0.0.0.0 4.34.42.102
 0.0.0.0 4.34.42.103
 0.0.0.0 4.34.42.104
-0.0.0.0 4.79.219.71
 0.0.0.0 47.91.4.251
 0.0.0.0 54.193.110.22
 0.0.0.0 54.193.2.171

@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 14, 2021 12:47 PM (UTC+7)
-! Version: 14/05/2021
+! Last modified: May 17, 2021 08:15 AM (UTC+7)
+! Version: 17/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -254,58 +254,109 @@
 ||183.232.58.241^
 ||43.247.88.106^
 ||43.247.88.107^
+||act.umeng.com^
+||activity.umeng.com^
 ||adashx4sg.ut.taobao.com^
+||adplus.umeng.com^
+||alog-default.umeng.com^
+||alog.umeng.com^
 ||alogsus.umeng.com^
 ||alogus.umeng.com^
 ||android.rqd.qq.com^
 ||ap.livemediav.com^
 ||apblbs-sgp.service.huanjuyun.com^
 ||aplbs-sgp.service.huanju.cn^
+||apm.umeng.com^
+||app.umeng.com^
 ||argoapi.jocloud.com^
 ||argoapi.yy.com^
+||at.umeng.com^
 ||audid-api-sg.taobao.com^
+||bbs.umeng.com^
+||bestingo.wsq.umeng.com^
+||blog.umeng.com^
 ||bstream.hzmklvdieo.com^
 ||btrace.qq.com^
+||cic.umeng.com^
+||collect.wsq.umeng.com^
+||compass.umeng.com^
+||counsel.umeng.com^
 ||crash-reporting.yy.com^
+||dev.umeng.com^
+||developer.umeng.com^
+||dfp.umeng.com^
+||dfptest.umeng.com^
+||dip.umeng.com^
+||dmp.umeng.com^
+||dplus.umeng.com^
 ||easytomessage.com^
 ||errlogos.umeng.com^
+||events.umeng.com^
+||finplus-open.umeng.com^
 ||global-pushsdk.olaparty.com^
 ||global-yypushsdk.yy.com^
+||hdx.wsq.umeng.com^
 ||hiido.com^
 ||hlog.hiido.com^
-||https-api.bigolive.tv^
-||https-api-hk.bigolive.tv^
 ||httpdns-intl.gslb.yy.com^
 ||httpdns.gslb.yy.com^
+||https-api-hk.bigolive.tv^
+||https-api.bigolive.tv^
 ||huanju.cn^
 ||huanjuyun.com^
+||huodong.umeng.com^
 ||i.ihago.net^
+||i.umeng.com^
 ||iab.yy.com^
+||info.umeng.com^
 ||jpush.cn^
 ||jpush.io^
-||kaixindou.kaixindou.net^
 ||kaixindou.net^
 ||klog.hiido.com^
 ||lgglobalb.yy.com^
 ||likelbs.dinoyy.xyz^
 ||livemediav.com^
 ||log.sysop.duowan.com^
+||message.umeng.com^
 ||mlog.hiido.com^
+||mob.umeng.com^
+||mobile.umeng.com^
+||mp.umeng.com^
 ||o-gl-id.ihago.net^
 ||o-gl-static.ihago.net^
 ||o-id.ihago.net^
 ||o-static.ihago.net^
-||oth.str.mdt.qq.com^
 ||o-ws-bts-ali-id.ihago.net^
+||oplus.umeng.com^
+||oth.str.mdt.qq.com^
+||outdip.umeng.com^
+||passport.umeng.com^
+||plbslog.umeng.com	^
+||pt.umeng.com^
 ||push-api.olaparty.com^
 ||push-api.yy.com^
 ||push-link.olaparty.com^
 ||push-link.yy.com^
-||pushmiddle.bs2dl.yy.com^
+||push.umeng.com^
 ||pushmiddle.bs2dl.yy.com.w.cdngslb.com^
+||pushmiddle.bs2dl.yy.com^
 ||reinforce.security.yy.com^
 ||sec.umeng.com^
+||solution.umeng.com^
+||survey.umeng.com^
+||survey1.umeng.com^
+||tip.umeng.com^
+||u-time.umeng.com^
+||ubdc2016.umeng.com^
+||ubdc2017.umeng.com^
+||udplus.umeng.com^
+||uweb.umeng.com^
+||video.umeng.com^
+||web.umeng.com^
+||wsq.umeng.com^
+||www.umeng.com^
 ||ylog.hiido.com^
+||zebra.umeng.com^
 
 ! AOL - News, Mail & Video: com.aol.mobile.aolapp
 ! Yahoo Mail: com.yahoo.mobile.client.android.mail
@@ -847,7 +898,6 @@ https://ynuf.aliapp.org/saveWb.json?
 ||4.34.42.102^
 ||4.34.42.103^
 ||4.34.42.104^
-||4.79.219.71^
 ||47.91.4.251^
 ||54.193.110.22^
 ||54.193.2.171^
