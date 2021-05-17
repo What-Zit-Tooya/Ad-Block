@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 17, 2021 08:15 AM (UTC+7)
+! Last modified: May 17, 2021 08:45 AM (UTC+7)
 ! Version: 17/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -391,9 +391,23 @@
 0.0.0.0 smarttv-smartinfo.manhattan.yahoo.com
 
 ! NekoPoi: com.usamin.nekopoi
+0.0.0.0 ads.staging.tapdaq.com
 0.0.0.0 ads.tapdaq.com
+0.0.0.0 analytics.staging.tapdaq.com
+0.0.0.0 analytics.tapdaq.com
+0.0.0.0 blog.tapdaq.com
+0.0.0.0 dashboard-api.staging.tapdaq.com
+0.0.0.0 dashboard-api.tapdaq.com
 0.0.0.0 goofypismica.com
+0.0.0.0 kibana.tapdaq.com
+0.0.0.0 mail.tapdaq.com
+0.0.0.0 staging.tapdaq.com
+0.0.0.0 static.tapdaq.com
+0.0.0.0 status.tapdaq.com
+0.0.0.0 support.tapdaq.com
 0.0.0.0 tapdaq.com
+0.0.0.0 www.staging.tapdaq.com
+0.0.0.0 www.tapdaq.com
 
 ! TikTok: com.zhiliaoapp.musically
 ! TikTok ID: com.ss.android.ugc.trill

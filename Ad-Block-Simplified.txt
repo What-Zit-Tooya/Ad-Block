@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 17, 2021 08:15 AM (UTC+7)
+! Last modified: May 17, 2021 08:45 AM (UTC+7)
 ! Version: 17/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -368,9 +368,22 @@
 ||smarttv-smartinfo.manhattan.yahoo.com^
 
 ! NekoPoi: com.usamin.nekopoi
+||ads.staging.tapdaq.com^
 ||ads.tapdaq.com^
+||analytics.staging.tapdaq.com^
+||analytics.tapdaq.com^
+||blog.tapdaq.com^
+||dashboard-api.staging.tapdaq.com^
+||dashboard-api.tapdaq.com^
 ||goofypismica.com^
-||p.3z094n2681i06q8k14w31cu4q80d5p.com^
+||kibana.tapdaq.com^
+||mail.tapdaq.com^
+||staging.tapdaq.com^
+||static.tapdaq.com^
+||status.tapdaq.com^
+||support.tapdaq.com^
+||www.staging.tapdaq.com^
+||www.tapdaq.com^
 
 ! TikTok: com.zhiliaoapp.musically
 ! TikTok ID: com.ss.android.ugc.trill
