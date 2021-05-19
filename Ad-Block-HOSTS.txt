@@ -442,9 +442,7 @@
 0.0.0.0 dm16-useast2a.tiktokv.com
 0.0.0.0 dm16-useast2a.tiktokv.com.edgekey.net
 0.0.0.0 e11942.a.akamaiedge.net
-0.0.0.0 e28622.a.akamaiedge.net
 0.0.0.0 e28622.api12.akamaiedge.net
-0.0.0.0 e28622.api2.akamaiedge.net
 0.0.0.0 edge.bytedance.swiftserve.com
 0.0.0.0 eyeu.snssdk.com
 0.0.0.0 f-moneyloan.snssdk.com

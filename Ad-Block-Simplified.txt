@@ -418,9 +418,7 @@
 ||dm16-useast2a.tiktokv.com.edgekey.net^
 ||dm16-useast2a.tiktokv.com^
 ||e11942.a.akamaiedge.net^
-||e28622.a.akamaiedge.net^
 ||e28622.api12.akamaiedge.net^
-||e28622.api2.akamaiedge.net^
 ||edge.bytedance.swiftserve.com^
 ||eyeu.snssdk.com^
 ||f-moneyloan.snssdk.com^
