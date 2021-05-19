@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 19, 2021 12:45 PM (UTC+7)
+! Last modified: May 19, 2021 04:55 PM (UTC+7)
 ! Version: 19/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -414,8 +414,6 @@
 ! TikTok Lite: com.zhiliaoapp.musically.go
 0.0.0.0 a.snssdk.com
 0.0.0.0 a16-tb.isnssdk.com
-0.0.0.0 a2047.mm2.akamai.net
-0.0.0.0 a2047.r.akamai.net
 0.0.0.0 act.snssdk.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics.tiktok.com
@@ -435,11 +433,6 @@
 0.0.0.0 bytedance.global.jns.swiftserve.com
 0.0.0.0 cs.snssdk.com
 0.0.0.0 diamond.snssdk.com
-0.0.0.0 dm16-useast1a.byteoversea.com
-0.0.0.0 dm16-useast1a.tiktokv.com
-0.0.0.0 dm16-useast1a.tiktokv.com.edgekey.net
-0.0.0.0 dm16-useast2a.tiktokv.com
-0.0.0.0 dm16-useast2a.tiktokv.com.edgekey.net
 0.0.0.0 e11942.a.akamaiedge.net
 0.0.0.0 e28622.api12.akamaiedge.net
 0.0.0.0 edge.bytedance.swiftserve.com
@@ -482,7 +475,6 @@
 0.0.0.0 p16-sg.tiktokcdn.com.akamaized.net
 0.0.0.0 rocket.snssdk.com
 0.0.0.0 temai.snssdk.com
-0.0.0.0 tnc16-platform-alisg.tiktokv.com
 0.0.0.0 xgfe.snssdk.com
 
 ! Likee - Let You Shine: video.like

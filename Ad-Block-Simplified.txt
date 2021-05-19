@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 19, 2021 12:45 PM (UTC+7)
+! Last modified: May 19, 2021 04:55 PM (UTC+7)
 ! Version: 19/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -390,8 +390,6 @@
 ! TikTok Lite: com.zhiliaoapp.musically.go
 ||a.snssdk.com^
 ||a16-tb.isnssdk.com^
-||a2047.mm2.akamai.net^
-||a2047.r.akamai.net^
 ||act.snssdk.com^
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
@@ -411,11 +409,6 @@
 ||bytedance.global.jns.swiftserve.com^
 ||cs.snssdk.com^
 ||diamond.snssdk.com^
-||dm16-useast1a.byteoversea.com^
-||dm16-useast1a.tiktokv.com.edgekey.net^
-||dm16-useast1a.tiktokv.com^
-||dm16-useast2a.tiktokv.com.edgekey.net^
-||dm16-useast2a.tiktokv.com^
 ||e11942.a.akamaiedge.net^
 ||e28622.api12.akamaiedge.net^
 ||edge.bytedance.swiftserve.com^
@@ -458,7 +451,6 @@
 ||p16-sg.tiktokcdn.com^
 ||rocket.snssdk.com^
 ||temai.snssdk.com^
-||tnc16-platform-alisg.tiktokv.com^
 ||xgfe.snssdk.com^
 
 ! Likee - Let You Shine: video.like
