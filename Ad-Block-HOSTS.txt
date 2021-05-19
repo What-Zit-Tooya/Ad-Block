@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 17, 2021 08:45 AM (UTC+7)
-! Version: 17/05/2021
+! Last modified: May 19, 2021 09:15 AM (UTC+7)
+! Version: 19/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -411,8 +411,69 @@
 
 ! TikTok: com.zhiliaoapp.musically
 ! TikTok ID: com.ss.android.ugc.trill
+! TikTok Lite: com.zhiliaoapp.musically.go
+! TikTok Lite ID: com.zhiliaoapp.musically
+0.0.0.0 a.snssdk.com
+0.0.0.0 a16-tb.isnssdk.com
+0.0.0.0 a1962.b.akamai.net
+0.0.0.0 a2047.r.akamai.net
+0.0.0.0 act.snssdk.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 api-spe-a.isnssdk.com
+0.0.0.0 api-spe-a.sgsnssdk.com
+0.0.0.0 api-spe-b.isnssdk.com
+0.0.0.0 api-spe-b.sgsnssdk.com
+0.0.0.0 api-spe-c.isnssdk.com
+0.0.0.0 api-spe-c.sgsnssdk.com
+0.0.0.0 api-spe.isnssdk.com
+0.0.0.0 api-spe.sgsnssdk.com
+0.0.0.0 api-test-pcs.snssdk.com
+0.0.0.0 api16-normal-c-alisg.tiktokv.com
+0.0.0.0 aweme.snssdk.com
+0.0.0.0 bcy-promo.snssdk.com
+0.0.0.0 bcy.snssdk.com
+0.0.0.0 byteair-api-cn1.snssdk.com
+0.0.0.0 cs.snssdk.com
+0.0.0.0 diamond.snssdk.com
+0.0.0.0 dm16-useast1a.byteoversea.com
+0.0.0.0 e11942.a.akamaiedge.net
+0.0.0.0 e28622.api12.akamaiedge.net
+0.0.0.0 e28622.api2.akamaiedge.net
+0.0.0.0 eyeu.snssdk.com
+0.0.0.0 f-moneyloan.snssdk.com
+0.0.0.0 f-moneyloantest.snssdk.com
+0.0.0.0 financal-stock-web.snssdk.com
+0.0.0.0 financial-stock-web.snssdk.com
+0.0.0.0 haohuo.snssdk.com
+0.0.0.0 hotsoon.snssdk.com
+0.0.0.0 i.snssdk.com
+0.0.0.0 i0.isnssdk.com
+0.0.0.0 i1.isnssdk.com
+0.0.0.0 i1.sgsnssdk.com
+0.0.0.0 i16-tb.isnssdk.com
+0.0.0.0 i16-tb.sgsnssdk.com
+0.0.0.0 ic.snssdk.com
+0.0.0.0 is.snssdk.com
+0.0.0.0 judge.snssdk.com
+0.0.0.0 judge1.snssdk.com
+0.0.0.0 judge12.snssdk.com
+0.0.0.0 judge3.snssdk.com
+0.0.0.0 judge45.snssdk.com
+0.0.0.0 judgexx.snssdk.com
+0.0.0.0 learning.snssdk.com
+0.0.0.0 lh.snssdk.com
+0.0.0.0 lianmeng.snssdk.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 mon.snssdk.com
+0.0.0.0 mssdk-sg.byteoversea.com
+0.0.0.0 novelfm.snssdk.com
+0.0.0.0 open.snssdk.com
+0.0.0.0 p16-ad-sg.ibyteimg.com
+0.0.0.0 rocket.snssdk.com
+0.0.0.0 temai.snssdk.com
+0.0.0.0 tnc16-platform-alisg.tiktokv.com
+0.0.0.0 xgfe.snssdk.com
 
 ! Likee - Let You Shine: video.like
 0.0.0.0 api.imotech.tech

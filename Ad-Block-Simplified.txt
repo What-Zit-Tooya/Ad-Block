@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 17, 2021 08:45 AM (UTC+7)
-! Version: 17/05/2021
+! Last modified: May 19, 2021 09:15 AM (UTC+7)
+! Version: 19/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -387,8 +387,69 @@
 
 ! TikTok: com.zhiliaoapp.musically
 ! TikTok ID: com.ss.android.ugc.trill
+! TikTok Lite: com.zhiliaoapp.musically.go
+! TikTok Lite ID: com.zhiliaoapp.musically
+||a.snssdk.com^
+||a16-tb.isnssdk.com^
+||a1962.b.akamai.net^
+||a2047.r.akamai.net^
+||act.snssdk.com^
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
+||api-spe-a.isnssdk.com^
+||api-spe-a.sgsnssdk.com^
+||api-spe-b.isnssdk.com^
+||api-spe-b.sgsnssdk.com^
+||api-spe-c.isnssdk.com^
+||api-spe-c.sgsnssdk.com^
+||api-spe.isnssdk.com^
+||api-spe.sgsnssdk.com^
+||api-test-pcs.snssdk.com^
+||api16-normal-c-alisg.tiktokv.com^
+||aweme.snssdk.com^
+||bcy-promo.snssdk.com^
+||bcy.snssdk.com^
+||byteair-api-cn1.snssdk.com^
+||cs.snssdk.com^
+||diamond.snssdk.com^
+||dm16-useast1a.byteoversea.com^
+||e11942.a.akamaiedge.net^
+||e28622.api12.akamaiedge.net^
+||e28622.api2.akamaiedge.net^
+||eyeu.snssdk.com^
+||f-moneyloan.snssdk.com^
+||f-moneyloantest.snssdk.com^
+||financal-stock-web.snssdk.com^
+||financial-stock-web.snssdk.com^
+||haohuo.snssdk.com^
+||hotsoon.snssdk.com^
+||i.snssdk.com^
+||i0.isnssdk.com^
+||i1.isnssdk.com^
+||i1.sgsnssdk.com^
+||i16-tb.isnssdk.com^
+||i16-tb.sgsnssdk.com^
+||ic.snssdk.com^
+||is.snssdk.com^
+||judge.snssdk.com^
+||judge1.snssdk.com^
+||judge12.snssdk.com^
+||judge3.snssdk.com^
+||judge45.snssdk.com^
+||judgexx.snssdk.com^
+||learning.snssdk.com^
+||lh.snssdk.com^
+||lianmeng.snssdk.com^
+||log.tiktokv.com^
+||mon.snssdk.com^
+||mssdk-sg.byteoversea.com^
+||novelfm.snssdk.com^
+||open.snssdk.com^
+||p16-ad-sg.ibyteimg.com^
+||rocket.snssdk.com^
+||temai.snssdk.com^
+||tnc16-platform-alisg.tiktokv.com^
+||xgfe.snssdk.com^
 
 ! Likee - Let You Shine: video.like
 ||api.imotech.tech^
