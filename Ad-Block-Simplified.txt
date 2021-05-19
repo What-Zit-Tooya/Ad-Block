@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 19, 2021 10:15 AM (UTC+7)
+! Last modified: May 19, 2021 11:35 AM (UTC+7)
 ! Version: 19/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -405,9 +405,6 @@
 ||api-spe.isnssdk.com^
 ||api-spe.sgsnssdk.com^
 ||api-test-pcs.snssdk.com^
-||api.tiktokv.com.edgekey.net^
-||api.tiktokv.com^
-||api16-normal-c-alisg.tiktokv.com^
 ||aweme.snssdk.com^
 ||bcy-promo.snssdk.com^
 ||bcy.snssdk.com^
@@ -452,7 +449,10 @@
 ||lh.snssdk.com^
 ||lianmeng.snssdk.com^
 ||log.tiktokv.com^
+||mon.tiktokv.com^
 ||mon.snssdk.com^
+||mon-sg.tiktokv.com^
+||mon-va.tiktokv.com^
 ||mssdk-sg.byteoversea.com^
 ||novelfm.snssdk.com^
 ||open.snssdk.com^
@@ -587,7 +587,6 @@
 ||cdn.awsde0.fds.api.mi-img.com^
 ||cdn.awsind0-eco.fds.api.mi-img.com^
 ||cdn.awsind0-fusion.fds.api.mi-img.com^
-||cdn.awssgp0.fds.api.mi-img.com^
 ||cdn.awssgp1.fds.api.mi-img.com^
 ||cdn.awsusor0.fds.api.mi-img.com^
 ||cdn.awsusor1.fds.api.mi-img.com^

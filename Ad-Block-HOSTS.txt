@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 19, 2021 10:15 AM (UTC+7)
+! Last modified: May 19, 2021 11:35 AM (UTC+7)
 ! Version: 19/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -429,9 +429,6 @@
 0.0.0.0 api-spe.isnssdk.com
 0.0.0.0 api-spe.sgsnssdk.com
 0.0.0.0 api-test-pcs.snssdk.com
-0.0.0.0 api.tiktokv.com
-0.0.0.0 api.tiktokv.com.edgekey.net
-0.0.0.0 api16-normal-c-alisg.tiktokv.com
 0.0.0.0 aweme.snssdk.com
 0.0.0.0 bcy-promo.snssdk.com
 0.0.0.0 bcy.snssdk.com
@@ -476,7 +473,10 @@
 0.0.0.0 lh.snssdk.com
 0.0.0.0 lianmeng.snssdk.com
 0.0.0.0 log.tiktokv.com
+0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.snssdk.com
+0.0.0.0 mon-sg.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 novelfm.snssdk.com
 0.0.0.0 open.snssdk.com
@@ -609,7 +609,6 @@
 0.0.0.0 cdn.awsde0.fds.api.mi-img.com
 0.0.0.0 cdn.awsind0-eco.fds.api.mi-img.com
 0.0.0.0 cdn.awsind0-fusion.fds.api.mi-img.com
-0.0.0.0 cdn.awssgp0.fds.api.mi-img.com
 0.0.0.0 cdn.awssgp1.fds.api.mi-img.com
 0.0.0.0 cdn.awsusor0.fds.api.mi-img.com
 0.0.0.0 cdn.awsusor1.fds.api.mi-img.com
