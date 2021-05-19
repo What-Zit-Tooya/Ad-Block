@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: May 19, 2021 04:55 PM (UTC+7)
+! Last modified: May 19, 2021 05:25 PM (UTC+7)
 ! Version: 19/05/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -447,8 +447,6 @@
 ||novelfm.snssdk.com^
 ||open.snssdk.com^
 ||p16-ad-sg.ibyteimg.com^
-||p16-sg.tiktokcdn.com.akamaized.net^
-||p16-sg.tiktokcdn.com^
 ||rocket.snssdk.com^
 ||temai.snssdk.com^
 ||xgfe.snssdk.com^
@@ -672,7 +670,6 @@
 ||tracking.intl.miui.com^
 ||ts.market.mi-img.com^
 ||ts1.market.mi-img.com^
-||upload-cdn.huami.com^
 ||video.youpin.mi-img.com^
 ||web-analytics-sg.huami.com^
 ||web-analytics.ap-southeast-1.elasticbeanstalk.com^
