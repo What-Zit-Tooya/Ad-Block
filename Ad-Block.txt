@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: May 19, 2021 05:25 PM (UTC+7)
-! Version: 19/05/2021
+! Last modified: June 1, 2021 07:20 PM (UTC+7)
+! Version: 01/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -21,11 +21,13 @@
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletmanager.com^
+||insights-collector.newrelic.com^
 ||ipstatp.com^
 ||kvinit-prod.api.kochava.com^
 ||oth.eve.mdt.qq.com^
 ||pagead2.googlesyndication.com^
 ||scorecardresearch.com^
+||tls10.newrelic.com.cdn.cloudflare.net^
 ||tsg.tdatamaster.com^
 
 [Facebook Related Server]
@@ -137,7 +139,6 @@
 [KOMPAS.com: com.ertanto.kompas.official]
 [Tribunnews.com: mobile.android.tribun]
 ||adsimg.kompas.com^
-||apis.kompas.com^
 ||kompasads.com^
 ||mcf-push.kompas.com^
 ||teads.tv^
@@ -490,87 +491,27 @@
 [XIAOMI PHONES]
 ### Tested in Global ROM ###
 ||afd.e-0001.dc.msedge.net^
+||adashbc.ut.taobao.com^
+||adashbc.m.taobao.com^
+||adash.man.aliyuncs.com^
 ||api-bing-com.e-0001.e-msedge.net^
 ||api.ad.intl.xiaomi.com^
 ||api.bing.com^
 ||api.brs.intl.miui.com^
 ||api.collect.data.intl.miui.com^
 ||api.mintbrs.intl.miui.com^
-||apk.youpin.mi-img.com^
+||api.input.intl.miui.com^
+||api.sec.intl.miui.com^
 ||app-analytics-sg.huami.com^
 ||app.chat.global.xiaomi.net^
-||b0.market.mi-img.com^
-||b1.market.mi-img.com^
-||b2.market.mi-img.com^
-||b3.market.mi-img.com^
-||b4.market.mi-img.com^
-||b5.market.mi-img.com^
-||b6.market.mi-img.com^
-||b7.market.mi-img.com^
-||b8.market.mi-img.com^
-||b9.market.mi-img.com^
 ||browser.mi-img.com^
-||cdn.alsgp0.fds.api.mi-img.com^
-||cdn.awsbj0.fds.api.mi-img.com^
-||cdn.awsde0-fusion.fds.api.mi-img.com^
-||cdn.awsde0.fds.api.mi-img.com^
-||cdn.awsind0-eco.fds.api.mi-img.com^
-||cdn.awsind0-fusion.fds.api.mi-img.com^
-||cdn.awssgp1.fds.api.mi-img.com^
-||cdn.awsusor0.fds.api.mi-img.com^
-||cdn.awsusor1.fds.api.mi-img.com^
-||cdn.awsvru0-eco.fds.api.mi-img.com^
-||cdn.cnbj0.fds.api.mi-img.com^
-||cdn.cnbj0e.fds.api.mi-img.com^
-||cdn.cnbj1.fds.api.mi-img.com.mgslb.com^
-||cdn.cnbj1.fds.api.mi-img.com.w.cdngslb.com^
-||cdn.cnbj1.fds.api.mi-img.com^
-||cdn.cnbj2-inner.fds.api.mi-img.com^
-||cdn.cnbj2.fds.api.mi-img.com^
-||cdn.cnbj2m.fds.api.mi-img.com^
-||cdn.cnbj3-fusion.fds.api.mi-img.com^
-||cdn.cngz0-fusion.fds.api.mi-img.com^
-||cdn.hao.mi-img.com^
-||cdn.ksyru0-eco.fds.api.mi-img.com^
-||cdn.ksyru0-fusion.fds.api.mi-img.com^
 ||cdn.nav.browser.mi-img.com^
 ||cdn.static.browser.mi-img.com^
-||cdn.video.browser.mi-img.com^
-||cdn.web-global.fds.api.mi-img.com^
 ||cdn.webapp.browser.mi-img.com^
-||comment.youpin.mi-img.com^
 ||d14bb1f98q04f8.cloudfront.net^
 ||data.mistat.intl.xiaomi.com^
 ||e-0001.dc-msedge.net^
-||f1.market.mi-img.com^
-||f2.market.mi-img.com^
-||f3.market.mi-img.com^
-||f4.market.mi-img.com^
-||f5.market.mi-img.com^
-||fds.mi-img.com^
-||fe.res.youpin.mi-img.com^
-||file.market.xiaomi.com.w.cdngslb.com^
-||file.market.xiaomi.com^
-||g0.market.mi-img.com^
 ||globalapi.ad.xiaomi.com^
-||h0.market.mi-img.com^
-||h1.market.mi-img.com^
-||h2.market.mi-img.com^
-||h3.market.mi-img.com^
-||h4.market.mi-img.com^
-||h5.app.intl.miui.com^
-||h5.market.mi-img.com^
-||h6.market.mi-img.com^
-||h7.market.mi-img.com^
-||h8.market.mi-img.com^
-||h9.market.mi-img.com^
-||i1.market.mi-img.com^
-||i1.ml.mi-img.com^
-||i2.market.mi-img.com^
-||i3.market.mi-img.com^
-||i4.market.mi-img.com^
-||i5.market.mi-img.com^
-||img.youpin.mi-img.com^
 ||log.ad.xiaomi.com^
 ||media.youpin.mi-img.com^
 ||msg.global.xiaomi.net^
@@ -580,49 +521,12 @@
 ||register.xmpush.global.xiaomi.com^
 ||res.youpin.mi-img.com^
 ||resolver.msg.global.xiaomi.net^
-||s1.mi-img.com^
-||s2.mi-img.com^
 ||sa.api.intl.miui.com^
 ||sandbox.api.mintbrs.intl.miui.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sg.stat.appmifile.com^
-||shop.io.mi-img.com^
 ||ssl-cdn.static.browser.mi-img.com
-||t1.market.mi-img.com.m.alikunlun.com^
-||t1.market.mi-img.com^
-||t1.market.xiaomi.com^
-||t1.market.xiaomi.com.w.cdngslb.com^
-||t10.market.mi-img.com^
-||t10.market.xiaomi.com^
-||t11.market.mi-img.com^
-||t11.market.xiaomi.com^
-||t12.market.mi-img.com^
-||t12.market.xiaomi.com^
-||t13.market.mi-img.com.w.cdngslb.com^
-||t13.market.mi-img.com^
-||t13.market.xiaomi.com^
-||t14.market.mi-img.com^
-||t14.market.xiaomi.com^
-||t15.market.mi-img.com^
-||t2.market.mi-img.com^
-||t2.market.xiaomi.com^
-||t3.market.mi-img.com^
-||t3.market.xiaomi.com^
-||t4.market.mi-img.com^
-||t4.market.xiaomi.com^
-||t5.market.mi-img.com^
-||t5.market.xiaomi.com^
-||t6.market.mi-img.com^
-||t6.market.xiaomi.com^
-||t7.market.mi-img.com^
-||t7.market.xiaomi.com^
-||t8.market.mi-img.com^
-||t8.market.xiaomi.com^
-||t9.market.mi-img.com^
-||t9.market.xiaomi.com^
 ||tracking.intl.miui.com^
-||ts.market.mi-img.com^
-||ts1.market.mi-img.com^
 ||video.youpin.mi-img.com^
 ||web-analytics-sg.huami.com^
 ||web-analytics.ap-southeast-1.elasticbeanstalk.com^

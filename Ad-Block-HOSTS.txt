@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: May 19, 2021 05:25 PM (UTC+7)
-! Version: 19/05/2021
+! Last modified: June 1, 2021 07:20 PM (UTC+7)
+! Version: 01/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -21,11 +21,13 @@
 0.0.0.0 googlesyndication.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletmanager.com
+0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 ipstatp.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 tls10.newrelic.com.cdn.cloudflare.net
 0.0.0.0 tsg.tdatamaster.com
 
 ! SHAREit: com.lenovo.anyshare.gps
@@ -143,7 +145,6 @@
 ! KOMPAS.com: com.ertanto.kompas.official
 ! Tribunnews.com: mobile.android.tribun
 0.0.0.0 adsimg.kompas.com
-0.0.0.0 apis.kompas.com
 0.0.0.0 kompasads.com
 0.0.0.0 mcf-push.kompas.com
 0.0.0.0 teads.tv
@@ -559,87 +560,26 @@
 0.0.0.0 8.25.82.231
 0.0.0.0 8.25.82.232
 0.0.0.0 afd.e-0001.dc.msedge.net
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adashbc.m.taobao.com
+0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 api-bing-com.e-0001.e-msedge.net
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.bing.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.collect.data.intl.miui.com
 0.0.0.0 api.mintbrs.intl.miui.com
-0.0.0.0 apk.youpin.mi-img.com
+0.0.0.0 api.input.intl.miui.com
+0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 app-analytics-sg.huami.com
 0.0.0.0 app.chat.global.xiaomi.net
-0.0.0.0 b0.market.mi-img.com
-0.0.0.0 b1.market.mi-img.com
-0.0.0.0 b2.market.mi-img.com
-0.0.0.0 b3.market.mi-img.com
-0.0.0.0 b4.market.mi-img.com
-0.0.0.0 b5.market.mi-img.com
-0.0.0.0 b6.market.mi-img.com
-0.0.0.0 b7.market.mi-img.com
-0.0.0.0 b8.market.mi-img.com
-0.0.0.0 b9.market.mi-img.com
-0.0.0.0 browser.mi-img.com
-0.0.0.0 cdn.alsgp0.fds.api.mi-img.com
-0.0.0.0 cdn.awsbj0.fds.api.mi-img.com
-0.0.0.0 cdn.awsde0-fusion.fds.api.mi-img.com
-0.0.0.0 cdn.awsde0.fds.api.mi-img.com
-0.0.0.0 cdn.awsind0-eco.fds.api.mi-img.com
-0.0.0.0 cdn.awsind0-fusion.fds.api.mi-img.com
-0.0.0.0 cdn.awssgp1.fds.api.mi-img.com
-0.0.0.0 cdn.awsusor0.fds.api.mi-img.com
-0.0.0.0 cdn.awsusor1.fds.api.mi-img.com
-0.0.0.0 cdn.awsvru0-eco.fds.api.mi-img.com
-0.0.0.0 cdn.cnbj0.fds.api.mi-img.com
-0.0.0.0 cdn.cnbj0e.fds.api.mi-img.com
-0.0.0.0 cdn.cnbj1.fds.api.mi-img.com
-0.0.0.0 cdn.cnbj1.fds.api.mi-img.com.mgslb.com
-0.0.0.0 cdn.cnbj1.fds.api.mi-img.com.w.cdngslb.com
-0.0.0.0 cdn.cnbj2-inner.fds.api.mi-img.com
-0.0.0.0 cdn.cnbj2.fds.api.mi-img.com
-0.0.0.0 cdn.cnbj2m.fds.api.mi-img.com
-0.0.0.0 cdn.cnbj3-fusion.fds.api.mi-img.com
-0.0.0.0 cdn.cngz0-fusion.fds.api.mi-img.com
-0.0.0.0 cdn.hao.mi-img.com
-0.0.0.0 cdn.ksyru0-eco.fds.api.mi-img.com
-0.0.0.0 cdn.ksyru0-fusion.fds.api.mi-img.com
-0.0.0.0 cdn.nav.browser.mi-img.com
 0.0.0.0 cdn.static.browser.mi-img.com
 0.0.0.0 cdn.video.browser.mi-img.com
-0.0.0.0 cdn.web-global.fds.api.mi-img.com
 0.0.0.0 cdn.webapp.browser.mi-img.com
-0.0.0.0 comment.youpin.mi-img.com
 0.0.0.0 d14bb1f98q04f8.cloudfront.net
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 e-0001.dc-msedge.net
-0.0.0.0 f1.market.mi-img.com
-0.0.0.0 f2.market.mi-img.com
-0.0.0.0 f3.market.mi-img.com
-0.0.0.0 f4.market.mi-img.com
-0.0.0.0 f5.market.mi-img.com
-0.0.0.0 fds.mi-img.com
-0.0.0.0 fe.res.youpin.mi-img.com
-0.0.0.0 file.market.xiaomi.com
-0.0.0.0 file.market.xiaomi.com.w.cdngslb.com
-0.0.0.0 g0.market.mi-img.com
 0.0.0.0 globalapi.ad.xiaomi.com
-0.0.0.0 h0.market.mi-img.com
-0.0.0.0 h1.market.mi-img.com
-0.0.0.0 h2.market.mi-img.com
-0.0.0.0 h3.market.mi-img.com
-0.0.0.0 h4.market.mi-img.com
-0.0.0.0 h5.app.intl.miui.com
-0.0.0.0 h5.market.mi-img.com
-0.0.0.0 h6.market.mi-img.com
-0.0.0.0 h7.market.mi-img.com
-0.0.0.0 h8.market.mi-img.com
-0.0.0.0 h9.market.mi-img.com
-0.0.0.0 i1.market.mi-img.com
-0.0.0.0 i1.ml.mi-img.com
-0.0.0.0 i2.market.mi-img.com
-0.0.0.0 i3.market.mi-img.com
-0.0.0.0 i4.market.mi-img.com
-0.0.0.0 i5.market.mi-img.com
-0.0.0.0 img.youpin.mi-img.com
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 media.youpin.mi-img.com
 0.0.0.0 msg.global.xiaomi.net
@@ -647,51 +587,13 @@
 0.0.0.0 privacy.api.intl.miui.com
 0.0.0.0 receipt.youpin.mi-img.com
 0.0.0.0 register.xmpush.global.xiaomi.com
-0.0.0.0 res.youpin.mi-img.com
 0.0.0.0 resolver.msg.global.xiaomi.net
-0.0.0.0 s1.mi-img.com
-0.0.0.0 s2.mi-img.com
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sandbox.api.mintbrs.intl.miui.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sg.stat.appmifile.com
-0.0.0.0 shop.io.mi-img.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
-0.0.0.0 t1.market.mi-img.com
-0.0.0.0 t1.market.mi-img.com.m.alikunlun.com
-0.0.0.0 t1.market.xiaomi.com
-0.0.0.0 t1.market.xiaomi.com.w.cdngslb.com
-0.0.0.0 t10.market.mi-img.com
-0.0.0.0 t10.market.xiaomi.com
-0.0.0.0 t11.market.mi-img.com
-0.0.0.0 t11.market.xiaomi.com
-0.0.0.0 t12.market.mi-img.com
-0.0.0.0 t12.market.xiaomi.com
-0.0.0.0 t13.market.mi-img.com
-0.0.0.0 t13.market.mi-img.com.w.cdngslb.com
-0.0.0.0 t13.market.xiaomi.com
-0.0.0.0 t14.market.mi-img.com
-0.0.0.0 t14.market.xiaomi.com
-0.0.0.0 t15.market.mi-img.com
-0.0.0.0 t2.market.mi-img.com
-0.0.0.0 t2.market.xiaomi.com
-0.0.0.0 t3.market.mi-img.com
-0.0.0.0 t3.market.xiaomi.com
-0.0.0.0 t4.market.mi-img.com
-0.0.0.0 t4.market.xiaomi.com
-0.0.0.0 t5.market.mi-img.com
-0.0.0.0 t5.market.xiaomi.com
-0.0.0.0 t6.market.mi-img.com
-0.0.0.0 t6.market.xiaomi.com
-0.0.0.0 t7.market.mi-img.com
-0.0.0.0 t7.market.xiaomi.com
-0.0.0.0 t8.market.mi-img.com
-0.0.0.0 t8.market.xiaomi.com
-0.0.0.0 t9.market.mi-img.com
-0.0.0.0 t9.market.xiaomi.com
 0.0.0.0 tracking.intl.miui.com
-0.0.0.0 ts.market.mi-img.com
-0.0.0.0 ts1.market.mi-img.com
 0.0.0.0 video.youpin.mi-img.com
 0.0.0.0 web-analytics-sg.huami.com
 0.0.0.0 web-analytics.ap-southeast-1.elasticbeanstalk.com
