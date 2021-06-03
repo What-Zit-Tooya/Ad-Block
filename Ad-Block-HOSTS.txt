@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 3, 2021 07:10 PM (UTC+7)
+! Last modified: June 3, 2021 08:45 PM (UTC+7)
 ! Version: 02/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -557,6 +557,7 @@
 0.0.0.0 161.117.196.127
 0.0.0.0 161.117.198.51
 0.0.0.0 161.117.200.61
+0.0.0.0 161.117.227.252
 0.0.0.0 161.117.71.226
 0.0.0.0 47.74.236.76
 0.0.0.0 47.88.231.18
@@ -583,12 +584,17 @@
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.collect.data.intl.miui.com
 0.0.0.0 api.input.intl.miui.com
+0.0.0.0 api.launcher.miui.com
+0.0.0.0 api.launcher.intl.miui.com
 0.0.0.0 api.mintbrs.intl.miui.com
 0.0.0.0 api.miui.security.xiaomi.com
+0.0.0.0 api.muc.intl.miui.com
+0.0.0.0 api.muc.miui.com
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 app-analytics-sg.huami.com
 0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 cdn.static.browser.mi-img.com
 0.0.0.0 cdn.video.browser.mi-img.com
 0.0.0.0 cdn.webapp.browser.mi-img.com
@@ -601,6 +607,7 @@
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 e-0001.dc-msedge.net
+0.0.0.0 extranet.ap-southeast-1.miui-l7-backend.qdkfgpaup7.elb.xiaomi.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 fr.register.xmpush.global.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com

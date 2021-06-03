@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 3, 2021 07:10 PM (UTC+7)
+! Last modified: June 3, 2021 08:45 PM (UTC+7)
 ! Version: 02/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -516,12 +516,17 @@
 ||api.brs.intl.miui.com^
 ||api.collect.data.intl.miui.com^
 ||api.input.intl.miui.com^
+||api.launcher.miui.com^
+||api.launcher.intl.miui.com^
 ||api.mintbrs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
+||api.muc.intl.miui.com^
+||api.muc.miui.com^
 ||api.sec.intl.miui.com^
 ||api.xmpush.xiaomi.com^
 ||app-analytics-sg.huami.com^
 ||app.chat.global.xiaomi.net^
+||authbe.sec.intl.miui.com^
 ||browser.mi-img.com^
 ||cdn.nav.browser.mi-img.com^
 ||cdn.static.browser.mi-img.com^
@@ -536,6 +541,7 @@
 ||data.sec.miui.com^
 ||dev.mi.com/mistats/*
 ||e-0001.dc-msedge.net^
+||extranet.ap-southeast-1.miui-l7-backend.qdkfgpaup7.elb.xiaomi.com^
 ||firebase-settings.crashlytics.com^
 ||fr.register.xmpush.global.xiaomi.com^
 ||globalapi.ad.xiaomi.com^

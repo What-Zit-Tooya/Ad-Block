@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 3, 2021 07:10 PM (UTC+7)
+! Last modified: June 3, 2021 08:45 PM (UTC+7)
 ! Version: 02/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -535,6 +535,7 @@
 ||161.117.196.127^
 ||161.117.198.51^
 ||161.117.200.61^
+||161.117.227.252^
 ||161.117.71.226^
 ||47.74.236.76^
 ||47.88.231.18^
@@ -561,12 +562,17 @@
 ||api.brs.intl.miui.com^
 ||api.collect.data.intl.miui.com^
 ||api.input.intl.miui.com^
+||api.launcher.miui.com^
+||api.launcher.intl.miui.com^
 ||api.mintbrs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
+||api.muc.intl.miui.com^
+||api.muc.miui.com^
 ||api.sec.intl.miui.com^
 ||api.xmpush.xiaomi.com^
 ||app-analytics-sg.huami.com^
 ||app.chat.global.xiaomi.net^
+||authbe.sec.intl.miui.com^
 ||browser.mi-img.com^
 ||cdn.nav.browser.mi-img.com^
 ||cdn.static.browser.mi-img.com^
@@ -581,6 +587,7 @@
 ||data.mistat.xiaomi.com^
 ||data.sec.miui.com^
 ||e-0001.dc-msedge.net^
+||extranet.ap-southeast-1.miui-l7-backend.qdkfgpaup7.elb.xiaomi.com^
 ||firebase-settings.crashlytics.com^
 ||fr.register.xmpush.global.xiaomi.com^
 ||globalapi.ad.xiaomi.com^
