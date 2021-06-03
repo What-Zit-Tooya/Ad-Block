@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 3, 2021 05:45 PM (UTC+7)
+! Last modified: June 3, 2021 07:10 PM (UTC+7)
 ! Version: 02/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -550,7 +550,18 @@
 
 ! XIAOMI PHONES
 ! Tested in Global ROM
+0.0.0.0 10.235.124.13
+0.0.0.0 10.99.168.145
 0.0.0.0 13.107.13.80
+0.0.0.0 161.117.190.13
+0.0.0.0 161.117.196.127
+0.0.0.0 161.117.198.51
+0.0.0.0 161.117.200.61
+0.0.0.0 161.117.71.226
+0.0.0.0 47.74.236.76
+0.0.0.0 47.88.231.18
+0.0.0.0 47.88.232.213
+0.0.0.0 47.88.232.28
 0.0.0.0 8.25.82.225
 0.0.0.0 8.25.82.226
 0.0.0.0 8.25.82.227
@@ -559,44 +570,87 @@
 0.0.0.0 8.25.82.230
 0.0.0.0 8.25.82.231
 0.0.0.0 8.25.82.232
-0.0.0.0 afd.e-0001.dc.msedge.net
-0.0.0.0 adashbc.ut.taobao.com
-0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 adashbc.m.taobao.com
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 adv.sec.miui.com
+0.0.0.0 afd.e-0001.dc.msedge.net
 0.0.0.0 api-bing-com.e-0001.e-msedge.net
 0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.bing.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.collect.data.intl.miui.com
-0.0.0.0 api.mintbrs.intl.miui.com
 0.0.0.0 api.input.intl.miui.com
+0.0.0.0 api.mintbrs.intl.miui.com
+0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 app-analytics-sg.huami.com
 0.0.0.0 app.chat.global.xiaomi.net
 0.0.0.0 cdn.static.browser.mi-img.com
 0.0.0.0 cdn.video.browser.mi-img.com
 0.0.0.0 cdn.webapp.browser.mi-img.com
+0.0.0.0 chainge.ad.xiaomi.com
+0.0.0.0 cn.register.xmpush.xiaomi.com
+0.0.0.0 collect.data.intl.miui.com
+0.0.0.0 csi.gstatic.com
 0.0.0.0 d14bb1f98q04f8.cloudfront.net
 0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.sec.miui.com
 0.0.0.0 e-0001.dc-msedge.net
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 fr.register.xmpush.global.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 idmb.register.xmpush.global.xiaomi.com
+0.0.0.0 log-abroad.avlyun.com
 0.0.0.0 log.ad.xiaomi.com
+0.0.0.0 log.avlyun.com
+0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 mcc.india.inf.miui.com
+0.0.0.0 mcc.inf.miui.com
+0.0.0.0 mcc.intl.inf.miui.com
+0.0.0.0 mcc.russia.inf.miui.com
+0.0.0.0 mds.mistat.xiaomi.com
 0.0.0.0 media.youpin.mi-img.com
+0.0.0.0 miuiboot.tracking.miui.com
+0.0.0.0 miuilog.update.avlyun.com
 0.0.0.0 msg.global.xiaomi.net
 0.0.0.0 platform.static.browser.mi-img.com
 0.0.0.0 privacy.api.intl.miui.com
 0.0.0.0 receipt.youpin.mi-img.com
 0.0.0.0 register.xmpush.global.xiaomi.com
+0.0.0.0 reports.crashlytics.com
 0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 ru.register.xmpush.global.xiaomi.com
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sandbox.api.mintbrs.intl.miui.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sg.stat.appmifile.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
+0.0.0.0 staging.adv.sec.miui.com
+0.0.0.0 staging.mcc.inf.miui.com
+0.0.0.0 test-idservice.data.mistat.xiaomi.com
+0.0.0.0 test.ad.intl.xiaomi.com
+0.0.0.0 test.ad.xiaomi.com
+0.0.0.0 test.data.mistat.xiaomi.srv
+0.0.0.0 tj2-miui-ad-stage02.kscn
 0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 update.crashlytics.com
+0.0.0.0 us.log.slb.avlyun.com
+0.0.0.0 video.kts.g.mi.com
 0.0.0.0 video.youpin.mi-img.com
 0.0.0.0 web-analytics-sg.huami.com
 0.0.0.0 web-analytics.ap-southeast-1.elasticbeanstalk.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.jivesoftware.com
+0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 zeus.ad.xiaomi.com
 
 ! Shopee Indonesia: com.shopee.id
 0.0.0.0 1255300759.vod2.myqcloud.com
@@ -723,15 +777,28 @@
 0.0.0.0 videoclipf.apps.coloros.com
 0.0.0.0 www.heytap.com
 
-! AVAST 
+! AVAST & AVL
 ! From built-in Anti-Virus Chinese phones
+0.0.0.0 47.88.65.115
 0.0.0.0 ams.honzik.avcdn.net
+0.0.0.0 analytics-stage.ff.avast.com
+0.0.0.0 analytics-test.ff.avast.com
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 apkrep-stage.ff.avast.com
+0.0.0.0 apkrep-test.ff.avast.com
+0.0.0.0 apkrep.avcdn.net
+0.0.0.0 au.ff.avast.sec.miui.com
+0.0.0.0 bugs-bunny-stage.sb.avast.com
+0.0.0.0 bugs-bunny-test.sb.avast.com
+0.0.0.0 bugs-bunny.sb.avast.com
 0.0.0.0 e7126.dscd.akamaiedge.net
-0.0.0.0 honzik.avcdn.net
+0.0.0.0 log.avlyun.com
+0.0.0.0 log.avlyun.sec.intl.miui.com
+0.0.0.0 log.avlyun.sec.miui.com
 0.0.0.0 mobilepartner.avcdn.net.edgekey.net
 0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 shepherd.ns1.ff.avast.com
+0.0.0.0 us.log.slb.avlyun.com
 
 ! WPS Office: cn.wps.moffice_eng
 0.0.0.0 104.22.6.60
