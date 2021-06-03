@@ -11,12 +11,15 @@ Download AdGuard for Android here:
 1. AdGuard Base filter;
 2. AdGuard Mobile ads filter;
 3. AdGuard Tracking Protection filter;
-4. EasyPrivacy;
-5. AdGuard Annoyances filter;
-6. Fanboy's Annoyance filter;
-7. Languange-specific (Up-to-you, based on your location);
-8. AdGuard DNS filter;
-9. Custom filters:
+4. AdGuard URL Tracking filter;
+5. EasyPrivacy;
+6. AdGuard Annoyances filter;
+7. Fanboy's Annoyance filter;
+8. Online Malicious URL Blocklist;
+9. Spam404;
+10. Languange-specific (up-to-you, based on your location);
+11. AdGuard DNS filter;
+12. Custom filters:
     1. [CombinedPrivacyBlockLists](https://anonym.to/?https://github.com/bongochong/CombinedPrivacyBlockLists)
     2. [StevenBlack hosts](https://anonym.to/?https://github.com/StevenBlack/hosts)
     3. [OISD](https://anonym.to/?https://oisd.nl/?p=dl)
