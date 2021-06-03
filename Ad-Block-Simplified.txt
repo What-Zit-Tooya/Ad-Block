@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 1, 2021 07:20 PM (UTC+7)
-! Version: 01/06/2021
+! Last modified: June 3, 2021 05:45 PM (UTC+7)
+! Version: 02/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -711,11 +711,6 @@
 ||mobilepartner.avcdn.net.edgekey.net^
 ||shepherd.ff.avast.com^
 ||shepherd.ns1.ff.avast.com^
-||sp-497f6f2f.honzik.avcdn.net^
-||sp-766ec786.honzik.avcdn.net^
-||sp-8f237ea3.apkrep.avcdn.net^
-||sp-8f237ea3.honzik.avcdn.net^
-||sp-be376e1.honzik.avcdn.net^
 
 ! WPS Office: cn.wps.moffice_eng
 ||104.22.6.60^
@@ -1114,9 +1109,3 @@ https://ynuf.aliapp.org/saveWb.json?
 ||zeus.cmcm.com^
 ||zj.dcys.ksmobile.com^
 ||zj.ios.ksmobile.com^
-
-[myIM3: com.pure.indosat.care]
-||104.26.14.158^
-||104.26.15.158^
-||172.67.71.97^
-||myim3banner.kloc.co^
