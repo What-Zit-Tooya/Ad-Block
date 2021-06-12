@@ -1,14 +1,15 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 3, 2021 08:45 PM (UTC+7)
-! Version: 02/06/2021
+! Last modified: June 12, 2021 07:05 PM (UTC+7)
+! Version: 12/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 
 ! UNIVERSAL
 0.0.0.0 adservice.google.com
+0.0.0.0 ads.gridtechno.com
 0.0.0.0 api.adaether.com
 0.0.0.0 app-measurement.com
 0.0.0.0 appsflyer.com
@@ -795,7 +796,6 @@
 0.0.0.0 apkrep-stage.ff.avast.com
 0.0.0.0 apkrep-test.ff.avast.com
 0.0.0.0 apkrep.avcdn.net
-0.0.0.0 au.ff.avast.sec.miui.com
 0.0.0.0 bugs-bunny-stage.sb.avast.com
 0.0.0.0 bugs-bunny-test.sb.avast.com
 0.0.0.0 bugs-bunny.sb.avast.com

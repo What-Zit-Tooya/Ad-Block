@@ -1,14 +1,15 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 3, 2021 08:45 PM (UTC+7)
-! Version: 02/06/2021
+! Last modified: June 12, 2021 07:05 PM (UTC+7)
+! Version: 12/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 
 ! UNIVERSAL
 ||adservice.google.com^
+||ads.gridtechno.com^
 ||api.adaether.com^
 ||app-measurement.com^
 ||appsflyer.com^
@@ -776,7 +777,6 @@
 ||apkrep-stage.ff.avast.com^
 ||apkrep-test.ff.avast.com^
 ||apkrep.avcdn.net^
-||au.ff.avast.sec.miui.com^
 ||bugs-bunny-stage.sb.avast.com^
 ||bugs-bunny-test.sb.avast.com^
 ||bugs-bunny.sb.avast.com^
@@ -908,7 +908,6 @@ https://ynuf.aliapp.org/saveWb.json?
 ||13.224.249.6^
 ||13.227.142.9^
 ||13.227.252.117^
-||13.227.252.125^
 ||13.227.252.83^
 ||13.227.252.98^
 ||199.232.45.32^
