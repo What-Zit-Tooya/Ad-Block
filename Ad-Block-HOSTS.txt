@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 13, 2021 09:20 AM (UTC+7)
+! Last modified: June 13, 2021 12:15 PM (UTC+7)
 ! Version: 13/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -594,6 +594,8 @@
 0.0.0.0 47.88.231.18
 0.0.0.0 47.88.232.213
 0.0.0.0 47.88.232.28
+0.0.0.0 47.241.75.41
+0.0.0.0 47.241.68.222
 0.0.0.0 8.25.82.225
 0.0.0.0 8.25.82.226
 0.0.0.0 8.25.82.227
@@ -640,6 +642,8 @@
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 fr.register.xmpush.global.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 globalvideo.cdn.pandora.intl.xiaomi.com
+0.0.0.0 id.video.intl.xiaomi.com
 0.0.0.0 idmb.register.xmpush.global.xiaomi.com
 0.0.0.0 log-abroad.avlyun.com
 0.0.0.0 log.ad.xiaomi.com
@@ -685,6 +689,7 @@
 0.0.0.0 web-analytics.ap-southeast-1.elasticbeanstalk.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.jivesoftware.com
+0.0.0.0 x-id.ls.glanceapis.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
 
