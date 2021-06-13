@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 13, 2021 06:45 PM (UTC+7)
+! Last modified: June 13, 2021 07:20 PM (UTC+7)
 ! Version: 13/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1307,7 +1307,12 @@
 # Spotify: com.spotify.music
 # Imported from https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify
 # Thanks to him
+# Will add more servers (if any)
 # Need test troughly
+0.0.0.0 199.232.46.248
+0.0.0.0 23.49.60.137
+0.0.0.0 23.49.60.152
+0.0.0.0 a297.dscc.akamai.net
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adeventtracker.spotify.com
@@ -1324,6 +1329,7 @@
 0.0.0.0 analytics.spotify.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 assets.spotify.com
+0.0.0.0 audio-ak-spotify-com.akamaized.net
 0.0.0.0 audio-ak.spotify.com
 0.0.0.0 audio-akp.spotify.com
 0.0.0.0 audio-cf.spotify.com
@@ -1337,6 +1343,8 @@
 0.0.0.0 audio-sp-lon.spotify.com
 0.0.0.0 audio-sp-sto.spotify.com
 0.0.0.0 audio2.spotify.com
+0.0.0.0 audio4-ak-spotify-com.akamaized.net
+0.0.0.0 audio4-fa.scdn.com
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bounceexchange.com
@@ -1371,6 +1379,7 @@
 0.0.0.0 heads-fab.spotify.com
 0.0.0.0 heads-fac.spotify.com
 0.0.0.0 idsync-ext.rlcdn.com
+0.0.0.0 ipv4.scdnco.spotify.map.fastly.net
 0.0.0.0 jefes-ec.spotify.com
 0.0.0.0 jefes-fa.scdn.co
 0.0.0.0 js.moatads.com
@@ -1399,13 +1408,11 @@
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 secure.insightexpressai.com
-0.0.0.0 securepubads.g.doubleclick. neto
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 servidor-54-230-216-203.mrs50.r.cloudfront.net
 0.0.0.0 showads33000.pubmatic.com
 0.0.0.0 spclient.wg.spotify.com/ads
 0.0.0.0 spotify-desktop.com
-0.0.0.0 sto3.spotify.com
 0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
 0.0.0.0 sto3.spotify.com
 0.0.0.0 sync.adaptv.advertising.com

@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 13, 2021 06:45 PM (UTC+7)
+! Last modified: June 13, 2021 07:20 PM (UTC+7)
 ! Version: 13/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1176,7 +1176,9 @@
 # Spotify: com.spotify.music
 # Imported from https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify
 # Thanks to him
+# Will add more servers (if any)
 # Need test troughly
+||a297.dscc.akamai.net^
 ||ad.atdmt.com^
 ||adclick.g.doublecklick.net^
 ||adeventtracker.spotify.com^
@@ -1193,6 +1195,7 @@
 ||analytics.spotify.com^
 ||anycast.pixel.adsafeprotected.com^
 ||assets.spotify.com^
+||audio-ak-spotify-com.akamaized.net^
 ||audio-ak.spotify.com^
 ||audio-akp.spotify.com^
 ||audio-cf.spotify.com^
@@ -1206,6 +1209,8 @@
 ||audio-sp-lon.spotify.com^
 ||audio-sp-sto.spotify.com^
 ||audio2.spotify.com^
+||audio4-ak-spotify-com.akamaized.net^
+||audio4-fa.scdn.com^
 ||b.scorecardresearch.com^
 ||bid.g.doubleclick.net^
 ||bounceexchange.com^
@@ -1240,6 +1245,7 @@
 ||heads-fab.spotify.com^
 ||heads-fac.spotify.com^
 ||idsync-ext.rlcdn.com^
+||ipv4.scdnco.spotify.map.fastly.net^
 ||jefes-ec.spotify.com^
 ||jefes-fa.scdn.co^
 ||js.moatads.com^
@@ -1268,13 +1274,12 @@
 ||redirector.gvt1.com^
 ||s0.2mdn.net^
 ||secure.insightexpressai.com^
-||securepubads.g.doubleclick. neto^
 ||securepubads.g.doubleclick.net^
 ||servidor-54-230-216-203.mrs50.r.cloudfront.net^
 ||showads33000.pubmatic.com^
-||spclient.wg.spotify.com/ads
+||spclient.wg.spotify.com/ads/*
+||spclient.wg.spotify.com/ad-logic/*
 ||spotify-desktop.com^
-||sto3.spotify.com^
 ||sto3-accesspoint-a88.sto3.spotify.net^
 ||sto3.spotify.com^
 ||sync.adaptv.advertising.com^
