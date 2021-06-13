@@ -1,13 +1,12 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 12, 2021 07:05 PM (UTC+7)
-! Version: 12/06/2021
+! Last modified: June 13, 2021 09:20 AM (UTC+7)
+! Version: 13/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
-
-! UNIVERSAL
+# UNIVERSAL
 ||adservice.google.com^
 ||ads.gridtechno.com^
 ||api.adaether.com^
@@ -31,18 +30,18 @@
 ||tls10.newrelic.com.cdn.cloudflare.net^
 ||tsg.tdatamaster.com^
 
-! SHAREit: com.lenovo.anyshare.gps
+# SHAREit: com.lenovo.anyshare.gps
 ||13.35.13.120^
 ||13.224.250.223^
 ||159.138.101.104^
 ||159.138.102.255^
-! BLOCK BING
+# BLOCK BING
 ||13.107.21.200^
 ||a-0001.a-afdentry.net.trafficmanager.net^
 ||dual-a-0001.a-msedge.net^
 ||www-bing-com.dual-a-0001.a-msedge.net^
 ||204.79.197.200^
-! END BLOCK BING
+# END BLOCK BING
 ||active.wshareit.com^
 ||adconf.rqmob.com^
 ||ads.mopub.com^
@@ -127,15 +126,15 @@
 ||75.2.70.67^
 ||76.223.65.142^
 
-! Detik: org.detikcom.rss
-! CNN Indonesia: com.cnn.indonesia
-! CNBC Indonesia: com.cnbc.indonesia
-! Liputan6.com: com.woi.liputan6.android
-! BEGIN Video Block. Unblock this if you want to see Video
+# Detik: org.detikcom.rss
+# CNN Indonesia: com.cnn.indonesia
+# CNBC Indonesia: com.cnbc.indonesia
+# Liputan6.com: com.woi.liputan6.android
+# BEGIN Video Block. Unblock this if you want to see Video
 ||vod.cnbcindonesia.com^
 ||vod.cnnindonesia.com^
 ||vod.detik.com^
-! END Video Block
+# END Video Block
 ||2mdn.net^
 ||cdnstatic.detik.com^
 ||kayumanis.detik.com^
@@ -144,18 +143,18 @@
 ||push.detik.com^
 ||sessions.bugsnag.com^
 
-! KOMPAS.com: com.ertanto.kompas.official
-! Tribunnews.com: mobile.android.tribun
+# KOMPAS.com: com.ertanto.kompas.official
+# Tribunnews.com: mobile.android.tribun
 ||adsimg.kompas.com^
 ||kompasads.com^
 ||mcf-push.kompas.com^
 ||teads.tv^
 
-! Mozilla's Apps
+# Mozilla's Apps
 ||incoming.telemetry.mozilla.org^
 ||location.services.mozilla.com^
 
-! Lazada Indonesia: com.lazada.android
+# Lazada Indonesia: com.lazada.android
 ||47.246.32.33^
 ||47.8.94.32^
 ||47.89.74.76^
@@ -183,27 +182,27 @@
 ||zconfig.alibabausercontent.com^
 ||zconfig.alibabausercontent.com.w.cdngslb.com^
 
-! Bardi Smart Home: com.bardi.smart.home
+# Bardi Smart Home: com.bardi.smart.home
 ||h1.iot-dns.com^
 ||tuyacn.com^
 
-! by.U - The All-Digital Provider: com.byu.id
+# by.U - The All-Digital Provider: com.byu.id
 ||cepushupdates.azureedge.net^
 ||codepush.appcenter.ms^
 ||in.appcenter.ms^
 ||static.zdassets.com^
 
-! Opera Mini:com.opera.mini.native
-! Opera Browser: com.opera.browser
-! Opera Browser beta: com.opera.browser.beta
-! Opera Touch: com.opera.touch
-! BEGIN Block News
+# Opera Mini:com.opera.mini.native
+# Opera Browser: com.opera.browser
+# Opera Browser beta: com.opera.browser.beta
+# Opera Touch: com.opera.touch
+# BEGIN Block News
 ||cdn-af.op-mobile.opera.com^
 ||discover.operacdn.com^
 ||feednews.com^
 ||news.opera-api.com^
 ||news-id.feednews.com^
-! END Block News
+# END Block News
 ||api.recsys.opera.com^
 ||api.sec-tunnel.com^
 ||api-a.op-mobile.opera.com^
@@ -220,7 +219,7 @@
 ||t-odx.op-mobile.opera.com^
 ||xml.opera.com^
 
-! Drakor.ID: com.stream.drakorindoawet
+# Drakor.ID: com.stream.drakorindoawet
 ||104.18.226.52^
 ||api.onesignal.com^
 ||applovin.com^
@@ -232,8 +231,8 @@
 ||dit.whatsapp.net^
 ||privatestats.whatsapp.net^
 
-! HAGO: com.yy.hiyo
-! Noizz - formerly Biugo: com.yy.biu
+# HAGO: com.yy.hiyo
+# Noizz - formerly Biugo: com.yy.biu
 ||103.230.236.20^
 ||103.230.236.25^
 ||103.230.236.32^
@@ -360,8 +359,8 @@
 ||ylog.hiido.com^
 ||zebra.umeng.com^
 
-! AOL - News, Mail & Video: com.aol.mobile.aolapp
-! Yahoo Mail: com.yahoo.mobile.client.android.mail
+# AOL - News, Mail & Video: com.aol.mobile.aolapp
+# Yahoo Mail: com.yahoo.mobile.client.android.mail
 ||analytics.query.yahoo.com^
 ||by.uservoice.com^
 ||exceptions.mobile.yahoo.com^
@@ -369,27 +368,57 @@
 ||service.cmp.oath.com^
 ||smarttv-smartinfo.manhattan.yahoo.com^
 
-! NekoPoi: com.usamin.nekopoi
+# NekoPoi: com.usamin.nekopoi
+||a.applovin.com^
+||a.applvn.com^
+||ads.api.vungle.com^
+||ads.inmobi.com^
 ||ads.staging.tapdaq.com^
 ||ads.tapdaq.com^
 ||analytics.staging.tapdaq.com^
 ||analytics.tapdaq.com^
+||api.vungle.com^
+||assets.applovin.com^
 ||blog.tapdaq.com^
+||config.inmobi.com^
+||config.unityads.unity3d.com^
+||config.unityads.unitychina.cn^
+||connect.tapjoy.com^
+||crash-metrics.sdk.inmobi.com^
+||d.applovin.com^
+||d.applvn.com^
 ||dashboard-api.staging.tapdaq.com^
 ||dashboard-api.tapdaq.com^
 ||goofypismica.com^
+||img.applovin.com^
 ||kibana.tapdaq.com^
 ||mail.tapdaq.com^
+||ms.applovin.com^
+||ms.applvn.com^
+||pdn.applovin.com^
+||placements.tapjoy.com^
+||prod-a.applovin.com^
+||px.moatads.com^
+||rpc.tapjoy.com^
+||rt.applovin.com^
+||rt.applvn.com^
 ||staging.tapdaq.com^
 ||static.tapdaq.com^
 ||status.tapdaq.com^
 ||support.tapdaq.com^
+||unityads.unity3d.com^
+||unityads.unitychina.cn^
+||telemetry.sdk.inmobi.com^
+||vid.applovin.com^
+||vungle.com^
+||ws.tapjoyads.com^
 ||www.staging.tapdaq.com^
 ||www.tapdaq.com^
+||z.moatads.com^
 
-! TikTok: com.zhiliaoapp.musically
-! TikTok ID: com.ss.android.ugc.trill
-! TikTok Lite: com.zhiliaoapp.musically.go
+# TikTok: com.zhiliaoapp.musically
+# TikTok ID: com.ss.android.ugc.trill
+# TikTok Lite: com.zhiliaoapp.musically.go
 ||a.snssdk.com^
 ||a16-tb.isnssdk.com^
 ||act.snssdk.com^
@@ -453,7 +482,7 @@
 ||temai.snssdk.com^
 ||xgfe.snssdk.com^
 
-! Likee - Let You Shine: video.like
+# Likee - Let You Shine: video.like
 ||api.imotech.tech^
 ||api.liketech.tech^
 ||gdl.liketech-cdn.site^
@@ -463,7 +492,7 @@
 ||v16-ad.byteoversea.com^
 ||videosnap.like.video^
 
-! SnackVideo: com.kwai.bulldog
+# SnackVideo: com.kwai.bulldog
 ||101.32.133.79^
 ||150.109.90.125^
 ||150.109.90.126^
@@ -500,7 +529,7 @@
 ||tx-sgp-pull.snackvideo.in.liveplay.myqcloud.com^
 ||wlog.kuaishou.com^
 
-! HUAWEI PHONES
+# HUAWEI PHONES
 ||adx-dra.op.hicloud.com^
 ||adx-dra-op-hicloud-com-dra.appacc.dbankedge.net^
 ||cs02-pps-dra.dbankcdn.com^
@@ -527,8 +556,8 @@
 ||159.138.90.32^
 ||159.138.99.194^
 
-! XIAOMI PHONES
-! Tested in Global ROM
+# XIAOMI PHONES
+# Tested in Global ROM
 ||10.235.124.13^
 ||10.99.168.145^
 ||13.107.13.80^
@@ -574,7 +603,6 @@
 ||api.xmpush.xiaomi.com^
 ||app-analytics-sg.huami.com^
 ||app.chat.global.xiaomi.net^
-||authbe.sec.intl.miui.com^
 ||browser.mi-img.com^
 ||cdn.nav.browser.mi-img.com^
 ||cdn.static.browser.mi-img.com^
@@ -583,7 +611,6 @@
 ||chainge.ad.xiaomi.com^
 ||cn.register.xmpush.xiaomi.com^
 ||collect.data.intl.miui.com^
-||csi.gstatic.com^
 ||d14bb1f98q04f8.cloudfront.net^
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.xiaomi.com^
@@ -642,7 +669,7 @@
 ||zeus.ad.intl.xiaomi.com^
 ||zeus.ad.xiaomi.com^
 
-! Shopee Indonesia: com.shopee.id
+# Shopee Indonesia: com.shopee.id
 ||1255300759.vod2.myqcloud.com^
 ||1500000774.vod2.myqcloud.com^
 ||c-api-bit.shopeemobile.com^
@@ -669,7 +696,7 @@
 ||userstats.shopee.tw^
 ||userstats.shopee.vn^
 
-! F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
+# F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
 ||alisg-normal-lb.byteoversea.net^
 ||bds-sg.byteoversea.com^
 ||dm16-alisg.byteoversea.com^
@@ -678,14 +705,14 @@
 ||sdfp-sg.byteoversea.com^
 ||sf-tb-sg.ibytedtos.com^
 
-! Snaptube: com.snaptube.premium
+# Snaptube: com.snaptube.premium
 ||analytics.snaptube.app^
 ||android.bugly.qq.com^
 ||apps.ad.snaptube.app^
 ||config.ad.snaptube.app^
 ||push.snaptube.app^
 
-! CamScanner: com.intsig.camscanner
+# CamScanner: com.intsig.camscanner
 ||157.185.169.206^
 ||b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn^
 ||ss-static.intsig.net.mcchcdn.com^
@@ -693,8 +720,8 @@
 ||ss-static.intsig.net^
 ||static.intsig.net^
 
-! OPPO PHONES
-! Maybe REALME too, need test throughly
+# OPPO PHONES
+# Maybe REALME too, need test throughly
 ||aax-fe.amazon-adsystem.com^
 ||adx-id.ads.heytapmobile.com^
 ||album-sg01a.ocloud.heytapmobi.com^
@@ -767,8 +794,8 @@
 ||videoclipf.apps.coloros.com^
 ||www.heytap.com^
 
-! AVAST & AVL
-! From built-in Anti-Virus Chinese phones
+# AVAST & AVL
+# From built-in Anti-Virus Chinese phones
 ||47.88.65.115^
 ||ams.honzik.avcdn.net^
 ||analytics-stage.ff.avast.com^
@@ -784,12 +811,11 @@
 ||log.avlyun.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.avlyun.sec.miui.com^
-||mobilepartner.avcdn.net.edgekey.net^
 ||shepherd.ff.avast.com^
 ||shepherd.ns1.ff.avast.com^
 ||us.log.slb.avlyun.com^
 
-! WPS Office: cn.wps.moffice_eng
+# WPS Office: cn.wps.moffice_eng
 ||104.22.6.60^
 ||104.22.7.60^
 ||114.119.186.87^
@@ -815,7 +841,7 @@
 ||service-api.kingsoft-office-service.com^
 ||wh-nginx-gateway-service.default.us.entry.4wps.net^
 
-! UC Browser: com.UCMobile.intl
+# UC Browser: com.UCMobile.intl
 ||157.185.188.1^
 ||157.185.188.2^
 ||157.185.189.159^
@@ -876,10 +902,10 @@ https://ynuf.aliapp.org/saveWb.json?
 ||ynuf.aliapp.org^
 ||yukbacaberita.com^
 
-! Vidio: com.vidio.android
+# Vidio: com.vidio.android
 ||analisis.io^
 
-! ALCATEL (TCL) PHONES
+# ALCATEL (TCL) PHONES
 ||103.220.72.168^
 ||dg.udc.eu.tclclouds.com^
 ||gw.rtdp.tclclouds.com^
@@ -892,17 +918,17 @@ https://ynuf.aliapp.org/saveWb.json?
 ||ws75.aptoide.com^
 ||vueserion.ciayo.com^
 
-! Kiwi Browser: com.kiwibrowser.browser
+# Kiwi Browser: com.kiwibrowser.browser
 ||kiwisearchservices.com^
 ||kiwisearchservices.net^
 
-! Puffin Web Browser: com.cloudmosa.puffinFree
+# Puffin Web Browser: com.cloudmosa.puffinFree
 ||38.111.215.248^
 ||collector.cloudmosa.net^
 
-! Brave Browser: com.brave.browser
-! Brave Browser (Beta): com.brave.browser_beta
-! Brave Browser (Nightly): com.brave.browser_nightly
+# Brave Browser: com.brave.browser
+# Brave Browser (Beta): com.brave.browser_beta
+# Brave Browser (Nightly): com.brave.browser_nightly
 ||13.224.249.22^
 ||13.224.249.43^
 ||13.224.249.6^
@@ -933,11 +959,11 @@ https://ynuf.aliapp.org/saveWb.json?
 ||rewards.brave.com^
 ||variations.brave.com^
 
-! KSMOBILE A.K.A CHEETAH MOBILE (CMCM)
-! Badware, also known as malware apps
-! It's famous application is Clean Master
-! app id: com.cleanmaster.mguard
-! Remove it from your phone, ASAP
+# KSMOBILE A.K.A CHEETAH MOBILE (CMCM)
+# Badware, also known as malware apps
+# It's famous application is Clean Master
+# app id: com.cleanmaster.mguard
+# Remove it from your phone, ASAP
 ||119.36.62.42^
 ||4.34.42.101^
 ||4.34.42.102^
@@ -1185,3 +1211,125 @@ https://ynuf.aliapp.org/saveWb.json?
 ||zeus.cmcm.com^
 ||zj.dcys.ksmobile.com^
 ||zj.ios.ksmobile.com^
+
+# Spotify: com.spotify.music
+# Imported from https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify
+# Thanks to him
+# Need test troughly
+||ad.atdmt.com^
+||adclick.g.doublecklick.net^
+||adeventtracker.spotify.com^
+||adlab.spotify.com^
+||adnxs.com^
+||adnxs.comadplexmedia.adk2x.com^
+||ads-akp.spotify.com^
+||ads-fa.spotify.com^
+||ads-sp-lon.cdn.spotify.com^
+||ads-west-colo.adsymptotic.com^
+||ads.pubmatic.com^
+||ads.spotify.com^
+||adserver.adtechus.com^
+||analytics.spotify.com^
+||anycast.pixel.adsafeprotected.com^
+||assets.spotify.com^
+||audio-ak.spotify.com^
+||audio-akp.spotify.com^
+||audio-cf.spotify.com^
+||audio-ec.spotify.com^
+||audio-fa.scdn.co^
+||audio-fa.spotify.com^
+||audio-fab.spotify.com^
+||audio-fac-spotify.com^
+||audio-gc.scdn.co^
+||audio-gc.spotify.com^
+||audio-sp-lon.spotify.com^
+||audio-sp-sto.spotify.com^
+||audio2.spotify.com^
+||b.scorecardresearch.com^
+||bid.g.doubleclick.net^
+||bounceexchange.com^
+||bs.serving-sys.com^
+||cm.g.doubleclick.net^
+||content.bitsontherun.com^
+||core.insightexpressai.com^
+||crashdump.ciqe-gslb.spotify.com^
+||crashdump.spotify.com^
+||cs126.wpc.edgecastcdn.net^
+||cs126.wpc.teliasoneracdn.net^
+||cs283.wpc.teliasoneracdn.net^
+||d2gi7ultltnc2u.cloudfront.net^
+||d361oi6ppvq2ym.cloudfront.net^
+||d3rt1990lpmkn.cloudfront.net^
+||ds.serving-sys.com^
+||dt.adsafeprotected.com^
+||fw.adsafeprotected.com^
+||gads.pubmatic.com^
+||geo3.ggpht.com^
+||gew1.ap.spotify.com^
+||googleadapis.l.google.com^
+||googleads.g.doubleclick.net^
+||googleads4.g.doubleclick.net^
+||googlehosted.l.googleusercontent.com^
+||gtssl2-ocsp.geotrust.com^
+||heads-ak.spotify.com^
+||heads-akp.spotify.com^
+||heads-cf.spotify.com^
+||heads-ec.spotify.com^
+||heads-fa.spotify.com^
+||heads-fab.spotify.com^
+||heads-fac.spotify.com^
+||idsync-ext.rlcdn.com^
+||jefes-ec.spotify.com^
+||jefes-fa.scdn.co^
+||js.moatads.com^
+||links.spotify.com^
+||log.spotify.com^
+||log2.spotify.com^
+||lon6-accesspoint-a33.lon6.spotify.com^
+||media-match.com^
+||mp3ad.scdn.co^
+||na.gmtdmp.com^
+||pagead-googlehosted.l.google.com^
+||pagead.l.doubleclick.net^
+||pagead2.googlesyndication.com^
+||pagead46.l.doubleclick.net^
+||partner-service-testing.spotify.com^
+||partner-service.spotify.com^
+||partner.googleadservices.com^
+||partnerad.l.doubleclick.net^
+||payment-callback.spotify.com^
+||pci.spotify.com^
+||pixel.spotify.com^
+||prod.spotify-heads.map.fastlylb.net^
+||prod.spotify.map .fastlylb.net^
+||prod.spotify.map.fastlylb.net^
+||pubads.g.doubleclick.net^
+||redirector.gvt1.com^
+||s0.2mdn.net^
+||secure.insightexpressai.com^
+||securepubads.g.doubleclick. neto^
+||securepubads.g.doubleclick.net^
+||servidor-54-230-216-203.mrs50.r.cloudfront.net^
+||showads33000.pubmatic.com^
+||spclient.wg.spotify.com/ads
+||spotify-desktop.com^
+||sto3.spotify.com^
+||sto3-accesspoint-a88.sto3.spotify.net^
+||sto3.spotify.com^
+||sync.adaptv.advertising.com^
+||techattend.com^
+||tpc.googlesyndication.com^
+||u.scdn.co^
+||upgrade.scdn.co^
+||upgrade.spotify.com^
+||v.jwpcdn.com^
+||video-ad-stats.googlesyndication.com^
+||video-fa-b.cdn.spotify.com^
+||video-fa.cdn.spotify.com^
+||video-fa.scdn.co^
+||visto en pantalla.thewhizmarketing.com^
+||weblb-wg.gslb.spotify.com^
+||www.audio2.spotify.com^
+||www.googleadservices.com^
+||www.googletagservices.com^
+||www.spotify-desktop.com^

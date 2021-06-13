@@ -1,13 +1,12 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 12, 2021 07:05 PM (UTC+7)
-! Version: 12/06/2021
+! Last modified: June 13, 2021 09:20 AM (UTC+7)
+! Version: 13/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
-
-! UNIVERSAL
+# UNIVERSAL
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.gridtechno.com
 0.0.0.0 api.adaether.com
@@ -31,18 +30,18 @@
 0.0.0.0 tls10.newrelic.com.cdn.cloudflare.net
 0.0.0.0 tsg.tdatamaster.com
 
-! SHAREit: com.lenovo.anyshare.gps
+# SHAREit: com.lenovo.anyshare.gps
 0.0.0.0 13.35.13.120
 0.0.0.0 13.224.250.223
 0.0.0.0 159.138.101.104
 0.0.0.0 159.138.102.255
-! BLOCK BING
+# BLOCK BING
 0.0.0.0 13.107.21.200
 0.0.0.0 a-0001.a-afdentry.net.trafficmanager.net
 0.0.0.0 dual-a-0001.a-msedge.net
 0.0.0.0 www-bing-com.dual-a-0001.a-msedge.net
 0.0.0.0 204.79.197.200
-! END BLOCK BING
+# END BLOCK BING
 0.0.0.0 active.wshareit.com
 0.0.0.0 adconf.rqmob.com
 0.0.0.0 ads.mopub.com
@@ -126,15 +125,15 @@
 0.0.0.0 75.2.70.67
 0.0.0.0 76.223.65.142
 
-! Detik: org.detikcom.rss
-! CNN Indonesia: com.cnn.indonesia
-! CNBC Indonesia: com.cnbc.indonesia
-! Liputan6.com: com.woi.liputan6.android
-! BEGIN Video Block. Unblock this if you want to see Video
+# Detik: org.detikcom.rss
+# CNN Indonesia: com.cnn.indonesia
+# CNBC Indonesia: com.cnbc.indonesia
+# Liputan6.com: com.woi.liputan6.android
+# BEGIN Video Block. Unblock this if you want to see Video
 0.0.0.0 vod.cnbcindonesia.com
 0.0.0.0 vod.cnnindonesia.com
 0.0.0.0 vod.detik.com
-! END Video Block
+# END Video Block
 0.0.0.0 2mdn.net
 0.0.0.0 cdnstatic.detik.com
 0.0.0.0 kayumanis.detik.com
@@ -143,18 +142,18 @@
 0.0.0.0 push.detik.com
 0.0.0.0 sessions.bugsnag.com
 
-! KOMPAS.com: com.ertanto.kompas.official
-! Tribunnews.com: mobile.android.tribun
+# KOMPAS.com: com.ertanto.kompas.official
+# Tribunnews.com: mobile.android.tribun
 0.0.0.0 adsimg.kompas.com
 0.0.0.0 kompasads.com
 0.0.0.0 mcf-push.kompas.com
 0.0.0.0 teads.tv
 
-! Mozilla's Apps
+# Mozilla's Apps
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 location.services.mozilla.com
 
-! Lazada Indonesia: com.lazada.android
+# Lazada Indonesia: com.lazada.android
 0.0.0.0 47.246.32.33
 0.0.0.0 47.8.94.32
 0.0.0.0 47.89.74.75
@@ -184,27 +183,27 @@
 0.0.0.0 zconfig.alibabausercontent.com
 0.0.0.0 zconfig.alibabausercontent.com.w.cdngslb.com
 
-! Bardi Smart Home: com.bardi.smart.home
+# Bardi Smart Home: com.bardi.smart.home
 0.0.0.0 h1.iot-dns.com
 0.0.0.0 tuyacn.com
 
-! by.U - The All-Digital Provider: com.byu.id
+# by.U - The All-Digital Provider: com.byu.id
 0.0.0.0 cepushupdates.azureedge.net
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 in.appcenter.ms
 0.0.0.0 static.zdassets.com
 
-! Opera Mini:com.opera.mini.native
-! Opera Browser: com.opera.browser
-! Opera Browser beta: com.opera.browser.beta
-! Opera Touch: com.opera.touch
-! BEGIN Block News
+# Opera Mini:com.opera.mini.native
+# Opera Browser: com.opera.browser
+# Opera Browser beta: com.opera.browser.beta
+# Opera Touch: com.opera.touch
+# BEGIN Block News
 0.0.0.0 cdn-af.op-mobile.opera.com
 0.0.0.0 discover.operacdn.com
 0.0.0.0 feednews.com
 0.0.0.0 news.opera-api.com
 0.0.0.0 news-id.feednews.com
-! END Block News
+# END Block News
 0.0.0.0 api.recsys.opera.com
 0.0.0.0 api.sec-tunnel.com
 0.0.0.0 api-a.op-mobile.opera.com
@@ -221,20 +220,20 @@
 0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 xml.opera.com
 
-! Drakor.ID: com.stream.drakorindoawet
+# Drakor.ID: com.stream.drakorindoawet
 0.0.0.0 104.18.226.52
 0.0.0.0 api.onesignal.com
 0.0.0.0 applovin.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 onesignal.com
 
-[WhatsApp Messenger: com.whatsapp]
-[WhatsApp Business: com.whatsapp.w4b]
+# WhatsApp Messenger: com.whatsapp
+# WhatsApp Business: com.whatsapp.w4b
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
 
-! HAGO: com.yy.hiyo
-! Noizz - formerly Biugo: com.yy.biu
+# HAGO: com.yy.hiyo
+# Noizz - formerly Biugo: com.yy.biu
 0.0.0.0 103.230.236.20
 0.0.0.0 103.230.236.25
 0.0.0.0 103.230.236.32
@@ -383,8 +382,8 @@
 0.0.0.0 ylog.hiido.com
 0.0.0.0 zebra.umeng.com
 
-! AOL - News, Mail & Video: com.aol.mobile.aolapp
-! Yahoo Mail: com.yahoo.mobile.client.android.mail
+# AOL - News, Mail & Video: com.aol.mobile.aolapp
+# Yahoo Mail: com.yahoo.mobile.client.android.mail
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 by.uservoice.com
 0.0.0.0 exceptions.mobile.yahoo.com
@@ -392,28 +391,58 @@
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 smarttv-smartinfo.manhattan.yahoo.com
 
-! NekoPoi: com.usamin.nekopoi
+# NekoPoi: com.usamin.nekopoi
+0.0.0.0 a.applovin.com
+0.0.0.0 a.applvn.com
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.staging.tapdaq.com
 0.0.0.0 ads.tapdaq.com
 0.0.0.0 analytics.staging.tapdaq.com
 0.0.0.0 analytics.tapdaq.com
+0.0.0.0 api.vungle.com
+0.0.0.0 assets.applovin.com
 0.0.0.0 blog.tapdaq.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 config.unityads.unitychina.cn
+0.0.0.0 connect.tapjoy.com
+0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 d.applovin.com
+0.0.0.0 d.applvn.com
 0.0.0.0 dashboard-api.staging.tapdaq.com
 0.0.0.0 dashboard-api.tapdaq.com
 0.0.0.0 goofypismica.com
+0.0.0.0 img.applovin.com
 0.0.0.0 kibana.tapdaq.com
 0.0.0.0 mail.tapdaq.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 pdn.applovin.com
+0.0.0.0 placements.tapjoy.com
+0.0.0.0 prod-a.applovin.com
+0.0.0.0 px.moatads.com
+0.0.0.0 rpc.tapjoy.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 rt.applvn.com
 0.0.0.0 staging.tapdaq.com
 0.0.0.0 static.tapdaq.com
 0.0.0.0 status.tapdaq.com
 0.0.0.0 support.tapdaq.com
 0.0.0.0 tapdaq.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 unityads.unitychina.cn
+0.0.0.0 vid.applovin.com
+0.0.0.0 vungle.com
+0.0.0.0 ws.tapjoyads.com
 0.0.0.0 www.staging.tapdaq.com
 0.0.0.0 www.tapdaq.com
+0.0.0.0 z.moatads.com
 
-! TikTok: com.zhiliaoapp.musically
-! TikTok ID: com.ss.android.ugc.trill
-! TikTok Lite: com.zhiliaoapp.musically.go
+# TikTok: com.zhiliaoapp.musically
+# TikTok ID: com.ss.android.ugc.trill
+# TikTok Lite: com.zhiliaoapp.musically.go
 0.0.0.0 a.snssdk.com
 0.0.0.0 a16-tb.isnssdk.com
 0.0.0.0 act.snssdk.com
@@ -477,7 +506,7 @@
 0.0.0.0 temai.snssdk.com
 0.0.0.0 xgfe.snssdk.com
 
-! Likee - Let You Shine: video.like
+# Likee - Let You Shine: video.like
 0.0.0.0 api.imotech.tech
 0.0.0.0 api.liketech.tech
 0.0.0.0 gdl.liketech-cdn.site
@@ -487,7 +516,7 @@
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 videosnap.like.video
 
-! SnackVideo: com.kwai.bulldog
+# SnackVideo: com.kwai.bulldog
 0.0.0.0 101.32.133.79
 0.0.0.0 150.109.90.125
 0.0.0.0 150.109.90.126
@@ -525,7 +554,7 @@
 0.0.0.0 tx-sgp-pull.snackvideo.in.liveplay.myqcloud.com
 0.0.0.0 wlog.kuaishou.com
 
-! HUAWEI PHONES
+# HUAWEI PHONES
 0.0.0.0 159.138.99.194
 0.0.0.0 159.138.109.22
 0.0.0.0 159.138.80.62
@@ -549,8 +578,8 @@
 0.0.0.0 static1.dmcdn.net
 0.0.0.0 vod-vrz-dra.dbankcdn.com
 
-! XIAOMI PHONES
-! Tested in Global ROM
+# XIAOMI PHONES
+# Tested in Global ROM
 0.0.0.0 10.235.124.13
 0.0.0.0 10.99.168.145
 0.0.0.0 13.107.13.80
@@ -596,14 +625,12 @@
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 app-analytics-sg.huami.com
 0.0.0.0 app.chat.global.xiaomi.net
-0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 cdn.static.browser.mi-img.com
 0.0.0.0 cdn.video.browser.mi-img.com
 0.0.0.0 cdn.webapp.browser.mi-img.com
 0.0.0.0 chainge.ad.xiaomi.com
 0.0.0.0 cn.register.xmpush.xiaomi.com
 0.0.0.0 collect.data.intl.miui.com
-0.0.0.0 csi.gstatic.com
 0.0.0.0 d14bb1f98q04f8.cloudfront.net
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
@@ -661,7 +688,7 @@
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
 
-! Shopee Indonesia: com.shopee.id
+# Shopee Indonesia: com.shopee.id
 0.0.0.0 1255300759.vod2.myqcloud.com
 0.0.0.0 1500000774.vod2.myqcloud.com
 0.0.0.0 c-api-bit.shopeemobile.com
@@ -688,7 +715,7 @@
 0.0.0.0 userstats.shopee.tw
 0.0.0.0 userstats.shopee.vn
 
-! F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
+# F21 - Nonton film subtitle indo, nonton free hd: xyz.gl.moviein
 0.0.0.0 alisg-normal-lb.byteoversea.net
 0.0.0.0 bds-sg.byteoversea.com
 0.0.0.0 dm16-alisg.byteoversea.com
@@ -697,14 +724,14 @@
 0.0.0.0 sdfp-sg.byteoversea.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 
-! Snaptube: com.snaptube.premium
+# Snaptube: com.snaptube.premium
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 apps.ad.snaptube.app
 0.0.0.0 config.ad.snaptube.app
 0.0.0.0 push.snaptube.app
 
-! CamScanner: com.intsig.camscanner
+# CamScanner: com.intsig.camscanner
 0.0.0.0 157.185.169.206
 0.0.0.0 b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn
 0.0.0.0 ss-static.intsig.net.mcchcdn.com
@@ -712,8 +739,8 @@
 0.0.0.0 ss-static.intsig.net
 0.0.0.0 static.intsig.net
 
-! OPPO PHONES
-! Maybe REALME too, need test throughly
+# OPPO PHONES
+# Maybe REALME too, need test throughly
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 adx-id.ads.heytapmobile.com
 0.0.0.0 album-sg01a.ocloud.heytapmobi.com
@@ -757,7 +784,7 @@
 0.0.0.0 iflow-sg.browser.heytapmobile.com
 0.0.0.0 ifsau.coloros.com
 0.0.0.0 i-sg.browser.heytapmobile.com
-#0.0.0.0 i-sg.magazine.heytapmobile.com
+# 0.0.0.0 i-sg.magazine.heytapmobile.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 img-intl-push.heytapimg.com
 0.0.0.0 img-intl-push.heytapimg.com.cdn.gl102.com
@@ -786,8 +813,8 @@
 0.0.0.0 videoclipf.apps.coloros.com
 0.0.0.0 www.heytap.com
 
-! AVAST & AVL
-! From built-in Anti-Virus Chinese phones
+# AVAST & AVL
+# From built-in Anti-Virus Chinese phones
 0.0.0.0 47.88.65.115
 0.0.0.0 ams.honzik.avcdn.net
 0.0.0.0 analytics-stage.ff.avast.com
@@ -803,12 +830,11 @@
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.avlyun.sec.miui.com
-0.0.0.0 mobilepartner.avcdn.net.edgekey.net
 0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 shepherd.ns1.ff.avast.com
 0.0.0.0 us.log.slb.avlyun.com
 
-! WPS Office: cn.wps.moffice_eng
+# WPS Office: cn.wps.moffice_eng
 0.0.0.0 104.22.6.60
 0.0.0.0 104.22.7.60
 0.0.0.0 114.119.186.87
@@ -834,7 +860,7 @@
 0.0.0.0 service-api.kingsoft-office-service.com
 0.0.0.0 wh-nginx-gateway-service.default.us.entry.4wps.net
 
-! UC Browser: com.UCMobile.intl
+# UC Browser: com.UCMobile.intl
 0.0.0.0 157.185.188.1
 0.0.0.0 157.185.188.2
 0.0.0.0 157.185.189.159
@@ -927,11 +953,11 @@
 0.0.0.0 ynuf.aliapp.org
 0.0.0.0 yukbacaberita.com
 
-! Vidio: com.vidio.android
+# Vidio: com.vidio.android
 0.0.0.0 analisis.io
 0.0.0.0 plenty.analisis.io
 
-! ALCATEL (TCL) PHONES
+# ALCATEL (TCL) PHONES
 0.0.0.0 dg.udc.eu.tclclouds.com
 0.0.0.0 gw.rtdp.tclclouds.com
 0.0.0.0 gwrtdp-eges75nzvx.tclclouds.com
@@ -943,24 +969,23 @@
 0.0.0.0 ws75.aptoide.com
 0.0.0.0 vueserion.ciayo.com
 
-! Kiwi Browser: com.kiwibrowser.browser
+# Kiwi Browser: com.kiwibrowser.browser
 0.0.0.0 kiwisearchservices.com
 0.0.0.0 kiwisearchservices.net
 
-! Puffin Web Browser: com.cloudmosa.puffinFree
+# Puffin Web Browser: com.cloudmosa.puffinFree
 0.0.0.0 38.111.215.248
 0.0.0.0 collector.cloudmosa.net
 
-! Brave Browser: com.brave.browser
-! Brave Browser (Beta): com.brave.browser_beta
-! Brave Browser (Nightly): com.brave.browser_nightly
+# Brave Browser: com.brave.browser
+# Brave Browser (Beta): com.brave.browser_beta
+# Brave Browser (Nightly): com.brave.browser_nightly
 0.0.0.0 13.224.249.22
 0.0.0.0 13.224.249.43
 0.0.0.0 13.224.249.6
 0.0.0.0 13.224.249.61
 0.0.0.0 13.227.142.9
 0.0.0.0 13.227.252.117
-0.0.0.0 13.227.252.125
 0.0.0.0 13.227.252.83
 0.0.0.0 13.227.252.98
 0.0.0.0 199.232.45.32
@@ -986,11 +1011,11 @@
 0.0.0.0 rewards.brave.com
 0.0.0.0 variations.brave.com
 
-! KSMOBILE A.K.A CHEETAH MOBILE (CMCM)
-! Badware, also known as malware apps
-! It's famous application is Clean Master
-! app id: com.cleanmaster.mguard
-! Remove it from your phone, ASAP
+# KSMOBILE A.K.A CHEETAH MOBILE (CMCM)
+# Badware, also known as malware apps
+# It's famous application is Clean Master
+# app id: com.cleanmaster.mguard
+# Remove it from your phone, ASAP
 0.0.0.0 119.36.62.42
 0.0.0.0 3d.cmcm.com
 0.0.0.0 4.34.42.101
@@ -1246,3 +1271,125 @@
 0.0.0.0 zeus.cmcm.com
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
+
+# Spotify: com.spotify.music
+# Imported from https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify
+# Thanks to him
+# Need test troughly
+0.0.0.0 ad.atdmt.com
+0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 adlab.spotify.com
+0.0.0.0 adnxs.com
+0.0.0.0 adnxs.comadplexmedia.adk2x.com
+0.0.0.0 ads-akp.spotify.com
+0.0.0.0 ads-fa.spotify.com
+0.0.0.0 ads-sp-lon.cdn.spotify.com
+0.0.0.0 ads-west-colo.adsymptotic.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.spotify.com
+0.0.0.0 adserver.adtechus.com
+0.0.0.0 analytics.spotify.com
+0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 assets.spotify.com
+0.0.0.0 audio-ak.spotify.com
+0.0.0.0 audio-akp.spotify.com
+0.0.0.0 audio-cf.spotify.com
+0.0.0.0 audio-ec.spotify.com
+0.0.0.0 audio-fa.scdn.co
+0.0.0.0 audio-fa.spotify.com
+0.0.0.0 audio-fab.spotify.com
+0.0.0.0 audio-fac-spotify.com
+0.0.0.0 audio-gc.scdn.co
+0.0.0.0 audio-gc.spotify.com
+0.0.0.0 audio-sp-lon.spotify.com
+0.0.0.0 audio-sp-sto.spotify.com
+0.0.0.0 audio2.spotify.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 bounceexchange.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 content.bitsontherun.com
+0.0.0.0 core.insightexpressai.com
+0.0.0.0 crashdump.ciqe-gslb.spotify.com
+0.0.0.0 crashdump.spotify.com
+0.0.0.0 cs126.wpc.edgecastcdn.net
+0.0.0.0 cs126.wpc.teliasoneracdn.net
+0.0.0.0 cs283.wpc.teliasoneracdn.net
+0.0.0.0 d2gi7ultltnc2u.cloudfront.net
+0.0.0.0 d361oi6ppvq2ym.cloudfront.net
+0.0.0.0 d3rt1990lpmkn.cloudfront.net
+0.0.0.0 ds.serving-sys.com
+0.0.0.0 dt.adsafeprotected.com
+0.0.0.0 fw.adsafeprotected.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 geo3.ggpht.com
+0.0.0.0 gew1.ap.spotify.com
+0.0.0.0 googleadapis.l.google.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 gtssl2-ocsp.geotrust.com
+0.0.0.0 heads-ak.spotify.com
+0.0.0.0 heads-akp.spotify.com
+0.0.0.0 heads-cf.spotify.com
+0.0.0.0 heads-ec.spotify.com
+0.0.0.0 heads-fa.spotify.com
+0.0.0.0 heads-fab.spotify.com
+0.0.0.0 heads-fac.spotify.com
+0.0.0.0 idsync-ext.rlcdn.com
+0.0.0.0 jefes-ec.spotify.com
+0.0.0.0 jefes-fa.scdn.co
+0.0.0.0 js.moatads.com
+0.0.0.0 links.spotify.com
+0.0.0.0 log.spotify.com
+0.0.0.0 log2.spotify.com
+0.0.0.0 lon6-accesspoint-a33.lon6.spotify.com
+0.0.0.0 media-match.com
+0.0.0.0 mp3ad.scdn.co
+0.0.0.0 na.gmtdmp.com
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partner-service-testing.spotify.com
+0.0.0.0 partner-service.spotify.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 payment-callback.spotify.com
+0.0.0.0 pci.spotify.com
+0.0.0.0 pixel.spotify.com
+0.0.0.0 prod.spotify-heads.map.fastlylb.net
+0.0.0.0 prod.spotify.map .fastlylb.net
+0.0.0.0 prod.spotify.map.fastlylb.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 redirector.gvt1.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 secure.insightexpressai.com
+0.0.0.0 securepubads.g.doubleclick. neto
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 servidor-54-230-216-203.mrs50.r.cloudfront.net
+0.0.0.0 showads33000.pubmatic.com
+0.0.0.0 spclient.wg.spotify.com/ads
+0.0.0.0 spotify-desktop.com
+0.0.0.0 sto3.spotify.com
+0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
+0.0.0.0 sto3.spotify.com
+0.0.0.0 sync.adaptv.advertising.com
+0.0.0.0 techattend.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 u.scdn.co
+0.0.0.0 upgrade.scdn.co
+0.0.0.0 upgrade.spotify.com
+0.0.0.0 v.jwpcdn.com
+0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 video-fa-b.cdn.spotify.com
+0.0.0.0 video-fa.cdn.spotify.com
+0.0.0.0 video-fa.scdn.co
+0.0.0.0 visto en pantalla.thewhizmarketing.com
+0.0.0.0 weblb-wg.gslb.spotify.com
+0.0.0.0 www.audio2.spotify.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 www.spotify-desktop.com
