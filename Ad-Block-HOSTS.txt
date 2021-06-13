@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 13, 2021 07:20 PM (UTC+7)
+! Last modified: June 13, 2021 07:45 PM (UTC+7)
 ! Version: 13/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1309,7 +1309,6 @@
 # Thanks to him
 # Will add more servers (if any)
 # Need test troughly
-0.0.0.0 199.232.46.248
 0.0.0.0 23.49.60.137
 0.0.0.0 23.49.60.152
 0.0.0.0 a297.dscc.akamai.net
@@ -1375,6 +1374,7 @@
 0.0.0.0 heads-akp.spotify.com
 0.0.0.0 heads-cf.spotify.com
 0.0.0.0 heads-ec.spotify.com
+0.0.0.0 heads-fa.scdn.co
 0.0.0.0 heads-fa.spotify.com
 0.0.0.0 heads-fab.spotify.com
 0.0.0.0 heads-fac.spotify.com
@@ -1405,6 +1405,7 @@
 0.0.0.0 prod.spotify.map .fastlylb.net
 0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 quicksilver.scdn.co
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 secure.insightexpressai.com

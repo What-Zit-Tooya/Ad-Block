@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 13, 2021 07:20 PM (UTC+7)
+! Last modified: June 13, 2021 07:45 PM (UTC+7)
 ! Version: 13/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1247,7 +1247,6 @@ https://ynuf.aliapp.org/saveWb.json?
 # Thanks to him
 # Will add more servers (if any)
 # Need test troughly
-||199.232.46.248^
 ||23.49.60.137^
 ||23.49.60.152^
 ||a297.dscc.akamai.net^
@@ -1313,6 +1312,7 @@ https://ynuf.aliapp.org/saveWb.json?
 ||heads-akp.spotify.com^
 ||heads-cf.spotify.com^
 ||heads-ec.spotify.com^
+||heads-fa.scdn.co^
 ||heads-fa.spotify.com^
 ||heads-fab.spotify.com^
 ||heads-fac.spotify.com^
@@ -1343,6 +1343,7 @@ https://ynuf.aliapp.org/saveWb.json?
 ||prod.spotify.map .fastlylb.net^
 ||prod.spotify.map.fastlylb.net^
 ||pubads.g.doubleclick.net^
+||quicksilver.scdn.co^
 ||redirector.gvt1.com^
 ||s0.2mdn.net^
 ||secure.insightexpressai.com^
