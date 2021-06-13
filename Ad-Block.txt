@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 13, 2021 12:15 PM (UTC+7)
+! Last modified: June 13, 2021 06:45 PM (UTC+7)
 ! Version: 13/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -217,14 +217,36 @@
 ||xml.opera.com^
 
 # Drakor.ID: com.stream.drakorindoawet
+||achcdn.com^
 ||api.onesignal.com^
 ||applovin.com^
+||awaitcola.com^
+||blockscoolest.com^
 ||cdn.onesignal.com^
 ||cdn.trakteer.id^$app=com.stream.drakorindoawet
+||cloudimagesa.com^
+||config.safedk.com^
+||dmxleo.dailymotion.com^
+||easy-bars.com^
+||edge.safedk.com^
+||flagros2sii8fdbrh09.com^
+||haloani.ru^
+||hornsbundlebetter.com^
+||mc.yandex.ru^
+||onclickgenius.com^
 ||onesignal.com^
+||onmarshtompor.com^
+||pebed.dm-event.net^
+||schemas.applovin.com^
+||squeezedthoughtfully.com^
+||tgpsew.com^
 ||trakteer.id^$app=com.stream.drakorindoawet
+||ufpcdn.com^
+||unreshiramor.com^
+||fstats.xyz^
 ||web.facebook.com^$app=com.stream.drakorindoawet
 ||www.facebook.com^$app=com.stream.drakorindoawet
+||yourwebbars.com^
 
 # WhatsApp Messenger: com.whatsapp
 # WhatsApp Business: com.whatsapp.w4b
@@ -521,20 +543,7 @@
 
 # XIAOMI PHONES
 ### Tested in Global ROM ###
-*/push/getAds
-||10.235.124.13^
-||10.99.168.145^
-||161.117.190.13^
-||161.117.196.127^
-||161.117.198.51^
-||161.117.200.61^
-||161.117.71.226^
-||47.241.75.41^
-||47.241.68.222^
-||47.74.236.76^
-||47.88.231.18^
-||47.88.232.213^
-||47.88.232.28^
+||*/push/getAds
 ||adash.man.aliyuncs.com^
 ||adashbc.m.taobao.com^
 ||adashbc.ut.taobao.com^
@@ -554,7 +563,6 @@
 ||api.miui.security.xiaomi.com^
 ||api.muc.intl.miui.com^
 ||api.muc.miui.com^
-||api.sec.intl.miui.com^
 ||api.xmpush.xiaomi.com^
 ||app-analytics-sg.huami.com^
 ||app.chat.global.xiaomi.net^
@@ -571,7 +579,6 @@
 ||data.sec.miui.com^
 ||dev.mi.com/mistats/*
 ||e-0001.dc-msedge.net^
-||extranet.ap-southeast-1.miui-l7-backend.qdkfgpaup7.elb.xiaomi.com^
 ||firebase-settings.crashlytics.com^
 ||fr.register.xmpush.global.xiaomi.com^
 ||globalapi.ad.xiaomi.com^
@@ -708,51 +715,58 @@
 ||aax-fe.amazon-adsystem.com^
 ||adx-id.ads.heytapmobile.com^
 ||album-sg01a.ocloud.heytapmobi.com^
-||api.ads.oppomobile.com^
-||api.qiscus.com^
-||api.quantumgraph.com^
 ||api-gl.cdo.heytapmobi.com^
 ||api-gl.cdo.heytapmobile.com^
 ||api-id.game.heytapmobi.com^
 ||api-id.play.heytapmobile.com^
 ||api-id.store.heytapmobi.com^
 ||api-id.theme.heytapmobile.com^
-||appconf.heytapdownload.com^
+||api.ads.oppomobile.com^
+||api.qiscus.com^
+||api.quantumgraph.com^
 ||appconf-ocs-sgp.heytapdl.com^
 ||appconf-sgp.heytapdl.com^
+||appconf.heytapdownload.com^
 ||bdapi-id.ads.heytapmobile.com^
 ||behacdn.ksmobile.net^
 ||bsf.sc.heytapmobile.com^
 ||c.amazon-adsystem.com^
 ||c.webengage.com^
 ||cdn.qgraph.io^
-||classify-f.apps.coloros.com^
 ||cl-data-id.ads.heytapmobi.com^
+||classify-f.apps.coloros.com^
 ||client-uc.heytapmobi.com^
 ||cloudi-sg.browser.heytapmobile.com^
-||conff.dc.oppomobile.com^
-||config.quantumgraph.com^
+||conf-cn.dc.heytapmobi.com^
+||conf-dg-dc-test.wanyol.com^
+||conf-eu.dc.heytapmobi.com^
+||conf-in-dc.heytapmobile.com^
 ||conf-sg-dc.heytapdl.com^
 ||conf-sg.dc.heytapmobi.com^
+||conff.dc.oppomobile.com^
+||config.quantumgraph.com^
 ||conn1.coloros.com^
-||conn2.coloros.com^
 ||conn1.oppomobile.com^
-||dcintl1.push.heytapmobile.com^
+||conn2.coloros.com^
 ||dcintl.push.heytapmobile.com^
+||dcintl1.push.heytapmobile.com^
 ||dhfs-id.heytapimage.com^
+||dragate-cn.dc.heytapmobi.com^
+||dragate-eu.dc.heytapmobi.com^
+||dragate-in-dc.heytapmobile.com^
 ||dragate-sg.dc.heytapmobi.com^
 ||dragate-sg.dc.oppomobile.com^
 ||epoch-id.cdo.heytapmobi.com^
-||httpdns-push.heytapmobile.com^
 ||httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com^
-||icosa-sg.coloros.com^
-||iflow-sg.browser.heytapmobile.com^
-||ifsau.coloros.com^
+||httpdns-push.heytapmobile.com^
 ||i-sg.browser.heytapmobile.com^
 ||i-sg.magazine.heytapmobile.com^
 ||i-sg01a.ocloud.heytapmobi.com^
-||img-intl-push.heytapimg.com^
+||icosa-sg.coloros.com^
+||iflow-sg.browser.heytapmobile.com^
+||ifsau.coloros.com^
 ||img-intl-push.heytapimg.com.cdn.gl102.com^
+||img-intl-push.heytapimg.com^
 ||jscatch-sg-frontend.heytapmobile.com^
 ||log-eap-sg.coloros.com^
 ||mads.amazon-adsystem.com^
@@ -763,15 +777,15 @@
 ||omes-sec.heytapmobile.com^
 ||proxyf.apps.oppomobile.com^
 ||realtime-jawa.qiscus.com^
-||shortintl.push.heytapmobile.com^
 ||sgp-mobile-sec-heytapmobi-pubgw-1205822126.ap-southeast-1.elb.amazonaws.com^
 ||sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com^
 ||sgp-opush-heytapmobile-pubgw-2070388785.ap-southeast-1.elb.amazonaws.com^
+||shortintl.push.heytapmobile.com^
 ||smartcardf.apps.coloros.com^
 ||static-common.heytapdownload.com^
 ||stg-data-id.ads.heytapmobile.com^
-||u888.v.bsclink.cn^
 ||u-id.cpc.heytapmobile.com^
+||u888.v.bsclink.cn^
 ||upload.cc^
 ||users.quantumgraph.com^
 ||v1.cnzz.com^

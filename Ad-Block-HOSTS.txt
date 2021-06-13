@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 13, 2021 12:15 PM (UTC+7)
+! Last modified: June 13, 2021 06:45 PM (UTC+7)
 ! Version: 13/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -222,10 +222,33 @@
 
 # Drakor.ID: com.stream.drakorindoawet
 0.0.0.0 104.18.226.52
+0.0.0.0 achcdn.com
 0.0.0.0 api.onesignal.com
 0.0.0.0 applovin.com
+0.0.0.0 awaitcola.com
+0.0.0.0 blockscoolest.com
 0.0.0.0 cdn.onesignal.com
+0.0.0.0 cloudimagesa.com
+0.0.0.0 config.safedk.com
+0.0.0.0 dmxleo.dailymotion.com
+0.0.0.0 easy-bars.com
+0.0.0.0 edge.safedk.com
+0.0.0.0 flagros2sii8fdbrh09.com
+0.0.0.0 fstats.xyz
+0.0.0.0 haloani.ru
+0.0.0.0 hornsbundlebetter.com
+0.0.0.0 mc.yandex.ru
+0.0.0.0 onclickgenius.com
 0.0.0.0 onesignal.com
+0.0.0.0 onmarshtompor.com
+0.0.0.0 pebed.dm-event.net
+0.0.0.0 schemas.applovin.com
+0.0.0.0 squeezedthoughtfully.com
+0.0.0.0 tgpsew.com
+0.0.0.0 ufpcdn.com
+0.0.0.0 unreshiramor.com
+0.0.0.0 v3.fstats.xyz
+0.0.0.0 yourwebbars.com
 
 # WhatsApp Messenger: com.whatsapp
 # WhatsApp Business: com.whatsapp.w4b
@@ -588,7 +611,6 @@
 0.0.0.0 161.117.196.127
 0.0.0.0 161.117.198.51
 0.0.0.0 161.117.200.61
-0.0.0.0 161.117.227.252
 0.0.0.0 161.117.71.226
 0.0.0.0 47.74.236.76
 0.0.0.0 47.88.231.18
@@ -623,7 +645,6 @@
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.muc.intl.miui.com
 0.0.0.0 api.muc.miui.com
-0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 app-analytics-sg.huami.com
 0.0.0.0 app.chat.global.xiaomi.net
@@ -638,7 +659,6 @@
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 e-0001.dc-msedge.net
-0.0.0.0 extranet.ap-southeast-1.miui-l7-backend.qdkfgpaup7.elb.xiaomi.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 fr.register.xmpush.global.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -746,51 +766,58 @@
 
 # OPPO PHONES
 # Maybe REALME too, need test throughly
+# 0.0.0.0 i-sg.magazine.heytapmobile.com
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 adx-id.ads.heytapmobile.com
 0.0.0.0 album-sg01a.ocloud.heytapmobi.com
-0.0.0.0 api.ads.oppomobile.com
-0.0.0.0 api.qiscus.com
-0.0.0.0 api.quantumgraph.com
 0.0.0.0 api-gl.cdo.heytapmobi.com
 0.0.0.0 api-gl.cdo.heytapmobile.com
 0.0.0.0 api-id.game.heytapmobi.com
 0.0.0.0 api-id.play.heytapmobile.com
 0.0.0.0 api-id.store.heytapmobi.com
 0.0.0.0 api-id.theme.heytapmobile.com
-0.0.0.0 appconf.heytapdownload.com
+0.0.0.0 api.ads.oppomobile.com
+0.0.0.0 api.qiscus.com
+0.0.0.0 api.quantumgraph.com
 0.0.0.0 appconf-ocs-sgp.heytapdl.com
 0.0.0.0 appconf-sgp.heytapdl.com
+0.0.0.0 appconf.heytapdownload.com
 0.0.0.0 bdapi-id.ads.heytapmobile.com
 0.0.0.0 bsf.sc.heytapmobile.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.webengage.com
 0.0.0.0 cdn.qgraph.io
-0.0.0.0 classify-f.apps.coloros.com
 0.0.0.0 cl-data-id.ads.heytapmobi.com
+0.0.0.0 classify-f.apps.coloros.com
 0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 cloudi-sg.browser.heytapmobile.com
-0.0.0.0 conff.dc.oppomobile.com
-0.0.0.0 config.quantumgraph.com
+0.0.0.0 conf-cn.dc.heytapmobi.com
+0.0.0.0 conf-dg-dc-test.wanyol.com
+0.0.0.0 conf-eu.dc.heytapmobi.com
+0.0.0.0 conf-in-dc.heytapmobile.com
 0.0.0.0 conf-sg-dc.heytapdl.com
 0.0.0.0 conf-sg.dc.heytapmobi.com
+0.0.0.0 conff.dc.oppomobile.com
+0.0.0.0 config.quantumgraph.com
 0.0.0.0 conn1.coloros.com
-0.0.0.0 conn2.coloros.com
 0.0.0.0 conn1.oppomobile.com
-0.0.0.0 dcintl1.push.heytapmobile.com
+0.0.0.0 conn2.coloros.com
 0.0.0.0 dcintl.push.heytapmobile.com
+0.0.0.0 dcintl1.push.heytapmobile.com
 0.0.0.0 dhfs-id.heytapimage.com
+0.0.0.0 dragate-cn.dc.heytapmobi.com
+0.0.0.0 dragate-eu.dc.heytapmobi.com
+0.0.0.0 dragate-in-dc.heytapmobile.com
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 epoch-id.cdo.heytapmobi.com
-0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 httpdns-push-heytapmobile-com-155585118.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 i-sg.browser.heytapmobile.com
+0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 icosa-sg.coloros.com
 0.0.0.0 iflow-sg.browser.heytapmobile.com
 0.0.0.0 ifsau.coloros.com
-0.0.0.0 i-sg.browser.heytapmobile.com
-# 0.0.0.0 i-sg.magazine.heytapmobile.com
-0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 img-intl-push.heytapimg.com
 0.0.0.0 img-intl-push.heytapimg.com.cdn.gl102.com
 0.0.0.0 jscatch-sg-frontend.heytapmobile.com
@@ -803,15 +830,15 @@
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 proxyf.apps.oppomobile.com
 0.0.0.0 realtime-jawa.qiscus.com
-0.0.0.0 shortintl.push.heytapmobile.com
 0.0.0.0 sgp-mobile-sec-heytapmobi-pubgw-1205822126.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 sgp-opush-heytapmobile-nlb2-bc73173f05f5fee9.elb.ap-southeast-1.amazonaws.com
 0.0.0.0 sgp-opush-heytapmobile-pubgw-2070388785.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 shortintl.push.heytapmobile.com
 0.0.0.0 smartcardf.apps.coloros.com
 0.0.0.0 static-common.heytapdownload.com
 0.0.0.0 stg-data-id.ads.heytapmobile.com
-0.0.0.0 u888.v.bsclink.cn
 0.0.0.0 u-id.cpc.heytapmobile.com
+0.0.0.0 u888.v.bsclink.cn
 0.0.0.0 upload.cc
 0.0.0.0 users.quantumgraph.com
 0.0.0.0 v1.cnzz.com
