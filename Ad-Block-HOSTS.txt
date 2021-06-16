@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 16, 2021 03:30 PM (UTC+7)
+! Last modified: June 16, 2021 04:40 PM (UTC+7)
 ! Version: 16/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -645,9 +645,11 @@
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.muc.intl.miui.com
 0.0.0.0 api.muc.miui.com
+0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 app-analytics-sg.huami.com
 0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 au.ff.avast.sec.miui.com
 0.0.0.0 cdn.static.browser.mi-img.com
 0.0.0.0 cdn.video.browser.mi-img.com
 0.0.0.0 cdn.webapp.browser.mi-img.com
