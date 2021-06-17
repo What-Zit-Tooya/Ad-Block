@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 16, 2021 05:10 PM (UTC+7)
-! Version: 16/06/2021
+! Last modified: June 17, 2021 05:10 PM (UTC+7)
+! Version: 17/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -433,6 +433,7 @@
 ||unityads.unitychina.cn^
 ||telemetry.sdk.inmobi.com^
 ||vid.applovin.com^
+||vubihasdtbadiq.com^
 ||vungle.com^
 ||ws.tapjoyads.com^
 ||www.staging.tapdaq.com^
