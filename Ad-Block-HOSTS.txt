@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 17, 2021 05:10 PM (UTC+7)
-! Version: 17/06/2021
+! Last modified: June 18, 2021 08:20 PM (UTC+7)
+! Version: 18/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -488,7 +488,6 @@
 0.0.0.0 bytedance.global.jns.swiftserve.com
 0.0.0.0 cs.snssdk.com
 0.0.0.0 diamond.snssdk.com
-0.0.0.0 e11942.a.akamaiedge.net
 0.0.0.0 e28622.api12.akamaiedge.net
 0.0.0.0 edge.bytedance.swiftserve.com
 0.0.0.0 eyeu.snssdk.com
@@ -692,7 +691,6 @@
 0.0.0.0 sandbox.api.mintbrs.intl.miui.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 sg.stat.appmifile.com
 0.0.0.0 splash.unity.cn
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
 0.0.0.0 staging.adv.sec.miui.com
@@ -712,7 +710,6 @@
 0.0.0.0 web-analytics.ap-southeast-1.elasticbeanstalk.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.jivesoftware.com
-0.0.0.0 x-id.ls.glanceapis.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
 
@@ -1052,7 +1049,6 @@
 # Remove it from your phone, ASAP
 0.0.0.0 119.36.62.42
 0.0.0.0 3d.cmcm.com
-0.0.0.0 4.34.42.101
 0.0.0.0 4.34.42.102
 0.0.0.0 4.34.42.103
 0.0.0.0 4.34.42.104

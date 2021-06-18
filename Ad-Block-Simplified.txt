@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 17, 2021 05:10 PM (UTC+7)
-! Version: 17/06/2021
+! Last modified: June 18, 2021 08:20 PM (UTC+7)
+! Version: 18/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -464,7 +464,6 @@
 ||bytedance.global.jns.swiftserve.com^
 ||cs.snssdk.com^
 ||diamond.snssdk.com^
-||e11942.a.akamaiedge.net^
 ||e28622.api12.akamaiedge.net^
 ||edge.bytedance.swiftserve.com^
 ||eyeu.snssdk.com^
@@ -671,7 +670,6 @@
 ||sandbox.api.mintbrs.intl.miui.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
-||sg.stat.appmifile.com^
 ||splash.unity.cn^
 ||ssl-cdn.static.browser.mi-img.com
 ||staging.adv.sec.miui.com^
@@ -691,7 +689,6 @@
 ||web-analytics.ap-southeast-1.elasticbeanstalk.com^
 ||www.googleadservices.com^
 ||www.jivesoftware.com^
-||x-id.ls.glanceapis.com^
 ||zeus.ad.intl.xiaomi.com^
 ||zeus.ad.xiaomi.com^
 
@@ -997,7 +994,6 @@ https://ynuf.aliapp.org/saveWb.json?
 # app id: com.cleanmaster.mguard
 # Remove it from your phone, ASAP
 ||119.36.62.42^
-||4.34.42.101^
 ||4.34.42.102^
 ||4.34.42.103^
 ||4.34.42.104^

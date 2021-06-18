@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 17, 2021 05:10 PM (UTC+7)
-! Version: 17/06/2021
+! Last modified: June 18, 2021 08:20 PM (UTC+7)
+! Version: 18/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -42,15 +42,16 @@
 ||graph.instagram.com^
 ||graphql.instagram.com^
 ||mqtt-mini.facebook.com^
+||mqtt-mini.c10r.facebook.com^
 ||star.c10r.facebook.com^
 ||star.facebook.com^
 ||z-m-graph.facebook.com^
 
 # WHITE LIST
-@@||api.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
-@@||b-graph.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
-@@||b-graph.instagram.com^$app=com.instagram.android|com.facebook.katana|com.facebook.orca|com.garena.game.kgid|com.riotgames.league.wildrift
-@@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach
+@@||api.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
+@@||b-graph.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
+@@||b-graph.instagram.com^$app=com.instagram.android|com.facebook.katana|com.facebook.orca|com.garena.game.kgid|com.riotgames.league.wildrift|com.garena.gaslite|com.play.rosea
+@@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
 @@||graph.instagram.com^$app=com.instagram.android
 @@||mqtt-mini.facebook.com^$app=com.facebook.katana|com.facebook.orca|com.instagram.android|com.facebook.lite|com.facebook.mlite
 @@||edge-mqtt.facebook.com^$app=com.facebook.katana|com.facebook.orca|com.instagram.android|com.facebook.lite|com.facebook.mlite
@@ -441,7 +442,6 @@
 ||bytedance.global.jns.swiftserve.com^
 ||cs.snssdk.com^
 ||diamond.snssdk.com^
-||e11942.a.akamaiedge.net^
 ||e28622.api12.akamaiedge.net^
 ||edge.bytedance.swiftserve.com^
 ||eyeu.snssdk.com^
@@ -612,7 +612,6 @@
 ||sandbox.api.mintbrs.intl.miui.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
-||sg.stat.appmifile.com^
 ||splash.unity.cn^
 ||ssl-cdn.static.browser.mi-img.com
 ||staging.adv.sec.miui.com^
@@ -634,7 +633,6 @@
 ||web-analytics.ap-southeast-1.elasticbeanstalk.com^
 ||www.googleadservices.com^
 ||www.jivesoftware.com^
-||x-id.ls.glanceapis.com^
 ||zeus.ad.intl.xiaomi.com^
 ||zeus.ad.xiaomi.com^
 
