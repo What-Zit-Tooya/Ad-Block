@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 18, 2021 08:20 PM (UTC+7)
+! Last modified: June 18, 2021 08:30 PM (UTC+7)
 ! Version: 18/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -642,7 +642,7 @@
 ||fr.register.xmpush.global.xiaomi.com^
 ||globalapi.ad.xiaomi.com^
 ||globalvideo.cdn.pandora.intl.xiaomi.com^
-||id.video.intl.xiaomi.com^
+||video.intl.xiaomi.com^
 ||idmb.register.xmpush.global.xiaomi.com^
 ||log-abroad.avlyun.com^
 ||log.ad.xiaomi.com^
@@ -670,6 +670,7 @@
 ||sandbox.api.mintbrs.intl.miui.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
+||sg.stat.appmifile.com^
 ||splash.unity.cn^
 ||ssl-cdn.static.browser.mi-img.com
 ||staging.adv.sec.miui.com^
