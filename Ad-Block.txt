@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 19, 2021 08:00 PM (UTC+7)
+! Last modified: June 19, 2021 08:10 PM (UTC+7)
 ! Version: 19/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -644,7 +644,6 @@ linkpoi.me#%#//scriptlet("prevent-bab")
 ||www.facebook.com^$app=com.miui.videoplayer
 ||web-analytics-sg.huami.com^
 ||web-analytics.ap-southeast-1.elasticbeanstalk.com^
-||www.googleadservices.com^
 ||www.jivesoftware.com^
 ||zeus.ad.intl.xiaomi.com^
 ||zeus.ad.xiaomi.com^
@@ -1267,13 +1266,10 @@ linkpoi.me#%#//scriptlet("prevent-bab")
 ||media-match.com^
 ||mp3ad.scdn.co^
 ||na.gmtdmp.com^
-||pagead-googlehosted.l.google.com^
 ||pagead.l.doubleclick.net^
-||pagead2.googlesyndication.com^
 ||pagead46.l.doubleclick.net^
 ||partner-service-testing.spotify.com^
 ||partner-service.spotify.com^
-||partner.googleadservices.com^
 ||partnerad.l.doubleclick.net^
 ||payment-callback.spotify.com^
 ||pci.spotify.com^
@@ -1296,18 +1292,14 @@ linkpoi.me#%#//scriptlet("prevent-bab")
 ||sto3.spotify.com^
 ||sync.adaptv.advertising.com^
 ||techattend.com^
-||tpc.googlesyndication.com^
 ||u.scdn.co^
 ||upgrade.scdn.co^
 ||upgrade.spotify.com^
 ||v.jwpcdn.com^
-||video-ad-stats.googlesyndication.com^
 ||video-fa-b.cdn.spotify.com^
 ||video-fa.cdn.spotify.com^
 ||video-fa.scdn.co^
 ||visto en pantalla.thewhizmarketing.com^
 ||weblb-wg.gslb.spotify.com^
 ||www.audio2.spotify.com^
-||www.googleadservices.com^
-||www.googletagservices.com^
 ||www.spotify-desktop.com^
