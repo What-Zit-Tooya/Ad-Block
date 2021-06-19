@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 18, 2021 08:30 PM (UTC+7)
-! Version: 18/06/2021
+! Last modified: June 19, 2021 07:38 PM (UTC+7)
+! Version: 19/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -249,6 +249,10 @@
 0.0.0.0 unreshiramor.com
 0.0.0.0 v3.fstats.xyz
 0.0.0.0 yourwebbars.com
+0.0.0.0 uhqpnhorurueku.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 ad.foxnetworks.com
+0.0.0.0 partnerads.ysm.yahoo.com
 
 # WhatsApp Messenger: com.whatsapp
 # WhatsApp Business: com.whatsapp.w4b
