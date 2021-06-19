@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 19, 2021 07:48 PM (UTC+7)
+! Last modified: June 19, 2021 08:15 PM (UTC+7)
 ! Version: 19/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -425,8 +425,8 @@
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.staging.tapdaq.com
 0.0.0.0 ads.tapdaq.com
-0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertising.aol.com
+0.0.0.0 advertising.yahoo.com
 0.0.0.0 analytics.staging.tapdaq.com
 0.0.0.0 analytics.tapdaq.com
 0.0.0.0 api.vungle.com
@@ -437,6 +437,7 @@
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 cst.cstwpush.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
 0.0.0.0 dashboard-api.staging.tapdaq.com
@@ -447,6 +448,7 @@
 0.0.0.0 mail.tapdaq.com
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
+0.0.0.0 ox-d.adnetasia.com
 0.0.0.0 pdn.applovin.com
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 prod-a.applovin.com
@@ -460,6 +462,7 @@
 0.0.0.0 support.tapdaq.com
 0.0.0.0 tapdaq.com
 0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 torrentz.adclixx.net
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 unityads.unitychina.cn
 0.0.0.0 vid.applovin.com
@@ -468,6 +471,8 @@
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 www.staging.tapdaq.com
 0.0.0.0 www.tapdaq.com
+0.0.0.0 yahoo.adnetasia.com
+0.0.0.0 yasni.bannertrack.net
 0.0.0.0 z.moatads.com
 
 # TikTok: com.zhiliaoapp.musically
