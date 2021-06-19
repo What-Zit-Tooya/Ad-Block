@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 19, 2021 04:39 PM (UTC+7)
+! Last modified: June 19, 2021 05:10 PM (UTC+7)
 ! Version: 19/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -388,6 +388,7 @@
 # NekoPoi: com.usamin.nekopoi
 ||a.applovin.com^
 ||a.applvn.com^
+||adclixx.net^
 ||ads.api.vungle.com^
 ||ads.inmobi.com^
 ||ads.staging.tapdaq.com^
@@ -396,6 +397,7 @@
 ||analytics.tapdaq.com^
 ||api.vungle.com^
 ||assets.applovin.com^
+||bannertrack.net^
 ||blog.tapdaq.com^
 ||config.inmobi.com^
 ||config.unityads.unity3d.com^
@@ -426,7 +428,6 @@
 ||status.tapdaq.com^
 ||support.tapdaq.com^
 ||telemetry.sdk.inmobi.com^
-||torrentz.adclixx.net^
 ||torrentz.adnetasia.com^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
@@ -437,7 +438,6 @@
 ||ws.tapjoyads.com^
 ||www.staging.tapdaq.com^
 ||www.tapdaq.com^
-||yahoo.bannertrack.net^
 ||z.moatads.com^
 
 # TikTok: com.zhiliaoapp.musically
