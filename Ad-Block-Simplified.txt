@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 18, 2021 08:30 PM (UTC+7)
-! Version: 18/06/2021
+! Last modified: June 19, 2021 04:39 PM (UTC+7)
+! Version: 19/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -18,9 +18,6 @@
 ||firebase-settings.crashlytics.com^
 ||flurry.com^
 ||google-analytics.com^
-||googlesyndication.com^
-||googletagmanager.com^
-||googletmanager.com^
 ||insights-collector.newrelic.com^
 ||ipstatp.com^
 ||kvinit-prod.api.kochava.com^
@@ -222,11 +219,9 @@
 # Drakor.ID: com.stream.drakorindoawet
 ||104.18.226.52^
 ||achcdn.com^
-||api.onesignal.com^
 ||applovin.com^
 ||awaitcola.com^
 ||blockscoolest.com^
-||cdn.onesignal.com^
 ||cloudimagesa.com^
 ||config.safedk.com^
 ||dmxleo.dailymotion.com^
@@ -238,7 +233,6 @@
 ||hornsbundlebetter.com^
 ||mc.yandex.ru^
 ||onclickgenius.com^
-||onesignal.com^
 ||onmarshtompor.com^
 ||pebed.dm-event.net^
 ||schemas.applovin.com^
@@ -408,6 +402,8 @@
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
 ||crash-metrics.sdk.inmobi.com^
+||crunchyroll.adtrackers.net^
+||cst.cstwpush.com^
 ||d.applovin.com^
 ||d.applvn.com^
 ||dashboard-api.staging.tapdaq.com^
@@ -429,15 +425,19 @@
 ||static.tapdaq.com^
 ||status.tapdaq.com^
 ||support.tapdaq.com^
+||telemetry.sdk.inmobi.com^
+||torrentz.adclixx.net^
+||torrentz.adnetasia.com^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
-||telemetry.sdk.inmobi.com^
 ||vid.applovin.com^
+||vsvihsib.com^
 ||vubihasdtbadiq.com^
 ||vungle.com^
 ||ws.tapjoyads.com^
 ||www.staging.tapdaq.com^
 ||www.tapdaq.com^
+||yahoo.bannertrack.net^
 ||z.moatads.com^
 
 # TikTok: com.zhiliaoapp.musically

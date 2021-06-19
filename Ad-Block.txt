@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 18, 2021 08:40 PM (UTC+7)
-! Version: 18/06/2021
+! Last modified: June 19, 2021 05:39 PM (UTC+7)
+! Version: 19/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -17,10 +17,6 @@
 ||firebaselogging-pa.googleapis.com^
 ||firebase-settings.crashlytics.com^
 ||flurry.com^
-||google-analytics.com^
-||googlesyndication.com^
-||googletagmanager.com^
-||googletmanager.com^
 ||insights-collector.newrelic.com^
 ||ipstatp.com^
 ||kvinit-prod.api.kochava.com^
@@ -46,6 +42,10 @@
 ||star.c10r.facebook.com^
 ||star.facebook.com^
 ||z-m-graph.facebook.com^
+
+# ONESIGNAL RELATED
+||api.onesignal.com^$app=com.stream.drakorindoawet
+||cdn.onesignal.com^$app=com.stream.drakorindoawet
 
 # WHITE LIST
 @@||api.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
@@ -219,11 +219,9 @@
 
 # Drakor.ID: com.stream.drakorindoawet
 ||achcdn.com^
-||api.onesignal.com^
 ||applovin.com^
 ||awaitcola.com^
 ||blockscoolest.com^
-||cdn.onesignal.com^
 ||cdn.trakteer.id^$app=com.stream.drakorindoawet
 ||cloudimagesa.com^
 ||config.safedk.com^
@@ -235,7 +233,6 @@
 ||hornsbundlebetter.com^
 ||mc.yandex.ru^
 ||onclickgenius.com^
-||onesignal.com^
 ||onmarshtompor.com^
 ||pebed.dm-event.net^
 ||schemas.applovin.com^
@@ -386,6 +383,8 @@
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
 ||crash-metrics.sdk.inmobi.com^
+||crunchyroll.adtrackers.net^
+||cst.cstwpush.com^
 ||d.applovin.com^
 ||d.applvn.com^
 ||dashboard-api.staging.tapdaq.com^
@@ -407,15 +406,19 @@
 ||static.tapdaq.com^
 ||status.tapdaq.com^
 ||support.tapdaq.com^
+||telemetry.sdk.inmobi.com^
+||torrentz.adclixx.net^
+||torrentz.adnetasia.com^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
-||telemetry.sdk.inmobi.com^
 ||vid.applovin.com^
+||vsvihsib.com^
 ||vubihasdtbadiq.com^
 ||vungle.com^
 ||ws.tapjoyads.com^
 ||www.staging.tapdaq.com^
 ||www.tapdaq.com^
+||yahoo.bannertrack.net^
 ||z.moatads.com^
 
 # TikTok: com.zhiliaoapp.musically
