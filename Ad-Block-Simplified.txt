@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 20, 2021 10:00 AM (UTC+7)
+! Last modified: June 20, 2021 05:20 PM (UTC+7)
 ! Version: 20/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -399,6 +399,7 @@
 ||d.applvn.com^
 ||dashboard-api.staging.tapdaq.com^
 ||dashboard-api.tapdaq.com^
+||exeptingincludedelivering.com^
 ||goofypismica.com^
 ||img.applovin.com^
 ||inmobi.com^
@@ -408,11 +409,13 @@
 ||ms.applvn.com^
 ||pdn.applovin.com^
 ||placements.tapjoy.com^
+||practisecolander.com^
 ||prod-a.applovin.com^
 ||px.moatads.com^
 ||rpc.tapjoy.com^
 ||rt.applovin.com^
 ||rt.applvn.com^
+||reptilefighttearn.com^
 ||staging.tapdaq.com^
 ||static.tapdaq.com^
 ||status.tapdaq.com^
@@ -680,6 +683,7 @@
 ||web-analytics-sg.huami.com^
 ||web-analytics.ap-southeast-1.elasticbeanstalk.com^
 ||www.jivesoftware.com^
+||x-id.ls.glanceapis.com^
 ||zeus.ad.intl.xiaomi.com^
 ||zeus.ad.xiaomi.com^
 
