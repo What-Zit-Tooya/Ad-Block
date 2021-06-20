@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 20, 2021 05:20 PM (UTC+7)
+! Last modified: June 20, 2021 07:20 PM (UTC+7)
 ! Version: 20/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -366,19 +366,27 @@
 # NekoPoi: com.usamin.nekopoi
 ||a.applovin.com^
 ||a.applvn.com^
+||ad.foxnetworks.com^
+||adclixx.net^
 ||ads.api.vungle.com^
 ||ads.staging.tapdaq.com^
 ||ads.tapdaq.com^
 ||ads.twitter.com^
+||adtrackers.net^
+||advertising.yahoo.com^
+||advertising.aol.com^
+||adnetasia.com^
 ||analytics.staging.tapdaq.com^
 ||analytics.tapdaq.com^
 ||api.vungle.com^
 ||assets.applovin.com^
+||bannertrack.net^
 ||blog.tapdaq.com^
 ||inmobi.com^
 ||config.unityads.unity3d.com^
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
+||cst.cstwpush.com^
 ||d.applovin.com^
 ||d.applvn.com^
 ||dashboard-api.staging.tapdaq.com^
@@ -391,6 +399,7 @@
 ||mail.tapdaq.com^
 ||ms.applovin.com^
 ||ms.applvn.com^
+||partnerads.ysm.yahoo.com^
 ||pdn.applovin.com^
 ||placements.tapjoy.com^
 ||practisecolander.com^
@@ -420,6 +429,13 @@
 ||www.tapdaq.com^
 ||www.weeklyordinaryrewardextra.cyou^
 ||z.moatads.com^
+# Disable anti-adblock on linkpoi.me (Nekopoi's shortlink service)
+# Pulled from https://github.com/bogachenko/fuckfuckadblock
+# Thanks to bogachenko @ github.com
+@@*$generichide,domain=linkpoi.me
+linkpoi.me##+js(no-setInterval-if.js, visibility, 1000)
+linkpoi.me#%#//scriptlet("prevent-setInterval", "visibility", "1000")
+linkpoi.me#%#//scriptlet("abort-on-property-read", "app_vars.force_disable_adblock")
 
 # TikTok: com.zhiliaoapp.musically
 # TikTok ID: com.ss.android.ugc.trill
@@ -1290,3 +1306,10 @@
 ||weblb-wg.gslb.spotify.com^
 ||www.audio2.spotify.com^
 ||www.spotify-desktop.com^
+
+# Facemoji Keyboard - Cute Emoji & Theme: com.facemoji.lite.xiaomi
+# Default Keyboard for Xiaomi Phones
+# Tested on MIUI 12.5 Global ROM 
+||liteapi.ekatox.com^
+||litemsg.ekatox.com^
+||litestatis.ekatox.com^

@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 20, 2021 05:20 PM (UTC+7)
+! Last modified: June 20, 2021 07:20 PM (UTC+7)
 ! Version: 20/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -421,16 +421,22 @@
 # NekoPoi: com.usamin.nekopoi
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
+0.0.0.0 ad.foxnetworks.com
+0.0.0.0 adclixx.net
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.staging.tapdaq.com
 0.0.0.0 ads.tapdaq.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 adnetasia.com
+0.0.0.0 adtrackers.net
 0.0.0.0 advertising.aol.com
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 analytics.staging.tapdaq.com
 0.0.0.0 analytics.tapdaq.com
 0.0.0.0 api.vungle.com
 0.0.0.0 assets.applovin.com
+0.0.0.0 bannertrack.net
 0.0.0.0 blog.tapdaq.com
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.unityads.unity3d.com
@@ -438,6 +444,7 @@
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
 0.0.0.0 crunchyroll.adnetasia.com
+0.0.0.0 crunchyroll.adtrackers.net
 0.0.0.0 cst.cstwpush.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
@@ -451,6 +458,7 @@
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ox-d.adnetasia.com
+0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 pdn.applovin.com
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 practisecolander.com
@@ -468,6 +476,7 @@
 0.0.0.0 tapdaq.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 torrentz.adclixx.net
+0.0.0.0 torrentz.adnetasia.com
 0.0.0.0 trk.lot-impossible-mouth-twice.xyz
 0.0.0.0 tywzyhfliwdbu.com
 0.0.0.0 unityads.unity3d.com
@@ -1455,3 +1464,10 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.spotify-desktop.com
+
+# Facemoji Keyboard - Cute Emoji & Theme: com.facemoji.lite.xiaomi
+# Default Keyboard for Xiaomi Phones
+# Tested on MIUI 12.5 Global ROM 
+0.0.0.0 liteapi.ekatox.com
+0.0.0.0 litemsg.ekatox.com
+0.0.0.0 litestatis.ekatox.com
