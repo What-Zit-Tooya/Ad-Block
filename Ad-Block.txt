@@ -428,13 +428,6 @@
 ||www.tapdaq.com^
 ||www.weeklyordinaryrewardextra.cyou^
 ||z.moatads.com^
-# Disable anti-adblock on linkpoi.me (Nekopoi's shortlink service)
-# Pulled from https://github.com/bogachenko/fuckfuckadblock
-# Thanks to bogachenko @ github.com
-@@*$generichide,domain=linkpoi.me
-linkpoi.me##+js(no-setInterval-if.js, visibility, 1000)
-linkpoi.me#%#//scriptlet("prevent-setInterval", "visibility", "1000")
-linkpoi.me#%#//scriptlet("abort-on-property-read", "app_vars.force_disable_adblock")
 
 # TikTok: com.zhiliaoapp.musically
 # TikTok ID: com.ss.android.ugc.trill
