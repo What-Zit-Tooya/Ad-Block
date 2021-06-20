@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 20, 2021 07:50 AM (UTC+7)
+! Last modified: June 20, 2021 10:00 AM (UTC+7)
 ! Version: 20/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -466,6 +466,7 @@
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 torrentz.adclixx.net
 0.0.0.0 trk.lot-impossible-mouth-twice.xyz
+0.0.0.0 tywzyhfliwdbu.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 unityads.unitychina.cn
 0.0.0.0 vid.applovin.com

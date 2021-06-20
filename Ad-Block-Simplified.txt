@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 20, 2021 07:50 AM (UTC+7)
+! Last modified: June 20, 2021 10:00 AM (UTC+7)
 ! Version: 20/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -382,24 +382,15 @@
 # NekoPoi: com.usamin.nekopoi
 ||a.applovin.com^
 ||a.applvn.com^
-||ad.foxnetworks.com^
-||adclixx.net^
-||adnetasia.com^
 ||ads.api.vungle.com^
-||ads.inmobi.com^
 ||ads.staging.tapdaq.com^
 ||ads.tapdaq.com^
 ||ads.twitter.com^
-||adtrackers.net^
-||advertising.yahoo.com^
-||advertising.aol.com^
 ||analytics.staging.tapdaq.com^
 ||analytics.tapdaq.com^
 ||api.vungle.com^
 ||assets.applovin.com^
-||bannertrack.net^
 ||blog.tapdaq.com^
-||config.inmobi.com^
 ||config.unityads.unity3d.com^
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
@@ -410,11 +401,11 @@
 ||dashboard-api.tapdaq.com^
 ||goofypismica.com^
 ||img.applovin.com^
+||inmobi.com^
 ||kibana.tapdaq.com^
 ||mail.tapdaq.com^
 ||ms.applovin.com^
 ||ms.applvn.com^
-||partnerads.ysm.yahoo.com^
 ||pdn.applovin.com^
 ||placements.tapjoy.com^
 ||prod-a.applovin.com^
@@ -426,7 +417,7 @@
 ||static.tapdaq.com^
 ||status.tapdaq.com^
 ||support.tapdaq.com^
-||telemetry.sdk.inmobi.com^
+||tywzyhfliwdbu.com^
 ||uhqpnhorurueku.com^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
