@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 19, 2021 08:15 PM (UTC+7)
-! Version: 19/06/2021
+! Last modified: June 20, 2021 07:50 AM (UTC+7)
+! Version: 20/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -437,6 +437,7 @@
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 crunchyroll.adnetasia.com
 0.0.0.0 cst.cstwpush.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
@@ -456,6 +457,7 @@
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
+0.0.0.0 ruinedhang.com
 0.0.0.0 staging.tapdaq.com
 0.0.0.0 static.tapdaq.com
 0.0.0.0 status.tapdaq.com
@@ -463,14 +465,17 @@
 0.0.0.0 tapdaq.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 torrentz.adclixx.net
+0.0.0.0 trk.lot-impossible-mouth-twice.xyz
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 unityads.unitychina.cn
 0.0.0.0 vid.applovin.com
 0.0.0.0 vubihasdtbadiq.com
 0.0.0.0 vungle.com
+0.0.0.0 washedinmate.com
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 www.staging.tapdaq.com
 0.0.0.0 www.tapdaq.com
+0.0.0.0 www.weeklyordinaryrewardextra.cyou
 0.0.0.0 yahoo.adnetasia.com
 0.0.0.0 yasni.bannertrack.net
 0.0.0.0 z.moatads.com
@@ -545,6 +550,8 @@
 0.0.0.0 api.liketech.tech
 0.0.0.0 gdl.liketech-cdn.site
 0.0.0.0 gdl.news-cdn.site
+0.0.0.0 hk-h5-static.pinpincart.com
+0.0.0.0 static-web.pinpincart.com
 0.0.0.0 static-act.like-video.com
 0.0.0.0 static-web.likeevideo.com
 0.0.0.0 v16-ad.byteoversea.com
