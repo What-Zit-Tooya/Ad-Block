@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 22, 2021 04:50 PM (UTC+7)
+! Last modified: June 22, 2021 07:47 PM (UTC+7)
 ! Version: 22/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -517,7 +517,6 @@
 0.0.0.0 bytedance.global.jns.swiftserve.com
 0.0.0.0 cs.snssdk.com
 0.0.0.0 diamond.snssdk.com
-0.0.0.0 edge.bytedance.swiftserve.com
 0.0.0.0 eyeu.snssdk.com
 0.0.0.0 f-moneyloan.snssdk.com
 0.0.0.0 f-moneyloantest.snssdk.com
@@ -571,17 +570,6 @@
 
 # SnackVideo: com.kwai.bulldog
 0.0.0.0 101.32.133.79
-0.0.0.0 150.109.90.125
-0.0.0.0 150.109.90.126
-0.0.0.0 150.109.90.59
-0.0.0.0 150.109.90.60
-0.0.0.0 150.109.91.120
-0.0.0.0 150.109.91.121
-0.0.0.0 150.109.91.125
-0.0.0.0 150.109.91.61
-0.0.0.0 150.109.91.7
-0.0.0.0 150.109.91.8
-0.0.0.0 150.109.91.9
 0.0.0.0 34.117.196.186
 0.0.0.0 75.2.122.31
 0.0.0.0 acs-m.lazada.sg

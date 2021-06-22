@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 22, 2021 04:50 PM (UTC+7)
+! Last modified: June 22, 2021 07:47 PM (UTC+7)
 ! Version: 22/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -457,7 +457,6 @@
 ||bytedance.global.jns.swiftserve.com^
 ||cs.snssdk.com^
 ||diamond.snssdk.com^
-||edge.bytedance.swiftserve.com^
 ||eyeu.snssdk.com^
 ||f-moneyloan.snssdk.com^
 ||f-moneyloantest.snssdk.com^
@@ -510,17 +509,6 @@
 
 # SnackVideo: com.kwai.bulldog
 ||101.32.133.79^
-||150.109.90.125^
-||150.109.90.126^
-||150.109.90.59^
-||150.109.90.60^
-||150.109.91.120^
-||150.109.91.121^
-||150.109.91.125^
-||150.109.91.61^
-||150.109.91.7^
-||150.109.91.8^
-||150.109.91.9^
 ||34.117.196.186^
 ||75.2.122.31^
 ||ak-static.snackvideo.in^
