@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 20, 2021 09:06 PM (UTC+7)
-! Version: 20/06/2021
+! Last modified: June 22, 2021 04:50 PM (UTC+7)
+! Version: 22/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -453,7 +453,6 @@
 ||bytedance.global.jns.swiftserve.com^
 ||cs.snssdk.com^
 ||diamond.snssdk.com^
-||e28622.api12.akamaiedge.net^
 ||edge.bytedance.swiftserve.com^
 ||eyeu.snssdk.com^
 ||f-moneyloan.snssdk.com^
@@ -509,7 +508,6 @@
 
 # SnackVideo: com.kwai.bulldog
 ||ak-static.snackvideo.in^
-||all.huodonghylivecdn.sched.ovscdns.net^
 ||aws-logsdk.snackvideo.com^
 ||aws-logsdk.uvfuns.com^
 ||aws-static.snackvideo.in^
@@ -573,8 +571,6 @@
 ||api.launcher.intl.miui.com^
 ||api.mintbrs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
-||api.muc.intl.miui.com^
-||api.muc.miui.com^
 ||api.sec.intl.miui.com^
 ||api.xmpush.xiaomi.com^
 ||app-analytics-sg.huami.com^
@@ -640,8 +636,8 @@
 ||us.log.slb.avlyun.com^
 ||video.kts.g.mi.com^
 ||video.youpin.mi-img.com^
-||web.facebook.com^$app=com.miui.videoplayer
-||www.facebook.com^$app=com.miui.videoplayer
+||web.facebook.com^$app=com.miui.videoplayer|com.miui.player
+||www.facebook.com^$app=com.miui.videoplayer|com.miui.player
 ||web-analytics-sg.huami.com^
 ||web-analytics.ap-southeast-1.elasticbeanstalk.com^
 ||www.jivesoftware.com^

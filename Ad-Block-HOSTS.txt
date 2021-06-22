@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 20, 2021 07:20 PM (UTC+7)
-! Version: 20/06/2021
+! Last modified: June 22, 2021 04:50 PM (UTC+7)
+! Version: 22/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -517,7 +517,6 @@
 0.0.0.0 bytedance.global.jns.swiftserve.com
 0.0.0.0 cs.snssdk.com
 0.0.0.0 diamond.snssdk.com
-0.0.0.0 e28622.api12.akamaiedge.net
 0.0.0.0 edge.bytedance.swiftserve.com
 0.0.0.0 eyeu.snssdk.com
 0.0.0.0 f-moneyloan.snssdk.com
@@ -587,7 +586,6 @@
 0.0.0.0 75.2.122.31
 0.0.0.0 acs-m.lazada.sg
 0.0.0.0 ak-static.snackvideo.in
-0.0.0.0 all.huodonghylivecdn.sched.ovscdns.net
 0.0.0.0 aws-logsdk.snackvideo.com
 0.0.0.0 aws-logsdk.uvfuns.com
 0.0.0.0 aws-static.snackvideo.in
@@ -674,8 +672,6 @@
 0.0.0.0 api.launcher.intl.miui.com
 0.0.0.0 api.mintbrs.intl.miui.com
 0.0.0.0 api.miui.security.xiaomi.com
-0.0.0.0 api.muc.intl.miui.com
-0.0.0.0 api.muc.miui.com
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 app-analytics-sg.huami.com
