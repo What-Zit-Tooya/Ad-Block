@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 22, 2021 09:00 PM (UTC+7)
-! Version: 22/06/2021
+! Last modified: June 23, 2021 09:00 AM (UTC+7)
+! Version: 23/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -514,7 +514,6 @@
 0.0.0.0 bcy-promo.snssdk.com
 0.0.0.0 bcy.snssdk.com
 0.0.0.0 byteair-api-cn1.snssdk.com
-0.0.0.0 bytedance.global.jns.swiftserve.com
 0.0.0.0 cs.snssdk.com
 0.0.0.0 diamond.snssdk.com
 0.0.0.0 eyeu.snssdk.com
@@ -546,7 +545,6 @@
 0.0.0.0 log.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon.snssdk.com
-0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 novelfm.snssdk.com
 0.0.0.0 open.snssdk.com
