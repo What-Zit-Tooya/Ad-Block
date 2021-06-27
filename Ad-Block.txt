@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 23, 2021 09:00 AM (UTC+7)
-! Version: 23/06/2021
+! Last modified: June 27, 2021 05:35 PM (UTC+7)
+! Version: 27/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -11,6 +11,7 @@
 ||api.adaether.com^
 ||appsflyer.com^
 ||cdp.cloud.unity3d.com^
+||crashlyticsreports-pa.googleapis.com^
 ||doubleclick.net^
 ||firebaselogging-pa.googleapis.com^
 ||firebase-settings.crashlytics.com^
@@ -368,20 +369,19 @@
 ||a.applvn.com^
 ||ad.foxnetworks.com^
 ||adclixx.net^
+||adnetasia.com^
 ||ads.api.vungle.com^
 ||ads.staging.tapdaq.com^
 ||ads.tapdaq.com^
 ||ads.twitter.com^
 ||adtrackers.net^
-||advertising.yahoo.com^
 ||advertising.aol.com^
-||adnetasia.com^
+||advertising.yahoo.com^
 ||analytics.staging.tapdaq.com^
 ||analytics.tapdaq.com^
 ||api.vungle.com^
 ||assets.applovin.com^
 ||blog.tapdaq.com^
-||inmobi.com^
 ||config.unityads.unity3d.com^
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
@@ -391,10 +391,15 @@
 ||dashboard-api.staging.tapdaq.com^
 ||dashboard-api.tapdaq.com^
 ||exeptingincludedelivering.com^
+||flongshartail.com^
 ||goofypismica.com^
+||hugregregy.pro^
 ||img.applovin.com^
 ||inmobi.com^
+||insideoftech.com^
+||itstuffnews.com^
 ||kibana.tapdaq.com^
+||kotikinar2ko8tiki09.com^
 ||mail.tapdaq.com^
 ||ms.applovin.com^
 ||ms.applvn.com^
@@ -413,8 +418,8 @@
 ||static.tapdaq.com^
 ||status.tapdaq.com^
 ||support.tapdaq.com^
-||tywzyhfliwdbu.com^
 ||trk.lot-impossible-mouth-twice.xyz^
+||tywzyhfliwdbu.com^
 ||uhqpnhorurueku.com^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
@@ -1297,3 +1302,6 @@
 ||liteapi.ekatox.com^
 ||litemsg.ekatox.com^
 ||litestatis.ekatox.com^
+
+# Vision+ : Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
+||analytics.mncdigital.id^

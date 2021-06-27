@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 23, 2021 09:00 AM (UTC+7)
-! Version: 23/06/2021
+! Last modified: June 27, 2021 05:35 PM (UTC+7)
+! Version: 27/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -13,6 +13,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 appsflyer.com
 0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 doubleclick.net
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
@@ -423,12 +424,12 @@
 0.0.0.0 a.applvn.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 adclixx.net
+0.0.0.0 adnetasia.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.staging.tapdaq.com
 0.0.0.0 ads.tapdaq.com
 0.0.0.0 ads.twitter.com
-0.0.0.0 adnetasia.com
 0.0.0.0 adtrackers.net
 0.0.0.0 advertising.aol.com
 0.0.0.0 advertising.yahoo.com
@@ -451,9 +452,14 @@
 0.0.0.0 dashboard-api.staging.tapdaq.com
 0.0.0.0 dashboard-api.tapdaq.com
 0.0.0.0 exeptingincludedelivering.com
+0.0.0.0 flongshartail.com
 0.0.0.0 goofypismica.com
+0.0.0.0 hugregregy.pro
 0.0.0.0 img.applovin.com
+0.0.0.0 insideoftech.com
+0.0.0.0 itstuffnews.com
 0.0.0.0 kibana.tapdaq.com
+0.0.0.0 kotikinar2ko8tiki09.com
 0.0.0.0 mail.tapdaq.com
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
@@ -464,8 +470,8 @@
 0.0.0.0 practisecolander.com
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 px.moatads.com
-0.0.0.0 rpc.tapjoy.com
 0.0.0.0 reptilefighttearn.com
+0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 ruinedhang.com
@@ -1031,7 +1037,6 @@
 0.0.0.0 13.224.249.61
 0.0.0.0 13.227.142.9
 0.0.0.0 13.227.252.117
-0.0.0.0 13.227.252.83
 0.0.0.0 13.227.252.98
 0.0.0.0 199.232.45.32
 0.0.0.0 199.232.46.137
@@ -1451,3 +1456,7 @@
 0.0.0.0 liteapi.ekatox.com
 0.0.0.0 litemsg.ekatox.com
 0.0.0.0 litestatis.ekatox.com
+
+# Vision+ : Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
+0.0.0.0 analytics.mncdigital.id
+0.0.0.0 visionplus.analytics.mncdigital.id
