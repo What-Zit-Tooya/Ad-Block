@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 28, 2021 08:35 PM (UTC+7)
+! Last modified: June 28, 2021 08:50 PM (UTC+7)
 ! Version: 28/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1462,6 +1462,9 @@
 0.0.0.0 litemsg.ekatox.com
 0.0.0.0 litestatis.ekatox.com
 
-# Vision+ : Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
+# Vision+: Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
 0.0.0.0 analytics.mncdigital.id
 0.0.0.0 visionplus.analytics.mncdigital.id
+
+# AdGuard: com.adguard.android
+0.0.0.0 events.adguard.com
