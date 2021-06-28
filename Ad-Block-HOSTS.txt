@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 27, 2021 06:35 PM (UTC+7)
-! Version: 27/06/2021
+! Last modified: June 28, 2021 08:35 PM (UTC+7)
+! Version: 28/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -152,6 +152,7 @@
 # Mozilla's Apps
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 location.services.mozilla.com
+0.0.0.0 telemetry.mozilla.org
 
 # Lazada Indonesia: com.lazada.android
 0.0.0.0 47.246.32.33
@@ -438,6 +439,7 @@
 0.0.0.0 assets.applovin.com
 0.0.0.0 bannertrack.net
 0.0.0.0 blog.tapdaq.com
+0.0.0.0 brtcjmnplmzo.com
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 config.unityads.unitychina.cn
@@ -656,6 +658,7 @@
 0.0.0.0 api.bing.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.collect.data.intl.miui.com
+0.0.0.0 api.glance.inmobi.com
 0.0.0.0 api.input.intl.miui.com
 0.0.0.0 api.launcher.miui.com
 0.0.0.0 api.launcher.intl.miui.com
@@ -665,6 +668,7 @@
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 app-analytics-sg.huami.com
 0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 analytics.glance.inmobi.com
 0.0.0.0 cdn.static.browser.mi-img.com
 0.0.0.0 cdn.video.browser.mi-img.com
 0.0.0.0 cdn.webapp.browser.mi-img.com
@@ -680,6 +684,8 @@
 0.0.0.0 fr.register.xmpush.global.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalvideo.cdn.pandora.intl.xiaomi.com
+0.0.0.0 id.analytics.glance.inmobi.com
+0.0.0.0 id.api.glance.inmobi.com
 0.0.0.0 id.video.intl.xiaomi.com
 0.0.0.0 idmb.register.xmpush.global.xiaomi.com
 0.0.0.0 log-abroad.avlyun.com

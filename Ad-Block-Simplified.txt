@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 27, 2021 06:35 PM (UTC+7)
-! Version: 27/06/2021
+! Last modified: June 28, 2021 08:35 PM (UTC+7)
+! Version: 28/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -144,8 +144,8 @@
 ||teads.tv^
 
 # Mozilla's Apps
-||incoming.telemetry.mozilla.org^
 ||location.services.mozilla.com^
+||telemetry.mozilla.org^
 
 # Lazada Indonesia: com.lazada.android
 ||47.246.32.33^
@@ -391,6 +391,7 @@
 ||api.vungle.com^
 ||assets.applovin.com^
 ||blog.tapdaq.com^
+||brtcjmnplmzo.com^
 ||config.unityads.unity3d.com^
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
@@ -595,6 +596,7 @@
 ||api.bing.com^
 ||api.brs.intl.miui.com^
 ||api.collect.data.intl.miui.com^
+||api.glance.inmobi.com^
 ||api.input.intl.miui.com^
 ||api.launcher.miui.com^
 ||api.launcher.intl.miui.com^
@@ -604,6 +606,7 @@
 ||api.xmpush.xiaomi.com^
 ||app-analytics-sg.huami.com^
 ||app.chat.global.xiaomi.net^
+||analytics.glance.inmobi.com^
 ||browser.mi-img.com^
 ||cdn.nav.browser.mi-img.com^
 ||cdn.static.browser.mi-img.com^
