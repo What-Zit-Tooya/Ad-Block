@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 28, 2021 08:50 PM (UTC+7)
+! Last modified: June 28, 2021 09:00 PM (UTC+7)
 ! Version: 28/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1468,3 +1468,9 @@
 
 # AdGuard: com.adguard.android
 0.0.0.0 events.adguard.com
+
+# M$ Apps: https://play.google.com/store/apps/dev?id=6720847872553662727
+0.0.0.0 events.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 umwatson.events.data.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
