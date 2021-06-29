@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 28, 2021 09:00 PM (UTC+7)
-! Version: 28/06/2021
+! Last modified: June 29, 2021 07:25 AM (UTC+7)
+! Version: 29/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -35,13 +35,6 @@
 0.0.0.0 13.224.250.223
 0.0.0.0 159.138.101.104
 0.0.0.0 159.138.102.255
-# BLOCK BING
-0.0.0.0 13.107.21.200
-0.0.0.0 a-0001.a-afdentry.net.trafficmanager.net
-0.0.0.0 dual-a-0001.a-msedge.net
-0.0.0.0 www-bing-com.dual-a-0001.a-msedge.net
-0.0.0.0 204.79.197.200
-# END BLOCK BING
 0.0.0.0 active.wshareit.com
 0.0.0.0 adconf.rqmob.com
 0.0.0.0 ads.mopub.com
@@ -51,7 +44,6 @@
 0.0.0.0 ascribe.rqmob.com
 0.0.0.0 asia-abroad.com
 0.0.0.0 buruwan.com
-0.0.0.0 cdn.chinatelecom.net.c.footprint.net
 0.0.0.0 cdn.ushareit.com.w.kunlunsl.com
 0.0.0.0 cdn.ushareit.com
 0.0.0.0 cdn2.gamecenter.run.cdn.dnsv1.com
@@ -63,7 +55,6 @@
 0.0.0.0 duowan.com
 0.0.0.0 dt.beyla.site
 0.0.0.0 fgeh.overseavideo.sched.apdcdn.com
-0.0.0.0 footprint.net
 0.0.0.0 gamecenter.run
 0.0.0.0 gihappy.com
 0.0.0.0 gjqvujjc.tweb.sched.ovscdns.com
@@ -655,7 +646,6 @@
 0.0.0.0 api-bing-com.e-0001.e-msedge.net
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 api.bing.com
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.collect.data.intl.miui.com
 0.0.0.0 api.glance.inmobi.com
@@ -1470,7 +1460,12 @@
 0.0.0.0 events.adguard.com
 
 # M$ Apps: https://play.google.com/store/apps/dev?id=6720847872553662727
+0.0.0.0 browser.events.data.msn.com
 0.0.0.0 events.data.microsoft.com
+0.0.0.0 events.data.msn.com
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v20.events.data.microsoft.com

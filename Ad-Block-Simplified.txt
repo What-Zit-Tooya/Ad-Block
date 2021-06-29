@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 28, 2021 09:00 PM (UTC+7)
-! Version: 28/06/2021
+! Last modified: June 29, 2021 07:25 AM (UTC+7)
+! Version: 29/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -28,13 +28,6 @@
 ||13.224.250.223^
 ||159.138.101.104^
 ||159.138.102.255^
-# BLOCK BING
-||13.107.21.200^
-||a-0001.a-afdentry.net.trafficmanager.net^
-||dual-a-0001.a-msedge.net^
-||www-bing-com.dual-a-0001.a-msedge.net^
-||204.79.197.200^
-# END BLOCK BING
 ||active.wshareit.com^
 ||adconf.rqmob.com^
 ||ads.mopub.com^
@@ -44,7 +37,6 @@
 ||ascribe.rqmob.com^
 ||asia-abroad.com^
 ||buruwan.com^
-||cdn.chinatelecom.net.c.footprint.net^
 ||cdn.ushareit.com.w.kunlunsl.com^
 ||cdn.ushareit.com^
 ||cdn2.gamecenter.run.cdn.dnsv1.com^
@@ -56,7 +48,6 @@
 ||dwza2b3cs63ny.cloudfront.net^
 ||dt.beyla.site^
 ||fgeh.overseavideo.sched.apdcdn.com^
-||footprint.net^
 ||gamecenter.run^
 ||gihappy.com^
 ||gjqvujjc.tweb.sched.ovscdns.com^
@@ -1356,3 +1347,6 @@ https://ynuf.aliapp.org/saveWb.json?
 
 # M$ Apps: https://play.google.com/store/apps/dev?id=6720847872553662727
 ||events.data.microsoft.com^
+||events.data.msn.com^
+||nexus.officeapps.live.com^
+||nexusrules.officeapps.live.com^

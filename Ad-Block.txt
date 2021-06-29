@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block
 ! Description: Mobile Ads Filters, especially designed to work with AdGuard for Android. Highly recommended to use this filter on AdGuard for Android. I only add apps filter that i've installed in my device. Feel free to improve this filter. :)
 ! Author: WhatZitTooya
-! Last modified: June 28, 2021 09:00 PM (UTC+7)
-! Version: 28/06/2021
+! Last modified: June 29, 2021 07:25 AM (UTC+7)
+! Version: 29/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -60,7 +60,6 @@
 ||asia-abroad.com^
 ||bing.com^$app=com.lenovo.anyshare.gps,important
 ||buruwan.com^
-||cdn.chinatelecom.net.c.footprint.net^
 ||cdn.ushareit.com.w.kunlunsl.com^
 ||cdn.ushareit.com^
 ||cdn2.gamecenter.run.cdn.dnsv1.com^
@@ -71,7 +70,6 @@
 ||duowan.com^
 ||dt.beyla.site^
 ||fgeh.overseavideo.sched.apdcdn.com^
-||footprint.net^
 ||gamecenter.run^
 ||gihappy.com^
 ||gjqvujjc.tweb.sched.ovscdns.com^
@@ -561,10 +559,8 @@
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||afd.e-0001.dc.msedge.net^
-||api-bing-com.e-0001.e-msedge.net^
 ||api.ad.intl.xiaomi.com^
 ||api.ad.xiaomi.com^
-||api.bing.com^
 ||api.brs.intl.miui.com^
 ||api.collect.data.intl.miui.com^
 ||api.glance.inmobi.com^
@@ -1314,3 +1310,6 @@
 
 # M$ Apps: https://play.google.com/store/apps/dev?id=6720847872553662727
 ||events.data.microsoft.com^
+||events.data.msn.com^
+||nexus.officeapps.live.com^
+||nexusrules.officeapps.live.com^
