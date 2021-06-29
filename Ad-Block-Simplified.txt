@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 29, 2021 07:25 AM (UTC+7)
+! Last modified: June 29, 2021 08:50 PM (UTC+7)
 ! Version: 29/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -18,6 +18,7 @@
 ||insights-collector.newrelic.com^
 ||ipstatp.com^
 ||kvinit-prod.api.kochava.com^
+||metric-api.newrelic.com^
 ||oth.eve.mdt.qq.com^
 ||scorecardresearch.com^
 ||tls10.newrelic.com.cdn.cloudflare.net^
@@ -99,7 +100,6 @@
 ||104.19.131.78^
 ||104.19.143.77^
 ||107.23.178.199^
-||204.79.197.200^
 ||13.227.228.19^
 ||13.248.218.66^
 ||13.35.13.120^
@@ -594,6 +594,8 @@
 ||api.mintbrs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
 ||api.sec.intl.miui.com^
+||api.setting.intl.miui.com^
+||api.setting.miui.com^
 ||api.xmpush.xiaomi.com^
 ||app-analytics-sg.huami.com^
 ||app.chat.global.xiaomi.net^
@@ -610,9 +612,9 @@
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||data.sec.miui.com^
-||e-0001.dc-msedge.net^
-||firebase-settings.crashlytics.com^
 ||fr.register.xmpush.global.xiaomi.com^
+||flash.sec.intl.miui.com^
+||flash.sec.miui.com^
 ||globalapi.ad.xiaomi.com^
 ||globalvideo.cdn.pandora.intl.xiaomi.com^
 ||video.intl.xiaomi.com^
@@ -626,6 +628,9 @@
 ||mcc.intl.inf.miui.com^
 ||mcc.russia.inf.miui.com^
 ||mds.mistat.xiaomi.com^
+||media.youpin.mi-img.com^
+||metok-ccc.intl.xiaomi.com^
+||metok-ccc.xiaomi.com^
 ||media.youpin.mi-img.com^
 ||miuiboot.tracking.miui.com^
 ||miuilog.update.avlyun.com^
@@ -683,6 +688,7 @@
 ||log-collector.shopee.vn^
 ||play-tx.vod.shopee.com^
 ||play-ws.vod.shopee.com^
+||sgfp.tongdun.net^
 ||userstats.shopee.co.id^
 ||userstats.shopee.co.th^
 ||userstats.shopee.com.br^
@@ -811,6 +817,7 @@
 ||bugs-bunny-stage.sb.avast.com^
 ||bugs-bunny-test.sb.avast.com^
 ||bugs-bunny.sb.avast.com^
+||ip-info.ff.avast.com^
 ||log.avlyun.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.avlyun.sec.miui.com^
@@ -1350,3 +1357,6 @@ https://ynuf.aliapp.org/saveWb.json?
 ||events.data.msn.com^
 ||nexus.officeapps.live.com^
 ||nexusrules.officeapps.live.com^
+
+# League of Legends: Wild Rift: com.riotgames.league.wildrift
+||bugly.cros.wr.pvp.net^

@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 29, 2021 07:25 AM (UTC+7)
+! Last modified: June 29, 2021 08:50 PM (UTC+7)
 ! Version: 29/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -24,6 +24,7 @@
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 ipstatp.com
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 metric-api.newrelic.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 scorecardresearch.com
@@ -655,6 +656,8 @@
 0.0.0.0 api.mintbrs.intl.miui.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 api.setting.miui.com
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 app-analytics-sg.huami.com
 0.0.0.0 app.chat.global.xiaomi.net
@@ -669,9 +672,9 @@
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.miui.com
-0.0.0.0 e-0001.dc-msedge.net
-0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 fr.register.xmpush.global.xiaomi.com
+0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 flash.sec.miui.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 globalvideo.cdn.pandora.intl.xiaomi.com
 0.0.0.0 id.analytics.glance.inmobi.com
@@ -687,6 +690,9 @@
 0.0.0.0 mcc.intl.inf.miui.com
 0.0.0.0 mcc.russia.inf.miui.com
 0.0.0.0 mds.mistat.xiaomi.com
+0.0.0.0 media.youpin.mi-img.com
+0.0.0.0 metok-ccc.intl.xiaomi.com
+0.0.0.0 metok-ccc.xiaomi.com
 0.0.0.0 media.youpin.mi-img.com
 0.0.0.0 miuiboot.tracking.miui.com
 0.0.0.0 miuilog.update.avlyun.com
@@ -745,6 +751,7 @@
 0.0.0.0 log-collector.shopee.vn
 0.0.0.0 play-tx.vod.shopee.com
 0.0.0.0 play-ws.vod.shopee.com
+0.0.0.0 sgfp.tongdun.net
 0.0.0.0 userstats.shopee.co.id
 0.0.0.0 userstats.shopee.co.th
 0.0.0.0 userstats.shopee.com.br
@@ -873,6 +880,7 @@
 0.0.0.0 bugs-bunny-stage.sb.avast.com
 0.0.0.0 bugs-bunny-test.sb.avast.com
 0.0.0.0 bugs-bunny.sb.avast.com
+0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.avlyun.sec.miui.com
@@ -1469,3 +1477,7 @@
 0.0.0.0 umwatson.events.data.microsoft.com
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
+
+# League of Legends: Wild Rift: com.riotgames.league.wildrift
+0.0.0.0 astat.bugly.cros.wr.pvp.net
+0.0.0.0 bugly.cros.wr.pvp.net
