@@ -1,14 +1,15 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 29, 2021 08:50 PM (UTC+7)
-! Version: 29/06/2021
+! Last modified: June 30, 2021 07:00 AM (UTC+7)
+! Version: 30/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.gridtechno.com
+0.0.0.0 adx-tk.rayjump.com
 0.0.0.0 api.adaether.com
 0.0.0.0 app-measurement.com
 0.0.0.0 cdp.cloud.unity3d.com
@@ -28,6 +29,8 @@
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 sg01.rayjump.com
+0.0.0.0 sg.tdatamaster.com
 0.0.0.0 tls10.newrelic.com.cdn.cloudflare.net
 0.0.0.0 tsg.tdatamaster.com
 
@@ -1481,3 +1484,23 @@
 # League of Legends: Wild Rift: com.riotgames.league.wildrift
 0.0.0.0 astat.bugly.cros.wr.pvp.net
 0.0.0.0 bugly.cros.wr.pvp.net
+
+# Resso: com.moonvideo.android.resso
+0.0.0.0 log.resso.app
+0.0.0.0 rtlog.resso.app
+
+# Call of Duty®: Mobile - Garena: com.garena.game.codm
+0.0.0.0 astat.bugly.qcloud.com
+0.0.0.0 cdn.wetest.qq.com
+0.0.0.0 hsg.tdm.qq.com
+0.0.0.0 intldlgs.qq.com
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 sg.itopsdk.com
+0.0.0.0 sg.voice.gcloudcs.com
+
+# SAMSUNG PHONES
+# Pulled from AdGuard Home log
+# Need test througly
+0.0.0.0 sspapi-prd.samsungrs.com
+0.0.0.0 sdk.pushmessage.samsung.com
+0.0.0.0 ureca.samsungapps.com
