@@ -1,7 +1,7 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 30, 2021 07:00 AM (UTC+7)
+! Last modified: June 30, 2021 07:26 PM (UTC+7)
 ! Version: 30/06/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1370,12 +1370,6 @@ https://ynuf.aliapp.org/saveWb.json?
 
 # Call of Duty®: Mobile - Garena: com.garena.game.codm
 ||astat.bugly.qcloud.com^
-||cdn.wetest.qq.com^
-||hsg.tdm.qq.com^
-||intldlgs.qq.com^
-||qos.hk.gcloudcs.com^
-||sg.itopsdk.com^
-||sg.voice.gcloudcs.com^
 
 # SAMSUNG PHONES
 # Pulled from AdGuard Home log
