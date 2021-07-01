@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (HOSTS)
 ! Description: Mobile Ads Filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: June 30, 2021 07:26 PM (UTC+7)
-! Version: 30/06/2021
+! Last modified: July, 1 2021 08:00 PM (UTC+7)
+! Version: 01/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -35,6 +35,7 @@
 0.0.0.0 tsg.tdatamaster.com
 
 # SHAREit: com.lenovo.anyshare.gps
+### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
 0.0.0.0 13.35.13.120
 0.0.0.0 13.224.250.223
 0.0.0.0 159.138.101.104
@@ -433,6 +434,7 @@
 0.0.0.0 api.vungle.com
 0.0.0.0 assets.applovin.com
 0.0.0.0 bannertrack.net
+0.0.0.0 bitcoloan.info
 0.0.0.0 blog.tapdaq.com
 0.0.0.0 brtcjmnplmzo.com
 0.0.0.0 config.inmobi.com
@@ -493,6 +495,7 @@
 0.0.0.0 www.weeklyordinaryrewardextra.cyou
 0.0.0.0 yahoo.adnetasia.com
 0.0.0.0 yasni.bannertrack.net
+0.0.0.0 yititsimplyd.club
 0.0.0.0 z.moatads.com
 
 # TikTok: com.zhiliaoapp.musically
@@ -691,7 +694,7 @@
 0.0.0.0 mcc.india.inf.miui.com
 0.0.0.0 mcc.inf.miui.com
 0.0.0.0 mcc.intl.inf.miui.com
-0.0.0.0 mcc.russia.inf.miui.com
+0.0.0.0 mcc.rus.inf.miui.com
 0.0.0.0 mds.mistat.xiaomi.com
 0.0.0.0 media.youpin.mi-img.com
 0.0.0.0 metok-ccc.intl.xiaomi.com

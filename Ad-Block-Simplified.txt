@@ -1,8 +1,8 @@
 ! Title: WhatZitTooya's Ad-Block (Simplified)
 ! Description: Mobile Ads Filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking.
 ! Author: WhatZitTooya
-! Last modified: June 30, 2021 07:26 PM (UTC+7)
-! Version: 30/06/2021
+! Last modified: July, 1 2021 08:00 PM (UTC+7)
+! Version: 01/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -28,6 +28,7 @@
 ||tsg.tdatamaster.com^
 
 # SHAREit: com.lenovo.anyshare.gps
+### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
 ||13.35.13.120^
 ||13.224.250.223^
 ||159.138.101.104^
@@ -380,10 +381,12 @@
 ||ads.staging.tapdaq.com^
 ||ads.tapdaq.com^
 ||ads.twitter.com^
+@@||adtrackers.net^
 ||analytics.staging.tapdaq.com^
 ||analytics.tapdaq.com^
 ||api.vungle.com^
 ||assets.applovin.com^
+||bitcoloan.info^
 ||blog.tapdaq.com^
 ||brtcjmnplmzo.com^
 ||config.unityads.unity3d.com^
@@ -431,6 +434,8 @@
 ||ws.tapjoyads.com^
 ||www.staging.tapdaq.com^
 ||www.tapdaq.com^
+||www.weeklyordinaryrewardextra.cyou^
+||yititsimplyd.club^
 ||z.moatads.com^
 
 # TikTok: com.zhiliaoapp.musically
@@ -629,7 +634,7 @@
 ||mcc.india.inf.miui.com^
 ||mcc.inf.miui.com^
 ||mcc.intl.inf.miui.com^
-||mcc.russia.inf.miui.com^
+||mcc.rus.inf.miui.com^
 ||mds.mistat.xiaomi.com^
 ||media.youpin.mi-img.com^
 ||metok-ccc.intl.xiaomi.com^
