@@ -1,13 +1,13 @@
 # What-Zit-Tooya Ad-Block
 
-Additional ad-block to enhance your ads-filter. Using AdBlock Syntax and recommended to use it with **[AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).**
+Additional Ad-Block filter to enhance your ad-block experience. Written using AdBlock Syntax and recommended to use it with **[AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).**
 
 Download AdGuard for Android here:
 - [Stable](https://anonym.to/?https://agrd.io/apk)
 - [Beta](https://anonym.to/?https://agrd.io/apkb)
 - [Nightly](https://anonym.to/?https://agrd.io/android_nightly)
 
-**Recommended Filters:**
+**Recommended filters:**
 1. AdGuard Base filter;
 2. AdGuard Mobile ads filter;
 3. AdGuard Tracking Protection filter;
@@ -19,12 +19,6 @@ Download AdGuard for Android here:
 9. Spam404;
 10. Languange-specific (up-to-you, based on your location);
 11. AdGuard DNS filter;
-12. Custom filters:
-    1. [CombinedPrivacyBlockLists](https://anonym.to/?https://github.com/bongochong/CombinedPrivacyBlockLists)
-    2. [StevenBlack hosts](https://anonym.to/?https://github.com/StevenBlack/hosts)
-    3. [OISD](https://anonym.to/?https://oisd.nl/?p=dl)
-    4. [uAssets filters by uBlockOrigin](https://anonym.to/?https://github.com/uBlockOrigin/uAssets)
-    5. Of course, My Ad-Block filter. :)
 
 # Subscribe to my Ad-Block
 
@@ -34,13 +28,17 @@ Subscribe | Purpose
 [Ad-Block (Simplified)](https://github.com/What-Zit-Tooya/Ad-Block/raw/main/Main-Blocklist/Ad-Block-Simplified.txt) | Simplified version of my Ad-Block. Suitable for ad-blocking at DNS-level. You can use this as additional DNS filter in AdGuard for Android. Written also in Ad-Block syntax.
 [Ad-Block (HOSTS)](https://github.com/What-Zit-Tooya/Ad-Block/raw/main/Main-Blocklist/Ad-Block-HOSTS.txt) | HOSTS `0.0.0.0` version. Based of my main Ad-Block.
 
+# Additional Blocklist
+You can find additional blocklist on my [Ad-Block repo](https://github.com/What-Zit-Tooya/Ad-Block/tree/main/Additional-Blocklist).
+At this time, it contains `Windows Telemetry Block`, may be I will add another blocklist in the future.
+
 # Usage
 My main Ad-Block & Simplified version is suitable for [AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).
 
 Ad-Block HOSTS `0.0.0.0` version is suitable for [Blokada](https://anonym.to/?https://blokada.org/) and [personalDNSfilter](https://anonym.to/?https://www.zenz-solutions.de/personaldnsfilter-wp/).
 
 # Attention
-My main Ad-Block block `graph.facebook.com` , `graph.instagram.com` and another `Facebook` related ads server. Make sure you whitelist `Facebook` apps if you encounter any issue.
+My main Ad-Block block `graph.facebook.com` , `graph.instagram.com` and known `Facebook` related ads/tracking servers. Make sure you whitelist them if you encounter any issues.
 
 # Recommended
 For more strong protection, I recommend to use **BlahDNS**.
@@ -51,5 +49,8 @@ Select one server that nearest to your location.
 
 # Report issue
 You can report any issue **[Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
+or
+You can join discussion **[Here](https://github.com/What-Zit-Tooya/Ad-Block/discussions)**
 
+# Disclaimer
 I only add filter in the app that i have used. If you want to add your filter to my Ad-Block, feel free to pull request.
