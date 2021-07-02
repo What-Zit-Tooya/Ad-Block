@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 02 Jul 2021 08:30 PM UTC+7
+! Last modified: 02 Jul 2021 09:10 PM UTC+7
 ! Version: 02/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -403,7 +403,6 @@
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
 ||crash-metrics.sdk.inmobi.com^
-||cst.cstwpush.com^
 ||d.applovin.com^
 ||d.applvn.com^
 ||dashboard-api.staging.tapdaq.com^

@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 02 Jul 2021 08:30 PM UTC+7
+! Last modified: 02 Jul 2021 09:10 PM UTC+7
 ! Version: 02/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -450,7 +450,6 @@
 0.0.0.0 crash-metrics.sdk.inmobi.com
 0.0.0.0 crunchyroll.adnetasia.com
 0.0.0.0 crunchyroll.adtrackers.net
-0.0.0.0 cst.cstwpush.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
 0.0.0.0 dashboard-api.staging.tapdaq.com
