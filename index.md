@@ -49,7 +49,9 @@ Select one server that nearest to your location.
 
 # Report issue
 You can report any issue **[Here](https://github.com/What-Zit-Tooya/Ad-Block/issues)**
+
 or
+
 You can join discussion **[Here](https://github.com/What-Zit-Tooya/Ad-Block/discussions)**
 
 # Disclaimer
