@@ -1,13 +1,12 @@
 ! Title: Windows Telemetry Block
-! Description: Block Windows Telemetry and its Tracking
-! --------------------------AUTHORS------------------------------------
-! Yen, fLOW, windooooooooows , s1ave77 @ MDL
-! Original Thread @ MDL: https://forums.mydigitallife.net/threads/repo-windows-10-telemetry-repository.63874/
+! Description: Block Windows Telemetry and Tracking
+! Author: Yen, fLOW, windooooooooows , s1ave77 @ MDL
+! Homepage: https://forums.mydigitallife.net/threads/repo-windows-10-telemetry-repository.63874/
+! Last modified: 02 Jul 2021 08:30 PM UTC+7
 ! 
-! Highly recommended using this in Windows 10 LTSC 2019 or latest LTSC version.
-! With local account, no MSFT account or other MSFT online services.
-! Keep OS original, not modified or tempered.
-! Last modified: 29/06/2021
+! Highly recommended using this in Windows 10 LTSC 2019 or latest LTSC version
+! With local account, no MSFT account or other MSFT online services
+! Keep OS original, not modified or tempered
 
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0002.a-msedge.net
