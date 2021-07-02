@@ -1,4 +1,4 @@
--# What-Zit-Tooya Ad-Block
+# What-Zit-Tooya Ad-Block
 
 Additional ad-block to enhance your ads-filter. Using AdBlock Syntax and recommended to use it with **[AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).**
 
@@ -30,9 +30,9 @@ Download AdGuard for Android here:
 
 Subscribe | Purpose
 ------------ | -------------
-[Ad-Block](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block.txt) | My main ad block. Use it to block mobile ads. Written in Ad-Block syntax.
-[Ad-Block (Simplified)](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-Simplified.txt) | Simplified version of my Ad-Block. Suitable for ad-blocking at DNS-level. You can use this as additional DNS filter in AdGuard for Android. Written also in Ad-Block syntax.
-[Ad-Block (HOSTS)](https://raw.githubusercontent.com/What-Zit-Tooya/Ad-Block/main/Ad-Block-HOSTS.txt) | HOSTS `0.0.0.0` version. Based of my main Ad-Block.
+[Ad-Block](https://github.com/What-Zit-Tooya/Ad-Block/raw/main/Main-Blocklist/Ad-Block.txt) | My main ad block. Use it to block mobile ads. Written in Ad-Block syntax.
+[Ad-Block (Simplified)](https://github.com/What-Zit-Tooya/Ad-Block/raw/main/Main-Blocklist/Ad-Block-Simplified.txt) | Simplified version of my Ad-Block. Suitable for ad-blocking at DNS-level. You can use this as additional DNS filter in AdGuard for Android. Written also in Ad-Block syntax.
+[Ad-Block (HOSTS)](https://github.com/What-Zit-Tooya/Ad-Block/raw/main/Main-Blocklist/Ad-Block-HOSTS.txt) | HOSTS `0.0.0.0` version. Based of my main Ad-Block.
 
 # Usage
 My main Ad-Block & Simplified version is suitable for [AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).
