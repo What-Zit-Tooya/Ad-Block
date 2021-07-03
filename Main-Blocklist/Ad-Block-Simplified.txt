@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 03 Jul 2021 09:35 AM UTC+7
+! Last modified: 03 Jul 2021 10:28 AM UTC+7
 ! Version: 03/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1318,7 +1318,6 @@ https://ynuf.aliapp.org/saveWb.json?
 ||13.227.252.117^
 ||13.227.252.98^
 ||199.232.45.32^
-||199.232.46.137^
 ||52.10.120.178^
 ||54.182.0.38^
 ||54.182.0.75^
