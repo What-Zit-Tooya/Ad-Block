@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 02 Jul 2021 09:10 PM UTC+7
-! Version: 02/07/2021
+! Last modified: 03 Jul 2021 08:45 AM UTC+7
+! Version: 03/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -224,6 +224,8 @@
 # Drakor.ID: com.stream.drakorindoawet
 0.0.0.0 104.18.226.52
 0.0.0.0 achcdn.com
+0.0.0.0 ad.foxnetworks.com
+0.0.0.0 ads.twitter.com
 0.0.0.0 api.onesignal.com
 0.0.0.0 applovin.com
 0.0.0.0 awaitcola.com
@@ -240,20 +242,17 @@
 0.0.0.0 hornsbundlebetter.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 onclickgenius.com
-0.0.0.0 onesignal.com
 0.0.0.0 onmarshtompor.com
+0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 schemas.applovin.com
 0.0.0.0 squeezedthoughtfully.com
 0.0.0.0 tgpsew.com
 0.0.0.0 ufpcdn.com
+0.0.0.0 uhqpnhorurueku.com
 0.0.0.0 unreshiramor.com
 0.0.0.0 v3.fstats.xyz
 0.0.0.0 yourwebbars.com
-0.0.0.0 uhqpnhorurueku.com
-0.0.0.0 ads.twitter.com
-0.0.0.0 ad.foxnetworks.com
-0.0.0.0 partnerads.ysm.yahoo.com
 
 # WhatsApp Messenger: com.whatsapp
 # WhatsApp Business: com.whatsapp.w4b
@@ -439,7 +438,6 @@
 0.0.0.0 analytics.tapdaq.com
 0.0.0.0 api.vungle.com
 0.0.0.0 assets.applovin.com
-0.0.0.0 bannertrack.net
 0.0.0.0 bitcoloan.info
 0.0.0.0 blog.tapdaq.com
 0.0.0.0 brtcjmnplmzo.com
@@ -728,7 +726,6 @@
 0.0.0.0 app.greengurad.sec.miui.com
 0.0.0.0 appwall.ad.intl.xiaomi.com
 0.0.0.0 assistant.search.xiaomi.net
-0.0.0.0 avast.sec.miui.com
 0.0.0.0 behacdn.ksmobile.sec.miui.com
 0.0.0.0 benteng.ad.xiaomi.com
 0.0.0.0 bill.mihome.intl.xiaomi.net

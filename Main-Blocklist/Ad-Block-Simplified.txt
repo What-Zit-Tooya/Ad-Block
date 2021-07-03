@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 02 Jul 2021 09:10 PM UTC+7
-! Version: 02/07/2021
+! Last modified: 03 Jul 2021 08:45 AM UTC+7
+! Version: 03/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -213,9 +213,11 @@
 
 # Drakor.ID: com.stream.drakorindoawet
 ||achcdn.com^
+||api.onesignal.com^
 ||applovin.com^
 ||awaitcola.com^
 ||blockscoolest.com^
+||cdn.onesignal.com^
 ||cloudimagesa.com^
 ||config.safedk.com^
 ||dmxleo.dailymotion.com^
@@ -395,7 +397,6 @@
 ||analytics.tapdaq.com^
 ||api.vungle.com^
 ||assets.applovin.com^
-||bannertrack.net^
 ||bitcoloan.info^
 ||blog.tapdaq.com^
 ||brtcjmnplmzo.com^
@@ -674,7 +675,6 @@
 ||app.greengurad.sec.miui.com^
 ||appwall.ad.intl.xiaomi.com^
 ||assistant.search.xiaomi.net^
-||avast.sec.miui.com^
 ||behacdn.ksmobile.sec.miui.com^
 ||benteng.ad.xiaomi.com^
 ||bill.mihome.intl.xiaomi.net^

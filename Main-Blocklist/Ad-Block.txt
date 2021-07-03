@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 02 Jul 2021 09:10 PM UTC+7
-! Version: 02/07/2021
+! Last modified: 03 Jul 2021 08:45 AM UTC+7
+! Version: 03/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -44,10 +44,6 @@
 ||star.c10r.facebook.com^
 ||star.facebook.com^
 ||z-m-graph.facebook.com^
-
-# ONESIGNAL RELATED
-||api.onesignal.com^$app=com.stream.drakorindoawet
-||cdn.onesignal.com^$app=com.stream.drakorindoawet
 
 # WHITE LIST
 @@||api.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
@@ -222,9 +218,11 @@
 
 # Drakor.ID: com.stream.drakorindoawet
 ||achcdn.com^
+||api.onesignal.com^
 ||applovin.com^
 ||awaitcola.com^
 ||blockscoolest.com^
+||cdn.onesignal.com^
 ||cdn.trakteer.id^$app=com.stream.drakorindoawet
 ||cloudimagesa.com^
 ||config.safedk.com^
@@ -232,6 +230,7 @@
 ||easy-bars.com^
 ||edge.safedk.com^
 ||flagros2sii8fdbrh09.com^
+||fstats.xyz^
 ||haloani.ru^
 ||hornsbundlebetter.com^
 ||mc.yandex.ru^
@@ -244,7 +243,6 @@
 ||trakteer.id^$app=com.stream.drakorindoawet
 ||ufpcdn.com^
 ||unreshiramor.com^
-||fstats.xyz^
 ||web.facebook.com^$app=com.stream.drakorindoawet
 ||www.facebook.com^$app=com.stream.drakorindoawet
 ||yourwebbars.com^
@@ -388,7 +386,6 @@
 ||analytics.tapdaq.com^
 ||api.vungle.com^
 ||assets.applovin.com^
-||bannertrack.net^
 ||bitcoloan.info^
 ||blog.tapdaq.com^
 ||brtcjmnplmzo.com^
@@ -643,7 +640,6 @@
 ||app.greengurad.sec.miui.com^
 ||appwall.ad.intl.xiaomi.com^
 ||assistant.search.xiaomi.net^
-||avast.sec.miui.com^
 ||behacdn.ksmobile.sec.miui.com^
 ||benteng.ad.xiaomi.com^
 ||bill.mihome.intl.xiaomi.net^
