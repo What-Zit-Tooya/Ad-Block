@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 03 Jul 2021 08:45 AM UTC+7
+! Last modified: 03 Jul 2021 09:35 AM UTC+7
 ! Version: 03/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -14,8 +14,8 @@
 ||cdp.cloud.unity3d.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||doubleclick.net^
-||firebaselogging-pa.googleapis.com^
 ||firebase-settings.crashlytics.com^
+||firebaselogging-pa.googleapis.com^
 ||flurry.com^
 ||insights-collector.newrelic.com^
 ||ipstatp.com^
@@ -23,17 +23,32 @@
 ||metric-api.newrelic.com^
 ||oth.eve.mdt.qq.com^
 ||scorecardresearch.com^
-||sg01.rayjump.com^
 ||sg.tdatamaster.com^
+||sg01.rayjump.com^
 ||tls10.newrelic.com.cdn.cloudflare.net^
 ||tsg.tdatamaster.com^
 
 # SHAREit: com.lenovo.anyshare.gps
 ### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
-||13.35.13.120^
+||104.19.128.78^
+||104.19.129.78^
+||104.19.130.78^
+||104.19.131.78^
+||104.19.143.77^
+||107.23.178.199^
 ||13.224.250.223^
+||13.227.228.19^
+||13.248.218.66^
+||13.35.13.120^
+||13.35.13.120^
 ||159.138.101.104^
 ||159.138.102.255^
+||159.138.103.42^
+||159.138.106.8^
+||159.138.84.44^
+||34.199.12.244^
+||75.2.70.67^
+||76.223.65.142^
 ||active.wshareit.com^
 ||adconf.rqmob.com^
 ||ads.mopub.com^
@@ -49,10 +64,10 @@
 ||chinatelecom.net^
 ||cocosjoy.com^
 ||cyyjit.com^
-||duowan.com^
 ||d54bwtqv0a3zd.cloudfront.net^
-||dwza2b3cs63ny.cloudfront.net^
 ||dt.beyla.site^
+||duowan.com^
+||dwza2b3cs63ny.cloudfront.net^
 ||fgeh.overseavideo.sched.apdcdn.com^
 ||gamecenter.run^
 ||gihappy.com^
@@ -60,27 +75,28 @@
 ||global-pushsdk.duowan.com^
 ||gshareit.com^
 ||h5.wshareit.com^
-||jcloudcdn.com^
 ||jcloud-cdn.com^
+||jcloudcdn.com^
 ||ladon.wshareit.com^
 ||loopmygame.com^
 ||minisite-dev.ushareit.org^
 ||modengs.net^
 ||mopub.com^
 ||ns-715.awsdns-25.net^
+||onlinegameitem.gametype.h5^
 ||p0.ipstatp.com^
 ||pmp-cdn.modengs.net^
-||push-api.duowan.com^
 ||profiler-collector.wshareit.com^
+||push-api.duowan.com^
 ||push-video.wshareit.com^
 ||receiver-metis.infeng.site^
 ||reporttk.com^
 ||rqmob.com^
 ||rtservice.cocos.net^
 ||rtservice.cocosjoy.com^
+||shareit-push-cdn.wshareit.com.w.kunlunsl.com^
 ||shareitgames.com^
 ||shareitgames.run^
-||shareit-push-cdn.wshareit.com.w.kunlunsl.com^
 ||slivee.com^
 ||srtg.mobi^
 ||st.wshareit.com^
@@ -99,21 +115,6 @@
 ||wshareit.com^
 ||www.pullcf.com^
 ||www.pullcm.com^
-||104.19.128.78^
-||104.19.129.78^
-||104.19.130.78^
-||104.19.131.78^
-||104.19.143.77^
-||107.23.178.199^
-||13.227.228.19^
-||13.248.218.66^
-||13.35.13.120^
-||159.138.103.42^
-||159.138.106.8^
-||159.138.84.44^
-||34.199.12.244^
-||75.2.70.67^
-||76.223.65.142^
 
 # Detik: org.detikcom.rss
 # CNN Indonesia: com.cnn.indonesia
@@ -408,6 +409,7 @@
 ||d.applvn.com^
 ||dashboard-api.staging.tapdaq.com^
 ||dashboard-api.tapdaq.com^
+||dvwvqeddi.com^
 ||exeptingincludedelivering.com^
 ||flongshartail.com^
 ||goofypismica.com^

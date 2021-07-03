@@ -2,22 +2,22 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 03 Jul 2021 08:45 AM UTC+7
+! Last modified: 03 Jul 2021 09:35 AM UTC+7
 ! Version: 03/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL
-0.0.0.0 adservice.google.com
 0.0.0.0 ads.gridtechno.com
+0.0.0.0 adservice.google.com
 0.0.0.0 adx-tk.rayjump.com
 0.0.0.0 api.adaether.com
 0.0.0.0 app-measurement.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 doubleclick.net
-0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 flurry.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googlesyndication.com
@@ -30,17 +30,32 @@
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 scorecardresearch.com
-0.0.0.0 sg01.rayjump.com
 0.0.0.0 sg.tdatamaster.com
+0.0.0.0 sg01.rayjump.com
 0.0.0.0 tls10.newrelic.com.cdn.cloudflare.net
 0.0.0.0 tsg.tdatamaster.com
 
 # SHAREit: com.lenovo.anyshare.gps
 ### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
-0.0.0.0 13.35.13.120
+0.0.0.0 104.19.128.78
+0.0.0.0 104.19.129.78
+0.0.0.0 104.19.130.78
+0.0.0.0 104.19.131.78
+0.0.0.0 104.19.143.77
+0.0.0.0 107.23.178.199
 0.0.0.0 13.224.250.223
+0.0.0.0 13.227.228.19
+0.0.0.0 13.248.218.66
+0.0.0.0 13.35.13.120
+0.0.0.0 13.35.13.120
 0.0.0.0 159.138.101.104
 0.0.0.0 159.138.102.255
+0.0.0.0 159.138.103.42
+0.0.0.0 159.138.106.8
+0.0.0.0 159.138.84.44
+0.0.0.0 34.199.12.244
+0.0.0.0 75.2.70.67
+0.0.0.0 76.223.65.142
 0.0.0.0 active.wshareit.com
 0.0.0.0 adconf.rqmob.com
 0.0.0.0 ads.mopub.com
@@ -50,16 +65,16 @@
 0.0.0.0 ascribe.rqmob.com
 0.0.0.0 asia-abroad.com
 0.0.0.0 buruwan.com
-0.0.0.0 cdn.ushareit.com.w.kunlunsl.com
 0.0.0.0 cdn.ushareit.com
+0.0.0.0 cdn.ushareit.com.w.kunlunsl.com
 0.0.0.0 cdn2.gamecenter.run.cdn.dnsv1.com
 0.0.0.0 chinatelecom.net
 0.0.0.0 cocosjoy.com
 0.0.0.0 cyyjit.com
 0.0.0.0 d54bwtqv0a3zd.cloudfront.net
-0.0.0.0 dwza2b3cs63ny.cloudfront.net
-0.0.0.0 duowan.com
 0.0.0.0 dt.beyla.site
+0.0.0.0 duowan.com
+0.0.0.0 dwza2b3cs63ny.cloudfront.net
 0.0.0.0 fgeh.overseavideo.sched.apdcdn.com
 0.0.0.0 gamecenter.run
 0.0.0.0 gihappy.com
@@ -67,27 +82,28 @@
 0.0.0.0 global-pushsdk.duowan.com
 0.0.0.0 gshareit.com
 0.0.0.0 h5.wshareit.com
-0.0.0.0 jcloudcdn.com
 0.0.0.0 jcloud-cdn.com
+0.0.0.0 jcloudcdn.com
 0.0.0.0 ladon.wshareit.com
 0.0.0.0 loopmygame.com
 0.0.0.0 minisite-dev.ushareit.org
 0.0.0.0 modengs.net
 0.0.0.0 mopub.com
 0.0.0.0 ns-715.awsdns-25.net
+0.0.0.0 onlinegameitem.gametype.h5
 0.0.0.0 p0.ipstatp.com
 0.0.0.0 pmp-cdn.modengs.net
 0.0.0.0 profiler-collector.wshareit.com
-0.0.0.0 push-video.wshareit.com
 0.0.0.0 push-api.duowan.com
+0.0.0.0 push-video.wshareit.com
 0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 reporttk.com
 0.0.0.0 rqmob.com
 0.0.0.0 rtservice.cocos.net
 0.0.0.0 rtservice.cocosjoy.com
+0.0.0.0 shareit-push-cdn.wshareit.com.w.kunlunsl.com
 0.0.0.0 shareitgames.com
 0.0.0.0 shareitgames.run
-0.0.0.0 shareit-push-cdn.wshareit.com.w.kunlunsl.com
 0.0.0.0 slivee.com
 0.0.0.0 srtg.mobi
 0.0.0.0 st.wshareit.com
@@ -98,29 +114,14 @@
 0.0.0.0 usicdn.com
 0.0.0.0 v262.dl.abroad.asia-abroad.com
 0.0.0.0 v353.dl.abroad.asia-abroad.com
+0.0.0.0 vs.wshareit.com
 0.0.0.0 vs.wshareit.com.asia-abroad.com
 0.0.0.0 vs.wshareit.com.b.galileo.jcloud-cdn.com
 0.0.0.0 vs.wshareit.com.cdn.jcloudcdn.com
-0.0.0.0 vs.wshareit.com
 0.0.0.0 watch-it.video
 0.0.0.0 wshareit.com
 0.0.0.0 www.pullcf.com
 0.0.0.0 www.pullcm.com
-0.0.0.0 104.19.128.78
-0.0.0.0 104.19.129.78
-0.0.0.0 104.19.130.78
-0.0.0.0 104.19.131.78
-0.0.0.0 104.19.143.77
-0.0.0.0 107.23.178.199
-0.0.0.0 13.227.228.19
-0.0.0.0 13.248.218.66
-0.0.0.0 13.35.13.120
-0.0.0.0 159.138.103.42
-0.0.0.0 159.138.106.8
-0.0.0.0 159.138.84.44
-0.0.0.0 34.199.12.244
-0.0.0.0 75.2.70.67
-0.0.0.0 76.223.65.142
 
 # Detik: org.detikcom.rss
 # CNN Indonesia: com.cnn.indonesia
@@ -452,6 +453,7 @@
 0.0.0.0 d.applvn.com
 0.0.0.0 dashboard-api.staging.tapdaq.com
 0.0.0.0 dashboard-api.tapdaq.com
+0.0.0.0 dvwvqeddi.com
 0.0.0.0 exeptingincludedelivering.com
 0.0.0.0 flongshartail.com
 0.0.0.0 goofypismica.com
