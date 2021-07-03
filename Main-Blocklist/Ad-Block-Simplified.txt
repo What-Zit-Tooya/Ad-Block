@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 03 Jul 2021 10:28 AM UTC+7
+! Last modified: 03 Jul 2021 10:45 AM UTC+7
 ! Version: 03/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -391,7 +391,6 @@
 ||ads.staging.tapdaq.com^
 ||ads.tapdaq.com^
 ||ads.twitter.com^
-||adtrackers.net^
 ||advertising.aol.com^
 ||advertising.yahoo.com^
 ||analytics.staging.tapdaq.com^
@@ -423,7 +422,7 @@
 ||mail.tapdaq.com^
 ||ms.applovin.com^
 ||ms.applvn.com^
-||partnerads.ysm.yahoo.com^
+||ngbbpwyrv.com^
 ||pdn.applovin.com^
 ||placements.tapjoy.com^
 ||practisecolander.com^
