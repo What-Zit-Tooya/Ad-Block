@@ -29,8 +29,7 @@ Subscribe | Purpose
 [Ad-Block (HOSTS)](https://github.com/What-Zit-Tooya/Ad-Block/raw/main/Main-Blocklist/Ad-Block-HOSTS.txt) | HOSTS `0.0.0.0` version. Based of my main Ad-Block.
 
 # Additional Blocklist
-You can find additional blocklist on my [Ad-Block repo](https://github.com/What-Zit-Tooya/Ad-Block/tree/main/Additional-Blocklist).
-At this time, it contains `Windows Telemetry Block`, may be I will add another blocklist in the future.
+You can find additional blocklist on my [additional Ad-Block repo](https://github.com/What-Zit-Tooya/Ad-Block/tree/main/Additional-Blocklist)
 
 # Usage
 My main Ad-Block & Simplified version is suitable for [AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).

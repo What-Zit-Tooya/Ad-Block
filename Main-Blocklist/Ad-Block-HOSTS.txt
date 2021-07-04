@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 03 Jul 2021 10:45 AM UTC+7
-! Version: 03/07/2021
+! Last modified: 04 Jul 2021 11:30 AM UTC+7
+! Version: 04/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -601,27 +601,50 @@
 0.0.0.0 wlog.kuaishou.com
 
 # HUAWEI PHONES
-0.0.0.0 159.138.99.194
 0.0.0.0 159.138.109.22
 0.0.0.0 159.138.80.62
 0.0.0.0 159.138.90.32
-0.0.0.0 adx-dra.op.hicloud.com
+0.0.0.0 159.138.99.194
+0.0.0.0 activity5.hicloud.com
 0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
+0.0.0.0 adx-dra.op.hicloud.com
+0.0.0.0 atlas-emui-drcn.hicloud.com
 0.0.0.0 cs02-pps-dra.dbankcdn.com
+0.0.0.0 datacollector-dra.dt.hicloud.com
 0.0.0.0 dxzc1o98vrjl6.cloudfront.net
+0.0.0.0 feedback-dre.platform.hicloud.com
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 grs.hicloud.com
+0.0.0.0 healthdata.hicloud.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 logserver.hicloud.com
+0.0.0.0 logserver3.hicloud.com
+0.0.0.0 logservice-dra.platform.hicloud.com
+0.0.0.0 logservice-dre.platform.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logtransform.hicloud.com
+0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics1.data.hicloud.com
 0.0.0.0 metrics1.dt.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrics2.dt.hicloud.com
+0.0.0.0 metrics3.data.hicloud.com
 0.0.0.0 metrics3.dt.hicloud.com
+0.0.0.0 metrics4.data.hicloud.com
 0.0.0.0 metrics4.dt.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
 0.0.0.0 metrics5.dt.hicloud.com
 0.0.0.0 metrics6.dt.hicloud.com
-0.0.0.0 metrics-dra.dt.hicloud.com
+0.0.0.0 opsdata.hicloud.com
+0.0.0.0 reporte2.hicloud.com
 0.0.0.0 static1.dmcdn.net
+0.0.0.0 tracker-device-dre.things.hicloud.com
+0.0.0.0 tracker-dre.things.hicloud.com
 0.0.0.0 vod-vrz-dra.dbankcdn.com
 
 # XIAOMI PHONES
@@ -1382,7 +1405,6 @@
 0.0.0.0 pushplatform.tclclouds.com
 0.0.0.0 sec.tclclouds.com
 0.0.0.0 webservice.tclmobile.cn
-0.0.0.0 ws75.aptoide.com
 0.0.0.0 vueserion.ciayo.com
 
 # Kiwi Browser: com.kiwibrowser.browser
@@ -1684,135 +1706,6 @@
 0.0.0.0 zeus.cmcm.com
 0.0.0.0 zj.dcys.ksmobile.com
 0.0.0.0 zj.ios.ksmobile.com
-
-# Spotify: com.spotify.music
-# Imported from https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify
-# Thanks to him
-# Will add more servers (if any)
-# Need test troughly
-0.0.0.0 23.49.60.137
-0.0.0.0 23.49.60.152
-0.0.0.0 a297.dscc.akamai.net
-0.0.0.0 ad.atdmt.com
-0.0.0.0 adclick.g.doublecklick.net
-0.0.0.0 adeventtracker.spotify.com
-0.0.0.0 adlab.spotify.com
-0.0.0.0 adnxs.com
-0.0.0.0 adnxs.comadplexmedia.adk2x.com
-0.0.0.0 ads-akp.spotify.com
-0.0.0.0 ads-fa.spotify.com
-0.0.0.0 ads-sp-lon.cdn.spotify.com
-0.0.0.0 ads-west-colo.adsymptotic.com
-0.0.0.0 ads.pubmatic.com
-0.0.0.0 ads.spotify.com
-0.0.0.0 adserver.adtechus.com
-0.0.0.0 analytics.spotify.com
-0.0.0.0 anycast.pixel.adsafeprotected.com
-0.0.0.0 assets.spotify.com
-0.0.0.0 audio-ak-spotify-com.akamaized.net
-0.0.0.0 audio-ak.spotify.com
-0.0.0.0 audio-akp.spotify.com
-0.0.0.0 audio-cf.spotify.com
-0.0.0.0 audio-ec.spotify.com
-0.0.0.0 audio-fa.scdn.co
-0.0.0.0 audio-fa.spotify.com
-0.0.0.0 audio-fab.spotify.com
-0.0.0.0 audio-fac-spotify.com
-0.0.0.0 audio-gc.scdn.co
-0.0.0.0 audio-gc.spotify.com
-0.0.0.0 audio-sp-lon.spotify.com
-0.0.0.0 audio-sp-sto.spotify.com
-0.0.0.0 audio2.spotify.com
-0.0.0.0 audio4-ak-spotify-com.akamaized.net
-0.0.0.0 audio4-fa.scdn.com
-0.0.0.0 b.scorecardresearch.com
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 bounceexchange.com
-0.0.0.0 bs.serving-sys.com
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 content.bitsontherun.com
-0.0.0.0 core.insightexpressai.com
-0.0.0.0 crashdump.ciqe-gslb.spotify.com
-0.0.0.0 crashdump.spotify.com
-0.0.0.0 cs126.wpc.edgecastcdn.net
-0.0.0.0 cs126.wpc.teliasoneracdn.net
-0.0.0.0 cs283.wpc.teliasoneracdn.net
-0.0.0.0 d2gi7ultltnc2u.cloudfront.net
-0.0.0.0 d361oi6ppvq2ym.cloudfront.net
-0.0.0.0 d3rt1990lpmkn.cloudfront.net
-0.0.0.0 ds.serving-sys.com
-0.0.0.0 dt.adsafeprotected.com
-0.0.0.0 fw.adsafeprotected.com
-0.0.0.0 gads.pubmatic.com
-0.0.0.0 geo3.ggpht.com
-0.0.0.0 gew1.ap.spotify.com
-0.0.0.0 googleadapis.l.google.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 gtssl2-ocsp.geotrust.com
-0.0.0.0 heads-ak.spotify.com
-0.0.0.0 heads-akp.spotify.com
-0.0.0.0 heads-cf.spotify.com
-0.0.0.0 heads-ec.spotify.com
-0.0.0.0 heads-fa.scdn.co
-0.0.0.0 heads-fa.spotify.com
-0.0.0.0 heads-fab.spotify.com
-0.0.0.0 heads-fac.spotify.com
-0.0.0.0 idsync-ext.rlcdn.com
-0.0.0.0 ipv4.scdnco.spotify.map.fastly.net
-0.0.0.0 jefes-ec.spotify.com
-0.0.0.0 jefes-fa.scdn.co
-0.0.0.0 js.moatads.com
-0.0.0.0 links.spotify.com
-0.0.0.0 log.spotify.com
-0.0.0.0 log2.spotify.com
-0.0.0.0 lon6-accesspoint-a33.lon6.spotify.com
-0.0.0.0 media-match.com
-0.0.0.0 mp3ad.scdn.co
-0.0.0.0 na.gmtdmp.com
-0.0.0.0 pagead-googlehosted.l.google.com
-0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pagead46.l.doubleclick.net
-0.0.0.0 partner-service-testing.spotify.com
-0.0.0.0 partner-service.spotify.com
-0.0.0.0 partner.googleadservices.com
-0.0.0.0 partnerad.l.doubleclick.net
-0.0.0.0 payment-callback.spotify.com
-0.0.0.0 pci.spotify.com
-0.0.0.0 pixel.spotify.com
-0.0.0.0 prod.spotify-heads.map.fastlylb.net
-0.0.0.0 prod.spotify.map .fastlylb.net
-0.0.0.0 prod.spotify.map.fastlylb.net
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 quicksilver.scdn.co
-0.0.0.0 redirector.gvt1.com
-0.0.0.0 s0.2mdn.net
-0.0.0.0 secure.insightexpressai.com
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 servidor-54-230-216-203.mrs50.r.cloudfront.net
-0.0.0.0 showads33000.pubmatic.com
-0.0.0.0 spclient.wg.spotify.com/ads
-0.0.0.0 spotify-desktop.com
-0.0.0.0 sto3-accesspoint-a88.sto3.spotify.net
-0.0.0.0 sto3.spotify.com
-0.0.0.0 sync.adaptv.advertising.com
-0.0.0.0 techattend.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 u.scdn.co
-0.0.0.0 upgrade.scdn.co
-0.0.0.0 upgrade.spotify.com
-0.0.0.0 v.jwpcdn.com
-0.0.0.0 video-ad-stats.googlesyndication.com
-0.0.0.0 video-fa-b.cdn.spotify.com
-0.0.0.0 video-fa.cdn.spotify.com
-0.0.0.0 video-fa.scdn.co
-0.0.0.0 visto en pantalla.thewhizmarketing.com
-0.0.0.0 weblb-wg.gslb.spotify.com
-0.0.0.0 www.audio2.spotify.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 www.spotify-desktop.com
 
 # Facemoji Keyboard - Cute Emoji & Theme: com.facemoji.lite.xiaomi
 # Default Keyboard for Xiaomi Phones

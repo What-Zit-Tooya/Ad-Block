@@ -1,0 +1,137 @@
+! Title: Spotify Blocklist
+! Expires: Never
+! Description: Filter to block spotify ads & tracking
+! Author: WhatZitTooya
+! Last modified: 04 Jul 2021 11:30 AM UTC+7
+! Version: 04/07/2021
+! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+
+# Spotify: com.spotify.music
+# Imported from https://github.com/AlfonsoVergara-github/Host-to-block-ads-for-spotify
+# Thanks to him
+# Need test throughly
+# Block Spotify ads is a like pain in the a$$
+# Because audio music servers also used to ads server, fyi
+# BEWARE, Spotify will block your account if you are blocking ads. That's why adguard don't block it
+# SOURCE INFO: https://www.reddit.com/r/Adguard/comments/oc6edb/comment/h3vpspa
+||*-accesspoint-d-*.ap.spotify.com^
+||23.49.60.137^
+||23.49.60.152^
+||a297.dscc.akamai.net^
+||ad.atdmt.com^
+||adeventtracker.spotify.com^
+||adlab.spotify.com^
+||adnxs.com^
+||adnxs.comadplexmedia.adk2x.com^
+||ads-akp.spotify.com^
+||ads-fa.spotify.com^
+||ads-sp-ash.cdn.spotify.com^
+||ads-sp-lon.cdn.spotify.com^
+||ads-west-colo.adsymptotic.com^
+||ads.pubmatic.com^
+||ads.spotify.com^
+||adserver.adtechus.com^
+||analytics.spotify.com^
+||anycast.pixel.adsafeprotected.com^
+||assets.spotify.com^
+||atom.adjust.com^
+||audio-ak-spotify-com.akamaized.net^
+||audio-ak.spotify.com.eip.akadns.net^
+||audio-ak.spotify.com^
+||audio-akp.spotify.com^
+||audio-cf.spotify.com^
+||audio-ec.spotify.com^
+||audio-fa.scdn.co^
+||audio-fa.spotify.com^
+||audio-fab.spotify.com^
+||audio-fac-spotify.com^
+||audio-gc.scdn.co^
+||audio-gc.spotify.com^
+||audio-sp-lon.spotify.com^
+||audio-sp-sto.spotify.com^
+||audio2.spotify.com^
+||audio4-ak-spotify-com.akamaized.net^
+||audio4-akp-spotify-com.akamaized.net^
+||audio4-fa.scdn.com^
+||beta.spotify.map.fastly.net^
+||bounceexchange.com^
+||bs.serving-sys.com^
+||content.bitsontherun.com^
+||core.insightexpressai.com^
+||crashdump.ciqe-gslb.spotify.com^
+||crashdump.spotify.com^
+||cs126.wpc.edgecastcdn.net^
+||cs126.wpc.teliasoneracdn.net^
+||cs283.wpc.teliasoneracdn.net^
+||d2gi7ultltnc2u.cloudfront.net^
+||d361oi6ppvq2ym.cloudfront.net^
+||d3rt1990lpmkn.cloudfront.net^
+||doubleclick.net^
+||ds.serving-sys.com^
+||dt.adsafeprotected.com^
+||event.spotxchange.com^
+||events.adjust.com^
+||fw.adsafeprotected.com^
+||gads.pubmatic.com^
+||geo3.ggpht.com^
+||gew1.ap.spotify.com^
+||gtssl2-ocsp.geotrust.com^
+||heads-ak.spotify.com^
+||heads-akp.spotify.com^
+||heads-cf.spotify.com^
+||heads-ec.spotify.com^
+||heads-fa.spotify.com^
+||heads-fab.spotify.com^
+||heads-fac.spotify.com^
+||idsync-ext.rlcdn.com^
+||ipv4.scdnco.spotify.map.fastly.net^
+||jefes-ec.spotify.com^
+||jefes-fa.scdn.co^
+||js.moatads.com^
+||links.spotify.com^
+||litix.io^
+||log.spotify.com^
+||log2.spotify.com^
+||lon6-accesspoint-a33.lon6.spotify.com^
+||media-match.com^
+||mp3ad.scdn.co^
+||na.gmtdmp.com^
+||partner-service-testing.spotify.com^
+||partner-service.spotify.com^
+||partnerad.l.doubleclick.net^
+||payment-callback.spotify.com^
+||pci.spotify.com^
+||pixel.spotify.com^
+||prod.spotify-heads.map.fastlylb.net^
+||prod.spotify.map .fastlylb.net^
+||prod.spotify.map.fastly.net^
+||prod.spotify.map.fastlylb.net^
+||quicksilver.scdn.co^
+||redirector.gvt1.com^
+||s0.2mdn.net^
+||scorecardresearch.com^
+||secure.insightexpressai.com^
+||servidor-54-230-216-203.mrs50.r.cloudfront.net^
+||showads33000.pubmatic.com^
+||spclient.wg.spotify.com/ad-logic/*
+||spclient.wg.spotify.com/ads
+||spclient.wg.spotify.com/ads/*
+||spotify-desktop.com^
+||sto3-accesspoint-a88.sto3.spotify.net^
+||sto3.spotify.com^
+||sync.adaptv.advertising.com^
+||techattend.com^
+||thewhizmarketing.com^
+||u.scdn.co^
+||ulink.adjust.com^
+||v.jwpcdn.com^
+||v4-only.eip-ntt.audio-ak.spotify.com.akahost.net^
+||video-ad-stats.googlesyndication.com^
+||video-akp-cdn-spotify-com.akamaized.net^
+||video-fa-b.cdn.spotify.com^
+||video-fa.cdn.spotify.com^
+||video-fa.scdn.co^
+||view.adjust.com^
+||weblb-wg.gslb.spotify.com^
