@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 04 Jul 2021 11:30 AM UTC+7
+! Last modified: 04 Jul 2021 12:00 PM UTC+7
 ! Version: 04/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -20,6 +20,7 @@
 ||insights-collector.newrelic.com^
 ||ipstatp.com^
 ||kvinit-prod.api.kochava.com^
+||litix.io^
 ||metric-api.newrelic.com^
 ||oth.eve.mdt.qq.com^
 ||scorecardresearch.com^

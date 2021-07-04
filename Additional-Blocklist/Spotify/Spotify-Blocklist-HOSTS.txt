@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Filter to block spotify ads & tracking
 ! Author: WhatZitTooya
-! Last modified: 04 Jul 2021 11:30 AM UTC+7
+! Last modified: 04 Jul 2021 12:00 PM UTC+7
 ! Version: 04/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -16,8 +16,10 @@
 # Because audio music servers also used to ads server, fyi
 # BEWARE, Spotify will block your account if you are blocking ads. That's why adguard don't block it
 # SOURCE INFO: https://www.reddit.com/r/Adguard/comments/oc6edb/comment/h3vpspa
+0.0.0.0 2qbjhhcl4u87btjbo7dh8vi2n.litix.io
 0.0.0.0 23.49.60.137
 0.0.0.0 23.49.60.152
+0.0.0.0 a297.c.akamai.net
 0.0.0.0 a297.dscc.akamai.net
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adclick.g.doublecklick.net
@@ -54,7 +56,7 @@
 0.0.0.0 audio2.spotify.com
 0.0.0.0 audio4-ak-spotify-com.akamaized.net
 0.0.0.0 audio4-akp-spotify-com.akamaized.net
-0.0.0.0 audio4-fa.scdn.com
+0.0.0.0 audio4-fa.scdn.co
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 beta.spotify.map.fastly.net
 0.0.0.0 bid.g.doubleclick.net

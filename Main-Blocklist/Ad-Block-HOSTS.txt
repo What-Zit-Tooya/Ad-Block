@@ -2,12 +2,13 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 04 Jul 2021 11:30 AM UTC+7
+! Last modified: 04 Jul 2021 12:00 PM UTC+7
 ! Version: 04/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL
+0.0.0.0 2qbjhhcl4u87btjbo7dh8vi2n.litix.io
 0.0.0.0 ads.gridtechno.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adx-tk.rayjump.com
@@ -26,6 +27,7 @@
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 ipstatp.com
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 litix.io
 0.0.0.0 metric-api.newrelic.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 pagead2.googlesyndication.com
