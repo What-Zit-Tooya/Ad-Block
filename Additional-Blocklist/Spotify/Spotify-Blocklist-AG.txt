@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Filter to block spotify ads & tracking
 ! Author: WhatZitTooya
-! Last modified: 05 Jul 2021 12:56 PM UTC+7
+! Last modified: 05 Jul 2021 12:15 PM UTC+7
 ! Version: 05/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -40,7 +40,6 @@
 ||anycast.pixel.adsafeprotected.com^
 ||assets.spotify.com^
 ||atom.adjust.com^
-||audio-ak-spotify-com.akaimaized.net^
 ||audio-ak.spotify.com^
 ||audio-akp.spotify.com^
 ||audio-cf.spotify.com^
@@ -48,8 +47,6 @@
 ||audio-fa.spotify.com^
 ||audio-fab.spotify.com^
 ||audio-fac-spotify.com^
-||audio-fa.scdn.co^
-||audio-gc.scdn.co^
 ||audio-gc.spotify.com^
 ||audio-sp-lon.spotify.com^
 ||audio-sp-sto.spotify.com^
@@ -85,9 +82,7 @@
 ||heads-fab.spotify.com^
 ||heads-fac.spotify.com^
 ||idsync-ext.rlcdn.com^
-||ipv4.scdnco.spotify.map.fastly.net^
 ||jefes-ec.spotify.com^
-||jefes-fa.scdn.co^
 ||js.moatads.com^
 ||links.spotify.com^
 ||litix.io^
@@ -95,7 +90,6 @@
 ||log2.spotify.com^
 ||lon6-accesspoint-a33.lon6.spotify.com^
 ||media-match.com^
-||mp3ad.scdn.co^
 ||na.gmtdmp.com^
 ||partner-service-testing.spotify.com^
 ||partner-service.spotify.com^
@@ -107,7 +101,6 @@
 ||prod.spotify.map .fastlylb.net^
 ||prod.spotify.map.fastly.net^
 ||prod.spotify.map.fastlylb.net^
-||quicksilver.scdn.co^
 ||redirector.gvt1.com^
 ||s0.2mdn.net^
 ||scorecardresearch.com^
@@ -123,13 +116,11 @@
 ||sync.adaptv.advertising.com^
 ||techattend.com^
 ||thewhizmarketing.com^
-||u.scdn.co^
 ||ulink.adjust.com^
 ||v.jwpcdn.com^
 ||v4-only.eip-ntt.audio-ak.spotify.com.akahost.net^
 ||video-ad-stats.googlesyndication.com^
 ||video-fa-b.cdn.spotify.com^
 ||video-fa.cdn.spotify.com^
-||video-fa.scdn.co^
 ||view.adjust.com^
 ||weblb-wg.gslb.spotify.com^
