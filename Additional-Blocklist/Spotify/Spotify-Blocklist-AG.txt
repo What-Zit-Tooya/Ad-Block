@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Filter to block spotify ads & tracking
 ! Author: WhatZitTooya
-! Last modified: 05 Jul 2021 11:15 AM UTC+7
+! Last modified: 05 Jul 2021 11:30 AM UTC+7
 ! Version: 05/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -40,13 +40,10 @@
 ||anycast.pixel.adsafeprotected.com^
 ||assets.spotify.com^
 ||atom.adjust.com^
-||audio-ak-spotify-com.akamaized.net^
-||audio-ak.spotify.com.eip.akadns.net^
 ||audio-ak.spotify.com^
 ||audio-akp.spotify.com^
 ||audio-cf.spotify.com^
 ||audio-ec.spotify.com^
-||audio-fa.scdn.co^
 ||audio-fa.spotify.com^
 ||audio-fab.spotify.com^
 ||audio-fac-spotify.com^
@@ -55,9 +52,6 @@
 ||audio-sp-lon.spotify.com^
 ||audio-sp-sto.spotify.com^
 ||audio2.spotify.com^
-||audio4-ak-spotify-com.akamaized.net^
-||audio4-akp-spotify-com.akamaized.net^
-||audio4-fa.scdn.co^
 ||beta.spotify.map.fastly.net^
 ||bounceexchange.com^
 ||bs.serving-sys.com^
