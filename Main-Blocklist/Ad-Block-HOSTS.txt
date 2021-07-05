@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 05 Jul 2021 07:00 PM UTC+7
+! Last modified: 05 Jul 2021 08:35 PM UTC+7
 ! Version: 05/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -440,6 +440,7 @@
 0.0.0.0 analytics.tapdaq.com
 0.0.0.0 api.vungle.com
 0.0.0.0 assets.applovin.com
+0.0.0.0 bannertrack.net
 0.0.0.0 bitcoloan.info
 0.0.0.0 blog.tapdaq.com
 0.0.0.0 brtcjmnplmzo.com
