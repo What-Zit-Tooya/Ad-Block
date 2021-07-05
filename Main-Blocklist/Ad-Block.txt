@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 04 Jul 2021 12:00 PM UTC+7
-! Version: 04/07/2021
+! Last modified: 05 Jul 2021 07:00 PM UTC+7
+! Version: 05/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1006,7 +1006,6 @@
 ||trading.assistant.miui.com^
 ||transfer.sec.miui.com^
 ||update.crashlytics.com^
-||us.log.slb.avlyun.com^
 ||us.mixin.api.files.xiaomi.com^
 ||us.statusapi.micloud.xiaomi.net^
 ||verca.xpa.assistant.miui.com^
@@ -1202,9 +1201,9 @@
 ||log.avlyun.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.avlyun.sec.miui.com^
+||log.slb.avlyun.com^
 ||shepherd.ff.avast.com^
 ||shepherd.ns1.ff.avast.com^
-||us.log.slb.avlyun.com^
 
 # WPS Office: cn.wps.moffice_eng
 ||abroad-ad.kingsoft-office-service.com^
@@ -1601,3 +1600,10 @@
 ||sspapi-prd.samsungrs.com^
 ||sdk.pushmessage.samsung.com^
 ||ureca.samsungapps.com^
+
+# WeTV - Cdrama, Kdrama & More: com.tencent.qqlivei18n
+||btrace.wetvinfo.com^
+
+# Aptoide: cm.aptoide.pt
+||aptoide.com/api/*/user/addEvent^
+||aptoide.com/api/*/appcoins/promotions^

@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 04 Jul 2021 12:00 PM UTC+7
-! Version: 04/07/2021
+! Last modified: 05 Jul 2021 07:00 PM UTC+7
+! Version: 05/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -889,6 +889,7 @@
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.pandora.xiaomi.com
 0.0.0.0 log.stats.miui.com
+0.0.0.0 log.slb.avlyun.com
 0.0.0.0 logupdate.avlyun.sec.intl.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 m.beehive.in.intl.miui.com
@@ -1097,7 +1098,6 @@
 0.0.0.0 update.avlyun.sec.intl.miui.com
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 update.crashlytics.com
-0.0.0.0 us.log.slb.avlyun.com
 0.0.0.0 us.mixin.api.files.xiaomi.com
 0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 verca.xpa.assistant.miui.com
@@ -1751,3 +1751,6 @@
 0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 sdk.pushmessage.samsung.com
 0.0.0.0 ureca.samsungapps.com
+
+# WeTV - Cdrama, Kdrama & More: com.tencent.qqlivei18n
+0.0.0.0 btrace.wetvinfo.com
