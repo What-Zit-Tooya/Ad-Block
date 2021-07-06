@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 05 Jul 2021 07:00 PM UTC+7
-! Version: 05/07/2021
+! Last modified: 06 Jul 2021 08:20 PM UTC+7
+! Version: 06/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -445,6 +445,7 @@
 ||vsvihsib.com^
 ||vubihasdtbadiq.com^
 ||vungle.com^
+||wohchuuemjs.com^
 ||ws.tapjoyads.com^
 ||www.staging.tapdaq.com^
 ||www.tapdaq.com^

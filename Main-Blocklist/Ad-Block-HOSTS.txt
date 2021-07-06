@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 05 Jul 2021 08:35 PM UTC+7
-! Version: 05/07/2021
+! Last modified: 06 Jul 2021 08:20 PM UTC+7
+! Version: 06/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -426,8 +426,6 @@
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
 0.0.0.0 ad.foxnetworks.com
-0.0.0.0 adclixx.net
-0.0.0.0 adnetasia.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.staging.tapdaq.com
@@ -440,7 +438,6 @@
 0.0.0.0 analytics.tapdaq.com
 0.0.0.0 api.vungle.com
 0.0.0.0 assets.applovin.com
-0.0.0.0 bannertrack.net
 0.0.0.0 bitcoloan.info
 0.0.0.0 blog.tapdaq.com
 0.0.0.0 brtcjmnplmzo.com
@@ -449,8 +446,6 @@
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
-0.0.0.0 crunchyroll.adnetasia.com
-0.0.0.0 crunchyroll.adtrackers.net
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
 0.0.0.0 dashboard-api.staging.tapdaq.com
@@ -469,7 +464,6 @@
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ngbbpwyrv.com
-0.0.0.0 ox-d.adnetasia.com
 0.0.0.0 pdn.applovin.com
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 practisecolander.com
@@ -486,8 +480,6 @@
 0.0.0.0 support.tapdaq.com
 0.0.0.0 tapdaq.com
 0.0.0.0 telemetry.sdk.inmobi.com
-0.0.0.0 torrentz.adclixx.net
-0.0.0.0 torrentz.adnetasia.com
 0.0.0.0 trk.lot-impossible-mouth-twice.xyz
 0.0.0.0 tywzyhfliwdbu.com
 0.0.0.0 unityads.unity3d.com
@@ -496,12 +488,11 @@
 0.0.0.0 vubihasdtbadiq.com
 0.0.0.0 vungle.com
 0.0.0.0 washedinmate.com
+0.0.0.0 wohchuuemjs.com
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 www.staging.tapdaq.com
 0.0.0.0 www.tapdaq.com
 0.0.0.0 www.weeklyordinaryrewardextra.cyou
-0.0.0.0 yahoo.adnetasia.com
-0.0.0.0 yasni.bannertrack.net
 0.0.0.0 yititsimplyd.club
 0.0.0.0 z.moatads.com
 
