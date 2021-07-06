@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 05 Jul 2021 07:00 PM UTC+7
-! Version: 05/07/2021
+! Last modified: 06 Jul 2021 05:00 PM UTC+7
+! Version: 06/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -51,8 +51,11 @@
 @@||b-graph.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
 @@||b-graph.instagram.com^$app=com.instagram.android|com.facebook.katana|com.facebook.orca|com.garena.game.kgid|com.riotgames.league.wildrift|com.garena.gaslite|com.play.rosea
 @@||edge-mqtt.facebook.com^$app=com.facebook.katana|com.facebook.orca|com.instagram.android|com.facebook.lite|com.facebook.mlite
+@@||b-api.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
+@@||b-www.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
 @@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea|com.garena.game.codm
 @@||graph.instagram.com^$app=com.instagram.android
+@@||graphql.instagram.com^$app=com.instagram.android
 @@||mqtt-mini.facebook.com^$app=com.facebook.katana|com.facebook.orca|com.instagram.android|com.facebook.lite|com.facebook.mlite
 @@||z-m-graph.facebook.com^$app=com.facebook.katana|com.facebook.orca|com.instagram.android|com.facebook.lite|com.facebook.mlite
 
