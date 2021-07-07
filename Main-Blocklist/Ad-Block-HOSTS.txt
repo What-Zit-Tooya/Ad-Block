@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 06 Jul 2021 08:20 PM UTC+7
-! Version: 06/07/2021
+! Last modified: 07 Jul 2021 07:00 AM UTC+7
+! Version: 07/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -172,6 +172,7 @@
 0.0.0.0 lazada-sg.alibaba.com
 0.0.0.0 laz-dorangesource.alicdn.com
 0.0.0.0 laz-dorangesource.alicdn.com.w.cdngslb.com
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 lzd.highway.alibaba-inc.com
 0.0.0.0 retcode-sg-lazada.arms.aliyuncs.com
 0.0.0.0 taobao-tw.alibaba.com
@@ -1418,7 +1419,6 @@
 0.0.0.0 13.224.249.61
 0.0.0.0 13.227.142.9
 0.0.0.0 13.227.252.117
-0.0.0.0 13.227.252.98
 0.0.0.0 199.232.45.32
 0.0.0.0 52.10.120.178
 0.0.0.0 54.182.0.38
