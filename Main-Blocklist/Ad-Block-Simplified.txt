@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 07 Jul 2021 08:45 AM UTC+7
+! Last modified: 07 Jul 2021 07:00 PM UTC+7
 ! Version: 07/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1313,6 +1313,7 @@ https://ynuf.aliapp.org/saveWb.json?
 
 # ALCATEL (TCL) PHONES
 ||103.220.72.168^
+||cleanportal.tclclouds.com^
 ||dg.udc.eu.tclclouds.com^
 ||gw.rtdp.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
@@ -1651,3 +1652,13 @@ https://ynuf.aliapp.org/saveWb.json?
 
 # WeTV - Cdrama, Kdrama & More: com.tencent.qqlivei18n
 ||btrace.wetvinfo.com^
+
+# INFINIX PHONES
+# Captured from AdGuard Home
+# Need tested throughly
+||agafurretor.com^
+||ds.shalltry.com^
+||ire-dsc.shalltry.com^
+||ind-dsc.shalltry.com^
+||ind-dsu.shalltry.com^
+||ire-dsu.shalltry.com^

@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 07 Jul 2021 08:45 AM UTC+7
+! Last modified: 07 Jul 2021 07:00 PM UTC+7
 ! Version: 07/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1287,6 +1287,7 @@
 ||analisis.io^
 
 # ALCATEL (TCL) PHONES
+||cleanportal.tclclouds.com^
 ||dg.udc.eu.tclclouds.com^
 ||gw.rtdp.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
@@ -1611,3 +1612,13 @@
 # Aptoide: cm.aptoide.pt
 ||aptoide.com/api/*/user/addEvent^
 ||aptoide.com/api/*/appcoins/promotions^
+
+# INFINIX PHONES
+# Captured from AdGuard Home
+# Need tested throughly
+||agafurretor.com^
+||ds.shalltry.com^
+||ire-dsc.shalltry.com^
+||ind-dsc.shalltry.com^
+||ind-dsu.shalltry.com^
+||ire-dsu.shalltry.com^
