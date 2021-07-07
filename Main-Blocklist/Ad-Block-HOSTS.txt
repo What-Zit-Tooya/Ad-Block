@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 07 Jul 2021 07:00 PM UTC+7
+! Last modified: 07 Jul 2021 08:00 PM UTC+7
 ! Version: 07/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -549,7 +549,9 @@
 0.0.0.0 lianmeng.snssdk.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 mon.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mon.snssdk.com
+0.0.0.0 mon-va.snssdk.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 novelfm.snssdk.com
 0.0.0.0 open.snssdk.com
@@ -1753,8 +1755,11 @@
 # Captured from AdGuard Home
 # Need tested throughly
 0.0.0.0 agafurretor.com
+0.0.0.0 api.twibida.com
 0.0.0.0 ds.shalltry.com
 0.0.0.0 ire-dsc.shalltry.com
 0.0.0.0 ind-dsc.shalltry.com
 0.0.0.0 ind-dsu.shalltry.com
 0.0.0.0 ire-dsu.shalltry.com
+0.0.0.0 newsaggreg.shalltry.com
+0.0.0.0 toolgroup.shalltry.com
