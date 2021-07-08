@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 07 Jul 2021 08:00 PM UTC+7
-! Version: 07/07/2021
+! Last modified: 08 Jul 2021 12:00 PM UTC+7
+! Version: 08/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1707,10 +1707,13 @@
 
 # Facemoji Keyboard - Cute Emoji & Theme: com.facemoji.lite.xiaomi
 # Default Keyboard for Xiaomi Phones
-# Tested on MIUI 12.5 Global ROM 
+# Tested on MIUI 12.5 Global ROM
+# Facemoji Emoji Keyboard:Emoji Keyboard,Theme,Font: com.simejikeyboard
+0.0.0.0 globalmsg.facemojikeyboard.com
 0.0.0.0 liteapi.ekatox.com
 0.0.0.0 litemsg.ekatox.com
 0.0.0.0 litestatis.ekatox.com
+0.0.0.0 statis.facemojikeyboard.com
 
 # Vision+: Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
 0.0.0.0 analytics.mncdigital.id
@@ -1763,3 +1766,41 @@
 0.0.0.0 ire-dsu.shalltry.com
 0.0.0.0 newsaggreg.shalltry.com
 0.0.0.0 toolgroup.shalltry.com
+
+# MEIZU PHONES
+# Pulled from AdGuard Home
+# Need Tested Throughly
+0.0.0.0 ak.icecyber.org
+0.0.0.0 api-push.in.meizu.com
+0.0.0.0 api.applovefrom.com
+0.0.0.0 avatars.mds.yandex.net
+0.0.0.0 beforeitsnews.com
+0.0.0.0 business.inveno.com
+0.0.0.0 dispatcher.3g.qq.com
+0.0.0.0 hotapps-res-apk.in.meizu.com
+0.0.0.0 hotapps.in.meizu.com
+0.0.0.0 infocenter.in.meizu.com
+0.0.0.0 mazu-hk.3g.qq.com
+0.0.0.0 mvconf.f.360.cn
+0.0.0.0 netsms.meizu.com
+0.0.0.0 ni.qingmang.mobi
+0.0.0.0 onemind.meizu.com
+0.0.0.0 open-app.meizu.com
+0.0.0.0 pmir.3g.qq.com
+0.0.0.0 pubserver1.bizport.cn
+0.0.0.0 pubserver8.bizport.cn
+0.0.0.0 realtime.icecyber.org
+0.0.0.0 report-1.appmetrica.webvisor.com
+0.0.0.0 report.appmetrica.webvisor.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 rts.ssl2.duapps.com
+0.0.0.0 sagitta.meizu.com
+0.0.0.0 servicecut.meizu.com
+0.0.0.0 sgads.molilexue.com
+0.0.0.0 tools.3g.qq.com
+0.0.0.0 u.in.meizu.com
+0.0.0.0 u.meizu.com
+0.0.0.0 up4.ucweb.com
+0.0.0.0 uxip-res.meizu.com
+0.0.0.0 uxip.meizu.com
+0.0.0.0 zen.yandex.com

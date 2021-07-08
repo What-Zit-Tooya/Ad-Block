@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 07 Jul 2021 08:00 PM UTC+7
-! Version: 07/07/2021
+! Last modified: 08 Jul 2021 12:00 PM UTC+7
+! Version: 08/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1573,10 +1573,13 @@
 
 # Facemoji Keyboard - Cute Emoji & Theme: com.facemoji.lite.xiaomi
 # Default Keyboard for Xiaomi Phones
-# Tested on MIUI 12.5 Global ROM 
+# Tested on MIUI 12.5 Global ROM
+# Facemoji Emoji Keyboard:Emoji Keyboard,Theme,Font: com.simejikeyboard
+||globalmsg.facemojikeyboard.com^
 ||liteapi.ekatox.com^
 ||litemsg.ekatox.com^
 ||litestatis.ekatox.com^
+||statis.facemojikeyboard.com^
 
 # Vision+: Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
 ||analytics.mncdigital.id^
@@ -1627,3 +1630,40 @@
 ||ire-dsu.shalltry.com^
 ||newsaggreg.shalltry.com^
 ||toolgroup.shalltry.com^
+
+# MEIZU PHONES
+# Pulled from AdGuard Home
+# Need Tested Throughly
+||api-push.in.meizu.com^
+||api.applovefrom.com^
+||appmetrica.webvisor.com^
+||appmetrica.yandex.net^
+||beforeitsnews.com^
+||dispatcher.3g.qq.com^
+||hotapps-res-apk.in.meizu.com^
+||hotapps.in.meizu.com^
+||icecyber.org^
+||infocenter.in.meizu.com^
+||inveno.com^
+||mazu-hk.3g.qq.com^
+||mds.yandex.net^
+||mvconf.f.360.cn^
+||netsms.meizu.com^
+||ni.qingmang.mobi^
+||onemind.meizu.com^
+||open-app.meizu.com^
+||pmir.3g.qq.com^
+||pubserver1.bizport.cn^
+||pubserver8.bizport.cn^
+||sagitta.meizu.com^
+||servicecut.meizu.com^
+||sgads.molilexue.com^
+||ssl2.duapps.com^
+||tools.3g.qq.com^
+||u.in.meizu.com^
+||u.meizu.com^
+||up4.ucweb.com^
+||uxip-res.meizu.com^
+||uxip.meizu.com^
+||webvisor.com^
+||zen.yandex.com^
