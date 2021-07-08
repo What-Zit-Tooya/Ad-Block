@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 08 Jul 2021 12:50 PM UTC+7
+! Last modified: 08 Jul 2021 04:45 PM UTC+7
 ! Version: 08/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -447,6 +447,7 @@
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
+0.0.0.0 daijopimlo.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
 0.0.0.0 dashboard-api.staging.tapdaq.com
@@ -1253,7 +1254,6 @@
 # AVAST & AVL
 # From built-in Anti-Virus Chinese phones
 0.0.0.0 47.88.65.115
-0.0.0.0 ams.honzik.avcdn.net
 0.0.0.0 analytics-stage.ff.avast.com
 0.0.0.0 analytics-test.ff.avast.com
 0.0.0.0 analytics.ff.avast.com
@@ -1263,13 +1263,16 @@
 0.0.0.0 bugs-bunny-stage.sb.avast.com
 0.0.0.0 bugs-bunny-test.sb.avast.com
 0.0.0.0 bugs-bunny.sb.avast.com
+0.0.0.0 feed.ff.avast.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 log.avlyun.sec.miui.com
+0.0.0.0 push.ff.avast.com
 0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 shepherd.ns1.ff.avast.com
 0.0.0.0 us.log.slb.avlyun.com
+0.0.0.0 vanheim.ff.avast.com
 
 # WPS Office: cn.wps.moffice_eng
 0.0.0.0 104.22.6.60

@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 08 Jul 2021 12:50 PM UTC+7
+! Last modified: 08 Jul 2021 04:45 PM UTC+7
 ! Version: 08/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -406,6 +406,7 @@
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
 ||crash-metrics.sdk.inmobi.com^
+||daijopimlo.com^
 ||d.applovin.com^
 ||d.applvn.com^
 ||dashboard-api.staging.tapdaq.com^
@@ -1205,7 +1206,6 @@
 # AVAST & AVL
 # From built-in Anti-Virus Chinese phones
 ||47.88.65.115^
-||ams.honzik.avcdn.net^
 ||analytics-stage.ff.avast.com^
 ||analytics-test.ff.avast.com^
 ||analytics.ff.avast.com^
@@ -1215,13 +1215,16 @@
 ||bugs-bunny-stage.sb.avast.com^
 ||bugs-bunny-test.sb.avast.com^
 ||bugs-bunny.sb.avast.com^
+||feed.ff.avast.com^
 ||ip-info.ff.avast.com^
 ||log.avlyun.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.avlyun.sec.miui.com^
 ||log.slb.avlyun.com^
+||push.ff.avast.com^
 ||shepherd.ff.avast.com^
 ||shepherd.ns1.ff.avast.com^
+||vanheim.ff.avast.com^
 
 # WPS Office: cn.wps.moffice_eng
 ||104.22.6.60^
