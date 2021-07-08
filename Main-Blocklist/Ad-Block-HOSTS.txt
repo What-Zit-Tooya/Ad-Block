@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 08 Jul 2021 12:00 PM UTC+7
+! Last modified: 08 Jul 2021 12:50 PM UTC+7
 ! Version: 08/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1780,6 +1780,8 @@
 0.0.0.0 hotapps-res-apk.in.meizu.com
 0.0.0.0 hotapps.in.meizu.com
 0.0.0.0 infocenter.in.meizu.com
+0.0.0.0 launcher.meizu.com
+0.0.0.0 lbs.map.qq.com
 0.0.0.0 mazu-hk.3g.qq.com
 0.0.0.0 mvconf.f.360.cn
 0.0.0.0 netsms.meizu.com
@@ -1789,6 +1791,7 @@
 0.0.0.0 pmir.3g.qq.com
 0.0.0.0 pubserver1.bizport.cn
 0.0.0.0 pubserver8.bizport.cn
+0.0.0.0 pubserver10.bizport.cn
 0.0.0.0 realtime.icecyber.org
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.webvisor.com

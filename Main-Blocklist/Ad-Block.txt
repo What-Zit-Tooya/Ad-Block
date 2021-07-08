@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 08 Jul 2021 12:00 PM UTC+7
+! Last modified: 08 Jul 2021 12:50 PM UTC+7
 ! Version: 08/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1645,6 +1645,8 @@
 ||icecyber.org^
 ||infocenter.in.meizu.com^
 ||inveno.com^
+||launcher.meizu.com^
+||lbs.map.qq.com^
 ||mazu-hk.3g.qq.com^
 ||mds.yandex.net^
 ||mvconf.f.360.cn^
@@ -1655,6 +1657,7 @@
 ||pmir.3g.qq.com^
 ||pubserver1.bizport.cn^
 ||pubserver8.bizport.cn^
+||pubserver10.bizport.cn^
 ||sagitta.meizu.com^
 ||servicecut.meizu.com^
 ||sgads.molilexue.com^
