@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 09 Jul 2021 10:00 AM UTC+7
+! Last modified: 09 Jul 2021 11:00 AM UTC+7
 ! Version: 09/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -442,24 +442,28 @@
 0.0.0.0 bitcoloan.info
 0.0.0.0 blog.tapdaq.com
 0.0.0.0 brtcjmnplmzo.com
+0.0.0.0 cdn.mondiad.net
 0.0.0.0 config.inmobi.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 config.unityads.unitychina.cn
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 crash-metrics.sdk.inmobi.com
-0.0.0.0 daijopimlo.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
+0.0.0.0 daijopimlo.com
 0.0.0.0 dashboard-api.staging.tapdaq.com
 0.0.0.0 dashboard-api.tapdaq.com
 0.0.0.0 dvwvqeddi.com
 0.0.0.0 exeptingincludedelivering.com
 0.0.0.0 flongshartail.com
+0.0.0.0 freychang.fun
 0.0.0.0 goofypismica.com
 0.0.0.0 hugregregy.pro
-0.0.0.0 ipmbnqqaon.com
+0.0.0.0 i.wmgtr.com
+0.0.0.0 icotrack.net
 0.0.0.0 img.applovin.com
 0.0.0.0 insideoftech.com
+0.0.0.0 ipmbnqqaon.com
 0.0.0.0 itstuffnews.com
 0.0.0.0 kibana.tapdaq.com
 0.0.0.0 kotikinar2ko8tiki09.com
@@ -467,6 +471,7 @@
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ngbbpwyrv.com
+0.0.0.0 ovgylabitru.biz
 0.0.0.0 pdn.applovin.com
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 practisecolander.com
@@ -478,6 +483,7 @@
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 ruinedhang.com
+0.0.0.0 serve.mondiad.net
 0.0.0.0 staging.tapdaq.com
 0.0.0.0 static.tapdaq.com
 0.0.0.0 status.tapdaq.com
@@ -485,7 +491,9 @@
 0.0.0.0 tapdaq.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 trk.lot-impossible-mouth-twice.xyz
+0.0.0.0 twspuq.com
 0.0.0.0 tywzyhfliwdbu.com
+0.0.0.0 ulukaris.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 unityads.unitychina.cn
 0.0.0.0 vid.applovin.com

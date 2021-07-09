@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 09 Jul 2021 10:00 AM UTC+7
+! Last modified: 09 Jul 2021 11:00 AM UTC+7
 ! Version: 09/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -406,27 +406,31 @@
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
 ||crash-metrics.sdk.inmobi.com^
-||daijopimlo.com^
 ||d.applovin.com^
 ||d.applvn.com^
+||daijopimlo.com^
 ||dashboard-api.staging.tapdaq.com^
 ||dashboard-api.tapdaq.com^
 ||dvwvqeddi.com^
 ||exeptingincludedelivering.com^
 ||flongshartail.com^
+||freychang.fun^
 ||goofypismica.com^
 ||hugregregy.pro^
+||icotrack.net^
 ||img.applovin.com^
-||ipmbnqqaon.com^
 ||inmobi.com^
 ||insideoftech.com^
+||ipmbnqqaon.com^
 ||itstuffnews.com^
 ||kibana.tapdaq.com^
 ||kotikinar2ko8tiki09.com^
 ||mail.tapdaq.com^
+||mondiad.net^
 ||ms.applovin.com^
 ||ms.applvn.com^
 ||ngbbpwyrv.com^
+||ovgylabitru.biz^
 ||pdn.applovin.com^
 ||placements.tapjoy.com^
 ||practisecolander.com^
@@ -441,14 +445,17 @@
 ||static.tapdaq.com^
 ||status.tapdaq.com^
 ||support.tapdaq.com^
+||twspuq.com^
 ||tywzyhfliwdbu.com^
 ||uhqpnhorurueku.com^
+||ulukaris.com^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
 ||vid.applovin.com^
 ||vsvihsib.com^
 ||vubihasdtbadiq.com^
 ||vungle.com^
+||wmgtr.com^
 ||wohchuuemjs.com^
 ||ws.tapjoyads.com^
 ||www.staging.tapdaq.com^

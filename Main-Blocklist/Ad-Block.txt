@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 09 Jul 2021 10:00 AM UTC+7
+! Last modified: 09 Jul 2021 11:00 AM UTC+7
 ! Version: 09/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -395,27 +395,31 @@
 ||config.unityads.unity3d.com^
 ||config.unityads.unitychina.cn^
 ||connect.tapjoy.com^
-||daijopimlo.com^
 ||d.applovin.com^
 ||d.applvn.com^
+||daijopimlo.com^
 ||dashboard-api.staging.tapdaq.com^
 ||dashboard-api.tapdaq.com^
 ||dvwvqeddi.com^
 ||exeptingincludedelivering.com^
 ||flongshartail.com^
+||freychang.fun^
 ||goofypismica.com^
 ||hugregregy.pro^
-||ipmbnqqaon.com^
+||icotrack.net^
 ||img.applovin.com^
 ||inmobi.com^
 ||insideoftech.com^
+||ipmbnqqaon.com^
 ||itstuffnews.com^
 ||kibana.tapdaq.com^
 ||kotikinar2ko8tiki09.com^
 ||mail.tapdaq.com^
+||mondiad.net^
 ||ms.applovin.com^
 ||ms.applvn.com^
 ||ngbbpwyrv.com^
+||ovgylabitru.biz^
 ||pdn.applovin.com^
 ||placements.tapjoy.com^
 ||practisecolander.com^
@@ -432,8 +436,10 @@
 ||status.tapdaq.com^
 ||support.tapdaq.com^
 ||trk.lot-impossible-mouth-twice.xyz^
+||twspuq.com^
 ||tywzyhfliwdbu.com^
 ||uhqpnhorurueku.com^
+||ulukaris.com^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
 ||vid.applovin.com^
@@ -441,6 +447,7 @@
 ||vubihasdtbadiq.com^
 ||vungle.com^
 ||washedinmate.com^
+||wmgtr.com^
 ||wohchuuemjs.com^
 ||ws.tapjoyads.com^
 ||www.staging.tapdaq.com^
