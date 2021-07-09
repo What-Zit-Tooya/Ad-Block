@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 08 Jul 2021 04:45 PM UTC+7
-! Version: 08/07/2021
+! Last modified: 09 Jul 2021 09:45 AM UTC+7
+! Version: 09/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -417,6 +417,7 @@
 ||goofypismica.com^
 ||hugregregy.pro^
 ||img.applovin.com^
+||ipmbnqqaon.com^
 ||inmobi.com^
 ||insideoftech.com^
 ||itstuffnews.com^
@@ -455,6 +456,12 @@
 ||www.weeklyordinaryrewardextra.cyou^
 ||yititsimplyd.club^
 ||z.moatads.com^
+@@||bannertrack.net^$app=com.usamin.nekopoi
+@@||adtrackers.net^$app=com.usamin.nekopoi
+@@||adnetasia.com^$app=com.usamin.nekopoi
+@@||bannertrack.net^$domain=com.usamin.nekopoi
+@@||adtrackers.net^$domain=com.usamin.nekopoi
+@@||adnetasia.com^$domain=com.usamin.nekopoi
 
 # TikTok: com.zhiliaoapp.musically
 # TikTok ID: com.ss.android.ugc.trill
