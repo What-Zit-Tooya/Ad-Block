@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 09 Jul 2021 11:00 AM UTC+7
-! Version: 09/07/2021
+! Last modified: 10 Jul 2021 09:00 AM UTC+7
+! Version: 10/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -23,6 +23,7 @@
 ||litix.io^
 ||metric-api.newrelic.com^
 ||oth.eve.mdt.qq.com^
+||popin.cc^
 ||scorecardresearch.com^
 ||sg.tdatamaster.com^
 ||sg01.rayjump.com^
@@ -31,25 +32,6 @@
 
 # SHAREit: com.lenovo.anyshare.gps
 ### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
-||104.19.128.78^
-||104.19.129.78^
-||104.19.130.78^
-||104.19.131.78^
-||104.19.143.77^
-||107.23.178.199^
-||13.224.250.223^
-||13.227.228.19^
-||13.248.218.66^
-||13.35.13.120^
-||13.35.13.120^
-||159.138.101.104^
-||159.138.102.255^
-||159.138.103.42^
-||159.138.106.8^
-||159.138.84.44^
-||34.199.12.244^
-||75.2.70.67^
-||76.223.65.142^
 ||active.wshareit.com^
 ||adconf.rqmob.com^
 ||ads.mopub.com^
@@ -146,10 +128,6 @@
 ||telemetry.mozilla.org^
 
 # Lazada Indonesia: com.lazada.android
-||47.246.32.33^
-||47.8.94.32^
-||47.89.74.76^
-||47.89.74.75^
 ||acs-m.lazada.sg^
 ||adash.man.aliyuncs.com^
 ||adashbc.m.taobao.com^
@@ -250,28 +228,6 @@
 
 # HAGO: com.yy.hiyo
 # Noizz - formerly Biugo: com.yy.biu
-||103.230.236.20^
-||103.230.236.25^
-||103.230.236.32^
-||121.46.20.38^
-||121.46.30.51^
-||121.46.30.59^
-||124.202.138.11^
-||124.202.138.29^
-||124.202.138.30^
-||124.202.138.31^
-||124.202.138.32^
-||175.25.50.15^
-||175.25.50.16^
-||175.25.50.70^
-||183.232.58.233^
-||183.232.58.234^
-||183.232.58.236^
-||183.232.58.237^
-||183.232.58.238^
-||183.232.58.241^
-||43.247.88.106^
-||43.247.88.107^
 ||act.umeng.com^
 ||activity.umeng.com^
 ||adashx4sg.ut.taobao.com^
@@ -539,9 +495,6 @@
 ||videosnap.like.video^
 
 # SnackVideo: com.kwai.bulldog
-||101.32.133.79^
-||34.117.196.186^
-||75.2.122.31^
 ||ak-static.snackvideo.in^
 ||aws-logsdk.snackvideo.com^
 ||aws-logsdk.uvfuns.com^
@@ -564,10 +517,6 @@
 ||wlog.kuaishou.com^
 
 # HUAWEI PHONES
-||159.138.109.22^
-||159.138.80.62^
-||159.138.90.32^
-||159.138.99.194^
 ||activity5.hicloud.com^
 ||adx-dra-op-hicloud-com-dra.appacc.dbankedge.net^
 ||adx-dra.op.hicloud.com^
@@ -614,26 +563,6 @@
 
 # XIAOMI PHONES
 # Pulled from Xiaomi's subdomains, also tested on Global ROM
-||10.235.124.13^
-||10.99.168.145^
-||13.107.13.80^
-||161.117.190.13^
-||161.117.196.127^
-||161.117.198.51^
-||161.117.200.61^
-||161.117.71.226^
-||47.74.236.76^
-||47.88.231.18^
-||47.88.232.213^
-||47.88.232.28^
-||8.25.82.225^
-||8.25.82.226^
-||8.25.82.227^
-||8.25.82.228^
-||8.25.82.229^
-||8.25.82.230^
-||8.25.82.231^
-||8.25.82.232^
 ||a.stat.xiaomi.com^
 ||abroad.api.comm.intl.miui.com^
 ||abtest.mistat.india.xiaomi.com^
@@ -792,10 +721,6 @@
 ||flash.sec.intl.miui.com^
 ||flash.sec.miui.com^
 ||flow.sec.miui.com^
-||fr.api.xmpush.global.xiaomi.com^
-||fr.app.chat.global.xiaomi.net^
-||fr.feedback.xmpush.global.xiaomi.com^
-||fr.register.xmpush.global.xiaomi.com^
 ||ga.inf.pt.miui.com^
 ||game.browser.intl.miui.com^
 ||game.dsg.miui.com^
@@ -821,10 +746,7 @@
 ||hot.dev.browser.miui.com^
 ||hot.newsfeed.intl.miui.com^
 ||httpdns.browser.miui.com^
-||i.api.xmpush.global.xiaomi.com^
 ||ident.mistat.xiaomi.com^
-||idmb.app.chat.global.xiaomi.net^
-||idmb.register.xmpush.global.xiaomi.com^
 ||in-protect-dev.sec.intl.miui.com^
 ||india.activity.browser.intl.miui.com^
 ||inf.miui.com^
@@ -965,10 +887,6 @@
 ||resolver.msg.global.xiaomi.net^
 ||resolver.msg.xiaomi.net^
 ||router.tracking.miui.com^
-||ru.api.xmpush.global.xiaomi.com^
-||ru.app.chat.global.xiaomi.net^
-||ru.feedback.xmpush.global.xiaomi.com^
-||ru.register.xmpush.global.xiaomi.com^
 ||ruvideo.cdn.pandora.intl.xiaomi.com^
 ||sa-api.api.intl.miui.com^
 ||sa.api.intl.miui.com^
@@ -1124,7 +1042,6 @@
 ||push.snaptube.app^
 
 # CamScanner: com.intsig.camscanner
-||157.185.169.206^
 ||b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn^
 ||ss-static.intsig.net.mcchcdn.com^
 ||ss-static.intsig.net.whecloud.com^
@@ -1214,7 +1131,6 @@
 
 # AVAST & AVL
 # From built-in Anti-Virus Chinese phones
-||47.88.65.115^
 ||analytics-stage.ff.avast.com^
 ||analytics-test.ff.avast.com^
 ||analytics.ff.avast.com^
@@ -1236,13 +1152,6 @@
 ||vanheim.ff.avast.com^
 
 # WPS Office: cn.wps.moffice_eng
-||104.22.6.60^
-||104.22.7.60^
-||114.119.186.87^
-||172.67.20.166^
-||44.242.92.133^
-||50.112.59.136^
-||52.88.152.228^
 ||abroad-ad.kingsoft-office-service.com^
 ||ads.api.vungle.com^
 ||ap-device-pro.csftr.com^
@@ -1262,19 +1171,6 @@
 ||wh-nginx-gateway-service.default.us.entry.4wps.net^
 
 # UC Browser: com.UCMobile.intl
-||157.185.188.1^
-||157.185.188.2^
-||157.185.189.159^
-||168.235.199.34^
-||168.235.199.81^
-||168.235.206.10^
-||168.235.206.11^
-||180.179.9.133^
-||198.11.146.6^
-||198.11.190.12^
-||203.119.169.44^
-||205.204.101.55^
-||23.195.153.4^
 ||apissug-sf.ucweb.com^
 ||apiuccenter.ucweb.com^
 ||cuttlela.ucweb.com^
@@ -1283,7 +1179,6 @@
 ||gjapplog.ucweb.com^
 ||gjtrack.ucweb.com^
 ||hostmaster.hichina.com^
-https://ynuf.aliapp.org/saveWb.json?
 ||iactla.ucweb.com^
 ||insight.ucweb.com^
 ||intlsucus.ucweb.com^
@@ -1343,23 +1238,11 @@ https://ynuf.aliapp.org/saveWb.json?
 ||kiwisearchservices.net^
 
 # Puffin Web Browser: com.cloudmosa.puffinFree
-||38.111.215.248^
 ||collector.cloudmosa.net^
 
 # Brave Browser: com.brave.browser
 # Brave Browser (Beta): com.brave.browser_beta
 # Brave Browser (Nightly): com.brave.browser_nightly
-||13.224.249.22^
-||13.224.249.43^
-||13.224.249.6^
-||13.227.142.9^
-||13.227.252.117^
-||199.232.45.32^
-||52.10.120.178^
-||54.182.0.38^
-||54.182.0.75^
-||54.182.0.98^
-||54.182.0.99^
 ||ads-serve.brave.com^
 ||ads-static.brave.com^
 ||api.rewards.brave.com^
@@ -1381,17 +1264,6 @@ https://ynuf.aliapp.org/saveWb.json?
 # It's famous application is Clean Master
 # app id: com.cleanmaster.mguard
 # Remove it from your phone, ASAP
-||119.36.62.42^
-||4.34.42.102^
-||4.34.42.103^
-||4.34.42.104^
-||47.91.4.251^
-||54.193.110.22^
-||54.193.2.171^
-||54.193.42.169^
-||54.213.47.148^
-||54.241.0.117^
-||54.241.15.95^
 ||3d.cmcm.com^
 ||a.ns.edm.cmcm.com^
 ||ab.cmcm.com^

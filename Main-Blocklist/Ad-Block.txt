@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 09 Jul 2021 11:00 AM UTC+7
-! Version: 09/07/2021
+! Last modified: 10 Jul 2021 09:00 AM UTC+7
+! Version: 10/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -23,47 +23,17 @@
 ||litix.io^
 ||metric-api.newrelic.com^
 ||oth.eve.mdt.qq.com^
+||popin.cc^
 ||scorecardresearch.com^
 ||sg.tdatamaster.com^
 ||sg01.rayjump.com^
 ||tls10.newrelic.com.cdn.cloudflare.net^
 ||tsg.tdatamaster.com^
 
-# Facebook Related Server 
-||api.facebook.com^
-||b-api.facebook.com^
-||b-graph.facebook.com^
-||b-graph.instagram.com^
-||b-www.facebook.com^
-||edge-mqtt.facebook.com^
-||graph.facebook.com^
-||graph.fbpigeon.com^
-||graph.instagram.com^
-||graphql.instagram.com^
-||mqtt-mini.facebook.com^
-||mqtt-mini.c10r.facebook.com^
-||star.c10r.facebook.com^
-||star.facebook.com^
-||z-m-graph.facebook.com^
-
-# WHITE LIST
-@@||api.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
-@@||b-graph.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
-@@||b-graph.instagram.com^$app=com.instagram.android|com.facebook.katana|com.facebook.orca|com.garena.game.kgid|com.riotgames.league.wildrift|com.garena.gaslite|com.play.rosea
-@@||edge-mqtt.facebook.com^$app=com.facebook.katana|com.facebook.orca|com.instagram.android|com.facebook.lite|com.facebook.mlite
-@@||b-api.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
-@@||b-www.facebook.com^$app=com.facebook.katana|com.riotgames.league.wildrift|com.facebook.orca|com.instagram.android|com.garena.game.ftmid|com.garena.game.kgid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea
-@@||graph.facebook.com^$app=com.riotgames.league.wildrift|com.facebook.katana|com.facebook.orca|com.instagram.android|com.garena.game.kgid|com.garena.game.ftmid|com.miHoYo.bh3oversea|com.miHoYo.GenshinImpact|com.supercell.clashofclans|com.supercell.clashroyale|com.supercell.brawlstars|com.supercell.hayday|com.supercell.boombeach|com.garena.gaslite|com.play.rosea|com.garena.game.codm
-@@||graph.instagram.com^$app=com.instagram.android
-@@||graphql.instagram.com^$app=com.instagram.android
-@@||mqtt-mini.facebook.com^$app=com.facebook.katana|com.facebook.orca|com.instagram.android|com.facebook.lite|com.facebook.mlite
-@@||z-m-graph.facebook.com^$app=com.facebook.katana|com.facebook.orca|com.instagram.android|com.facebook.lite|com.facebook.mlite
-
 # SHAREit: com.lenovo.anyshare.gps
 ### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
-||api.facebook.com^$app=com.lenovo.anyshare.gps
+||graph.facebook.com^$app=com.lenovo.anyshare.gps
 ||asia-abroad.com^
-||bing.com^$app=com.lenovo.anyshare.gps,important
 ||buruwan.com^
 ||cdn.ushareit.com.w.kunlunsl.com^
 ||cdn.ushareit.com^
@@ -79,14 +49,12 @@
 ||gihappy.com^
 ||gjqvujjc.tweb.sched.ovscdns.com^
 ||global-pushsdk.duowan.com^
-||graph.facebook.com^$app=com.lenovo.anyshare.gps
 ||gshareit.com^
 ||jcloud-cdn.com^
 ||jcloudcdn.com^
-||launches.appsflyer.com^$app=com.lenovo.anyshare.gps,important
 ||loopmygame.com^
 ||minisite-dev.ushareit.org^
-||modengs.net^$important
+||modengs.net
 ||mopub.com^
 ||ns-715.awsdns-25.net^
 ||onlinegameitem.gametype.h5^
@@ -104,7 +72,6 @@
 ||shareitgames.run^
 ||slivee.com^
 ||srtg.mobi^
-||star.c10r.facebook.com^$app=com.lenovo.anyshare.gps
 ||static.rqmob.com.w.kunlunsl.com^
 ||titgames.com^
 ||tracker.hellay.net^
@@ -115,10 +82,7 @@
 ||vs.wshareit.com.cdn.jcloudcdn.com^
 ||vs.wshareit.com^
 ||watch-it.video^
-||web.facebook.com^$app=com.lenovo.anyshare.gps
 ||wshareit.com^
-||www.bing.com^$app=com.lenovo.anyshare.gps,important
-||www.facebook.com^$app=com.lenovo.anyshare.gps
 ||www.pullcf.com^
 ||www.pullcm.com^
 
@@ -199,14 +163,9 @@
 ||news.opera-api.com^
 ||news-id.feednews.com^
 ### END Block News ###
-||157.240.13.14^
-||157.240.15.1^
 ||api.recsys.opera.com^
 ||api.sec-tunnel.com^
 ||api-a.op-mobile.opera.com^
-||clients1.google.com$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
-||edge-star-shv-03-sin6.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
-||launches.appsflyer.com^$app=com.opera.mini.native,important|com.opera.touch,important|com.opera.browser,important|com.opera.browser.beta,important
 ||ofa-b-sub.osp.opera.software^
 ||ofa-sub.osp.opera.software^
 ||operamini-sub.osp.opera.software^
@@ -218,8 +177,6 @@
 ||thumbnails.opera.com^
 ||thumbnails2.opera.com^
 ||t-odx.op-mobile.opera.com^
-||web.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
-||www.facebook.com^$app=com.opera.mini.native|com.opera.touch|com.opera.browser|com.opera.browser.beta
 ||xml.opera.com^
 
 # Drakor.ID: com.stream.drakorindoawet
@@ -237,6 +194,7 @@
 ||edge.safedk.com^
 ||flagros2sii8fdbrh09.com^
 ||fstats.xyz^
+||graph.facebook.com^$app=com.stream.drakorindoawet
 ||haloani.ru^
 ||hornsbundlebetter.com^
 ||mc.yandex.ru^
@@ -320,7 +278,6 @@
 ||jpush.io^
 ||kaixindou.net^
 ||klog.hiido.com^
-||launches.appsflyer.com^$app=com.yy.biu,important
 ||lgglobalb.yy.com^
 ||likelbs.dinoyy.xyz^
 ||livemediav.com^
@@ -529,8 +486,6 @@
 ||static-web.likeevideo.com^
 ||v16-ad.byteoversea.com^
 ||videosnap.like.video^
-||web.facebook.com^$app=video.like
-||www.facebook.com^$app=video.like
 
 # SnackVideo: com.kwai.bulldog
 ||ak-static.snackvideo.in^
@@ -602,6 +557,7 @@
 # XIAOMI PHONES
 # Pulled from Xiaomi's subdomains, also tested on Global ROM
 */push/getAds
+||graph.facebook.com^$app=com.miui.videoplayer|com.miui.player
 ||a.stat.xiaomi.com^
 ||abroad.api.comm.intl.miui.com^
 ||abtest.mistat.india.xiaomi.com^
@@ -757,10 +713,6 @@
 ||flash.sec.intl.miui.com^
 ||flash.sec.miui.com^
 ||flow.sec.miui.com^
-||fr.api.xmpush.global.xiaomi.com^
-||fr.app.chat.global.xiaomi.net^
-||fr.feedback.xmpush.global.xiaomi.com^
-||fr.register.xmpush.global.xiaomi.com^
 ||ga.inf.pt.miui.com^
 ||game.browser.intl.miui.com^
 ||game.dsg.miui.com^
@@ -786,10 +738,7 @@
 ||hot.dev.browser.miui.com^
 ||hot.newsfeed.intl.miui.com^
 ||httpdns.browser.miui.com^
-||i.api.xmpush.global.xiaomi.com^
 ||ident.mistat.xiaomi.com^
-||idmb.app.chat.global.xiaomi.net^
-||idmb.register.xmpush.global.xiaomi.com^
 ||in-protect-dev.sec.intl.miui.com^
 ||india.activity.browser.intl.miui.com^
 ||inf.miui.com^
@@ -930,10 +879,6 @@
 ||resolver.msg.global.xiaomi.net^
 ||resolver.msg.xiaomi.net^
 ||router.tracking.miui.com^
-||ru.api.xmpush.global.xiaomi.com^
-||ru.app.chat.global.xiaomi.net^
-||ru.feedback.xmpush.global.xiaomi.com^
-||ru.register.xmpush.global.xiaomi.com^
 ||ruvideo.cdn.pandora.intl.xiaomi.com^
 ||sa-api.api.intl.miui.com^
 ||sa.api.intl.miui.com^
@@ -1043,8 +988,6 @@
 ||zeppelin.sec.miui.com^
 ||zeus.ad.intl.xiaomi.com^
 ||zeus.ad.xiaomi.com^
-||web.facebook.com^$app=com.miui.videoplayer|com.miui.player
-||www.facebook.com^$app=com.miui.videoplayer|com.miui.player
 
 # Shopee Indonesia: com.shopee.id
 ||1255300759.vod2.myqcloud.com^
@@ -1090,7 +1033,6 @@
 ||android.bugly.qq.com^
 ||apps.ad.snaptube.app^
 ||config.ad.snaptube.app^
-||dns.google.com^$app=com.snaptube.premium
 ||push.snaptube.app^
 ||web.facebook.com^$app=com.snaptube.premium
 ||www.facebook.com^$app=com.snaptube.premium
@@ -1099,11 +1041,8 @@
 ||content.garena.com/gas/ad_banner/*
 
 # CamScanner: com.intsig.camscanner
-||157.185.169.206^
-||api.facebook.com^$app=com.intsig.camscanner
 ||b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn^
 ||graph.facebook.com^$app=com.intsig.camscanner
-||launches.appsflyer.com^$app=com.intsig.camscanner,important
 ||ss-static.intsig.net.mcchcdn.com^
 ||ss-static.intsig.net.whecloud.com^
 ||ss-static.intsig.net^
@@ -1202,7 +1141,6 @@
 
 # AVAST & AVL
 ### From built-in Anti-Virus in Chinese Phones ###
-||47.88.65.115^
 ||analytics-stage.ff.avast.com^
 ||analytics-test.ff.avast.com^
 ||analytics.ff.avast.com^
@@ -1343,10 +1281,11 @@
 ### It's famous application is Clean Master ### 
 ### app id: com.cleanmaster.mguard ### 
 ### Remove it from your phone, ASAP ###
-||www.facebook.com^$app=com.cleanmaster.mguard
+||graph.facebook.com^$app=com.cleanmaster.mguard
 ||m.facebook.com^$app=com.cleanmaster.mguard
 ||web.facebook.com^$app=com.cleanmaster.mguard
 ||www.google.com^$app=com.cleanmaster.mguard
+||www.facebook.com^$app=com.cleanmaster.mguard
 ||3d.cmcm.com^
 ||a.ns.edm.cmcm.com^
 ||ab.cmcm.com^
