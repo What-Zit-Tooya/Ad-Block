@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 10 Jul 2021 09:00 AM UTC+7
-! Version: 10/07/2021
+! Last modified: 14 Jul 2021 08:30 PM UTC+7
+! Version: 14/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -110,6 +110,7 @@
 # END Video Block
 ||2mdn.net^
 ||cdnstatic.detik.com^
+||contextads.live^
 ||kayumanis.detik.com^
 ||mobile-analytic.detik.com^
 ||newrevive.detik.com^
@@ -1189,7 +1190,6 @@
 ||maribacaberita.com^
 ||newsgenious.com^
 ||napi.ucweb.com^
-||plugin.ucads.ucweb.com^
 ||px-intl.ucweb.com^
 ||sf-unpm-upaas.ucweb.com^
 ||uc1.ucweb.com^
@@ -1250,8 +1250,6 @@
 ||d17ndjuagurpsr.cloudfront.net^
 ||d2dieaj0i9bfkz.cloudfront.net^
 ||d3owvgesicftp9.cloudfront.net^
-||dualstack.k.sni.global.fastly.net^
-||dualstack.o.sni.global.fastly.net^
 ||go-updater.brave.com^
 ||grant.rewards.brave.com^
 ||laptop-updates.brave.com^

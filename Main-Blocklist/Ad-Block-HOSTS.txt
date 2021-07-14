@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 10 Jul 2021 09:00 AM UTC+7
-! Version: 10/07/2021
+! Last modified: 14 Jul 2021 08:30 PM UTC+7
+! Version: 14/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -118,6 +118,7 @@
 # END Video Block
 0.0.0.0 2mdn.net
 0.0.0.0 cdnstatic.detik.com
+0.0.0.0 contextads.live
 0.0.0.0 kayumanis.detik.com
 0.0.0.0 mobile-analytic.detik.com
 0.0.0.0 newrevive.detik.com
@@ -1264,7 +1265,6 @@
 0.0.0.0 intl.yukbacaberita.com
 0.0.0.0 intlsucus.ucweb.com
 0.0.0.0 jmacs.maribacaberita.com
-0.0.0.0 la4lbg.uae2grp.ucweb.com
 0.0.0.0 la4-userver-upaas.ucweb.com
 0.0.0.0 la-ucc-upaas.ucweb.com
 0.0.0.0 logssug-sf.ucweb.com
@@ -1340,8 +1340,6 @@
 0.0.0.0 d17ndjuagurpsr.cloudfront.net
 0.0.0.0 d2dieaj0i9bfkz.cloudfront.net
 0.0.0.0 d3owvgesicftp9.cloudfront.net
-0.0.0.0 dualstack.k.sni.global.fastly.net
-0.0.0.0 dualstack.o.sni.global.fastly.net
 0.0.0.0 go-updater.brave.com
 0.0.0.0 grant.rewards.brave.com
 0.0.0.0 laptop-updates.brave.com
