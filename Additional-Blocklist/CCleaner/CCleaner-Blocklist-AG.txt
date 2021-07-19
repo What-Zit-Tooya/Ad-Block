@@ -1,0 +1,18 @@
+! Title: Spotify Blocklist
+! Expires: Never
+! Description: Filter to block spotify ads & tracking
+! Author: WhatZitTooya
+! Last modified: 19 Jul 2021 06:00 PM UTC+7
+! Version: 19/07/2021
+! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+||analytics.ff.avast.com^
+||ccleaner.tools.avcdn.net^
+||ip-info.ff.avast.com^
+||ipm-provider.ff.avast.com^
+||license.piriform.com^
+||ncc.avast.com^
+||ncc.avast.com.edgesuite.net^
+||service.piriform.com^
+||shepherd.ff.avast.com^
