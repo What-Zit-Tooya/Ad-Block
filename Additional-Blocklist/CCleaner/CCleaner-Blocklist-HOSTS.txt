@@ -1,9 +1,9 @@
-! Title: Spotify Blocklist
+! Title: CCleaner Blocklist
 ! Expires: Never
 ! Description: Filter to block spotify ads & tracking
 ! Author: WhatZitTooya
-! Last modified: 19 Jul 2021 06:00 PM UTC+7
-! Version: 19/07/2021
+! Last modified: 23 Jul 2021 09:00 PM UTC+7
+! Version: 23/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -16,3 +16,5 @@
 0.0.0.0 ncc.avast.com.edgesuite.net
 0.0.0.0 service.piriform.com
 0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 shepherd.sb.avast.com
+0.0.0.0 streamback.ns1.ff.avast.com
