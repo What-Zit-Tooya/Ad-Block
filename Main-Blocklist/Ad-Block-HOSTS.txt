@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 19 Jul 2021 08:30 PM UTC+7
-! Version: 19/07/2021
+! Last modified: 24 Jul 2021 12:15 PM UTC+7
+! Version: 24/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -30,6 +30,7 @@
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 litix.io
 0.0.0.0 metric-api.newrelic.com
+0.0.0.0 moengage.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 popin.cc
 0.0.0.0 pagead2.googlesyndication.com
@@ -455,6 +456,7 @@
 0.0.0.0 ulukaris.com
 0.0.0.0 unityads.unity3d.com
 0.0.0.0 unityads.unitychina.cn
+0.0.0.0 uzxkuwalnjp.com
 0.0.0.0 vid.applovin.com
 0.0.0.0 vubihasdtbadiq.com
 0.0.0.0 vungle.com
@@ -1312,7 +1314,10 @@
 
 # Vidio: com.vidio.android
 0.0.0.0 analisis.io
+0.0.0.0 cdn-production-thumbor-vidio.akamaized.net
 0.0.0.0 plenty.analisis.io
+0.0.0.0 preview-kmkonline.akamaized.net
+0.0.0.0 quiz.vidio.com
 
 # ALCATEL (TCL) PHONES
 0.0.0.0 cleanportal.tclclouds.com

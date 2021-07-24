@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 19 Jul 2021 08:30 PM UTC+7
-! Version: 19/07/2021
+! Last modified: 24 Jul 2021 12:15 PM UTC+7
+! Version: 24/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -23,6 +23,7 @@
 ||kvinit-prod.api.kochava.com^
 ||litix.io^
 ||metric-api.newrelic.com^
+||moengage.com^
 ||oth.eve.mdt.qq.com^
 ||popin.cc^
 ||scorecardresearch.com^
@@ -402,6 +403,7 @@
 ||ulukaris.com^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
+||uzxkuwalnjp.com^
 ||vid.applovin.com^
 ||vsvihsib.com^
 ||vubihasdtbadiq.com^
@@ -1239,6 +1241,9 @@
 
 # Vidio: com.vidio.android
 ||analisis.io^
+||cdn-production-thumbor-vidio.akamaized.net^
+||preview-kmkonline.akamaized.net^
+||quiz.vidio.com^
 
 # ALCATEL (TCL) PHONES
 ||cleanportal.tclclouds.com^
