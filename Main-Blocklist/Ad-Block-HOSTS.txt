@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 24 Jul 2021 12:15 PM UTC+7
+! Last modified: 24 Jul 2021 06:00 PM UTC+7
 ! Version: 24/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -32,8 +32,8 @@
 0.0.0.0 metric-api.newrelic.com
 0.0.0.0 moengage.com
 0.0.0.0 oth.eve.mdt.qq.com
-0.0.0.0 popin.cc
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 popin.cc
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sg.tdatamaster.com
@@ -431,6 +431,7 @@
 0.0.0.0 ms.applvn.com
 0.0.0.0 ngbbpwyrv.com
 0.0.0.0 ovgylabitru.biz
+0.0.0.0 ovlliiwtxgjlz.com
 0.0.0.0 pdn.applovin.com
 0.0.0.0 pfzzgurflf.com
 0.0.0.0 placements.tapjoy.com
@@ -1211,6 +1212,8 @@
 0.0.0.0 push.ff.avast.com
 0.0.0.0 shepherd.ff.avast.com
 0.0.0.0 shepherd.ns1.ff.avast.com
+0.0.0.0 shepherd.sb.avast.com
+0.0.0.0 streamback.ns1.ff.avast.com
 0.0.0.0 us.log.slb.avlyun.com
 0.0.0.0 vanheim.ff.avast.com
 

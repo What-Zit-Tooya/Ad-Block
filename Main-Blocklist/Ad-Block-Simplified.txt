@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 24 Jul 2021 12:15 PM UTC+7
+! Last modified: 24 Jul 2021 06:00 PM UTC+7
 ! Version: 24/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -390,6 +390,7 @@
 ||ms.applvn.com^
 ||ngbbpwyrv.com^
 ||ovgylabitru.biz^
+||ovlliiwtxgjlz.com^
 ||pdn.applovin.com^
 ||pfzzgurflf.com^
 ||placements.tapjoy.com^
@@ -1154,6 +1155,8 @@
 ||push.ff.avast.com^
 ||shepherd.ff.avast.com^
 ||shepherd.ns1.ff.avast.com^
+||shepherd.sb.avast.com^
+||streamback.ns1.ff.avast.com^
 ||vanheim.ff.avast.com^
 
 # WPS Office: cn.wps.moffice_eng
