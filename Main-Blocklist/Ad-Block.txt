@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 26 Jul 2021 05:50 PM UTC+7
+! Last modified: 26 Jul 2021 06:00 PM UTC+7
 ! Version: 26/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -605,6 +605,7 @@
 # Pulled from Xiaomi's subdomains, also tested on Global ROM
 /push/getAds
 ||graph.facebook.com^$app=com.miui.videoplayer|com.miui.player
+||web.facebook.com^$app=com.miui.videoplayer|com.miui.player
 ||www.facebook.com^$app=com.miui.videoplayer|com.miui.player
 ||a.stat.xiaomi.com^
 ||abroad.api.comm.intl.miui.com^
