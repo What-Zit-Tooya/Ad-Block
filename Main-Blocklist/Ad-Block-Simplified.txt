@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 24 Jul 2021 06:00 PM UTC+7
-! Version: 24/07/2021
+! Last modified: 26 Jul 2021 05:50 PM UTC+7
+! Version: 26/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -18,19 +18,58 @@
 ||firebase-settings.crashlytics.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
-||insights-collector.newrelic.com^
 ||ipstatp.com^
 ||kvinit-prod.api.kochava.com^
 ||litix.io^
-||metric-api.newrelic.com^
 ||moengage.com^
 ||oth.eve.mdt.qq.com^
 ||popin.cc^
 ||scorecardresearch.com^
 ||sg.tdatamaster.com^
 ||sg01.rayjump.com^
-||tls10.newrelic.com.cdn.cloudflare.net^
 ||tsg.tdatamaster.com^
+
+# NEWRELIC
+||chi-insights-collector.newrelic.com^
+||chi-staging-collector-pool.newrelic.com^
+||cloud-collector.eu.newrelic.com^
+||cloud-collector.newrelic.com^
+||collector-1.newrelic.com^
+||collector-2.newrelic.com^
+||collector-3.newrelic.com^
+||collector-4.newrelic.com^
+||collector-5.newrelic.com^
+||collector-6.newrelic.com^
+||collector-7.newrelic.com^
+||collector-8.newrelic.com^
+||collector-9.newrelic.com^
+||collector-pool.newrelic.com^
+||collector.newrelic.com^
+||insights-collector.newrelic.com^
+||insights-embed.newrelic.com^
+||js-agent.newrelic.com^
+||log-api.newrelic.com^
+||metric-api.eu.newrelic.com^
+||metric-api.newrelic.com^
+||mobile-collector-1.newrelic.com^
+||mobile-collector-2.newrelic.com^
+||mobile-collector-3.newrelic.com^
+||mobile-collector-4.newrelic.com^
+||mobile-collector-5.newrelic.com^
+||mobile-collector-origin.newrelic.com^
+||mobile-collector.newrelic.com^
+||mobile-crash-origin.newrelic.com^
+||staging-cloud-collector.newrelic.com^
+||staging-collector-1.newrelic.com^
+||staging-collector-2.newrelic.com^
+||staging-collector-pool.newrelic.com^
+||staging-collectors.newrelic.com^
+||staging-log-api.newrelic.com^
+||staging-metric-api.newrelic.com^
+||staging-mobile-collector.newrelic.com^
+||staging-mobile-crash.newrelic.com^
+||tls10.newrelic.com.cdn.cloudflare.net^
+||trace-this.newrelic.com^
 
 # SHAREit: com.lenovo.anyshare.gps
 ### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
@@ -351,7 +390,6 @@
 ||ads.api.vungle.com^
 ||ads.staging.tapdaq.com^
 ||ads.tapdaq.com^
-||ads.twitter.com^
 ||advertising.aol.com^
 ||advertising.yahoo.com^
 ||analytics.staging.tapdaq.com^
@@ -530,6 +568,7 @@
 ||cs02-pps-dra.dbankcdn.com^
 ||datacollector-dra.dt.hicloud.com^
 ||dxzc1o98vrjl6.cloudfront.net^
+||events-dra.op.hicloud.com^
 ||feedback-dre.platform.hicloud.com^
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.cn^

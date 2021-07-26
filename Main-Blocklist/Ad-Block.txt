@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 24 Jul 2021 06:00 PM UTC+7
-! Version: 24/07/2021
+! Last modified: 26 Jul 2021 05:50 PM UTC+7
+! Version: 26/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -18,19 +18,58 @@
 ||firebase-settings.crashlytics.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
-||insights-collector.newrelic.com^
 ||ipstatp.com^
 ||kvinit-prod.api.kochava.com^
 ||litix.io^
-||metric-api.newrelic.com^
 ||moengage.com^
 ||oth.eve.mdt.qq.com^
 ||popin.cc^
 ||scorecardresearch.com^
 ||sg.tdatamaster.com^
 ||sg01.rayjump.com^
-||tls10.newrelic.com.cdn.cloudflare.net^
 ||tsg.tdatamaster.com^
+
+# NEWRELIC
+||chi-insights-collector.newrelic.com^
+||chi-staging-collector-pool.newrelic.com^
+||cloud-collector.eu.newrelic.com^
+||cloud-collector.newrelic.com^
+||collector-1.newrelic.com^
+||collector-2.newrelic.com^
+||collector-3.newrelic.com^
+||collector-4.newrelic.com^
+||collector-5.newrelic.com^
+||collector-6.newrelic.com^
+||collector-7.newrelic.com^
+||collector-8.newrelic.com^
+||collector-9.newrelic.com^
+||collector-pool.newrelic.com^
+||collector.newrelic.com^
+||insights-collector.newrelic.com^
+||insights-embed.newrelic.com^
+||js-agent.newrelic.com^
+||log-api.newrelic.com^
+||metric-api.eu.newrelic.com^
+||metric-api.newrelic.com^
+||mobile-collector-1.newrelic.com^
+||mobile-collector-2.newrelic.com^
+||mobile-collector-3.newrelic.com^
+||mobile-collector-4.newrelic.com^
+||mobile-collector-5.newrelic.com^
+||mobile-collector-origin.newrelic.com^
+||mobile-collector.newrelic.com^
+||mobile-crash-origin.newrelic.com^
+||staging-cloud-collector.newrelic.com^
+||staging-collector-1.newrelic.com^
+||staging-collector-2.newrelic.com^
+||staging-collector-pool.newrelic.com^
+||staging-collectors.newrelic.com^
+||staging-log-api.newrelic.com^
+||staging-metric-api.newrelic.com^
+||staging-mobile-collector.newrelic.com^
+||staging-mobile-crash.newrelic.com^
+||tls10.newrelic.com.cdn.cloudflare.net^
+||trace-this.newrelic.com^
 
 # SHAREit: com.lenovo.anyshare.gps
 ### Block NSFW and Fuc*king video ads. Blame SHAREit devs ###
@@ -183,13 +222,14 @@
 ||xml.opera.com^
 
 # Drakor.ID: com.stream.drakorindoawet
+# Drakor.id - Nonton Drama Korea Sub Indo: com.drakorid.app
 ||achcdn.com^
 ||api.onesignal.com^
 ||applovin.com^
 ||awaitcola.com^
 ||blockscoolest.com^
 ||cdn.onesignal.com^
-||cdn.trakteer.id^$app=com.stream.drakorindoawet
+||cdn.trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app
 ||cloudimagesa.com^
 ||config.safedk.com^
 ||dmxleo.dailymotion.com^
@@ -197,7 +237,7 @@
 ||edge.safedk.com^
 ||flagros2sii8fdbrh09.com^
 ||fstats.xyz^
-||graph.facebook.com^$app=com.stream.drakorindoawet
+||graph.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app
 ||haloani.ru^
 ||hornsbundlebetter.com^
 ||mc.yandex.ru^
@@ -207,11 +247,11 @@
 ||schemas.applovin.com^
 ||squeezedthoughtfully.com^
 ||tgpsew.com^
-||trakteer.id^$app=com.stream.drakorindoawet
+||trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app
 ||ufpcdn.com^
 ||unreshiramor.com^
-||web.facebook.com^$app=com.stream.drakorindoawet
-||www.facebook.com^$app=com.stream.drakorindoawet
+||web.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app
+||www.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app
 ||yourwebbars.com^
 
 # WhatsApp Messenger: com.whatsapp
@@ -523,6 +563,7 @@
 ||cs02-pps-dra.dbankcdn.com^
 ||datacollector-dra.dt.hicloud.com^
 ||dxzc1o98vrjl6.cloudfront.net^
+||events-dra.op.hicloud.com^
 ||feedback-dre.platform.hicloud.com^
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.cn^
@@ -562,8 +603,9 @@
 
 # XIAOMI PHONES
 # Pulled from Xiaomi's subdomains, also tested on Global ROM
-*/push/getAds
+/push/getAds
 ||graph.facebook.com^$app=com.miui.videoplayer|com.miui.player
+||www.facebook.com^$app=com.miui.videoplayer|com.miui.player
 ||a.stat.xiaomi.com^
 ||abroad.api.comm.intl.miui.com^
 ||abtest.mistat.india.xiaomi.com^
