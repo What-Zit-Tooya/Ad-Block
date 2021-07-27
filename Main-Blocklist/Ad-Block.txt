@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 26 Jul 2021 09:00 PM UTC+7
-! Version: 26/07/2021
+! Last modified: 27 Jul 2021 08:10 PM UTC+7
+! Version: 27/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -413,6 +413,7 @@
 ||insideoftech.com^
 ||ipmbnqqaon.com^
 ||itstuffnews.com^
+||jpjmpqaupc.com^
 ||kibana.tapdaq.com^
 ||kotikinar2ko8tiki09.com^
 ||mail.tapdaq.com^
@@ -451,6 +452,7 @@
 ||vubihasdtbadiq.com^
 ||vungle.com^
 ||washedinmate.com^
+||widow5blackfr.com^
 ||wmgtr.com^
 ||wohchuuemjs.com^
 ||ws.tapjoyads.com^
@@ -1293,16 +1295,30 @@
 ||quiz.vidio.com^
 
 # ALCATEL (TCL) PHONES
+||appcenter-13.tclclouds.com^
+||appcenter-50.tclclouds.com^
+||appcenter.hd.tclclouds.com^
 ||cleanportal.tclclouds.com^
 ||dg.udc.eu.tclclouds.com^
+||equipment.tclclouds.com^
 ||gw.rtdp.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
 ||iplan.tclmobile.cn^
 ||madri.tsmdev.id^
 ||pushplatform.tclclouds.com^
 ||sec.tclclouds.com^
-||webservice.tclmobile.cn^
+||t1105210199.org^
+||t1485285438.org^
+||t1634098528.org^
+||t1963154362.org^
+||t2070750561.org^
+||t642252200.org^
+||t779901474.org^
+||t817919330.org^
+||t993533862.org^
+||tuser.info^
 ||vueserion.ciayo.com^
+||webservice.tclmobile.cn^
 
 # Kiwi Browser: com.kiwibrowser.browser
 ||kiwisearchservices.com^

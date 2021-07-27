@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 26 Jul 2021 09:00 PM UTC+7
-! Version: 26/07/2021
+! Last modified: 27 Jul 2021 08:10 PM UTC+7
+! Version: 27/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -459,6 +459,7 @@
 0.0.0.0 insideoftech.com
 0.0.0.0 ipmbnqqaon.com
 0.0.0.0 itstuffnews.com
+0.0.0.0 jpjmpqaupc.com
 0.0.0.0 kibana.tapdaq.com
 0.0.0.0 kotikinar2ko8tiki09.com
 0.0.0.0 mail.tapdaq.com
@@ -497,6 +498,7 @@
 0.0.0.0 vubihasdtbadiq.com
 0.0.0.0 vungle.com
 0.0.0.0 washedinmate.com
+0.0.0.0 widow5blackfr.com
 0.0.0.0 wohchuuemjs.com
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 www.staging.tapdaq.com
@@ -1359,16 +1361,30 @@
 0.0.0.0 quiz.vidio.com
 
 # ALCATEL (TCL) PHONES
+0.0.0.0 appcenter-13.tclclouds.com
+0.0.0.0 appcenter-50.tclclouds.com
+0.0.0.0 appcenter.hd.tclclouds.com
 0.0.0.0 cleanportal.tclclouds.com
 0.0.0.0 dg.udc.eu.tclclouds.com
+0.0.0.0 equipment.tclclouds.com
 0.0.0.0 gw.rtdp.tclclouds.com
 0.0.0.0 gwrtdp-eges75nzvx.tclclouds.com
 0.0.0.0 iplan.tclmobile.cn
 0.0.0.0 madri.tsmdev.id
 0.0.0.0 pushplatform.tclclouds.com
 0.0.0.0 sec.tclclouds.com
-0.0.0.0 webservice.tclmobile.cn
+0.0.0.0 t1105210199.org
+0.0.0.0 t1485285438.org
+0.0.0.0 t1634098528.org
+0.0.0.0 t1963154362.org
+0.0.0.0 t2070750561.org
+0.0.0.0 t642252200.org
+0.0.0.0 t779901474.org
+0.0.0.0 t817919330.org
+0.0.0.0 t993533862.org
+0.0.0.0 tapi.tuser.info
 0.0.0.0 vueserion.ciayo.com
+0.0.0.0 webservice.tclmobile.cn
 
 # Kiwi Browser: com.kiwibrowser.browser
 0.0.0.0 kiwisearchservices.com
