@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 27 Jul 2021 08:10 PM UTC+7
-! Version: 27/07/2021
+! Last modified: 28 Jul 2021 09:20 AM UTC+7
+! Version: 28/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -475,6 +475,7 @@
 0.0.0.0 predictiondexchange.com
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 px.moatads.com
+0.0.0.0 qrclevrfjw.com
 0.0.0.0 reptilefighttearn.com
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rt.applovin.com
@@ -1373,18 +1374,34 @@
 0.0.0.0 madri.tsmdev.id
 0.0.0.0 pushplatform.tclclouds.com
 0.0.0.0 sec.tclclouds.com
-0.0.0.0 t1105210199.org
-0.0.0.0 t1485285438.org
-0.0.0.0 t1634098528.org
-0.0.0.0 t1963154362.org
-0.0.0.0 t2070750561.org
-0.0.0.0 t642252200.org
-0.0.0.0 t779901474.org
-0.0.0.0 t817919330.org
-0.0.0.0 t993533862.org
 0.0.0.0 tapi.tuser.info
+0.0.0.0 tuser.info
 0.0.0.0 vueserion.ciayo.com
 0.0.0.0 webservice.tclmobile.cn
+0.0.0.0 www.t1008568044.org
+0.0.0.0 www.t1066571916.org
+0.0.0.0 www.t1105210199.org
+0.0.0.0 www.t1316171596.org
+0.0.0.0 www.t1441862856.org
+0.0.0.0 www.t1485285438.org
+0.0.0.0 www.t1513039319.org
+0.0.0.0 www.t1592234290.org
+0.0.0.0 www.t1634098528.org
+0.0.0.0 www.t1809375466.org
+0.0.0.0 www.t1830275066.org
+0.0.0.0 www.t1953608744.org
+0.0.0.0 www.t1963154362.org
+0.0.0.0 www.t2055175433.org
+0.0.0.0 www.t2070750561.org
+0.0.0.0 www.t2110938508.org
+0.0.0.0 www.t222623289.org
+0.0.0.0 www.t369055124.org
+0.0.0.0 www.t59480644.org
+0.0.0.0 www.t642252200.org
+0.0.0.0 www.t779901474.org
+0.0.0.0 www.t792971598.org
+0.0.0.0 www.t817919330.org
+0.0.0.0 www.t993533862.org
 
 # Kiwi Browser: com.kiwibrowser.browser
 0.0.0.0 kiwisearchservices.com
@@ -1760,3 +1777,7 @@
 0.0.0.0 uxip-res.meizu.com
 0.0.0.0 uxip.meizu.com
 0.0.0.0 zen.yandex.com
+
+# MEDIATEK
+0.0.0.0 oepodownload.mediatek.com
+0.0.0.0 ogepodownload.mediatek.com

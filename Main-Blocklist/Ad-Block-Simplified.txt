@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 27 Jul 2021 08:10 PM UTC+7
-! Version: 27/07/2021
+! Last modified: 28 Jul 2021 09:20 AM UTC+7
+! Version: 28/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -438,6 +438,7 @@
 ||predictiondexchange.com^
 ||prod-a.applovin.com^
 ||px.moatads.com^
+||qrclevrfjw.com^
 ||reptilefighttearn.com^
 ||rpc.tapjoy.com^
 ||rt.applovin.com^
@@ -1285,18 +1286,33 @@
 ||madri.tsmdev.id^
 ||pushplatform.tclclouds.com^
 ||sec.tclclouds.com^
-||t1105210199.org^
-||t1485285438.org^
-||t1634098528.org^
-||t1963154362.org^
-||t2070750561.org^
-||t642252200.org^
-||t779901474.org^
-||t817919330.org^
-||t993533862.org^
 ||tuser.info^
 ||vueserion.ciayo.com^
 ||webservice.tclmobile.cn^
+||www.t1008568044.org^
+||www.t1066571916.org^
+||www.t1105210199.org^
+||www.t1316171596.org^
+||www.t1441862856.org^
+||www.t1485285438.org^
+||www.t1513039319.org^
+||www.t1592234290.org^
+||www.t1634098528.org^
+||www.t1809375466.org^
+||www.t1830275066.org^
+||www.t1953608744.org^
+||www.t1963154362.org^
+||www.t2055175433.org^
+||www.t2070750561.org^
+||www.t2110938508.org^
+||www.t222623289.org^
+||www.t369055124.org^
+||www.t59480644.org^
+||www.t642252200.org^
+||www.t779901474.org^
+||www.t792971598.org^
+||www.t817919330.org^
+||www.t993533862.org^
 
 # Kiwi Browser: com.kiwibrowser.browser
 ||kiwisearchservices.com^
@@ -1657,3 +1673,7 @@
 ||uxip.meizu.com^
 ||webvisor.com^
 ||zen.yandex.com^
+
+# MEDIATEK
+||oepodownload.mediatek.com^
+||ogepodownload.mediatek.com^
