@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 28 Jul 2021 09:20 AM UTC+7
+! Last modified: 28 Jul 2021 07:25 PM UTC+7
 ! Version: 28/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1254,7 +1254,6 @@
 0.0.0.0 shepherd.sb.avast.com
 0.0.0.0 streamback.ns1.ff.avast.com
 0.0.0.0 us.log.slb.avlyun.com
-0.0.0.0 vanheim.ff.avast.com
 
 # WPS Office: cn.wps.moffice_eng
 0.0.0.0 abroad-ad.kingsoft-office-service.com
@@ -1380,27 +1379,37 @@
 0.0.0.0 webservice.tclmobile.cn
 0.0.0.0 www.t1008568044.org
 0.0.0.0 www.t1066571916.org
+0.0.0.0 www.t1081891292.org
 0.0.0.0 www.t1105210199.org
+0.0.0.0 www.t1152072052.org
+0.0.0.0 www.t1222124347.org
 0.0.0.0 www.t1316171596.org
+0.0.0.0 www.t1364856810.org
 0.0.0.0 www.t1441862856.org
 0.0.0.0 www.t1485285438.org
+0.0.0.0 www.t151126547.org
 0.0.0.0 www.t1513039319.org
 0.0.0.0 www.t1592234290.org
 0.0.0.0 www.t1634098528.org
 0.0.0.0 www.t1809375466.org
 0.0.0.0 www.t1830275066.org
+0.0.0.0 www.t190930571.org
 0.0.0.0 www.t1953608744.org
 0.0.0.0 www.t1963154362.org
+0.0.0.0 www.t1993911267.org
 0.0.0.0 www.t2055175433.org
 0.0.0.0 www.t2070750561.org
+0.0.0.0 www.t2085430364.org
 0.0.0.0 www.t2110938508.org
 0.0.0.0 www.t222623289.org
 0.0.0.0 www.t369055124.org
+0.0.0.0 www.t547342585.org
 0.0.0.0 www.t59480644.org
 0.0.0.0 www.t642252200.org
 0.0.0.0 www.t779901474.org
 0.0.0.0 www.t792971598.org
 0.0.0.0 www.t817919330.org
+0.0.0.0 www.t933628009.org
 0.0.0.0 www.t993533862.org
 
 # Kiwi Browser: com.kiwibrowser.browser
@@ -1779,5 +1788,31 @@
 0.0.0.0 zen.yandex.com
 
 # MEDIATEK
+0.0.0.0 aepodownload.mediatek.com
+0.0.0.0 epodownload.mediatek.com
+0.0.0.0 lepodownload.mediatek.com
+0.0.0.0 mepodownload.mediatek.com
+0.0.0.0 mgepodownload.mediatek.com
+0.0.0.0 mtepodownload.mediatek.com
 0.0.0.0 oepodownload.mediatek.com
 0.0.0.0 ogepodownload.mediatek.com
+0.0.0.0 pepodownload.mediatek.com
+0.0.0.0 pgepodownload.mediatek.com
+0.0.0.0 qepodownload.mediatek.com
+0.0.0.0 qgepodownload.mediatek.com
+0.0.0.0 remote.ca.mediatek.com
+0.0.0.0 remotebjcu.mediatek.com
+0.0.0.0 remoteca.mediatek.com
+0.0.0.0 remotekr.mediatek.com
+0.0.0.0 remotekrs.mediatek.com
+0.0.0.0 remotesg.mediatek.com
+0.0.0.0 remotetw.mediatek.com
+0.0.0.0 repodownload.mediatek.com
+0.0.0.0 rgepodownload.mediatek.com
+0.0.0.0 sepodownload.mediatek.com
+0.0.0.0 sfepodownload.mediatek.com
+0.0.0.0 sgepodownload.mediatek.com
+0.0.0.0 tsmepodownload.mediatek.com
+
+# Apex Legends Mobile: com.ea.gp.apexlegendsmobilefps
+0.0.0.0 bugly-android.mgapex.com

@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 28 Jul 2021 09:20 AM UTC+7
+! Last modified: 28 Jul 2021 07:25 PM UTC+7
 ! Version: 28/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1214,7 +1214,6 @@
 ||shepherd.ns1.ff.avast.com^
 ||shepherd.sb.avast.com^
 ||streamback.ns1.ff.avast.com^
-||vanheim.ff.avast.com^
 
 # WPS Office: cn.wps.moffice_eng
 ||abroad-ad.kingsoft-office-service.com^
@@ -1313,27 +1312,37 @@
 ||webservice.tclmobile.cn^
 ||www.t1008568044.org^
 ||www.t1066571916.org^
+||www.t1081891292.org^
 ||www.t1105210199.org^
+||www.t1152072052.org^
+||www.t1222124347.org^
 ||www.t1316171596.org^
+||www.t1364856810.org^
 ||www.t1441862856.org^
 ||www.t1485285438.org^
+||www.t151126547.org^
 ||www.t1513039319.org^
 ||www.t1592234290.org^
 ||www.t1634098528.org^
 ||www.t1809375466.org^
 ||www.t1830275066.org^
+||www.t190930571.org^
 ||www.t1953608744.org^
 ||www.t1963154362.org^
+||www.t1993911267.org^
 ||www.t2055175433.org^
 ||www.t2070750561.org^
+||www.t2085430364.org^
 ||www.t2110938508.org^
 ||www.t222623289.org^
 ||www.t369055124.org^
+||www.t547342585.org^
 ||www.t59480644.org^
 ||www.t642252200.org^
 ||www.t779901474.org^
 ||www.t792971598.org^
 ||www.t817919330.org^
+||www.t933628009.org^
 ||www.t993533862.org^
 
 # Kiwi Browser: com.kiwibrowser.browser
@@ -1707,5 +1716,31 @@
 ||zen.yandex.com^
 
 # MEDIATEK
+||aepodownload.mediatek.com^
+||epodownload.mediatek.com^
+||lepodownload.mediatek.com^
+||mepodownload.mediatek.com^
+||mgepodownload.mediatek.com^
+||mtepodownload.mediatek.com^
 ||oepodownload.mediatek.com^
 ||ogepodownload.mediatek.com^
+||pepodownload.mediatek.com^
+||pgepodownload.mediatek.com^
+||qepodownload.mediatek.com^
+||qgepodownload.mediatek.com^
+||remote.ca.mediatek.com^
+||remotebjcu.mediatek.com^
+||remoteca.mediatek.com^
+||remotekr.mediatek.com^
+||remotekrs.mediatek.com^
+||remotesg.mediatek.com^
+||remotetw.mediatek.com^
+||repodownload.mediatek.com^
+||rgepodownload.mediatek.com^
+||sepodownload.mediatek.com^
+||sfepodownload.mediatek.com^
+||sgepodownload.mediatek.com^
+||tsmepodownload.mediatek.com^
+
+# Apex Legends Mobile: com.ea.gp.apexlegendsmobilefps
+||bugly-android.mgapex.com^
