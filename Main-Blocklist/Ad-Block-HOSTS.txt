@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 29 Jul 2021 07:45 PM UTC+7
+! Last modified: 29 Jul 2021 08:50 PM UTC+7
 ! Version: 29/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1447,6 +1447,7 @@
 0.0.0.0 www.t1485285438.org
 0.0.0.0 www.t151126547.org
 0.0.0.0 www.t1513039319.org
+0.0.0.0 www.t1531738168.org
 0.0.0.0 www.t1568941464.org
 0.0.0.0 www.t1591726940.org
 0.0.0.0 www.t1592234290.org
@@ -1467,23 +1468,32 @@
 0.0.0.0 www.t2110938508.org
 0.0.0.0 www.t214745091.org
 0.0.0.0 www.t222623289.org
+0.0.0.0 www.t228784271.org
+0.0.0.0 www.t229909629.org
 0.0.0.0 www.t276408909.org
 0.0.0.0 www.t309335711.org
+0.0.0.0 www.t315953050.org
+0.0.0.0 www.t342293979.org
 0.0.0.0 www.t369055124.org
 0.0.0.0 www.t400856419.org
+0.0.0.0 www.t540405249.org
 0.0.0.0 www.t547342585.org
 0.0.0.0 www.t564586045.org
 0.0.0.0 www.t59480644.org
+0.0.0.0 www.t596349158.org
 0.0.0.0 www.t642252200.org
 0.0.0.0 www.t718336075.org
 0.0.0.0 www.t718979108.org
 0.0.0.0 www.t779901474.org
 0.0.0.0 www.t792971598.org
 0.0.0.0 www.t805952204.org
+0.0.0.0 www.t806047168.org
 0.0.0.0 www.t817919330.org
 0.0.0.0 www.t81988113.org
 0.0.0.0 www.t853752684.org
 0.0.0.0 www.t856144397.org
+0.0.0.0 www.t857001332.org
+0.0.0.0 www.t912852121.org
 0.0.0.0 www.t933628009.org
 0.0.0.0 www.t993533862.org
 

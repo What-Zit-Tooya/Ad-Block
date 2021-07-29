@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 29 Jul 2021 07:45 PM UTC+7
+! Last modified: 29 Jul 2021 08:50 PM UTC+7
 ! Version: 29/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1370,6 +1370,7 @@
 ||www.t1485285438.org^
 ||www.t151126547.org^
 ||www.t1513039319.org^
+||www.t1531738168.org^
 ||www.t1568941464.org^
 ||www.t1591726940.org^
 ||www.t1592234290.org^
@@ -1390,23 +1391,32 @@
 ||www.t2110938508.org^
 ||www.t214745091.org^
 ||www.t222623289.org^
+||www.t228784271.org^
+||www.t229909629.org^
 ||www.t276408909.org^
 ||www.t309335711.org^
+||www.t315953050.org^
+||www.t342293979.org^
 ||www.t369055124.org^
 ||www.t400856419.org^
+||www.t540405249.org^
 ||www.t547342585.org^
 ||www.t564586045.org^
 ||www.t59480644.org^
+||www.t596349158.org^
 ||www.t642252200.org^
 ||www.t718336075.org^
 ||www.t718979108.org^
 ||www.t779901474.org^
 ||www.t792971598.org^
 ||www.t805952204.org^
+||www.t806047168.org^
 ||www.t817919330.org^
 ||www.t81988113.org^
 ||www.t853752684.org^
 ||www.t856144397.org^
+||www.t857001332.org^
+||www.t912852121.org^
 ||www.t933628009.org^
 ||www.t993533862.org^
 
