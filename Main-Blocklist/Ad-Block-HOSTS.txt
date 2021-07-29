@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 29 Jul 2021 12:20 PM UTC+7
+! Last modified: 29 Jul 2021 07:45 PM UTC+7
 ! Version: 29/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1362,45 +1362,105 @@
 0.0.0.0 quiz.vidio.com
 
 # ALCATEL (TCL) PHONES
+0.0.0.0 2o7.net
+0.0.0.0 a.fortumo.com
+0.0.0.0 a1825.dscd.akamai.net
+0.0.0.0 adc3-launch-staging.adcolony.com
+0.0.0.0 adcolony.com
+0.0.0.0 admin.appnext.com
+0.0.0.0 ads.aerserv.com
+0.0.0.0 amx.my-onetouch.com
+0.0.0.0 aotcloud.com
+0.0.0.0 api.fortumo.com
+0.0.0.0 api.resys.tclclouds.com
+0.0.0.0 apis.appnxt.net
 0.0.0.0 appcenter-13.tclclouds.com
 0.0.0.0 appcenter-50.tclclouds.com
 0.0.0.0 appcenter.hd.tclclouds.com
+0.0.0.0 appnext.com
+0.0.0.0 appnxt.net
+0.0.0.0 appsgeyser.com
 0.0.0.0 captive.apple.com
+0.0.0.0 cdn.appnext.com
+0.0.0.0 chartboost.com
+0.0.0.0 cleanportal-test.tclclouds.com
 0.0.0.0 cleanportal.tclclouds.com
+0.0.0.0 config.appsgeyser.com
+0.0.0.0 conversions.appsflyer.com
+0.0.0.0 d1byvlfiet2h9q.cloudfront.net
+0.0.0.0 d1wp6m56sqw74a.cloudfront.net
+0.0.0.0 d3tplke66d0j4g.cloudfront.net
+0.0.0.0 debug.aerserv.com
+0.0.0.0 dg.udc.cn.tclclouds.com
 0.0.0.0 dg.udc.eu.tclclouds.com
+0.0.0.0 dmp.aerserv.com
+0.0.0.0 dwxjayoxbnyrr.cloudfront.net
+0.0.0.0 e.crashlytics.com
 0.0.0.0 equipment.tclclouds.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 feedback-test.tclclouds.com
+0.0.0.0 fqtag.com
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 gw.rtdp.tclclouds.com
+0.0.0.0 gwrtdp-EgEs75nZVX.tclclouds.com
 0.0.0.0 gwrtdp-eges75nzvx.tclclouds.com
+0.0.0.0 idol3-1.tclclouds.com
 0.0.0.0 iplan.tclmobile.cn
+0.0.0.0 live.chartboost.com
 0.0.0.0 madri.tsmdev.id
+0.0.0.0 ntsc.ac.cn
+0.0.0.0 paypal.112.2o7.net
+0.0.0.0 pic4.aotcloud.com
+0.0.0.0 platform-test.tclclouds.com
+0.0.0.0 platform.tclclouds.com
 0.0.0.0 pushplatform.tclclouds.com
+0.0.0.0 safe.tclclouds.com
+0.0.0.0 sdk-services.appsflyer.com
 0.0.0.0 sec.tclclouds.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 stat.appsgeyser.com
+0.0.0.0 stats.appsflyer.com
+0.0.0.0 stats.appsflyer.com.akamaized.net
+0.0.0.0 stats.paypal.com
+0.0.0.0 t.appsflyer.com
 0.0.0.0 tapi.tuser.info
+0.0.0.0 tctsz93.tclclouds.com
+0.0.0.0 tlauncher-api.tclclouds.com
+0.0.0.0 tsmdev.id
 0.0.0.0 tuser.info
 0.0.0.0 vueserion.ciayo.com
+0.0.0.0 wd.adcolony.com
 0.0.0.0 webservice.tclmobile.cn
+0.0.0.0 wutlar.fortumo.com
 0.0.0.0 www.t1008568044.org
 0.0.0.0 www.t1066571916.org
 0.0.0.0 www.t1081891292.org
 0.0.0.0 www.t1105210199.org
+0.0.0.0 www.t1119807612.org
 0.0.0.0 www.t1152072052.org
 0.0.0.0 www.t1222124347.org
 0.0.0.0 www.t1316171596.org
+0.0.0.0 www.t1332730577.org
 0.0.0.0 www.t1364856810.org
 0.0.0.0 www.t1441862856.org
 0.0.0.0 www.t1476385785.org
 0.0.0.0 www.t1485285438.org
 0.0.0.0 www.t151126547.org
 0.0.0.0 www.t1513039319.org
+0.0.0.0 www.t1568941464.org
+0.0.0.0 www.t1591726940.org
 0.0.0.0 www.t1592234290.org
 0.0.0.0 www.t1634098528.org
 0.0.0.0 www.t1703957081.org
 0.0.0.0 www.t1809375466.org
 0.0.0.0 www.t1830275066.org
+0.0.0.0 www.t190643345.org
 0.0.0.0 www.t190930571.org
 0.0.0.0 www.t1953608744.org
 0.0.0.0 www.t1963154362.org
+0.0.0.0 www.t1986007771.org
 0.0.0.0 www.t1993911267.org
+0.0.0.0 www.t2039946585.org
 0.0.0.0 www.t2055175433.org
 0.0.0.0 www.t2070750561.org
 0.0.0.0 www.t2085430364.org
@@ -1408,7 +1468,9 @@
 0.0.0.0 www.t214745091.org
 0.0.0.0 www.t222623289.org
 0.0.0.0 www.t276408909.org
+0.0.0.0 www.t309335711.org
 0.0.0.0 www.t369055124.org
+0.0.0.0 www.t400856419.org
 0.0.0.0 www.t547342585.org
 0.0.0.0 www.t564586045.org
 0.0.0.0 www.t59480644.org
@@ -1419,6 +1481,7 @@
 0.0.0.0 www.t792971598.org
 0.0.0.0 www.t805952204.org
 0.0.0.0 www.t817919330.org
+0.0.0.0 www.t81988113.org
 0.0.0.0 www.t853752684.org
 0.0.0.0 www.t856144397.org
 0.0.0.0 www.t933628009.org
@@ -1807,6 +1870,7 @@
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 mgepodownload.mediatek.com
 0.0.0.0 mtepodownload.mediatek.com
+0.0.0.0 ns.mediatek.com
 0.0.0.0 oepodownload.mediatek.com
 0.0.0.0 ogepodownload.mediatek.com
 0.0.0.0 pepodownload.mediatek.com

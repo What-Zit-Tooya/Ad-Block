@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 29 Jul 2021 12:20 PM UTC+7
+! Last modified: 29 Jul 2021 07:45 PM UTC+7
 ! Version: 29/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1274,44 +1274,94 @@
 ||quiz.vidio.com^
 
 # ALCATEL (TCL) PHONES
+||2o7.net^
+||a.fortumo.com^
+||a1825.dscd.akamai.net^
+||adc3-launch-staging.adcolony.com^
+||adcolony.com^
+||aerserv.com^
+||amx.my-onetouch.com^
+||aotcloud.com^
+||api.fortumo.com^
+||api.resys.tclclouds.com^
 ||appcenter-13.tclclouds.com^
 ||appcenter-50.tclclouds.com^
 ||appcenter.hd.tclclouds.com^
+||appnext.com^
+||appnxt.net^
+||appsgeyser.com^
 ||captive.apple.com^
+||chartboost.com^
+||cleanportal-test.tclclouds.com^
 ||cleanportal.tclclouds.com^
+||conversions.appsflyer.com^
+||d1byvlfiet2h9q.cloudfront.net^
+||d1wp6m56sqw74a.cloudfront.net^
+||d3tplke66d0j4g.cloudfront.net^
+||dg.udc.cn.tclclouds.com^
 ||dg.udc.eu.tclclouds.com^
+||dwxjayoxbnyrr.cloudfront.net^
+||e.crashlytics.com^
 ||equipment.tclclouds.com^
+||events.appsflyer.com^
+||feedback-test.tclclouds.com^
+||fqtag.com^
+||googleads.g.doubleclick.net^
 ||gw.rtdp.tclclouds.com^
+||gwrtdp-EgEs75nZVX.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
+||idol3-1.tclclouds.com^
 ||iplan.tclmobile.cn^
 ||madri.tsmdev.id^
+||ntsc.ac.cn^
+||platform-test.tclclouds.com^
+||platform.tclclouds.com^
 ||pushplatform.tclclouds.com^
+||safe.tclclouds.com^
+||sdk-services.appsflyer.com^
 ||sec.tclclouds.com^
+||settings.crashlytics.com^
+||stat.appsgeyser.com^
+||stats.appsflyer.com.akamaized.net^
+||stats.appsflyer.com^
+||stats.paypal.com^
+||t.appsflyer.com^
+||tctsz93.tclclouds.com^
+||tlauncher-api.tclclouds.com^
+||tsmdev.id^
 ||tuser.info^
 ||vueserion.ciayo.com^
 ||webservice.tclmobile.cn^
+||wutlar.fortumo.com^
 ||www.t1008568044.org^
 ||www.t1066571916.org^
 ||www.t1081891292.org^
 ||www.t1105210199.org^
+||www.t1119807612.org^
 ||www.t1152072052.org^
 ||www.t1222124347.org^
 ||www.t1316171596.org^
+||www.t1332730577.org^
 ||www.t1364856810.org^
 ||www.t1441862856.org^
 ||www.t1476385785.org^
 ||www.t1485285438.org^
 ||www.t151126547.org^
 ||www.t1513039319.org^
+||www.t1568941464.org^
+||www.t1591726940.org^
 ||www.t1592234290.org^
 ||www.t1634098528.org^
 ||www.t1703957081.org^
 ||www.t1809375466.org^
 ||www.t1830275066.org^
+||www.t190643345.org^
 ||www.t190930571.org^
 ||www.t1953608744.org^
 ||www.t1963154362.org^
+||www.t1986007771.org^
 ||www.t1993911267.org^
+||www.t2039946585.org^
 ||www.t2055175433.org^
 ||www.t2070750561.org^
 ||www.t2085430364.org^
@@ -1319,7 +1369,9 @@
 ||www.t214745091.org^
 ||www.t222623289.org^
 ||www.t276408909.org^
+||www.t309335711.org^
 ||www.t369055124.org^
+||www.t400856419.org^
 ||www.t547342585.org^
 ||www.t564586045.org^
 ||www.t59480644.org^
@@ -1330,6 +1382,7 @@
 ||www.t792971598.org^
 ||www.t805952204.org^
 ||www.t817919330.org^
+||www.t81988113.org^
 ||www.t853752684.org^
 ||www.t856144397.org^
 ||www.t933628009.org^
@@ -1703,6 +1756,7 @@
 ||mepodownload.mediatek.com^
 ||mgepodownload.mediatek.com^
 ||mtepodownload.mediatek.com^
+||ns.mediatek.com^
 ||oepodownload.mediatek.com^
 ||ogepodownload.mediatek.com^
 ||pepodownload.mediatek.com^
