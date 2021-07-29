@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 29 Jul 2021 12:15 PM UTC+7
+! Last modified: 29 Jul 2021 12:20 PM UTC+7
 ! Version: 29/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1365,6 +1365,7 @@
 0.0.0.0 appcenter-13.tclclouds.com
 0.0.0.0 appcenter-50.tclclouds.com
 0.0.0.0 appcenter.hd.tclclouds.com
+0.0.0.0 captive.apple.com
 0.0.0.0 cleanportal.tclclouds.com
 0.0.0.0 dg.udc.eu.tclclouds.com
 0.0.0.0 equipment.tclclouds.com
@@ -1387,11 +1388,13 @@
 0.0.0.0 www.t1316171596.org
 0.0.0.0 www.t1364856810.org
 0.0.0.0 www.t1441862856.org
+0.0.0.0 www.t1476385785.org
 0.0.0.0 www.t1485285438.org
 0.0.0.0 www.t151126547.org
 0.0.0.0 www.t1513039319.org
 0.0.0.0 www.t1592234290.org
 0.0.0.0 www.t1634098528.org
+0.0.0.0 www.t1703957081.org
 0.0.0.0 www.t1809375466.org
 0.0.0.0 www.t1830275066.org
 0.0.0.0 www.t190930571.org
@@ -1402,14 +1405,22 @@
 0.0.0.0 www.t2070750561.org
 0.0.0.0 www.t2085430364.org
 0.0.0.0 www.t2110938508.org
+0.0.0.0 www.t214745091.org
 0.0.0.0 www.t222623289.org
+0.0.0.0 www.t276408909.org
 0.0.0.0 www.t369055124.org
 0.0.0.0 www.t547342585.org
+0.0.0.0 www.t564586045.org
 0.0.0.0 www.t59480644.org
 0.0.0.0 www.t642252200.org
+0.0.0.0 www.t718336075.org
+0.0.0.0 www.t718979108.org
 0.0.0.0 www.t779901474.org
 0.0.0.0 www.t792971598.org
+0.0.0.0 www.t805952204.org
 0.0.0.0 www.t817919330.org
+0.0.0.0 www.t853752684.org
+0.0.0.0 www.t856144397.org
 0.0.0.0 www.t933628009.org
 0.0.0.0 www.t993533862.org
 

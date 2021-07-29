@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 29 Jul 2021 12:15 PM UTC+7
+! Last modified: 29 Jul 2021 12:20 PM UTC+7
 ! Version: 29/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1277,6 +1277,7 @@
 ||appcenter-13.tclclouds.com^
 ||appcenter-50.tclclouds.com^
 ||appcenter.hd.tclclouds.com^
+||captive.apple.com^
 ||cleanportal.tclclouds.com^
 ||dg.udc.eu.tclclouds.com^
 ||equipment.tclclouds.com^
@@ -1298,11 +1299,13 @@
 ||www.t1316171596.org^
 ||www.t1364856810.org^
 ||www.t1441862856.org^
+||www.t1476385785.org^
 ||www.t1485285438.org^
 ||www.t151126547.org^
 ||www.t1513039319.org^
 ||www.t1592234290.org^
 ||www.t1634098528.org^
+||www.t1703957081.org^
 ||www.t1809375466.org^
 ||www.t1830275066.org^
 ||www.t190930571.org^
@@ -1313,14 +1316,22 @@
 ||www.t2070750561.org^
 ||www.t2085430364.org^
 ||www.t2110938508.org^
+||www.t214745091.org^
 ||www.t222623289.org^
+||www.t276408909.org^
 ||www.t369055124.org^
 ||www.t547342585.org^
+||www.t564586045.org^
 ||www.t59480644.org^
 ||www.t642252200.org^
+||www.t718336075.org^
+||www.t718979108.org^
 ||www.t779901474.org^
 ||www.t792971598.org^
+||www.t805952204.org^
 ||www.t817919330.org^
+||www.t853752684.org^
+||www.t856144397.org^
 ||www.t933628009.org^
 ||www.t993533862.org^
 
