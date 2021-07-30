@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 29 Jul 2021 08:50 PM UTC+7
-! Version: 29/07/2021
+! Last modified: 30 Jul 2021 09:00 PM UTC+7
+! Version: 30/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -13,7 +13,6 @@
 ||api.adaether.com^
 ||cdp.cloud.unity3d.com^
 ||crashlyticsreports-pa.googleapis.com^
-||doubleclick.net^
 ||dynamicyield.com^
 ||firebase-settings.crashlytics.com^
 ||firebaselogging-pa.googleapis.com^
@@ -560,6 +559,7 @@
 ||wlog.kuaishou.com^
 
 # HUAWEI PHONES
+||a23-2-9-200.deploy.static.akamaitechnologies.com^
 ||activity5.hicloud.com^
 ||adx-dra-op-hicloud-com-dra.appacc.dbankedge.net^
 ||adx-dra.op.hicloud.com^
@@ -567,7 +567,10 @@
 ||cs02-pps-dra.dbankcdn.com^
 ||datacollector-dra.dt.hicloud.com^
 ||datacollector-dre.dt.hicloud.com^
+||dnkeeper.hicloud.com^
+||dsa-sslv6.hispace.hicloud.com.edgekey.net^
 ||dxzc1o98vrjl6.cloudfront.net^
+||e9839.b.akamaiedge.net^
 ||events-dra.op.hicloud.com^
 ||feedback-dre.platform.hicloud.com^
 ||grs.dbankcloud.asia^
@@ -577,6 +580,7 @@
 ||grs.hicloud.com^
 ||healthdata.hicloud.com^
 ||logbak.hicloud.com^
+||loggw-exsdk.alipay.com^
 ||logserver.hicloud.com^
 ||logserver3.hicloud.com^
 ||logservice-dra.platform.hicloud.com^
@@ -584,6 +588,7 @@
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||logtransform.hicloud.com^
+||mcgw.alipay.com^
 ||metrics-dra.dt.hicloud.com^
 ||metrics.data.hicloud.com^
 ||metrics1.data.hicloud.com^
@@ -1328,7 +1333,6 @@
 ||events.appsflyer.com^
 ||feedback-test.tclclouds.com^
 ||fqtag.com^
-||googleads.g.doubleclick.net^
 ||gw.rtdp.tclclouds.com^
 ||gwrtdp-EgEs75nZVX.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
@@ -1343,7 +1347,6 @@
 ||sdk-services.appsflyer.com^
 ||sec.tclclouds.com^
 ||settings.crashlytics.com^
-||stat.appsgeyser.com^
 ||stats.appsflyer.com.akamaized.net^
 ||stats.appsflyer.com^
 ||stats.paypal.com^

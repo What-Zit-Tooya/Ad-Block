@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 29 Jul 2021 08:50 PM UTC+7
-! Version: 29/07/2021
+! Last modified: 30 Jul 2021 09:00 PM UTC+7
+! Version: 30/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -607,6 +607,7 @@
 0.0.0.0 wlog.kuaishou.com
 
 # HUAWEI PHONES
+0.0.0.0 a23-2-9-200.deploy.static.akamaitechnologies.com
 0.0.0.0 activity5.hicloud.com
 0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
 0.0.0.0 adx-dra.op.hicloud.com
@@ -614,7 +615,10 @@
 0.0.0.0 cs02-pps-dra.dbankcdn.com
 0.0.0.0 datacollector-dra.dt.hicloud.com
 0.0.0.0 datacollector-dre.dt.hicloud.com
+0.0.0.0 dnkeeper.hicloud.com
+0.0.0.0 dsa-sslv6.hispace.hicloud.com.edgekey.net
 0.0.0.0 dxzc1o98vrjl6.cloudfront.net
+0.0.0.0 e9839.b.akamaiedge.net
 0.0.0.0 events-dra.op.hicloud.com
 0.0.0.0 feedback-dre.platform.hicloud.com
 0.0.0.0 grs.dbankcloud.asia
@@ -624,6 +628,7 @@
 0.0.0.0 grs.hicloud.com
 0.0.0.0 healthdata.hicloud.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 loggw-exsdk.alipay.com
 0.0.0.0 logserver.hicloud.com
 0.0.0.0 logserver3.hicloud.com
 0.0.0.0 logservice-dra.platform.hicloud.com
@@ -631,6 +636,7 @@
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logtransform.hicloud.com
+0.0.0.0 mcgw.alipay.com
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics1.data.hicloud.com
@@ -1400,7 +1406,6 @@
 0.0.0.0 events.appsflyer.com
 0.0.0.0 feedback-test.tclclouds.com
 0.0.0.0 fqtag.com
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 gw.rtdp.tclclouds.com
 0.0.0.0 gwrtdp-EgEs75nZVX.tclclouds.com
 0.0.0.0 gwrtdp-eges75nzvx.tclclouds.com
