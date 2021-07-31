@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 30 Jul 2021 09:00 PM UTC+7
-! Version: 30/07/2021
+! Last modified: 31 Jul 2021 07:00 PM UTC+7
+! Version: 31/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -164,13 +164,6 @@
 0.0.0.0 newrevive.detik.com
 0.0.0.0 push.detik.com
 0.0.0.0 sessions.bugsnag.com
-
-# KOMPAS.com: com.ertanto.kompas.official
-# Tribunnews.com: mobile.android.tribun
-0.0.0.0 adsimg.kompas.com
-0.0.0.0 kompasads.com
-0.0.0.0 mcf-push.kompas.com
-0.0.0.0 teads.tv
 
 # Mozilla's Apps
 0.0.0.0 incoming.telemetry.mozilla.org
@@ -1274,6 +1267,7 @@
 0.0.0.0 d4z1onkegyrs5.cloudfront.net
 0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 huawei.sg.default.4wps.net
+0.0.0.0 kingsoft34.s.llnwi.net
 0.0.0.0 movip.wps.com
 0.0.0.0 persona-etl.wps.com
 0.0.0.0 plugin-server.wps.com
@@ -1376,7 +1370,6 @@
 0.0.0.0 admin.appnext.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 amx.my-onetouch.com
-0.0.0.0 aotcloud.com
 0.0.0.0 api.fortumo.com
 0.0.0.0 api.resys.tclclouds.com
 0.0.0.0 apis.appnxt.net
@@ -1415,7 +1408,6 @@
 0.0.0.0 madri.tsmdev.id
 0.0.0.0 ntsc.ac.cn
 0.0.0.0 paypal.112.2o7.net
-0.0.0.0 pic4.aotcloud.com
 0.0.0.0 platform-test.tclclouds.com
 0.0.0.0 platform.tclclouds.com
 0.0.0.0 pushplatform.tclclouds.com

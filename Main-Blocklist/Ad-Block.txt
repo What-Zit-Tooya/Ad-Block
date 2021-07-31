@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 30 Jul 2021 09:00 PM UTC+7
-! Version: 30/07/2021
+! Last modified: 31 Jul 2021 07:00 PM UTC+7
+! Version: 31/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -143,13 +143,6 @@
 ||newrevive.detik.com^
 ||push.detik.com^
 ||sessions.bugsnag.com^
-
-# KOMPAS.com: com.ertanto.kompas.official
-# Tribunnews.com: mobile.android.tribun
-||adsimg.kompas.com^
-||kompasads.com^
-||mcf-push.kompas.com^
-||teads.tv^
 
 # Mozilla's Apps
 ||location.services.mozilla.com^
@@ -1238,6 +1231,7 @@
 ||graph.instagram.com^$app=cn.wps.moffice_eng
 ||firstpage.kingsoft-office-service.com^
 ||huawei.sg.default.4wps.net^
+||kingsoft34.s.llnwi.net^
 ||movip.wps.com^
 ||persona-etl.wps.com^
 ||plugin-server.wps.com^
@@ -1308,7 +1302,6 @@
 ||adcolony.com^
 ||aerserv.com^
 ||amx.my-onetouch.com^
-||aotcloud.com^
 ||api.fortumo.com^
 ||api.resys.tclclouds.com^
 ||appcenter-13.tclclouds.com^

@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 30 Jul 2021 09:00 PM UTC+7
-! Version: 30/07/2021
+! Last modified: 31 Jul 2021 07:00 PM UTC+7
+! Version: 31/07/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -156,13 +156,6 @@
 ||newrevive.detik.com^
 ||push.detik.com^
 ||sessions.bugsnag.com^
-
-# KOMPAS.com: com.ertanto.kompas.official
-# Tribunnews.com: mobile.android.tribun
-||adsimg.kompas.com^
-||kompasads.com^
-||mcf-push.kompas.com^
-||teads.tv^
 
 # Mozilla's Apps
 ||location.services.mozilla.com^
@@ -1219,6 +1212,7 @@
 ||d147klt5ohmayp.cloudfront.net^
 ||d4z1onkegyrs5.cloudfront.net^
 ||huawei.sg.default.4wps.net^
+||kingsoft34.s.llnwi.net^
 ||movip.wps.com^
 ||persona-etl.wps.com^
 ||plugin-server.wps.com^
@@ -1286,7 +1280,6 @@
 ||adcolony.com^
 ||aerserv.com^
 ||amx.my-onetouch.com^
-||aotcloud.com^
 ||api.fortumo.com^
 ||api.resys.tclclouds.com^
 ||appcenter-13.tclclouds.com^
