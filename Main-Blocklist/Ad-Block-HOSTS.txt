@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 31 Jul 2021 07:00 PM UTC+7
-! Version: 31/07/2021
+! Last modified: 01 August 2021 08:00 PM UTC+7
+! Version: 01/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -156,6 +156,7 @@
 0.0.0.0 vod.cnnindonesia.com
 0.0.0.0 vod.detik.com
 # END Video Block
+0.0.0.0 analytic.detik.com
 0.0.0.0 2mdn.net
 0.0.0.0 cdnstatic.detik.com
 0.0.0.0 contextads.live
@@ -1400,7 +1401,6 @@
 0.0.0.0 feedback-test.tclclouds.com
 0.0.0.0 fqtag.com
 0.0.0.0 gw.rtdp.tclclouds.com
-0.0.0.0 gwrtdp-EgEs75nZVX.tclclouds.com
 0.0.0.0 gwrtdp-eges75nzvx.tclclouds.com
 0.0.0.0 idol3-1.tclclouds.com
 0.0.0.0 iplan.tclmobile.cn

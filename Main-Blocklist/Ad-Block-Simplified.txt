@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 31 Jul 2021 07:00 PM UTC+7
-! Version: 31/07/2021
+! Last modified: 01 August 2021 08:00 PM UTC+7
+! Version: 01/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -148,6 +148,7 @@
 ||vod.cnnindonesia.com^
 ||vod.detik.com^
 # END Video Block
+||analytic.detik.com^
 ||2mdn.net^
 ||cdnstatic.detik.com^
 ||contextads.live^
@@ -1305,7 +1306,6 @@
 ||feedback-test.tclclouds.com^
 ||fqtag.com^
 ||gw.rtdp.tclclouds.com^
-||gwrtdp-EgEs75nZVX.tclclouds.com^
 ||gwrtdp-eges75nzvx.tclclouds.com^
 ||idol3-1.tclclouds.com^
 ||iplan.tclmobile.cn^

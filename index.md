@@ -1,6 +1,6 @@
 # What-Zit-Tooya Ad-Block
 
-Supplementary Ad-Block filter to enhance your ad-block experience. Written using AdBlock Syntax and recommended to use it with **[AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).**
+Personal supplementary Ad-Block filter to enhance your ad-block experience. Written using AdBlock Syntax and recommended to use it with **[AdGuard for Android](https://anonym.to/?https://adguard.com/en/adguard-android/overview.html).**
 
 Download AdGuard for Android here:
 - [Stable](https://anonym.to/?https://agrd.io/apk)
@@ -37,7 +37,7 @@ My main Ad-Block & Simplified version is suitable for [AdGuard for Android](http
 Ad-Block HOSTS `0.0.0.0` version is suitable for [Blokada](https://anonym.to/?https://blokada.org/) and [personalDNSfilter](https://anonym.to/?https://www.zenz-solutions.de/personaldnsfilter-wp/).
 
 # Attention
-If you encounter any anti-adblock detection, try to turn off DNS filtering.
+If you encounter any anti-adblock detection, try to turn off DNS filtering or use unfiltered DNS server.
 
 # Recommended
 For more strong protection, I recommend to use **BlahDNS**.

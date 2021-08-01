@@ -1,5 +1,5 @@
 # WhatZitTooya's Ad-Block
-Supplementary filter to block Mobile Ads, Logs & Tracking. You still need 3rd party Ad-Block filter list like AdGuard Base, AdGuard DNS filter, and others to make your Ad-Blocker stronger.
+Personal supplementary filter to block Mobile Ads, Logs & Tracking. You still need 3rd party Ad-Block filter list like AdGuard Base, AdGuard DNS filter, and others to make your Ad-Blocker stronger.
 
 Also there are additional blocklist for Xiaomi, Huawei, Oppo (maybe Realme too), Infinix, Samsung and Meizu.
 
