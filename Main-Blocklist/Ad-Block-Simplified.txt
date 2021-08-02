@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 01 August 2021 08:00 PM UTC+7
-! Version: 01/08/2021
+! Last modified: 02 August 2021 07:30 AM UTC+7
+! Version: 02/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -377,6 +377,22 @@
 ||smarttv-smartinfo.manhattan.yahoo.com^
 
 # NekoPoi: com.usamin.nekopoi
+@@||crunchyroll.adtrackers.net^|
+@@||crunchyroll.bannertrack.net^|
+@@||ox-d.adclixx.net^|
+@@||ox-d.adnetasia.com^|
+@@||ox-d.adtrackers.net^|
+@@||ox-d.bannertrack.net^|
+@@||serve.adclixx.net^|
+@@||serve.adnetasia.com^|
+@@||serve.adtrackers.net^|
+@@||serve.bannertrack.net^|
+@@||torrentz.adnetasia.com^|
+@@||torrentz.adtrackers.net^|
+@@||torrentz.bannertrack.net^|
+@@||yahoo.adnetasia.com^|
+@@||yahoo.adtrackers.net^|
+@@||yahoo.bannertrack.net^|
 ||a.applovin.com^
 ||a.applvn.com^
 ||ad.foxnetworks.com^
@@ -427,6 +443,7 @@
 ||pdn.applovin.com^
 ||pfzzgurflf.com^
 ||placements.tapjoy.com^
+||poeupvcvruuizk.com^
 ||practisecolander.com^
 ||predictiondexchange.com^
 ||prod-a.applovin.com^
