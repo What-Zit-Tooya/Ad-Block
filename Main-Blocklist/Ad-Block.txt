@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 02 August 2021 10:45 AM UTC+7
-! Version: 02/08/2021
+! Last modified: 03 August 2021 07:35 AM UTC+7
+! Version: 03/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -370,6 +370,10 @@
 ||smarttv-smartinfo.manhattan.yahoo.com^
 
 # NekoPoi: com.usamin.nekopoi
+@@||adtrackers.net^|
+@@||bannertrack.net^|
+@@||adclixx.net^|
+@@||adnetasia.com^|
 ||a.applovin.com^
 ||a.applvn.com^
 ||ad.foxnetworks.com^
@@ -394,6 +398,7 @@
 ||daijopimlo.com^
 ||dashboard-api.staging.tapdaq.com^
 ||dashboard-api.tapdaq.com^
+||deslncsiq.com^
 ||dvwvqeddi.com^
 ||eivbjsegbino.com^
 ||exeptingincludedelivering.com^
