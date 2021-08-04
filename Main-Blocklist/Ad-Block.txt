@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 03 August 2021 07:35 AM UTC+7
-! Version: 03/08/2021
+! Last modified: 04 August 2021 06:00 PM UTC+7
+! Version: 04/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1828,3 +1828,6 @@
 
 # GitHub: com.github.android
 ||collector.githubapp.com^
+
+# Grab Superapp: com.grabtaxi.passenger
+||ads-cdn.grab.com^
