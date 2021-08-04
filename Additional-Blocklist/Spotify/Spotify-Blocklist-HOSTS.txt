@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Filter to block spotify ads & tracking
 ! Author: WhatZitTooya
-! Last modified: 09 Jul 2021 07:20 PM UTC+7
-! Version: 09/07/2021
+! Last modified: 04 August 2021 04:45 PM UTC+7
+! Version: 04/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -117,7 +117,6 @@
 0.0.0.0 prod.spotify.map.fastly.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 quicksilver.scdn.co
-0.0.0.0 redirector.gvt1.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 scorecardresearch.com
 0.0.0.0 secure.insightexpressai.com
