@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 04 August 2021 06:00 PM UTC+7
-! Version: 04/08/2021
+! Last modified: 05 August 2021 bnbxwdkxccxfsn.com AM UTC+7
+! Version: 05/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -428,6 +428,7 @@
 0.0.0.0 assets.applovin.com
 0.0.0.0 bitcoloan.info
 0.0.0.0 blog.tapdaq.com
+0.0.0.0 bnbxwdkxccxfsn.com
 0.0.0.0 brtcjmnplmzo.com
 0.0.0.0 cdn.mondiad.net
 0.0.0.0 config.inmobi.com
@@ -437,6 +438,7 @@
 0.0.0.0 crash-metrics.sdk.inmobi.com
 0.0.0.0 d.applovin.com
 0.0.0.0 d.applvn.com
+0.0.0.0 dafoljqjmlopaf.com
 0.0.0.0 daijopimlo.com
 0.0.0.0 dashboard-api.staging.tapdaq.com
 0.0.0.0 dashboard-api.tapdaq.com
