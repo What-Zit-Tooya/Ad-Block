@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 11 August 2021 04:35 PM UTC+7
+! Last modified: 11 August 2021 07:50 PM UTC+7
 ! Version: 11/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -1418,6 +1418,7 @@
 0.0.0.0 paypal.112.2o7.net
 0.0.0.0 platform-test.tclclouds.com
 0.0.0.0 platform.tclclouds.com
+0.0.0.0 production.alcatelplus.com
 0.0.0.0 pushplatform.tclclouds.com
 0.0.0.0 safe.tclclouds.com
 0.0.0.0 sdk-services.appsflyer.com
@@ -1481,20 +1482,25 @@
 0.0.0.0 www.t342293979.org
 0.0.0.0 www.t369055124.org
 0.0.0.0 www.t400856419.org
+0.0.0.0 www.t498957513.org
 0.0.0.0 www.t540405249.org
 0.0.0.0 www.t547342585.org
 0.0.0.0 www.t564586045.org
 0.0.0.0 www.t59480644.org
 0.0.0.0 www.t596349158.org
 0.0.0.0 www.t642252200.org
+0.0.0.0 www.t708024351.org
 0.0.0.0 www.t718336075.org
 0.0.0.0 www.t718979108.org
+0.0.0.0 www.t735489209.org
+0.0.0.0 www.t738645087.org
 0.0.0.0 www.t779901474.org
 0.0.0.0 www.t792971598.org
 0.0.0.0 www.t805952204.org
 0.0.0.0 www.t806047168.org
 0.0.0.0 www.t817919330.org
 0.0.0.0 www.t81988113.org
+0.0.0.0 www.t845637230.org
 0.0.0.0 www.t853752684.org
 0.0.0.0 www.t856144397.org
 0.0.0.0 www.t857001332.org
