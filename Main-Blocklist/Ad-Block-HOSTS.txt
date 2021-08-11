@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 05 August 2021 07:45 AM UTC+7
-! Version: 05/08/2021
+! Last modified: 11 August 2021 04:30 PM UTC+7
+! Version: 11/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -498,6 +498,7 @@
 0.0.0.0 vubihasdtbadiq.com
 0.0.0.0 vungle.com
 0.0.0.0 washedinmate.com
+0.0.0.0 whsepelmrnz.com
 0.0.0.0 widow5blackfr.com
 0.0.0.0 wohchuuemjs.com
 0.0.0.0 ws.tapjoyads.com
@@ -507,6 +508,7 @@
 0.0.0.0 xpbbyiqbcawamy.com
 0.0.0.0 yititsimplyd.club
 0.0.0.0 z.moatads.com
+0.0.0.0 zdaptrksg.com
 
 # TikTok: com.zhiliaoapp.musically
 # TikTok ID: com.ss.android.ugc.trill
