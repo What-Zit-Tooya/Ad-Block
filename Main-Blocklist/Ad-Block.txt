@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 11 August 2021 07:50 PM UTC+7
-! Version: 11/08/2021
+! Last modified: 29 August 2021 10:45 AM UTC+7
+! Version: 29/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -216,13 +216,14 @@
 
 # Drakor.ID: com.stream.drakorindoawet
 # Drakor.id - Nonton Drama Korea Sub Indo: com.drakorid.app
+# Drakorid+: com.drakorid.stream
 ||achcdn.com^
 ||api.onesignal.com^
 ||applovin.com^
 ||awaitcola.com^
 ||blockscoolest.com^
 ||cdn.onesignal.com^
-||cdn.trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app
+||cdn.trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
 ||cloudimagesa.com^
 ||config.safedk.com^
 ||dmxleo.dailymotion.com^
@@ -230,10 +231,11 @@
 ||edge.safedk.com^
 ||flagros2sii8fdbrh09.com^
 ||fstats.xyz^
-||graph.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app
+||graph.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
 ||haloani.ru^
 ||hornsbundlebetter.com^
 ||license.virmana.com/api/install/add/com.drakorid.app/*
+||license.virmana.com/api/install/add/com.drakorid.stream/*
 ||mc.yandex.ru^
 ||onclickgenius.com^
 ||onmarshtompor.com^
@@ -241,11 +243,11 @@
 ||schemas.applovin.com^
 ||squeezedthoughtfully.com^
 ||tgpsew.com^
-||trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app
+||trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
 ||ufpcdn.com^
 ||unreshiramor.com^
-||web.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app
-||www.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app
+||web.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
+||www.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
 ||yourwebbars.com^
 
 # WhatsApp Messenger: com.whatsapp
