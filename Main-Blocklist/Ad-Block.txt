@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 29 August 2021 10:45 AM UTC+7
-! Version: 29/08/2021
+! Last modified: 30 August 2021 07:00 PM UTC+7
+! Version: 30/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -13,6 +13,7 @@
 ||api.adaether.com^
 ||cdp.cloud.unity3d.com^
 ||crashlyticsreports-pa.googleapis.com^
+||delivery.r2b2.io^
 ||dynamicyield.com^
 ||firebase-settings.crashlytics.com^
 ||firebaselogging-pa.googleapis.com^
@@ -20,6 +21,7 @@
 ||ipstatp.com^
 ||kvinit-prod.api.kochava.com^
 ||litix.io^
+||log.r2b2.io^
 ||moengage.com^
 ||oth.eve.mdt.qq.com^
 ||popin.cc^
@@ -469,6 +471,7 @@
 ||www.weeklyordinaryrewardextra.cyou^
 ||xpbbyiqbcawamy.com^
 ||yititsimplyd.club^
+||yuqnibpyn^
 ||z.moatads.com^
 ||zdaptrksg.com^
 

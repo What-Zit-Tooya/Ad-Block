@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 11 August 2021 07:50 PM UTC+7
-! Version: 11/08/2021
+! Last modified: 30 August 2021 07:00 PM UTC+7
+! Version: 30/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -16,6 +16,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 delivery.r2b2.io
 0.0.0.0 doubleclick.net
 0.0.0.0 dynamicyield.com
 0.0.0.0 firebase-settings.crashlytics.com
@@ -26,6 +27,7 @@
 0.0.0.0 ipstatp.com
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 litix.io
+0.0.0.0 log.r2b2.io
 0.0.0.0 moengage.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -508,6 +510,7 @@
 0.0.0.0 www.weeklyordinaryrewardextra.cyou
 0.0.0.0 xpbbyiqbcawamy.com
 0.0.0.0 yititsimplyd.club
+0.0.0.0 yuqnibpyn
 0.0.0.0 z.moatads.com
 0.0.0.0 zdaptrksg.com
 
