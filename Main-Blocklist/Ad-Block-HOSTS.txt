@@ -2,7 +2,7 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 30 August 2021 07:00 PM UTC+7
+! Last modified: 30 August 2021 08:00 PM UTC+7
 ! Version: 30/08/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
@@ -10,7 +10,7 @@
 # UNIVERSAL
 0.0.0.0 2qbjhhcl4u87btjbo7dh8vi2n.litix.io
 0.0.0.0 ads.gridtechno.com
-0.0.0.0 adservice.google.com
+0.0.0.0 adtiming.com
 0.0.0.0 adx-tk.rayjump.com
 0.0.0.0 api.adaether.com
 0.0.0.0 app-measurement.com
@@ -32,6 +32,7 @@
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 popin.cc
+0.0.0.0 rayjump.com
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sg.tdatamaster.com

@@ -9,6 +9,7 @@
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL 
 ||ads.gridtechno.com^
+||adtiming.com^
 ||adx-tk.rayjump.com^
 ||api.adaether.com^
 ||cdp.cloud.unity3d.com^
@@ -25,6 +26,7 @@
 ||moengage.com^
 ||oth.eve.mdt.qq.com^
 ||popin.cc^
+||rayjump.com^
 ||scorecardresearch.com^
 ||sg.tdatamaster.com^
 ||sg01.rayjump.com^
