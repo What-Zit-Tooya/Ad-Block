@@ -510,7 +510,7 @@
 0.0.0.0 www.weeklyordinaryrewardextra.cyou
 0.0.0.0 xpbbyiqbcawamy.com
 0.0.0.0 yititsimplyd.club
-0.0.0.0 yuqnibpyn
+0.0.0.0 yuqnibpyn.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zdaptrksg.com
 
