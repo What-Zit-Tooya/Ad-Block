@@ -7,7 +7,6 @@
 ! Highly recommended using this in Windows 10 LTSC 2019 or latest LTSC version
 ! With local account, no MSFT account or other MSFT online services
 ! Keep OS original, not modified or tempered
-
 ||a.ads1.msn.com^
 ||a.ads2.msads.net^
 ||a.ads2.msn.com^
