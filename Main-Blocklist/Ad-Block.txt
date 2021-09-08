@@ -2,12 +2,13 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 30 August 2021 07:00 PM UTC+7
-! Version: 30/08/2021
+! Last modified: 08 September 2021 10:35 AM UTC+7
+! Version: 08/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL 
+||42trck.com^
 ||ads.gridtechno.com^
 ||adtiming.com^
 ||adx-tk.rayjump.com^
@@ -16,7 +17,6 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||delivery.r2b2.io^
 ||dynamicyield.com^
-||firebase-settings.crashlytics.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
 ||ipstatp.com^
@@ -227,7 +227,7 @@
 ||awaitcola.com^
 ||blockscoolest.com^
 ||cdn.onesignal.com^
-||cdn.trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
+||cdn.trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
 ||cloudimagesa.com^
 ||config.safedk.com^
 ||dmxleo.dailymotion.com^
@@ -235,9 +235,10 @@
 ||edge.safedk.com^
 ||flagros2sii8fdbrh09.com^
 ||fstats.xyz^
-||graph.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
+||graph.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
 ||haloani.ru^
 ||hornsbundlebetter.com^
+||license.virmana.com/api/install/add/com.drakorawet.flix/*
 ||license.virmana.com/api/install/add/com.drakorid.app/*
 ||license.virmana.com/api/install/add/com.drakorid.stream/*
 ||mc.yandex.ru^
@@ -247,11 +248,11 @@
 ||schemas.applovin.com^
 ||squeezedthoughtfully.com^
 ||tgpsew.com^
-||trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
+||trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
 ||ufpcdn.com^
 ||unreshiramor.com^
-||web.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
-||www.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream
+||web.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
+||www.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
 ||yourwebbars.com^
 
 # WhatsApp Messenger: com.whatsapp
@@ -593,6 +594,7 @@
 ||grs.dbankcloud.eu^
 ||grs.hicloud.com^
 ||healthdata.hicloud.com^
+||hisearch-dra.dt.dbankcloud.com^
 ||logbak.hicloud.com^
 ||loggw-exsdk.alipay.com^
 ||logserver.hicloud.com^
@@ -620,6 +622,7 @@
 ||openlocation-dra.platform.dbankcloud.com^
 ||opsdata.hicloud.com^
 ||reporte2.hicloud.com^
+||sdkserver-dra.op.hicloud.com^
 ||static1.dmcdn.net^
 ||tracker-device-dre.things.hicloud.com^
 ||tracker-dre.things.hicloud.com^
@@ -628,9 +631,9 @@
 # XIAOMI PHONES
 # Pulled from Xiaomi's subdomains, also tested on Global ROM
 /push/getAds
-||graph.facebook.com^$app=com.miui.videoplayer|com.miui.player
-||web.facebook.com^$app=com.miui.videoplayer|com.miui.player
-||www.facebook.com^$app=com.miui.videoplayer|com.miui.player
+||graph.facebook.com^$app=com.miui.videoplayer|com.miui.player|com.android.thememanager
+||web.facebook.com^$app=com.miui.videoplayer|com.miui.player|com.android.thememanager
+||www.facebook.com^$app=com.miui.videoplayer|com.miui.player|com.android.thememanager
 ||a.stat.xiaomi.com^
 ||abroad.api.comm.intl.miui.com^
 ||abtest.mistat.india.xiaomi.com^

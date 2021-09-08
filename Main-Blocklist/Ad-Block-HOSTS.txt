@@ -2,12 +2,13 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 30 August 2021 08:00 PM UTC+7
-! Version: 30/08/2021
+! Last modified: 08 September 2021 10:35 AM UTC+7
+! Version: 08/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL
+0.0.0.0 42trck.com
 0.0.0.0 2qbjhhcl4u87btjbo7dh8vi2n.litix.io
 0.0.0.0 ads.gridtechno.com
 0.0.0.0 adtiming.com
@@ -19,7 +20,6 @@
 0.0.0.0 delivery.r2b2.io
 0.0.0.0 doubleclick.net
 0.0.0.0 dynamicyield.com
-0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 flurry.com
 0.0.0.0 google-analytics.com
@@ -633,6 +633,7 @@
 0.0.0.0 grs.dbankcloud.eu
 0.0.0.0 grs.hicloud.com
 0.0.0.0 healthdata.hicloud.com
+0.0.0.0 hisearch-dra.dt.dbankcloud.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 loggw-exsdk.alipay.com
 0.0.0.0 logserver.hicloud.com
@@ -658,6 +659,7 @@
 0.0.0.0 metrics6.dt.hicloud.com
 0.0.0.0 opsdata.hicloud.com
 0.0.0.0 reporte2.hicloud.com
+0.0.0.0 sdkserver-dra.op.hicloud.com
 0.0.0.0 static1.dmcdn.net
 0.0.0.0 tracker-device-dre.things.hicloud.com
 0.0.0.0 tracker-dre.things.hicloud.com
