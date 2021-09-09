@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 08 Sept 2021 10:35 AM UTC+7
-! Version: 08/09/2021
+! Last modified: 09 Sept 2021 07:20 PM UTC+7
+! Version: 09/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1727,6 +1727,7 @@
 
 # Vision+: Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
 ||analytics.mncdigital.id^
+||apprating.visionplus.id^
 @@||imasdk.googleapis.com^$app=com.zte.iptvclient.android.idmnc
 
 # AdGuard: com.adguard.android
