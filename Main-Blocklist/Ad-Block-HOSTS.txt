@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 09 Sept 2021 07:20 PM UTC+7
-! Version: 09/09/2021
+! Last modified: 10 Sept 2021 08:20 PM UTC+7
+! Version: 10/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1835,6 +1835,8 @@
 
 # WeTV - Cdrama, Kdrama & More: com.tencent.qqlivei18n
 0.0.0.0 btrace.wetvinfo.com
+0.0.0.0 mtrace.wetvinfo.com
+0.0.0.0 stat.tpns.hk.tencent.com
 
 # INFINIX PHONES
 # Captured from AdGuard Home
