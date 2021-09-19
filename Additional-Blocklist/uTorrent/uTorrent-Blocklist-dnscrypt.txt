@@ -1,0 +1,61 @@
+! Title: uTorrent Blocklist (dnscrypt)
+! Expires: Never
+! Description: Filter to block uTorrent ads
+! Author: WhatZitTooya
+! Last modified: 19 Sept 2021 09:00 AM UTC+7
+! Version: 19/09/2021
+! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+33across.com
+ad.bench.utorrent.com
+adaware.com
+admanmedia.com
+ads.pubmatic.com
+airdrop.bt.co
+ap.lijit.com
+cdn.bitmedianetwork.com
+ced.sascdn.com
+content.bt.co
+crl.identrust.com
+flow.lavasoft.com
+grid.bidswitch.net
+hbopenbid.pubmatic.com
+htlb.casalemedia.com
+i-24.b-46090.ut.bench.utorrent.com
+i-54.b-xxx.bench.utorrent.com
+i-666.b-0.ad.bench.utorrent.com
+image8.pubmatic.com
+kbntx.ch
+kdmp.kbntx.ch
+kssp.kbntx.ch
+lavasoft.com
+ledger.bt.co
+media.adaware.com
+ocsp.entrust.net
+ocsp.pki.goog
+ocsp.sectigo.com
+onetag-sys.com
+prebid.ad.smaato.net
+pub.admanmedia.com
+pubmatic.com
+r3.o.lencr.org
+router.utorrent.com
+smaato.net
+smartadserver.com
+sos.adaware.com
+ssc.33across.com
+targeting.unrulymedia.com
+trontv.com
+unrulymedia.com
+update.utorrent.com
+video.trontv.com
+videoapi.smartadserver.com
+vjs.zencdn.net
+www.cloudcuber.com
+www.google-analytics.com
+www.googleoptimize.com
+www.googletagmanager.com
+www.syspectr.com
+x.bidswitch.net
+x1.c.lencr.org

@@ -1,0 +1,61 @@
+! Title: uTorrent Blocklist (HOSTS)
+! Expires: Never
+! Description: Filter to block uTorrent ads
+! Author: WhatZitTooya
+! Last modified: 19 Sept 2021 09:00 AM UTC+7
+! Version: 19/09/2021
+! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+0.0.0.0 33across.com
+0.0.0.0 ad.bench.utorrent.com
+0.0.0.0 adaware.com
+0.0.0.0 admanmedia.com
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 airdrop.bt.co
+0.0.0.0 ap.lijit.com
+0.0.0.0 cdn.bitmedianetwork.com
+0.0.0.0 ced.sascdn.com
+0.0.0.0 content.bt.co
+0.0.0.0 crl.identrust.com
+0.0.0.0 flow.lavasoft.com
+0.0.0.0 grid.bidswitch.net
+0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 htlb.casalemedia.com
+0.0.0.0 i-24.b-46090.ut.bench.utorrent.com
+0.0.0.0 i-54.b-xxx.bench.utorrent.com
+0.0.0.0 i-666.b-0.ad.bench.utorrent.com
+0.0.0.0 image8.pubmatic.com
+0.0.0.0 kbntx.ch
+0.0.0.0 kdmp.kbntx.ch
+0.0.0.0 kssp.kbntx.ch
+0.0.0.0 lavasoft.com
+0.0.0.0 ledger.bt.co
+0.0.0.0 media.adaware.com
+0.0.0.0 ocsp.entrust.net
+0.0.0.0 ocsp.pki.goog
+0.0.0.0 ocsp.sectigo.com
+0.0.0.0 onetag-sys.com
+0.0.0.0 prebid.ad.smaato.net
+0.0.0.0 pub.admanmedia.com
+0.0.0.0 pubmatic.com
+0.0.0.0 r3.o.lencr.org
+0.0.0.0 router.utorrent.com
+0.0.0.0 smaato.net
+0.0.0.0 smartadserver.com
+0.0.0.0 sos.adaware.com
+0.0.0.0 ssc.33across.com
+0.0.0.0 targeting.unrulymedia.com
+0.0.0.0 trontv.com
+0.0.0.0 unrulymedia.com
+0.0.0.0 update.utorrent.com
+0.0.0.0 video.trontv.com
+0.0.0.0 videoapi.smartadserver.com
+0.0.0.0 vjs.zencdn.net
+0.0.0.0 www.cloudcuber.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googleoptimize.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.syspectr.com
+0.0.0.0 x.bidswitch.net
+0.0.0.0 x1.c.lencr.org

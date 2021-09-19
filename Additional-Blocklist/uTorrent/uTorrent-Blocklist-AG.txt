@@ -1,0 +1,46 @@
+! Title: uTorrent Blocklist (AdGuard)
+! Expires: Never
+! Description: Filter to block uTorrent ads
+! Author: WhatZitTooya
+! Last modified: 19 Sept 2021 09:00 AM UTC+7
+! Version: 19/09/2021
+! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+||33across.com^
+||ad.bench.utorrent.com^
+||adaware.com^
+||admanmedia.com^
+||pubmatic.com^
+||airdrop.bt.co^
+||lijit.com^
+||cdn.bitmedianetwork.com^
+||ced.sascdn.com^
+||content.bt.co^
+||crl.identrust.com^
+||grid.bidswitch.net^
+||casalemedia.com^
+||i-24.b-46090.ut.bench.utorrent.com^
+||i-54.b-xxx.bench.utorrent.com^
+||kbntx.ch^
+||lavasoft.com^
+||ledger.bt.co^
+||ocsp.entrust.net^
+||ocsp.pki.goog^
+||ocsp.sectigo.com^
+||onetag-sys.com^
+||r3.o.lencr.org^
+||router.utorrent.com^
+||smaato.net^
+||smartadserver.com^
+||unrulymedia.com^
+||trontv.com^
+||update.utorrent.com^
+||vjs.zencdn.net^
+||cloudcuber.com^
+||google-analytics.com^
+||googleoptimize.com^
+||googletagmanager.com^
+||syspectr.com^
+||x.bidswitch.net^
+||x1.c.lencr.org^
