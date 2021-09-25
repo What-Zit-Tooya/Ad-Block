@@ -13,12 +13,13 @@ Download AdGuard for Android here:
 3. AdGuard Tracking Protection filter;
 4. AdGuard URL Tracking filter;
 5. EasyPrivacy;
-6. AdGuard Annoyances filter;
-7. Fanboy's Annoyance filter;
+6. Legitimate URL Shortener;
+7. Fanboy Enhanced Tracking List;
 8. Online Malicious URL Blocklist;
 9. Spam404;
-10. Languange-specific (up-to-you, based on your location);
-11. AdGuard DNS filter;
+10. AdGuard Annoyances filter;
+11. Languange-specific (up-to-you, based on your location);
+12. AdGuard DNS filter;
 
 # Subscribe to my Ad-Block
 

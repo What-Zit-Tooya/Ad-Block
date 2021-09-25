@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 10 Sept 2021 08:20 PM UTC+7
-! Version: 10/09/2021
+! Last modified: 25 Sept 2021 08:00 PM UTC+7
+! Version: 25/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1109,13 +1109,6 @@
 ||apps.ad.snaptube.app^
 ||config.ad.snaptube.app^
 ||push.snaptube.app^
-
-# CamScanner: com.intsig.camscanner
-||b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn^
-||ss-static.intsig.net.mcchcdn.com^
-||ss-static.intsig.net.whecloud.com^
-||ss-static.intsig.net^
-||static.intsig.net^
 
 # OPPO PHONES
 # Maybe REALME too, need test throughly

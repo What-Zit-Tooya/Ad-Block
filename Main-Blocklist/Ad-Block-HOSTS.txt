@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 10 Sept 2021 08:20 PM UTC+7
-! Version: 10/09/2021
+! Last modified: 25 Sept 2021 08:00 PM UTC+7
+! Version: 25/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1158,13 +1158,6 @@
 0.0.0.0 apps.ad.snaptube.app
 0.0.0.0 config.ad.snaptube.app
 0.0.0.0 push.snaptube.app
-
-# CamScanner: com.intsig.camscanner
-0.0.0.0 b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn
-0.0.0.0 ss-static.intsig.net.mcchcdn.com
-0.0.0.0 ss-static.intsig.net.whecloud.com
-0.0.0.0 ss-static.intsig.net
-0.0.0.0 static.intsig.net
 
 # OPPO PHONES
 # Maybe REALME too, need test throughly

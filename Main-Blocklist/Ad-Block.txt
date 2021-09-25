@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 10 Sept 2021 08:20 PM UTC+7
-! Version: 10/09/2021
+! Last modified: 25 Sept 2021 08:00 PM UTC+7
+! Version: 25/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1117,13 +1117,8 @@
 ||content.garena.com/gas/ad_banner/*
 
 # CamScanner: com.intsig.camscanner
-||b1a924c7-af54-11e9-8b36-0017fa01187e.trafficmanager.cn^
 ||graph.facebook.com^$app=com.intsig.camscanner
-||ss-static.intsig.net.mcchcdn.com^
-||ss-static.intsig.net.whecloud.com^
-||ss-static.intsig.net^
 ||star.facebook.com^$app=com.intsig.camscanner
-||static.intsig.net^
 ||web.facebook.com^$app=com.intsig.camscanner
 
 # RCTI+: com.fta.rctitv
