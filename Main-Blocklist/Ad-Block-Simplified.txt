@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 25 Sept 2021 08:00 PM UTC+7
-! Version: 25/09/2021
+! Last modified: 26 Sept 2021 07:30 PM UTC+7
+! Version: 26/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1110,6 +1110,9 @@
 ||config.ad.snaptube.app^
 ||push.snaptube.app^
 
+# RCTI+: com.fta.rctitv
+||analytics.rctiplus.com^
+
 # OPPO PHONES
 # Maybe REALME too, need test throughly
 ||aax-fe.amazon-adsystem.com^
@@ -1219,14 +1222,11 @@
 ||ads.api.vungle.com^
 ||ap-device-pro.csftr.com^
 ||api-ad-adapter-us.4wps.net^
-||cloudservice14.kingsoft-office-service.com^
 ||firstpage.kingsoft-office-service.com^
 ||data.flurry.com^
 ||dj1d6o6ftflzi.cloudfront.net^
-||d147klt5ohmayp.cloudfront.net^
 ||d4z1onkegyrs5.cloudfront.net^
 ||huawei.sg.default.4wps.net^
-||kingsoft34.s.llnwi.net^
 ||movip.wps.com^
 ||persona-etl.wps.com^
 ||plugin-server.wps.com^

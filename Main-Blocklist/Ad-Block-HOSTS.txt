@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 25 Sept 2021 08:00 PM UTC+7
-! Version: 25/09/2021
+! Last modified: 26 Sept 2021 07:30 PM UTC+7
+! Version: 26/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1159,6 +1159,9 @@
 0.0.0.0 config.ad.snaptube.app
 0.0.0.0 push.snaptube.app
 
+# RCTI+: com.fta.rctitv
+0.0.0.0 analytics.rctiplus.com
+
 # OPPO PHONES
 # Maybe REALME too, need test throughly
 0.0.0.0 i-sg.magazine.heytapmobile.com
@@ -1271,11 +1274,9 @@
 0.0.0.0 cloudservice14.kingsoft-office-service.com
 0.0.0.0 data.flurry.com
 0.0.0.0 dj1d6o6ftflzi.cloudfront.net
-0.0.0.0 d147klt5ohmayp.cloudfront.net
 0.0.0.0 d4z1onkegyrs5.cloudfront.net
 0.0.0.0 firstpage.kingsoft-office-service.com
 0.0.0.0 huawei.sg.default.4wps.net
-0.0.0.0 kingsoft34.s.llnwi.net
 0.0.0.0 movip.wps.com
 0.0.0.0 persona-etl.wps.com
 0.0.0.0 plugin-server.wps.com

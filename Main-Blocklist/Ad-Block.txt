@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 25 Sept 2021 08:00 PM UTC+7
-! Version: 25/09/2021
+! Last modified: 26 Sept 2021 07:30 PM UTC+7
+! Version: 26/09/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1122,6 +1122,7 @@
 ||web.facebook.com^$app=com.intsig.camscanner
 
 # RCTI+: com.fta.rctitv
+||analytics.rctiplus.com^
 ||api.facebook.com^$app=com.fta.rctitv
 ||graph.facebook.com^$app=com.fta.rctitv
 ||web.facebook.com^$app=com.fta.rctitv
@@ -1241,16 +1242,13 @@
 ||api-ad-adapter-us.4wps.net^
 ||b-api.facebook.com^$app=cn.wps.moffice_eng
 ||b-graph.facebook.com^$app=cn.wps.moffice_eng
-||cloudservice14.kingsoft-office-service.com^
 ||data.flurry.com^
 ||dj1d6o6ftflzi.cloudfront.net^
-||d147klt5ohmayp.cloudfront.net^
 ||d4z1onkegyrs5.cloudfront.net^
 ||graph.facebook.com^$app=cn.wps.moffice_eng
 ||graph.instagram.com^$app=cn.wps.moffice_eng
 ||firstpage.kingsoft-office-service.com^
 ||huawei.sg.default.4wps.net^
-||kingsoft34.s.llnwi.net^
 ||movip.wps.com^
 ||persona-etl.wps.com^
 ||plugin-server.wps.com^
