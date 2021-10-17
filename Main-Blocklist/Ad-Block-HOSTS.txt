@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 26 Sept 2021 07:30 PM UTC+7
-! Version: 26/09/2021
+! Last modified: 17 Oct 2021 11:00 AM UTC+7
+! Version: 17/10/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -175,7 +175,6 @@
 0.0.0.0 telemetry.mozilla.org
 
 # Lazada Indonesia: com.lazada.android
-0.0.0.0 acs-m.lazada.sg
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adashbc.ut.taobao.com
@@ -185,7 +184,6 @@
 0.0.0.0 go-mpulse.net
 0.0.0.0 h-adashx4sg.ut.taobao.com
 0.0.0.0 irisk-id-l.alipay.com
-0.0.0.0 lazada-sg.alibaba.com
 0.0.0.0 laz-dorangesource.alicdn.com
 0.0.0.0 laz-dorangesource.alicdn.com.w.cdngslb.com
 0.0.0.0 log.aliyuncs.com
@@ -193,12 +191,6 @@
 0.0.0.0 retcode-sg-lazada.arms.aliyuncs.com
 0.0.0.0 taobao-tw.alibaba.com
 0.0.0.0 umlazada.alibaba.com
-0.0.0.0 xjp.wagbridge.taobao.com
-0.0.0.0 xjp.wagbridge-lazada.alibaba-inc.com
-0.0.0.0 xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com
-0.0.0.0 xjp-jmacs.m.taobao.com
-0.0.0.0 xjp-msgacs.m.taobao.com
-0.0.0.0 xjp.wagbridge.taobao.com
 0.0.0.0 yixiu-abtest.alicdn.com
 0.0.0.0 yixiu-abtest.alicdn.com.w.cdngslb.com
 0.0.0.0 zconfig.alibabausercontent.com
@@ -759,10 +751,7 @@
 0.0.0.0 cc2.sys.miui.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 cdn.ad.xiaomi.com
-0.0.0.0 cdn.static.browser.mi-img.com
 0.0.0.0 cdn.t.st.huangye.miui.com
-0.0.0.0 cdn.video.browser.mi-img.com
-0.0.0.0 cdn.webapp.browser.mi-img.com
 0.0.0.0 cdn1.static.home.miui.com
 0.0.0.0 cdna.sec.miui.com
 0.0.0.0 chainge.ad.xiaomi.com
@@ -958,7 +947,6 @@
 0.0.0.0 other2ip.browser.miui.com
 0.0.0.0 p.sec.miui.com
 0.0.0.0 pkgs.d.xiaomi.net
-0.0.0.0 platform.static.browser.mi-img.com
 0.0.0.0 port.sec.intl.miui.com
 0.0.0.0 port.sec.miui.com
 0.0.0.0 preload.xiaomi.com
@@ -1033,7 +1021,6 @@
 0.0.0.0 srv.greenguard.sec.miui.com
 0.0.0.0 srv.sec.intl.miui.com
 0.0.0.0 srv.sec.miui.com
-0.0.0.0 ssl-cdn.static.browser.mi-img.com
 0.0.0.0 ssp.ad.xiaomi.com
 0.0.0.0 ssp.api.ad.xiaomi.com
 0.0.0.0 staging-admin-ssp.ad.xiaomi.com
@@ -1130,8 +1117,6 @@
 0.0.0.0 log-collector.shopee.sg
 0.0.0.0 log-collector.shopee.tw
 0.0.0.0 log-collector.shopee.vn
-0.0.0.0 play-tx.vod.shopee.com
-0.0.0.0 play-ws.vod.shopee.com
 0.0.0.0 sgfp.tongdun.net
 0.0.0.0 userstats.shopee.co.id
 0.0.0.0 userstats.shopee.co.th
@@ -1276,13 +1261,11 @@
 0.0.0.0 dj1d6o6ftflzi.cloudfront.net
 0.0.0.0 d4z1onkegyrs5.cloudfront.net
 0.0.0.0 firstpage.kingsoft-office-service.com
-0.0.0.0 huawei.sg.default.4wps.net
 0.0.0.0 movip.wps.com
 0.0.0.0 persona-etl.wps.com
 0.0.0.0 plugin-server.wps.com
 0.0.0.0 plugin-server.4wps.net
 0.0.0.0 service-api.kingsoft-office-service.com
-0.0.0.0 wh-nginx-gateway-service.default.us.entry.4wps.net
 
 # UC Browser: com.UCMobile.intl
 0.0.0.0 acs.maribacaberita.com

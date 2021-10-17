@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 26 Sept 2021 07:30 PM UTC+7
-! Version: 26/09/2021
+! Last modified: 17 Oct 2021 11:00 AM UTC+7
+! Version: 17/10/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -154,7 +154,6 @@
 ||telemetry.mozilla.org^
 
 # Lazada Indonesia: com.lazada.android
-||acs-m.lazada.sg^
 ||adash.man.aliyuncs.com^
 ||adashbc.m.taobao.com^
 ||adashbc.ut.taobao.com^
@@ -165,17 +164,11 @@
 ||irisk-id-l.alipay.com^
 ||laz-dorangesource.alicdn.com.w.cdngslb.com^
 ||laz-dorangesource.alicdn.com^
-||lazada-sg.alibaba.com^
 ||log.aliyuncs.com^
 ||lzd.highway.alibaba-inc.com^
 ||retcode-sg-lazada.arms.aliyuncs.com^
 ||taobao-tw.alibaba.com^
 ||umlazada.alibaba.com^
-||xjp-jmacs.m.taobao.com^
-||xjp-msgacs.m.taobao.com^
-||xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com^
-||xjp.wagbridge-lazada.alibaba-inc.com^
-||xjp.wagbridge.taobao.com^
 ||yixiu-abtest.alicdn.com.w.cdngslb.com^
 ||yixiu-abtest.alicdn.com^
 ||zconfig.alibabausercontent.com.w.cdngslb.com^
@@ -221,13 +214,14 @@
 # Drakor.ID: com.stream.drakorindoawet
 # Drakor.id - Nonton Drama Korea Sub Indo: com.drakorid.app
 # Drakorid+: com.drakorid.stream
+# Drakor.id: com.kimchilabs.drakorid
 ||achcdn.com^
 ||api.onesignal.com^
 ||applovin.com^
 ||awaitcola.com^
 ||blockscoolest.com^
 ||cdn.onesignal.com^
-||cdn.trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
+||cdn.trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix|com.kimchilabs.drakorid
 ||cloudimagesa.com^
 ||config.safedk.com^
 ||dmxleo.dailymotion.com^
@@ -235,12 +229,13 @@
 ||edge.safedk.com^
 ||flagros2sii8fdbrh09.com^
 ||fstats.xyz^
-||graph.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
+||graph.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix|com.kimchilabs.drakorid
 ||haloani.ru^
 ||hornsbundlebetter.com^
 ||license.virmana.com/api/install/add/com.drakorawet.flix/*
 ||license.virmana.com/api/install/add/com.drakorid.app/*
 ||license.virmana.com/api/install/add/com.drakorid.stream/*
+||license.virmana.com/api/install/add/com.kimchilabs.drakorid/*
 ||mc.yandex.ru^
 ||onclickgenius.com^
 ||onmarshtompor.com^
@@ -248,11 +243,11 @@
 ||schemas.applovin.com^
 ||squeezedthoughtfully.com^
 ||tgpsew.com^
-||trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
+||trakteer.id^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix|com.kimchilabs.drakorid
 ||ufpcdn.com^
 ||unreshiramor.com^
-||web.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
-||www.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix
+||web.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix|com.kimchilabs.drakorid
+||www.facebook.com^$app=com.stream.drakorindoawet|com.drakorid.app|com.drakorid.stream|com.drakorawet.flix|com.kimchilabs.drakorid
 ||yourwebbars.com^
 
 # WhatsApp Messenger: com.whatsapp
@@ -717,7 +712,6 @@
 ||bill.mihome.intl.xiaomi.net^
 ||branding.ad.xiaomi.com^
 ||broker.mqtt.pandora.xiaomi.com^
-||browser.mi-img.com^
 ||brs.api.intl.miui.com^
 ||bugreport.xiaomi.net^
 ||c3.ingress.cc.d.xiaomi.net^
@@ -726,10 +720,7 @@
 ||cc2.sys.miui.com^
 ||ccc.sys.miui.com^
 ||cdn.ad.xiaomi.com^
-||cdn.nav.browser.mi-img.com^
-||cdn.static.browser.mi-img.com^
 ||cdn.t.st.huangye.miui.com^
-||cdn.webapp.browser.mi-img.com^
 ||cdn1.static.home.miui.com^
 ||cdna.sec.miui.com^
 ||chainge.ad.xiaomi.com^
@@ -915,7 +906,6 @@
 ||other2ip.browser.miui.com^
 ||p.sec.miui.com^
 ||pkgs.d.xiaomi.net^
-||platform.static.browser.mi-img.com^
 ||port.sec.intl.miui.com^
 ||port.sec.miui.com^
 ||preload.xiaomi.com^
@@ -986,7 +976,6 @@
 ||srv.greenguard.sec.miui.com^
 ||srv.sec.intl.miui.com^
 ||srv.sec.miui.com^
-||ssl-cdn.static.browser.mi-img.com
 ||ssp.ad.xiaomi.com^
 ||ssp.api.ad.xiaomi.com^
 ||staging-admin-ssp.ad.xiaomi.com^
@@ -1080,8 +1069,6 @@
 ||log-collector.shopee.sg^
 ||log-collector.shopee.tw^
 ||log-collector.shopee.vn^
-||play-tx.vod.shopee.com^
-||play-ws.vod.shopee.com^
 ||sgfp.tongdun.net^
 ||userstats.shopee.co.id^
 ||userstats.shopee.co.th^
@@ -1248,7 +1235,6 @@
 ||graph.facebook.com^$app=cn.wps.moffice_eng
 ||graph.instagram.com^$app=cn.wps.moffice_eng
 ||firstpage.kingsoft-office-service.com^
-||huawei.sg.default.4wps.net^
 ||movip.wps.com^
 ||persona-etl.wps.com^
 ||plugin-server.wps.com^
@@ -1256,7 +1242,6 @@
 ||service-api.kingsoft-office-service.com^
 ||star.facebook.com^$app=cn.wps.moffice_eng
 ||web.facebook.com^$app=cn.wps.moffice_eng
-||wh-nginx-gateway-service.default.us.entry.4wps.net^
 ||www.facebook.com^$app=cn.wps.moffice_eng
 
 # UC Browser: com.UCMobile.intl

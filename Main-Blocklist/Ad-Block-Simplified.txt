@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 26 Sept 2021 07:30 PM UTC+7
-! Version: 26/09/2021
+! Last modified: 17 Oct 2021 11:00 AM UTC+7
+! Version: 17/10/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -167,7 +167,6 @@
 ||telemetry.mozilla.org^
 
 # Lazada Indonesia: com.lazada.android
-||acs-m.lazada.sg^
 ||adash.man.aliyuncs.com^
 ||adashbc.m.taobao.com^
 ||adashbc.ut.taobao.com^
@@ -176,7 +175,6 @@
 ||go-mpulse.net^
 ||h-adashx4sg.ut.taobao.com^
 ||irisk-id-l.alipay.com^
-||lazada-sg.alibaba.com^
 ||laz-dorangesource.alicdn.com^
 ||laz-dorangesource.alicdn.com.w.cdngslb.com^
 ||log.aliyuncs.com^
@@ -184,11 +182,6 @@
 ||retcode-sg-lazada.arms.aliyuncs.com^
 ||taobao-tw.alibaba.com^
 ||umlazada.alibaba.com^
-||xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com^
-||xjp.wagbridge-lazada.alibaba-inc.com^
-||xjp-jmacs.m.taobao.com^
-||xjp-msgacs.m.taobao.com^
-||xjp.wagbridge.taobao.com^
 ||yixiu-abtest.alicdn.com^
 ||yixiu-abtest.alicdn.com.w.cdngslb.com^
 ||zconfig.alibabausercontent.com^
@@ -717,7 +710,6 @@
 ||bill.mihome.intl.xiaomi.net^
 ||branding.ad.xiaomi.com^
 ||broker.mqtt.pandora.xiaomi.com^
-||browser.mi-img.com^
 ||brs.api.intl.miui.com^
 ||bugreport.xiaomi.net^
 ||c3.ingress.cc.d.xiaomi.net^
@@ -726,11 +718,7 @@
 ||cc2.sys.miui.com^
 ||ccc.sys.miui.com^
 ||cdn.ad.xiaomi.com^
-||cdn.nav.browser.mi-img.com^
-||cdn.static.browser.mi-img.com^
 ||cdn.t.st.huangye.miui.com^
-||cdn.video.browser.mi-img.com^
-||cdn.webapp.browser.mi-img.com^
 ||cdn1.static.home.miui.com^
 ||cdna.sec.miui.com^
 ||chainge.ad.xiaomi.com^
@@ -916,7 +904,6 @@
 ||other2ip.browser.miui.com^
 ||p.sec.miui.com^
 ||pkgs.d.xiaomi.net^
-||platform.static.browser.mi-img.com^
 ||port.sec.intl.miui.com^
 ||port.sec.miui.com^
 ||preload.xiaomi.com^
@@ -987,7 +974,6 @@
 ||srv.greenguard.sec.miui.com^
 ||srv.sec.intl.miui.com^
 ||srv.sec.miui.com^
-||ssl-cdn.static.browser.mi-img.com
 ||ssp.ad.xiaomi.com^
 ||ssp.api.ad.xiaomi.com^
 ||staging-admin-ssp.ad.xiaomi.com^
@@ -1081,8 +1067,6 @@
 ||log-collector.shopee.sg^
 ||log-collector.shopee.tw^
 ||log-collector.shopee.vn^
-||play-tx.vod.shopee.com^
-||play-ws.vod.shopee.com^
 ||sgfp.tongdun.net^
 ||userstats.shopee.co.id^
 ||userstats.shopee.co.th^
@@ -1226,13 +1210,11 @@
 ||data.flurry.com^
 ||dj1d6o6ftflzi.cloudfront.net^
 ||d4z1onkegyrs5.cloudfront.net^
-||huawei.sg.default.4wps.net^
 ||movip.wps.com^
 ||persona-etl.wps.com^
 ||plugin-server.wps.com^
 ||plugin-server.4wps.net^
 ||service-api.kingsoft-office-service.com^
-||wh-nginx-gateway-service.default.us.entry.4wps.net^
 
 # UC Browser: com.UCMobile.intl
 ||apissug-sf.ucweb.com^
