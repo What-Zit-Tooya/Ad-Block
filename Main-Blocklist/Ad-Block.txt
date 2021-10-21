@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 17 Oct 2021 11:00 AM UTC+7
-! Version: 17/10/2021
+! Last modified: 21 Oct 2021 09:45 AM UTC+7
+! Version: 21/10/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -215,7 +215,10 @@
 # Drakor.id - Nonton Drama Korea Sub Indo: com.drakorid.app
 # Drakorid+: com.drakorid.stream
 # Drakor.id: com.kimchilabs.drakorid
+51.79.160.191/drakor/phalcon/api/register_devices/*/
+51.79.160.191/drakor/phalcon/api/register_user/*/
 ||achcdn.com^
+||ahvclick.com^
 ||api.onesignal.com^
 ||applovin.com^
 ||awaitcola.com^
@@ -240,6 +243,7 @@
 ||onclickgenius.com^
 ||onmarshtompor.com^
 ||pebed.dm-event.net^
+||pubhotmax.com^
 ||schemas.applovin.com^
 ||squeezedthoughtfully.com^
 ||tgpsew.com^
@@ -1833,3 +1837,7 @@
 
 # Grab Superapp: com.grabtaxi.passenger
 ||ads-cdn.grab.com^
+
+# JOOX Music: com.tencent.ibg.joox
+||hk.app.joox.com/billsrv/clientBatchAdReport
+||tiasdk.app.wechat.com/retrieval/getAdInfo

@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 17 Oct 2021 11:00 AM UTC+7
-! Version: 17/10/2021
+! Last modified: 21 Oct 2021 09:45 AM UTC+7
+! Version: 21/10/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -234,7 +234,11 @@
 0.0.0.0 xml.opera.com
 
 # Drakor.ID: com.stream.drakorindoawet
+# Drakor.id - Nonton Drama Korea Sub Indo: com.drakorid.app
+# Drakorid+: com.drakorid.stream
+# Drakor.id: com.kimchilabs.drakorid
 0.0.0.0 achcdn.com
+0.0.0.0 ahvclick.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 api.onesignal.com
 0.0.0.0 applovin.com
@@ -254,6 +258,7 @@
 0.0.0.0 onclickgenius.com
 0.0.0.0 onmarshtompor.com
 0.0.0.0 pebed.dm-event.net
+0.0.0.0 pubhotmax.com
 0.0.0.0 schemas.applovin.com
 0.0.0.0 squeezedthoughtfully.com
 0.0.0.0 tgpsew.com
