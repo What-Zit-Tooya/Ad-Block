@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 21 Oct 2021 09:45 AM UTC+7
-! Version: 21/10/2021
+! Last modified: 25 Oct 2021 10:25 AM UTC+7
+! Version: 25/10/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1841,3 +1841,7 @@
 # JOOX Music: com.tencent.ibg.joox
 ||hk.app.joox.com/billsrv/clientBatchAdReport
 ||tiasdk.app.wechat.com/retrieval/getAdInfo
+||soup.v.qq.com/commdatav2?cmd=*
+
+# Tokopedia: com.tokopedia.tkpd
+||log.tokopedia.net^
