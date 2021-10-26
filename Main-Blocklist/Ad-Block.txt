@@ -1841,7 +1841,6 @@
 # JOOX Music: com.tencent.ibg.joox
 ||hk.app.joox.com/billsrv/clientBatchAdReport
 ||tiasdk.app.wechat.com/retrieval/getAdInfo
-||soup.v.qq.com/commdatav2?cmd=*
 
 # Tokopedia: com.tokopedia.tkpd
 ||log.tokopedia.net^
