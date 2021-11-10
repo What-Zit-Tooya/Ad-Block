@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 25 Oct 2021 10:25 AM UTC+7
-! Version: 25/10/2021
+! Last modified: 10 Nov 2021 06:00 PM UTC+7
+! Version: 10/11/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -306,6 +306,7 @@
 ||finplus-open.umeng.com^
 ||global-pushsdk.olaparty.com^
 ||global-yypushsdk.yy.com^
+||hail-reporting.tutelatechnologies.com^
 ||hdx.wsq.umeng.com^
 ||hiido.com^
 ||hlog.hiido.com^
@@ -566,11 +567,8 @@
 ||hybrid.kwd.inkuai.com^
 ||static.yximgs.com^
 ||tx-apiv2.kibads.com^
-||tx-sgp-cdn.snackvideo.in^
-||tx-sgp-origin-pull.snackvideo.in^
-||tx-sgp-origin-pull.snackvideo.in.liveplay.myqcloud.com^
-||tx-sgp-pull.snackvideo.in^
-||tx-sgp-pull.snackvideo.in.liveplay.myqcloud.com^
+||ulog.kwaipros.com^
+||ulog.kwai-pro.com^
 ||wlog.kuaishou.com^
 
 # HUAWEI PHONES

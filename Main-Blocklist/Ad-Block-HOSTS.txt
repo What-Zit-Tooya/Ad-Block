@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 25 Oct 2021 10:25 AM UTC+7
-! Version: 25/10/2021
+! Last modified: 10 Nov 2021 06:00 PM UTC+7
+! Version: 10/11/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -329,6 +329,7 @@
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 global-pushsdk.olaparty.com
 0.0.0.0 global-yypushsdk.yy.com
+0.0.0.0 hail-reporting.tutelatechnologies.com
 0.0.0.0 hdx.wsq.umeng.com
 0.0.0.0 hiido.com
 0.0.0.0 hlog.hiido.com
@@ -602,11 +603,8 @@
 0.0.0.0 hybrid.kwd.inkuai.com
 0.0.0.0 static.yximgs.com
 0.0.0.0 tx-apiv2.kibads.com
-0.0.0.0 tx-sgp-cdn.snackvideo.in
-0.0.0.0 tx-sgp-origin-pull.snackvideo.in
-0.0.0.0 tx-sgp-origin-pull.snackvideo.in.liveplay.myqcloud.com
-0.0.0.0 tx-sgp-pull.snackvideo.in
-0.0.0.0 tx-sgp-pull.snackvideo.in.liveplay.myqcloud.com
+0.0.0.0 ulog.kwaipros.com
+0.0.0.0 ulog.kwai-pro.com
 0.0.0.0 wlog.kuaishou.com
 
 # HUAWEI PHONES
