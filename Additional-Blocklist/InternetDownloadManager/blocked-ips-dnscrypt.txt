@@ -1,3 +1,13 @@
+! Title: Internet Download Manager IPs Blocklist (dnscrypt)
+! Expires: Never
+! Description: To prevent Internet Download Manager calling home
+! Author: WhatZitTooya
+! Last modified: 18 Nov 2021 06:00 PM UTC+7
+! Version: 18/11/2021
+! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+
 108.161.189.32
 159.69.68.58
 159.69.68.59

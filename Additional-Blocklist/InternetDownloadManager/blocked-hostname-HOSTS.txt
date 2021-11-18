@@ -1,0 +1,20 @@
+! Title: Internet Download Manager Hostnames Blocklist (HOSTS)
+! Expires: Never
+! Description: To prevent Internet Download Manager calling home
+! Author: WhatZitTooya
+! Last modified: 18 Nov 2021 06:00 PM UTC+7
+! Version: 18/11/2021
+! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
+! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
+! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
+
+0.0.0.0 cmul.net
+0.0.0.0 dyxnet.com
+0.0.0.0 iivx.com
+0.0.0.0 internetdownloadmanager.com
+0.0.0.0 netdna-ssl.com
+0.0.0.0 registeridm.com
+0.0.0.0 sl-reverse.com
+0.0.0.0 softlayer.com
+0.0.0.0 theplanet.com
+0.0.0.0 tonec.com
