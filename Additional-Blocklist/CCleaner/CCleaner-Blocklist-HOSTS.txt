@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Filter to block CCleaner tracking
 ! Author: WhatZitTooya
-! Last modified: 08 Sept 2021 05:30 PM UTC+7
-! Version: 08/09/2021
+! Last modified: 19 Nov 2021 01:35 PM UTC+7
+! Version: 19/11/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -13,6 +13,8 @@
 0.0.0.0 defraggler.piriform.com
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 license-api.ccleaner.com
+0.0.0.0 license-apis-production-1499952566.us-east-1.elb.amazonaws.com
 0.0.0.0 license.piriform.com
 0.0.0.0 ncc.avast.com
 0.0.0.0 ncc.avast.com.edgesuite.net
