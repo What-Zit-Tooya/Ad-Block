@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 10 Nov 2021 06:00 PM UTC+7
-! Version: 10/11/2021
+! Last modified: 21 Nov 2021 08:15 PM UTC+7
+! Version: 21/11/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -92,6 +92,7 @@
 ||jcloud-cdn.com^
 ||jcloudcdn.com^
 ||loopmygame.com^
+||midas-tracker.hellay.net^
 ||minisite-dev.ushareit.org^
 ||modengs.net
 ||mopub.com^
@@ -151,21 +152,9 @@
 ||adash.man.aliyuncs.com^
 ||adashbc.m.taobao.com^
 ||adashbc.ut.taobao.com^
-||arms-retcode-sg.aliyuncs.com^
-||audid-api-sg.taobao.com^
 ||go-mpulse.net^
 ||h-adashx4sg.ut.taobao.com^
-||irisk-id-l.alipay.com^
-||laz-dorangesource.alicdn.com.w.cdngslb.com^
-||laz-dorangesource.alicdn.com^
-||lzd.highway.alibaba-inc.com^
-||retcode-sg-lazada.arms.aliyuncs.com^
-||taobao-tw.alibaba.com^
-||umlazada.alibaba.com^
-||yixiu-abtest.alicdn.com.w.cdngslb.com^
 ||yixiu-abtest.alicdn.com^
-||zconfig.alibabausercontent.com.w.cdngslb.com^
-||zconfig.alibabausercontent.com^
 
 # Bardi Smart Home: com.bardi.smart.home
 ||h1.iot-dns.com^

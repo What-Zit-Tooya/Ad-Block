@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 10 Nov 2021 06:00 PM UTC+7
-! Version: 10/11/2021
+! Last modified: 21 Nov 2021 08:15 PM UTC+7
+! Version: 21/11/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -107,6 +107,7 @@
 0.0.0.0 jcloud-cdn.com
 0.0.0.0 jcloudcdn.com
 0.0.0.0 loopmygame.com
+0.0.0.0 midas-tracker.hellay.net
 0.0.0.0 minisite-dev.ushareit.org
 0.0.0.0 modengs.net
 0.0.0.0 mopub.com
@@ -171,22 +172,10 @@
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashbc.m.taobao.com
 0.0.0.0 adashbc.ut.taobao.com
-0.0.0.0 arms-retcode-sg.aliyuncs.com
-0.0.0.0 audid-api-sg.taobao.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 go-mpulse.net
 0.0.0.0 h-adashx4sg.ut.taobao.com
-0.0.0.0 irisk-id-l.alipay.com
-0.0.0.0 laz-dorangesource.alicdn.com
-0.0.0.0 laz-dorangesource.alicdn.com.w.cdngslb.com
-0.0.0.0 lzd.highway.alibaba-inc.com
-0.0.0.0 retcode-sg-lazada.arms.aliyuncs.com
-0.0.0.0 taobao-tw.alibaba.com
-0.0.0.0 umlazada.alibaba.com
 0.0.0.0 yixiu-abtest.alicdn.com
-0.0.0.0 yixiu-abtest.alicdn.com.w.cdngslb.com
-0.0.0.0 zconfig.alibabausercontent.com
-0.0.0.0 zconfig.alibabausercontent.com.w.cdngslb.com
 
 # Bardi Smart Home: com.bardi.smart.home
 0.0.0.0 h1.iot-dns.com
