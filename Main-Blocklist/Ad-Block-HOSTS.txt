@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 21 Nov 2021 08:15 PM UTC+7
-! Version: 21/11/2021
+! Last modified: 30 Nov 2021 04:45 PM UTC+7
+! Version: 30/11/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -184,7 +184,6 @@
 # by.U - The All-Digital Provider: com.byu.id
 0.0.0.0 codepush.appcenter.ms
 0.0.0.0 in.appcenter.ms
-0.0.0.0 static.zdassets.com
 
 # Opera Mini:com.opera.mini.native
 # Opera Browser: com.opera.browser
@@ -576,6 +575,7 @@
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 grs.dbankcloud.com
+0.0.0.0 grs.dbankcloud.eu
 0.0.0.0 grs.hicloud.com
 0.0.0.0 healthdata.hicloud.com
 0.0.0.0 hisearch-dra.dt.dbankcloud.com

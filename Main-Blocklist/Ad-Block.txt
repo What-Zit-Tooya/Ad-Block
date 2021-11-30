@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 21 Nov 2021 08:15 PM UTC+7
-! Version: 21/11/2021
+! Last modified: 30 Nov 2021 04:45 PM UTC+7
+! Version: 30/11/2021
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -163,7 +163,6 @@
 # by.U - The All-Digital Provider: com.byu.id
 ||codepush.appcenter.ms^
 ||in.appcenter.ms^
-||static.zdassets.com^
 
 # Opera Mini:com.opera.mini.native
 # Opera Browser: com.opera.browser
@@ -544,6 +543,7 @@
 ||grs.dbankcloud.asia^
 ||grs.dbankcloud.cn^
 ||grs.dbankcloud.com^
+||grs.dbankcloud.eu^
 ||grs.hicloud.com^
 ||healthdata.hicloud.com^
 ||hisearch-dra.dt.dbankcloud.com^
