@@ -12,8 +12,7 @@
 0.0.0.0 2qbjhhcl4u87btjbo7dh8vi2n.litix.io
 0.0.0.0 ads.gridtechno.com
 0.0.0.0 adtiming.com
-0.0.0.0 adx-tk.rayjump.com
-0.0.0.0 api.adaether.com
+0.0.0.0 adaether.com
 0.0.0.0 app-measurement.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
@@ -36,7 +35,6 @@
 0.0.0.0 rest.dynamicyield.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sg.tdatamaster.com
-0.0.0.0 sg01.rayjump.com
 0.0.0.0 tsg.tdatamaster.com
 
 # NEWRELIC

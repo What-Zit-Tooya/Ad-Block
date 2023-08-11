@@ -9,10 +9,8 @@
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL 
 ||42trck.com^
-||ads.gridtechno.com^
 ||adtiming.com^
-||adx-tk.rayjump.com^
-||api.adaether.com^
+||adaether.com^
 ||cdp.cloud.unity3d.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||delivery.r2b2.io^
@@ -29,7 +27,6 @@
 ||rayjump.com^
 ||scorecardresearch.com^
 ||sg.tdatamaster.com^
-||sg01.rayjump.com^
 ||tsg.tdatamaster.com^
 
 # NEWRELIC
@@ -148,18 +145,6 @@
 ||location.services.mozilla.com^
 ||telemetry.mozilla.org^
 
-# Lazada Indonesia: com.lazada.android
-||adash.man.aliyuncs.com^
-||adashbc.m.taobao.com^
-||adashbc.ut.taobao.com^
-||go-mpulse.net^
-||h-adashx4sg.ut.taobao.com^
-||yixiu-abtest.alicdn.com^
-
-# Bardi Smart Home: com.bardi.smart.home
-||h1.iot-dns.com^
-||tuyacn.com^
-
 # by.U - The All-Digital Provider: com.byu.id
 ||codepush.appcenter.ms^
 ||in.appcenter.ms^
@@ -195,8 +180,6 @@
 # Drakor.id - Nonton Drama Korea Sub Indo: com.drakorid.app
 # Drakorid+: com.drakorid.stream
 # Drakor.id: com.kimchilabs.drakorid
-51.79.160.191/drakor/phalcon/api/register_devices/*/
-51.79.160.191/drakor/phalcon/api/register_user/*/
 ||achcdn.com^
 ||ahvclick.com^
 ||api.onesignal.com^

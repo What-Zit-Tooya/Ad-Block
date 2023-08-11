@@ -11,7 +11,6 @@
 ||42trck.com^
 ||ads.gridtechno.com^
 ||adtiming.com^
-||adx-tk.rayjump.com^
 ||api.adaether.com^
 ||cdp.cloud.unity3d.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -29,7 +28,6 @@
 ||rayjump.com^
 ||scorecardresearch.com^
 ||sg.tdatamaster.com^
-||sg01.rayjump.com^
 ||tsg.tdatamaster.com^
 
 # NEWRELIC
