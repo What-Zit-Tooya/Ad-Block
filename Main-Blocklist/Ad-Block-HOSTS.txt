@@ -559,6 +559,7 @@
 # HUAWEI PHONES
 0.0.0.0 a23-2-9-200.deploy.static.akamaitechnologies.com
 0.0.0.0 adx-dra-op-hicloud-com-dra.appacc.dbankedge.net
+0.0.0.0 adx-dra.op.dbankcloud.com
 0.0.0.0 adx-dra.op.hicloud.com
 0.0.0.0 atlas-emui-drcn.hicloud.com
 0.0.0.0 cs02-pps-dra.dbankcdn.com
@@ -568,6 +569,8 @@
 0.0.0.0 dsa-sslv6.hispace.hicloud.com.edgekey.net
 0.0.0.0 dxzc1o98vrjl6.cloudfront.net
 0.0.0.0 e9839.b.akamaiedge.net
+0.0.0.0 eu.mclean.50union.com
+0.0.0.0 events-dra.op.dbankcloud.com
 0.0.0.0 events-dra.op.hicloud.com
 0.0.0.0 feedback-dre.platform.hicloud.com
 0.0.0.0 grs.dbankcloud.asia
@@ -575,8 +578,10 @@
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 grs.dbankcloud.eu
 0.0.0.0 grs.hicloud.com
+0.0.0.0 grs.platform.dbankcloud.ru
 0.0.0.0 healthdata.hicloud.com
 0.0.0.0 hisearch-dra.dt.dbankcloud.com
+0.0.0.0 hisearch-static-dra.dbankcdn.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 loggw-exsdk.alipay.com
 0.0.0.0 logservice-dra.platform.hicloud.com
@@ -585,6 +590,8 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logtransform.hicloud.com
 0.0.0.0 mcgw.alipay.com
+0.0.0.0 mclean.50union.com
+0.0.0.0 metrics-dra.dt.dbankcloud.cn
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics1.data.hicloud.com
@@ -1626,3 +1633,6 @@
 
 # Tokopedia: com.tokopedia.tkpd
 0.0.0.0 log.tokopedia.net
+
+# Zoom Meetings: us.zoom.videomeetings
+0.0.0.0 logfiles.zoom.us

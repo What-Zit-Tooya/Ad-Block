@@ -527,6 +527,7 @@
 # HUAWEI PHONES
 ||a23-2-9-200.deploy.static.akamaitechnologies.com^
 ||adx-dra-op-hicloud-com-dra.appacc.dbankedge.net^
+||adx-dra.op.dbankcloud.com^
 ||adx-dra.op.hicloud.com^
 ||atlas-emui-drcn.hicloud.com^
 ||cs02-pps-dra.dbankcdn.com^
@@ -536,6 +537,7 @@
 ||dsa-sslv6.hispace.hicloud.com.edgekey.net^
 ||dxzc1o98vrjl6.cloudfront.net^
 ||e9839.b.akamaiedge.net^
+||events-dra.op.dbankcloud.com^
 ||events-dra.op.hicloud.com^
 ||feedback-dre.platform.hicloud.com^
 ||grs.dbankcloud.asia^
@@ -543,8 +545,10 @@
 ||grs.dbankcloud.com^
 ||grs.dbankcloud.eu^
 ||grs.hicloud.com^
+||grs.platform.dbankcloud.ru^
 ||healthdata.hicloud.com^
 ||hisearch-dra.dt.dbankcloud.com^
+||hisearch-static-dra.dbankcdn.com^
 ||logbak.hicloud.com^
 ||loggw-exsdk.alipay.com^
 ||logservice-dra.platform.hicloud.com^
@@ -553,6 +557,8 @@
 ||logservice1.hicloud.com^
 ||logtransform.hicloud.com^
 ||mcgw.alipay.com^
+||mclean.50union.com^
+||metrics-dra.dt.dbankcloud.cn^
 ||metrics-dra.dt.hicloud.com^
 ||metrics.data.hicloud.com^
 ||metrics1.data.hicloud.com^
@@ -1539,3 +1545,6 @@
 
 # Tokopedia: com.tokopedia.tkpd
 ||log.tokopedia.net^
+
+# Zoom Meetings: us.zoom.videomeetings
+||logfiles.zoom.us^
