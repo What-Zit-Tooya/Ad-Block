@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 30 Nov 2021 04:45 PM UTC+7
-! Version: 30/11/2021
+! Last modified: 11 August 2023
+! Version: 11/08/2023
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1144,7 +1144,6 @@
 0.0.0.0 gjtrack.ucweb.com
 0.0.0.0 global-tokenserver-la.headline.uodoo.com
 0.0.0.0 hl-img.peco.uodoo.com
-0.0.0.0 https://ynuf.aliapp.org/saveWb.json?
 0.0.0.0 iactla.ucweb.com
 0.0.0.0 id.ucnews.ucweb.com
 0.0.0.0 idsearch.ucnews.ucweb.com
@@ -1210,7 +1209,6 @@
 0.0.0.0 appnext.com
 0.0.0.0 appnxt.net
 0.0.0.0 appsgeyser.com
-0.0.0.0 captive.apple.com
 0.0.0.0 cdn.appnext.com
 0.0.0.0 chartboost.com
 0.0.0.0 config.appsgeyser.com
