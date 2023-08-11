@@ -570,6 +570,7 @@
 ||nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com^
 ||openlocation-dra.platform.dbankcloud.com^
 ||opsdata.hicloud.com^
+||pushservice.drcn.dt.dbankcloud.cn^
 ||sdkserver-dra.op.hicloud.com^
 ||static1.dmcdn.net^
 ||tracker-device-dre.things.hicloud.com^

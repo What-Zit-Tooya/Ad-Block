@@ -601,6 +601,7 @@
 0.0.0.0 metrics5.data.hicloud.com
 0.0.0.0 metrics6.dt.hicloud.com
 0.0.0.0 opsdata.hicloud.com
+0.0.0.0 pushservice.drcn.dt.dbankcloud.cn^
 0.0.0.0 sdkserver-dra.op.hicloud.com
 0.0.0.0 static1.dmcdn.net
 0.0.0.0 tracker-device-dre.things.hicloud.com
