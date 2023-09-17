@@ -1704,6 +1704,7 @@
 # Outfit7 Games (e.g Talking Tom, etc)
 0.0.0.0 ads.superawesome.tv
 0.0.0.0 apps.outfit7.com
+0.0.0.0 apps2.outfit7.com
 0.0.0.0 at-af.outfit7.com
 0.0.0.0 cdn.kidozplayer.com
 0.0.0.0 hb-af.outfit7.com

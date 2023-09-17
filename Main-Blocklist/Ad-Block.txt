@@ -1644,6 +1644,7 @@
 # Outfit7 Games (e.g Talking Tom, etc)
 ||ads.superawesome.tv^
 ||apps.outfit7.com^
+||apps2.outfit7.com^
 ||at-af.outfit7.com^
 ||cdn.kidozplayer.com^
 ||hb-af.outfit7.com^
