@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 11 August 2023
-! Version: 11/08/2023
+! Last modified: 17 September 2023
+! Version: 17/09/2023
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -36,6 +36,69 @@
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sg.tdatamaster.com
 0.0.0.0 tsg.tdatamaster.com
+
+# Fuc*ing thiefs stolen your financial data
+# https://www.virustotal.com/gui/file/b1be768408aa2fd32061330783516ad4b4febc09eb022b25e7045941ea90f3a3/detection
+0.0.0.0 5067909-9.chat.api.drift.com
+0.0.0.0 6sc.co
+0.0.0.0 a.omappapi.com
+0.0.0.0 a.optnmstr.com
+0.0.0.0 a2f905133e04e4d35ade9cd4751dd35b-4fd69d4b6621dbbd.elb.us-east-1.amazonaws.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ads.linkedin.com
+0.0.0.0 afe79c04fd8464db69f453355c110684-6aa967fe209738b1.elb.us-east-1.amazonaws.com
+0.0.0.0 ajax.cloudflare.com
+0.0.0.0 alb.reddit.com
+0.0.0.0 api.omappapi.com
+0.0.0.0 b.6sc.co
+0.0.0.0 b2.6sc.co.edgekey.net
+0.0.0.0 bat-bing-com.a-0001.a-msedge.net
+0.0.0.0 bat.bing.com
+0.0.0.0 bizible.com
+0.0.0.0 bizibly.com
+0.0.0.0 bootstrap.api.drift.com
+0.0.0.0 c.6sc.co
+0.0.0.0 c2.6sc.co.edgekey.net
+0.0.0.0 cdn.bizible.com
+0.0.0.0 cdn.bizibly.com
+0.0.0.0 customer-eq7kiuol0tk9chox.cloudflarestream.com
+0.0.0.0 d1lpgznae1530s.cloudfront.net
+0.0.0.0 dev.visualwebsiteoptimizer.com
+0.0.0.0 di.rlcdn.com
+0.0.0.0 dl7g9llrghqi1.cloudfront.net
+0.0.0.0 e10776.b.akamaiedge.net
+0.0.0.0 e212585.b.akamaiedge.net
+0.0.0.0 e212585.dscb.akamaiedge.net
+0.0.0.0 ee15ba61-wschat-wschatalb-6fcf-2062696737.us-east-1.elb.amazonaws.com
+0.0.0.0 event.api.drift.com
+0.0.0.0 fp2c5c.wac.108ca.kappacdn.net
+0.0.0.0 fp2c5c.wac.kappacdn.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 hajarloya.000webhostapp.com
+0.0.0.0 hotjar.com
+0.0.0.0 ipv6-2.6sc.co.edgekey.net
+0.0.0.0 ipv6.6sc.co
+0.0.0.0 istio.api.drift.com
+0.0.0.0 j.6sc.co
+0.0.0.0 j2.6sc.co.edgekey.net
+0.0.0.0 js.driftt.com
+0.0.0.0 metrics.api.drift.com
+0.0.0.0 munchkin.marketo.net
+0.0.0.0 omapp.b-cdn.net
+0.0.0.0 omappapi.com
+0.0.0.0 optnmstr.com
+0.0.0.0 presence.api.drift.com
+0.0.0.0 px.ads.linkedin.com
+0.0.0.0 rlcdn.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 static-cdn.hotjar.com
+0.0.0.0 static.cloudflareinsights.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 tr.www.cloudflare.com
+0.0.0.0 us-east-1.route-1.000webhost.awex.io
+0.0.0.0 wildcard.marketo.net.edgekey.net
+0.0.0.0 www-linkedin-com.l-0005.l-msedge.net
 
 # NEWRELIC
 0.0.0.0 chi-insights-collector.newrelic.com
@@ -1637,3 +1700,16 @@
 
 # Zoom Meetings: us.zoom.videomeetings
 0.0.0.0 logfiles.zoom.us
+
+# Outfit7 Games (e.g Talking Tom, etc)
+0.0.0.0 ads.superawesome.tv
+0.0.0.0 apps.outfit7.com
+0.0.0.0 at-af.outfit7.com
+0.0.0.0 cdn.kidozplayer.com
+0.0.0.0 hb-af.outfit7.com
+0.0.0.0 pokkt.com
+0.0.0.0 prebid-adapter.kidoz.net
+0.0.0.0 s2s-af.outfit7.com
+0.0.0.0 sdk-api.kidoz.net
+0.0.0.0 vast.kidoz.net
+0.0.0.0 vdo.pokkt.com

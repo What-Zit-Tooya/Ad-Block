@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 11 August 2023
-! Version: 11/08/2023
+! Last modified: 17 September 2023
+! Version: 17/09/2023
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -14,6 +14,7 @@
 ||cdp.cloud.unity3d.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||delivery.r2b2.io^
+||doubleclick.net^
 ||dynamicyield.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
@@ -28,6 +29,69 @@
 ||scorecardresearch.com^
 ||sg.tdatamaster.com^
 ||tsg.tdatamaster.com^
+
+# Fuc*ing thiefs stolen your financial data
+# https://www.virustotal.com/gui/file/b1be768408aa2fd32061330783516ad4b4febc09eb022b25e7045941ea90f3a3/detection
+||5067909-9.chat.api.drift.com^
+||6sc.co^
+||a.omappapi.com^
+||a.optnmstr.com^
+||a2f905133e04e4d35ade9cd4751dd35b-4fd69d4b6621dbbd.elb.us-east-1.amazonaws.com^
+||ad.doubleclick.net^
+||ads.linkedin.com^
+||afe79c04fd8464db69f453355c110684-6aa967fe209738b1.elb.us-east-1.amazonaws.com^
+||ajax.cloudflare.com^
+||alb.reddit.com^
+||api.omappapi.com^
+||b.6sc.co^
+||b2.6sc.co.edgekey.net^
+||bat-bing-com.a-0001.a-msedge.net^
+||bat.bing.com^
+||bizible.com^
+||bizibly.com^
+||bootstrap.api.drift.com^
+||c.6sc.co^
+||c2.6sc.co.edgekey.net^
+||cdn.bizible.com^
+||cdn.bizibly.com^
+||customer-eq7kiuol0tk9chox.cloudflarestream.com^
+||d1lpgznae1530s.cloudfront.net^
+||dev.visualwebsiteoptimizer.com^
+||di.rlcdn.com^
+||dl7g9llrghqi1.cloudfront.net^
+||e10776.b.akamaiedge.net^
+||e212585.b.akamaiedge.net^
+||e212585.dscb.akamaiedge.net^
+||ee15ba61-wschat-wschatalb-6fcf-2062696737.us-east-1.elb.amazonaws.com^
+||event.api.drift.com^
+||fp2c5c.wac.108ca.kappacdn.net^
+||fp2c5c.wac.kappacdn.net^
+||g.doubleclick.net^
+||hajarloya.000webhostapp.com^
+||hotjar.com^
+||ipv6-2.6sc.co.edgekey.net^
+||ipv6.6sc.co^
+||istio.api.drift.com^
+||j.6sc.co^
+||j2.6sc.co.edgekey.net^
+||js.driftt.com^
+||metrics.api.drift.com^
+||munchkin.marketo.net^
+||omapp.b-cdn.net^
+||omappapi.com^
+||optnmstr.com^
+||presence.api.drift.com^
+||px.ads.linkedin.com^
+||rlcdn.com^
+||script.hotjar.com^
+||static-cdn.hotjar.com^
+||static.cloudflareinsights.com^
+||static.hotjar.com^
+||stats.g.doubleclick.net^
+||tr.www.cloudflare.com^
+||us-east-1.route-1.000webhost.awex.io^
+||wildcard.marketo.net.edgekey.net^
+||www-linkedin-com.l-0005.l-msedge.net^
 
 # NEWRELIC
 ||chi-insights-collector.newrelic.com^
@@ -1576,3 +1640,16 @@
 
 # Zoom Meetings: us.zoom.videomeetings
 ||logfiles.zoom.us^
+
+# Outfit7 Games (e.g Talking Tom, etc)
+||ads.superawesome.tv^
+||apps.outfit7.com^
+||at-af.outfit7.com^
+||cdn.kidozplayer.com^
+||hb-af.outfit7.com^
+||pokkt.com^
+||prebid-adapter.kidoz.net^
+||s2s-af.outfit7.com^
+||sdk-api.kidoz.net^
+||vast.kidoz.net^
+||vdo.pokkt.com^
