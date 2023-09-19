@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters, especially designed to work with AdGuard for Android
 ! Author: WhatZitTooya
-! Last modified: 17 September 2023
-! Version: 17/09/2023
+! Last modified: 19 September 2023
+! Version: 19/09/2023
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1643,7 +1643,13 @@
 
 # Outfit7 Games (e.g Talking Tom, etc)
 ||00347.apps.outfit7.com^
+||aax.amazon-adsystem.com^
 ||ads.superawesome.tv^
+||analytics-tcp.mintegral.net^
+||analytics.kidoz.net^
+||api-apac.bidmachine.io^
+||api.appodealx.com^
+||api.bidmachine.io^
 ||apps.outfit7.com^
 ||apps2-ru.outfit7.com^
 ||apps2.outfit7.com^
@@ -1653,12 +1659,17 @@
 ||cr-o7hb.outfit7.com^
 ||cra-o7hb.outfit7.com^
 ||cra2-o7hb.outfit7.com^
+||event.bidmachine.io^
 ||events-api-ak.outfit7.com^
 ||events-api-dyn.outfit7.com^
+||events-api.outfit7.com^
 ||games.outfit7.com^
 ||gla-lb-us-dev.outfit7.com^
 ||gla-lb-us.outfit7.com^
 ||hb-af.outfit7.com^
+||k8s.mintegral.net^
+||mintegral.net^
+||mocky.bidmachine.io^
 ||o7hb-server.default.knv-o7hb.outfit7.com^
 ||o7hb-server.default.knv2-o7hb.outfit7.com^
 ||o7hb-server.default.knvkr-o7hb.outfit7.com^
@@ -1666,5 +1677,11 @@
 ||prebid-adapter.kidoz.net^
 ||s2s-af.outfit7.com^
 ||sdk-api.kidoz.net^
+||smaato_outstream_ad_template.txt.sdk-files.smaato.net^
+||smaato_sdk_remote_config.json.sdk-files.smaato.net^
 ||vast.kidoz.net^
 ||vdo.pokkt.com^
+||x-eu.*.com^
+||x.blueduckredapple.com^
+||x.everestop.io^
+||x.thecatmachine.com^

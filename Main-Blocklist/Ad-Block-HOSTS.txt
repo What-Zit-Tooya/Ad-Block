@@ -2,8 +2,8 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 17 September 2023
-! Version: 17/09/2023
+! Last modified: 19 September 2023
+! Version: 19/09/2023
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
@@ -1703,7 +1703,13 @@
 
 # Outfit7 Games (e.g Talking Tom, etc)
 0.0.0.0 00347.apps.outfit7.com
+0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 ads.superawesome.tv
+0.0.0.0 analytics-tcp.mintegral.net
+0.0.0.0 analytics.kidoz.net
+0.0.0.0 api-apac.bidmachine.io
+0.0.0.0 api.appodealx.com
+0.0.0.0 api.bidmachine.io
 0.0.0.0 apps.outfit7.com
 0.0.0.0 apps2-ru.outfit7.com
 0.0.0.0 apps2.outfit7.com
@@ -1713,12 +1719,17 @@
 0.0.0.0 cr-o7hb.outfit7.com
 0.0.0.0 cra-o7hb.outfit7.com
 0.0.0.0 cra2-o7hb.outfit7.com
+0.0.0.0 event.bidmachine.io
 0.0.0.0 events-api-ak.outfit7.com
 0.0.0.0 events-api-dyn.outfit7.com
+0.0.0.0 events-api.outfit7.com
 0.0.0.0 games.outfit7.com
 0.0.0.0 gla-lb-us-dev.outfit7.com
 0.0.0.0 gla-lb-us.outfit7.com
 0.0.0.0 hb-af.outfit7.com
+0.0.0.0 k8s.mintegral.net
+0.0.0.0 mintegral.net
+0.0.0.0 mocky.bidmachine.io
 0.0.0.0 o7hb-server.default.knv-o7hb.outfit7.com
 0.0.0.0 o7hb-server.default.knv2-o7hb.outfit7.com
 0.0.0.0 o7hb-server.default.knvkr-o7hb.outfit7.com
@@ -1726,5 +1737,10 @@
 0.0.0.0 prebid-adapter.kidoz.net
 0.0.0.0 s2s-af.outfit7.com
 0.0.0.0 sdk-api.kidoz.net
+0.0.0.0 smaato_outstream_ad_template.txt.sdk-files.smaato.net
+0.0.0.0 smaato_sdk_remote_config.json.sdk-files.smaato.net
 0.0.0.0 vast.kidoz.net
 0.0.0.0 vdo.pokkt.com
+0.0.0.0 x.blueduckredapple.com
+0.0.0.0 x.everestop.io
+0.0.0.0 x.thecatmachine.com
