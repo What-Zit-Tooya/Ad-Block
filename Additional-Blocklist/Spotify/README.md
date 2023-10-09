@@ -8,4 +8,4 @@ Phone ad-blocker like AdGuard usually block whole server address using VPN conne
 # Beware
 Spotify will block your account if you are blocking ads. That's why adguard don't block it.
 
-Source: [r/AdGuard](https://anonym.to/?https://www.reddit.com/r/Adguard/comments/oc6edb/will_adguard_work_for_spotify_again/h3vpspa)
+Source: [r/AdGuard](https://www.anonymz.com/?https://www.reddit.com/r/Adguard/comments/oc6edb/comment/h3vpspa/)

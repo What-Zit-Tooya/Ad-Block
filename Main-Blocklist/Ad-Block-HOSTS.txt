@@ -2,12 +2,13 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. HOSTS 0.0.0.0 version of my Ad-Block.
 ! Author: WhatZitTooya
-! Last modified: 19 September 2023
-! Version: 19/09/2023
+! Last modified: 09 October 2023
+! Version: 10/09/2023
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL
+0.0.0.0 o446669.ingest.sentry.io
 0.0.0.0 42trck.com
 0.0.0.0 2qbjhhcl4u87btjbo7dh8vi2n.litix.io
 0.0.0.0 ads.gridtechno.com
@@ -98,7 +99,6 @@
 0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 us-east-1.route-1.000webhost.awex.io
 0.0.0.0 wildcard.marketo.net.edgekey.net
-0.0.0.0 www-linkedin-com.l-0005.l-msedge.net
 
 # NEWRELIC
 0.0.0.0 chi-insights-collector.newrelic.com
@@ -1570,6 +1570,9 @@
 0.0.0.0 analytics.mncdigital.id
 0.0.0.0 apprating.visionplus.id
 0.0.0.0 visionplus.analytics.mncdigital.id
+0.0.0.0 visionplus.mncanalytics.id
+0.0.0.0 analytics-api.visionplus.id
+0.0.0.0 adsmgmt.visionplus.id
 
 # AdGuard: com.adguard.android
 0.0.0.0 events.adguard.com

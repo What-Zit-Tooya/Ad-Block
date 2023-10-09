@@ -2,12 +2,13 @@
 ! Expires: Never
 ! Description: Supplementary mobile ads filters. Simplified version of my Ad-Block. Usefull for DNS-level ad-blocking
 ! Author: WhatZitTooya
-! Last modified: 19 September 2023
-! Version: 19/09/2023
+! Last modified: 09 October 2023
+! Version: 10/09/2023
 ! Homepage: https://github.com/What-Zit-Tooya/Ad-Block
 ! Issues: https://github.com/What-Zit-Tooya/Ad-Block/issues
 ! License: https://github.com/What-Zit-Tooya/Ad-Block/blob/main/LICENSE
 # UNIVERSAL
+||o446669.ingest.sentry.io^
 ||42trck.com^
 ||ads.gridtechno.com^
 ||adtiming.com^
@@ -92,7 +93,6 @@
 ||tr.www.cloudflare.com^
 ||us-east-1.route-1.000webhost.awex.io^
 ||wildcard.marketo.net.edgekey.net^
-||www-linkedin-com.l-0005.l-msedge.net^
 
 # NEWRELIC
 ||chi-insights-collector.newrelic.com^
@@ -1488,8 +1488,11 @@
 ||statis.facemojikeyboard.com^
 
 # Vision+: Nonton TV & Film Streaming: com.zte.iptvclient.android.idmnc
+||adsmgmt.visionplus.id^
+||analytics-api.visionplus.id^
 ||analytics.mncdigital.id^
 ||apprating.visionplus.id^
+||visionplus.mncanalytics.id^
 
 # AdGuard: com.adguard.android
 ||events.adguard.com^

@@ -6,4 +6,4 @@ CCleaner, once a tidy app with no history of issues, has had several major probl
 
 Source Info: [MakeUseOf](https://www.anonymz.com/?https://www.makeuseof.com/tag/stop-using-ccleaner-windows/)
 
-Source Blocklist: [WildersSecurity](https://www.wilderssecurity.com/threads/uninstalled-ccleaner-due-to-lost-trust-alternatives.396801/page-20#post-2931889)
+Source Blocklist: [WildersSecurity](https://www.anonymz.com/?https://www.wilderssecurity.com/threads/uninstalled-ccleaner-due-to-lost-trust-alternatives.396801/page-20#post-2931889)
